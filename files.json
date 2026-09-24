@@ -116,6 +116,11 @@
           ]
         }
       ]
+    },
+    {
+      "name": "1.txt",
+      "type": "file",
+      "path": "texts/1.txt"
     }
   ]
 }
