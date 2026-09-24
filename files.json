@@ -1,0 +1,57 @@
+{
+  "name": "texts",
+  "type": "folder",
+  "children": [
+    {
+      "name": "Bahasa Arab",
+      "type": "folder",
+      "children": [
+        {
+          "name": "Nahwu",
+          "type": "folder",
+          "children": [
+            {
+              "name": "Jurumiyah",
+              "type": "folder",
+              "children": [
+                {
+                  "name": "1.txt",
+                  "type": "file",
+                  "path": "texts/Bahasa Arab/Nahwu/Jurumiyah/1.txt"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Kuliah",
+      "type": "folder",
+      "children": [
+        {
+          "name": "Tauhid",
+          "type": "folder",
+          "children": [
+            {
+              "name": "Muhadharah 1",
+              "type": "folder",
+              "children": [
+                {
+                  "name": "1.txt",
+                  "type": "file",
+                  "path": "texts/Kuliah/Tauhid/Muhadharah 1/1.txt"
+                },
+                {
+                  "name": "2.txt",
+                  "type": "file",
+                  "path": "texts/Kuliah/Tauhid/Muhadharah 1/2.txt"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
