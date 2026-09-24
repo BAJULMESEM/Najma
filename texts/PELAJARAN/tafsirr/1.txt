@@ -1,0 +1,685 @@
+# Rekonstruksi Materi Tafsir: Surah Al-A‘raf dan Al-Anfal dari Tafsir Al-Muḥarrar al-Wajīz
+
+## 1. Pembukaan Perkuliahan dan Kitab yang Digunakan
+
+Perkuliahan dimulai dengan basmalah, salawat, dan salam kepada Nabi Muhammad صلى الله عليه وسلم, keluarga, sahabat, serta orang-orang yang mengikuti mereka dengan baik sampai hari kiamat.
+
+Dosen menjelaskan bahwa pada tahun ini mahasiswa tingkat kedua, khususnya kelompok kedua, akan mempelajari مادة التفسير. Kitab yang menjadi pegangan adalah تفسير سورة الأنفال والأعراف من كتاب المحرر الوجيز karya عبد الحق ابن عطية. Ibn ‘Aṭiyyah merupakan seorang ulama Andalusia yang berasal dari kawasan Maghrib.
+
+Dosen kemudian memperkenalkan kitab tersebut dan menanyakan kepada mahasiswa apakah edisi kitab yang mereka gunakan merupakan cetakan baru pada tahun ini atau cetakan lama.
+
+Ia lalu memberikan gambaran posisi kitab Al-Muḥarrar al-Wajīz dalam sejarah perkembangan tafsir. Pada masa yang kurang lebih sama ketika Ibn ‘Aṭiyyah menyusun tafsirnya di wilayah Barat Islam, yaitu Andalusia, Imam al-Zamakhsyari sedang menyusun Tafsir al-Kashshāf di wilayah Timur. Dengan demikian, Al-Kashshāf berada dalam tradisi keilmuan Timur, sedangkan Al-Muḥarrar al-Wajīz berada dalam tradisi keilmuan Andalusia di Barat. Keduanya berasal dari ulama abad keenam Hijriah.
+
+Dosen kemudian mengutip penilaian Abu Hayyan al-Andalusi dalam tafsirnya Al-Baḥr al-Muḥīṭ terhadap Ibn ‘Aṭiyyah. Abu Hayyan memberikan تزكية, yaitu kesaksian positif terhadap kedudukan ilmiah Ibn ‘Aṭiyyah. Ia menyebut Ibn ‘Aṭiyyah sebagai salah satu ulama paling besar yang menulis dalam ilmu tafsir dan sebagai salah satu orang terbaik yang melakukan تنقيح dan تحرير dalam bidang tafsir.
+
+Dengan demikian, sejak awal dosen ingin menunjukkan bahwa kitab Al-Muḥarrar al-Wajīz bukan sekadar kitab tafsir biasa, tetapi merupakan karya seorang imam tafsir yang mendapatkan apresiasi dari ulama tafsir sesudahnya.
+
+## 2. Ibn ‘Aṭiyyah dan Al-Zamakhsyari: Perbedaan Manhaj Ahlusunah dan Mu‘tazilah
+
+Dosen kemudian menjelaskan adanya perbedaan penting antara Ibn ‘Aṭiyyah dan al-Zamakhsyari. Ibn ‘Aṭiyyah ditempatkan sebagai salah seorang imam Ahlusunah, sedangkan al-Zamakhsyari merupakan seorang ulama Mu‘tazilah dan dikenal sebagai orang yang memang berpegang pada mazhab tersebut.
+
+Karena perbedaan teologis ini, terdapat banyak perbedaan antara penafsiran Ibn ‘Aṭiyyah dan al-Zamakhsyari. Dosen menekankan bahwa Ahlusunah tidak menyetujui al-Mu‘tazilah dalam banyak persoalan, sehingga tidak semua penjelasan al-Zamakhsyari dalam Al-Kashshāf dapat diterima menurut manhaj Ahlusunah.
+
+Salah satu perbedaan yang disebutkan sebagai contoh utama adalah persoalan hubungan antara العقل dan الشرع ketika keduanya tampak bertentangan. Menurut penjelasan dosen, Mu‘tazilah mendahulukan العقل ketika terjadi pertentangan antara akal dan syariat. Adapun Ahlusunah mendahulukan الشرع dan menegaskan bahwa kemampuan akal manusia terbatas. Akal tidak mampu menjangkau seluruh perkara.
+
+Dosen kemudian memberikan contoh mengenai عذاب القبر, yaitu azab kubur. Menurut Ahlusunah, azab kubur merupakan sesuatu yang benar dan didukung oleh banyak dalil syariat. Begitu pula نعيم القبر, kenikmatan kubur.
+
+Di antara hadis yang disebutkan adalah sabda Nabi صلى الله عليه وسلم bahwa kubur itu إما روضة من رياض الجنة وإما حفرة من حفر النار, yaitu kubur dapat menjadi taman dari taman-taman surga atau lubang dari lubang-lubang neraka.
+
+Dosen juga menyebut hadis sahih dalam Ṣaḥīḥ Muslim bahwa Nabi صلى الله عليه وسلم setelah selesai membaca التحيات dalam salat berdoa:
+
+اللهم إني أعوذ بك من عذاب القبر،
+وأعوذ بك من عذاب النار،
+وأعوذ بك من فتنة المحيا والممات،
+وأعوذ بك من فتنة المسيح الدجال.
+
+Artinya, Nabi meminta perlindungan kepada Allah dari empat perkara: azab kubur, azab neraka, fitnah kehidupan dan kematian, serta fitnah al-Masih al-Dajjal.
+
+Dosen menekankan agar empat doa tersebut tidak sekadar diketahui, tetapi diterapkan. Setiap kali selesai membaca tahiyyat dalam salat, doa tersebut diikuti dengan permohonan perlindungan dari empat perkara tadi.
+
+## 3. Kisah Abu Rafi‘ dan Hadis tentang Azab Kubur
+
+Dosen kemudian menyebut bahwa dalil mengenai azab kubur sangat banyak. Salah satunya disebut berasal dari Musnad Imam Ahmad.
+
+Diceritakan bahwa seorang sahabat bernama Abu Rafi‘ berjalan bersama Nabi صلى الله عليه وسلم. Nabi memiliki kebiasaan keluar pada hari Sabtu menuju Bani ‘Abd al-Asyhal, berjalan dari Baqi‘ menuju Bani ‘Abd al-Asyhal.
+
+Ketika melewati Baqi‘, yaitu pemakaman di Madinah yang di dalamnya terdapat kuburan para sahabat, orang-orang beriman, orang-orang munafik, dan lainnya, Nabi صلى الله عليه وسلم mengucapkan “أفّ” sebagai bentuk تأفف.
+
+Dosen kemudian menjelaskan makna kata أف. Menurut penjelasannya, أف merupakan اسم فعل أمر yang bermakna أتضجر, yaitu “aku merasa terganggu atau jengkel”. Dosen menghubungkannya dengan ayat:
+
+فَلَا تَقُلْ لَهُمَا أُفٍّ
+
+yang menunjukkan larangan menunjukkan kejengkelan kepada kedua orang tua.
+
+Abu Rafi‘ yang berjalan di samping Nabi mengira bahwa rasa tidak senang Nabi tersebut mungkin ditujukan kepadanya. Karena itu ia mundur ke belakang. Ketika Nabi صلى الله عليه وسلم melihat ke belakang dan tidak menemukan Abu Rafi‘ di sampingnya, beliau melihat bahwa Abu Rafi‘ telah menjauh dan kemudian bertanya mengapa ia mundur.
+
+Abu Rafi‘ menjelaskan bahwa ia melihat Nabi mengucapkan “أفّ” sehingga takut bahwa ucapan tersebut ditujukan kepadanya. Nabi kemudian menjelaskan bahwa ucapan tersebut bukan ditujukan kepada Abu Rafi‘.
+
+Nabi menjelaskan bahwa beliau melewati kuburan seseorang yang telah melakukan غلول terhadap sebuah شملة.
+
+Dosen kemudian menjelaskan bahwa الشملة adalah kain yang digunakan untuk menutup atau menghangatkan bagian leher ketika cuaca sangat dingin. Dalam penjelasan dosen, orang tersebut telah mengambil atau mencuri kain tersebut dari harta غنائم.
+
+Istilah الغلول dijelaskan sebagai السرقة, yaitu mengambil atau mencuri sesuatu yang bukan haknya dari harta yang berkaitan dengan pembagian harta rampasan.
+
+Dosen kemudian memberikan gambaran bahwa kain tersebut bukan sesuatu yang mahal. Ia bukan emas dan bukan pula sesuatu yang bernilai ribuan. Dalam perumpamaan masa sekarang, dosen memberikan contoh bahwa kain tersebut mungkin hanya bernilai sekitar seratus جنيه. Namun meskipun nilainya kecil, Nabi memberitakan bahwa orang tersebut diazab karena mengambilnya.
+
+Pelajaran yang ingin ditekankan adalah bahwa seseorang tidak boleh menganggap remeh sesuatu yang bukan haknya hanya karena nilainya kecil. Jika sesuatu bukan hak seseorang, ia tidak boleh mengambilnya, baik nilainya sedikit maupun banyak.
+
+Dosen menegaskan bahwa larangan tersebut berlaku secara umum. Manusia harus menjaga dirinya dari الغلول dan dari mengambil sesuatu yang tidak menjadi haknya, sebab perkara tersebut dapat menjadi sebab pertanggungjawaban di alam kubur.
+
+Kisah ini kembali digunakan untuk menegaskan bahwa menurut Ahlusunah, نعيم القبر dan عذاب القبر merupakan sesuatu yang benar.
+
+Dosen juga memberikan catatan dalam menyampaikan materi keagamaan di masjid. Ketika membicarakan kubur, jangan hanya menyebut azab kubur, tetapi harus menyebut kedua-duanya: نعيم القبر dan عذاب القبر.
+
+## 4. Dalil Al-Qur'an tentang Azab Kubur
+
+Selain hadis, dosen menjelaskan bahwa terdapat pula ayat-ayat Al-Qur'an yang menurut Ahlusunah menunjukkan adanya azab kubur.
+
+Ayat pertama yang disebut adalah:
+
+مِمَّا خَطِيئَاتِهِمْ أُغْرِقُوا فَأُدْخِلُوا نَارًا
+
+dari Surah Nuh.
+
+Dosen menjelaskan bahwa kaum tersebut ditenggelamkan karena kesalahan dan ketidakimanan mereka, kemudian setelah itu mereka dimasukkan ke dalam api. Penggunaan huruf فاء dalam فَأُدْخِلُوا digunakan dalam penjelasan dosen sebagai indikasi bahwa setelah mereka ditenggelamkan, mereka segera mengalami azab.
+
+Dosen kemudian menyebut ayat lain dari Surah Ghafir:
+
+النَّارُ يُعْرَضُونَ عَلَيْهَا غُدُوًّا وَعَشِيًّا وَيَوْمَ تَقُومُ السَّاعَةُ أَدْخِلُوا آلَ فِرْعَوْنَ أَشَدَّ الْعَذَابِ
+
+Menurut penjelasan dosen, ayat ini menunjukkan adanya perbedaan antara dua bentuk azab. Pertama, mereka diperlihatkan kepada neraka pada waktu pagi dan petang. Hal itu terjadi sebelum datangnya hari kiamat, sehingga dipahami sebagai azab di alam kubur. Kemudian disebutkan, وَيَوْمَ تَقُومُ السَّاعَةُ, yaitu ketika kiamat terjadi, barulah dikatakan kepada mereka untuk dimasukkan ke dalam azab yang paling berat.
+
+Dengan demikian, menurut penjelasan dosen, ayat tersebut membedakan antara azab sebelum kiamat dan azab setelah kiamat. Hal itu menjadi salah satu dalil bagi Ahlusunah mengenai adanya azab kubur.
+
+## 5. Pertentangan antara Dalil Syariat dan Apa yang Tampak oleh Indra
+
+Dosen kemudian menjelaskan problem yang dihadapi ketika persoalan azab kubur ditinjau dari apa yang dapat diamati secara langsung.
+
+Manusia melihat kuburan orang yang telah meninggal. Ketika kuburan dibuka, yang terlihat adalah tulang-belulang dan jasad. Tidak terdengar suara jeritan atau tanda-tanda rasa sakit dari dalam kubur.
+
+Dari sisi inilah Mu‘tazilah, sebagaimana dijelaskan dosen, menggunakan pertimbangan akal untuk mengatakan bahwa orang yang berada dalam kubur tidak sedang mengalami azab. Mereka melihat jasad orang tersebut tetap berada di dalam kubur tanpa tanda-tanda azab yang dapat ditangkap oleh pancaindra.
+
+Dosen kemudian menjelaskan bahwa di sinilah terdapat perbedaan prinsip antara Ahlusunah dan Mu‘tazilah. Ahlusunah mengatakan bahwa ketika suatu persoalan termasuk wilayah yang tidak dapat dijangkau oleh indra dan akal secara sempurna, syariat didahulukan.
+
+Alam kubur termasuk dalam wilayah البرزخ. Dalam alam barzakh terdapat perkara-perkara yang tidak dapat kita lihat, dengar, atau pahami melalui kemampuan biasa manusia.
+
+Karena itu, menurut penjelasan dosen, tidak tepat menjadikan apa yang tidak dapat dilihat atau didengar sebagai alasan untuk menolak berita yang datang dari Nabi صلى الله عليه وسلم.
+
+Dosen menyebut sejumlah tokoh Mu‘tazilah seperti Abu al-Husayn al-Baṣri, Abu Hasyim, Abu ‘Ali al-Jubba’i, dan al-Qadi ‘Abd al-Jabbar. Mereka disebut sebagai tokoh-tokoh yang menggunakan prinsip pendahuluan akal dalam persoalan semacam ini.
+
+Ketika berhadapan dengan hadis Nabi, menurut penjelasan dosen, Mu‘tazilah sering menyebut hadis tersebut sebagai حديث آحاد. Dosen bahkan mengatakan bahwa istilah “hadis ahad” menjadi jawaban yang sering digunakan ketika mereka berhadapan dengan hadis-hadis yang menurut mereka tidak dapat dijadikan dasar untuk persoalan tersebut.
+
+Dosen kemudian menegaskan posisi yang hendak diajarkan: ia yakin bahwa Nabi صلى الله عليه وسلم adalah صادق مصدوق, yaitu benar dan dibenarkan. Karena itu, ketika Nabi menyampaikan suatu perkara gaib, berita tersebut diterima meskipun perkara tersebut tidak dapat diamati secara langsung.
+
+## 6. Ibn ‘Aṭiyyah dan Penolakan terhadap Tafsir Mu‘tazilah
+
+Setelah menjelaskan perbedaan teologis tersebut, dosen kembali menghubungkannya dengan kitab yang sedang dipelajari.
+
+Ibn ‘Aṭiyyah, sebagai penulis Al-Muḥarrar al-Wajīz, menurut dosen menafsirkan Al-Qur'an berdasarkan manhaj Ahlusunah. Perbedaan dengan Mu‘tazilah tidak hanya terjadi dalam masalah azab dan nikmat kubur, tetapi mencakup banyak persoalan lain.
+
+Di antaranya adalah persoalan أفعال العباد, yaitu perbuatan manusia, serta أسماء الله وصفاته, yaitu nama-nama dan sifat-sifat Allah.
+
+Dosen memberikan contoh bahwa dalam masalah أفعال العباد, Mu‘tazilah memiliki pandangan yang berbeda mengenai penciptaan perbuatan manusia. Menurut penjelasan dosen, Mu‘tazilah mengatakan bahwa العبد يخلق أفعاله, yaitu manusia menciptakan perbuatannya sendiri. Dosen menyebut bahwa Ahlusunah berbeda dengan mereka dalam persoalan ini.
+
+Karena banyaknya perbedaan tersebut, Ibn ‘Aṭiyyah dan al-Zamakhsyari tidak dapat diposisikan seolah-olah memiliki manhaj teologis yang sama meskipun keduanya merupakan mufasir besar dari periode yang berdekatan.
+
+## 7. Ibn al-Munir al-Iskandari dan Bantahan terhadap Al-Kashshāf
+
+Dosen kemudian memperkenalkan seorang ulama Mesir bernama Ibn al-Munir al-Iskandari yang disebut memiliki peran dalam membantah Al-Kashshāf karya al-Zamakhsyari.
+
+Ibn al-Munir memberikan jawaban terhadap bagian-bagian dalam tafsir al-Zamakhsyari yang dianggap mengandung pemikiran Mu‘tazilah. Dosen menjelaskan bahwa di Mesir kedua karya tersebut pernah dicetak sedemikian rupa sehingga teks al-Zamakhsyari berada di bagian atas halaman, sedangkan bantahan terhadapnya terdapat pada halaman yang sama.
+
+Dengan demikian, pembaca dapat melihat langsung teks al-Zamakhsyari sekaligus jawaban terhadap persoalan-persoalan teologis yang terdapat di dalamnya.
+
+Persoalan yang dibahas dalam bantahan tersebut mencakup berbagai masalah, seperti أفعال العباد, أسماء الله وصفاته, عذاب القبر, dan نعيم القبر. Hal ini menunjukkan bahwa perbedaan antara Ahlusunah dan Mu‘tazilah dalam tafsir bukan hanya satu persoalan, tetapi mencakup banyak cabang persoalan akidah.
+
+## 8. Pujian Ibn Juzayy terhadap Al-Muḥarrar al-Wajīz
+
+Dosen kemudian menyebut Ibn Juzayy al-Kalbi sebagai salah seorang ulama tafsir Andalusia yang memberikan تزكية terhadap Ibn ‘Aṭiyyah dan kitab Al-Muḥarrar al-Wajīz.
+
+Ibn Juzayy juga merupakan mufasir besar yang memiliki kitab tafsir terkenal berjudul Al-Tashīl li ‘Ulūm al-Tanzīl. Selain itu, dosen menyebut beberapa karya Ibn Juzayy dalam bidang lain, seperti kitab yang berkaitan dengan usul fikih dan القواعد الفقهية.
+
+Ibn Juzayy disebut sebagai seorang ulama yang wafat sebagai syahid setelah berjihad dalam salah satu pertempuran antara kaum Muslimin dan kaum Franka, yang oleh dosen dijelaskan sebagai istilah yang berkaitan dengan bangsa Prancis dari kalangan non-Muslim.
+
+Dalam penilaiannya terhadap Ibn ‘Aṭiyyah, Ibn Juzayy mengatakan:
+
+أما ابن عطية فكتابه في التفسير أحسن التأليف وأعدلها فإنه اطلع على تأليف من كان قبله فهذبها ولخصها. مسدد النظر، محافظ على السنة.
+
+Inti penjelasan tersebut adalah bahwa karya Ibn ‘Aṭiyyah termasuk karya tafsir yang sangat baik dan paling seimbang. Ia telah membaca karya-karya para ulama sebelumnya, kemudian melakukan تهذيب dan تلخيص terhadapnya. Ia juga memiliki pandangan yang terarah dan menjaga Sunnah.
+
+Dosen menggunakan pujian tersebut untuk semakin menunjukkan posisi ilmiah Al-Muḥarrar al-Wajīz sebagai kitab tafsir yang menjadi bahan kajian penting.
+
+## 9. Tahun Wafat Ibn ‘Aṭiyyah dan Cara Menentukan Abad Hijriah
+
+Dosen kemudian menekankan tanggal wafat Ibn ‘Aṭiyyah, yaitu tahun 542 H.
+
+Angka 542 berarti Ibn ‘Aṭiyyah termasuk ulama abad keenam Hijriah. Dosen kemudian memberikan beberapa contoh agar mahasiswa terbiasa menentukan abad berdasarkan tahun wafat seorang ulama.
+
+Jika seorang ulama wafat tahun 542 H, berarti abad keenam. Jika al-Razi wafat tahun 606 H, berarti abad ketujuh. Jika Ibn Hajar al-‘Asqalani wafat tahun 852 H, berarti abad kesembilan.
+
+Setelah menjelaskan pujian para ulama terhadap Al-Muḥarrar al-Wajīz, dosen mengatakan bahwa pembahasan pendahuluan tersebut cukup dan kemudian masuk ke pembahasan Surah Al-A‘raf.
+
+# 10. Surah Al-A‘raf dan Pembagian Al-Qur'an Menjadi Empat Bagian
+
+Surah Al-A‘raf dijelaskan sebagai surah yang menjadi awal الربع الثاني من أرباع القرآن, yaitu awal seperempat kedua Al-Qur'an menurut pembagian yang digunakan dalam perkuliahan.
+
+Pembagian tersebut dijelaskan sebagai berikut. Seperempat pertama dimulai dari awal Surah Al-Baqarah sampai akhir Surah Al-An‘am. Seperempat kedua dimulai dari awal Surah Al-A‘raf sampai akhir Surah Al-Kahf. Seperempat ketiga dimulai dari awal Surah Maryam sampai akhir Surah Fatir. Seperempat keempat dimulai dari Surah Yasin sampai Surah Al-Nas.
+
+Dengan demikian, Surah Al-A‘raf merupakan surah pertama pada bagian kedua dari pembagian tersebut.
+
+## 11. Pembukaan Surah Al-A‘raf: الم
+
+Surah Al-A‘raf diawali dengan huruf-huruf:
+
+المص
+
+Dosen menjelaskan cara membacanya dari sisi panjang mad. Huruf alif tidak dipanjangkan seperti lam, mim, dan ṣad. Lam dibaca enam harakat, mim enam harakat, dan ṣad enam harakat.
+
+Dosen juga menjelaskan adanya غنة antara lam dan mim dalam pengucapan yang dicontohkan, sedangkan antara mim dan ṣad tidak terdapat ghunnah seperti antara lam dan mim.
+
+Pembahasan tajwid tersebut disampaikan di tengah suasana kelas yang cukup ramai karena terdapat suara musik dari kegiatan penyambutan mahasiswa di lingkungan kampus.
+
+## 12. Gangguan Kegiatan Penyambutan Mahasiswa
+
+Di tengah kuliah terdapat sejumlah gangguan karena terdapat kegiatan penyambutan mahasiswa baru di sekitar gedung. Dosen sempat berkomunikasi dengan pihak kampus dan menyampaikan bahwa suara musik mengganggu jalannya perkuliahan.
+
+Dosen juga berbicara dengan beberapa pihak kampus mengenai jumlah mahasiswa yang hadir. Disebutkan bahwa jumlah mahasiswa mencapai sekitar 200 orang dan ruang kuliah cukup penuh.
+
+Dalam suasana tersebut, terdapat pula mahasiswa Mesir dan mahasiswa asing dari berbagai negara. Dosen menyambut mahasiswa asing dan menanyakan asal mereka, termasuk mahasiswa dari Turki dan negara lainnya.
+
+Setelah kegiatan tersebut, dosen kembali mengarahkan pembahasan kepada Surah Al-A‘raf.
+
+# 13. Makna Nama “Al-A‘raf”
+
+Dosen kemudian mengatakan bahwa ketika mulai mempelajari Surah Al-A‘raf, hal pertama yang perlu diperhatikan adalah nama surah tersebut.
+
+Pertanyaan dasarnya adalah: apa arti الأعراف dan mengapa surah ini dinamakan Al-A‘raf?
+
+Dosen menghubungkannya dengan ayat yang akan muncul kemudian:
+
+وَعَلَى الْأَعْرَافِ رِجَالٌ يَعْرِفُونَ كُلًّا بِسِيمَاهُمْ
+
+Artinya, di atas Al-A‘raf terdapat orang-orang yang mengenali masing-masing pihak melalui tanda-tanda mereka.
+
+Dari ayat tersebut, dosen menjelaskan bahwa الأعراف berkaitan dengan manusia, karena ayat tersebut menyebut رِجَالٌ, yaitu orang-orang.
+
+Kemudian terdapat pula ayat:
+
+وَنَادَى أَصْحَابُ الْأَعْرَافِ رِجَالًا يَعْرِفُونَهُمْ بِسِيمَاهُمْ
+
+Dalam ayat ini disebut أصحاب الأعراف, yaitu orang-orang yang berada di Al-A‘raf. Mereka dapat mengenali orang-orang yang mereka lihat berdasarkan ciri-ciri mereka.
+
+# 14. Penyambutan Mahasiswa dan Penjelasan Layanan Kemahasiswaan
+
+Di tengah pembahasan Surah Al-A‘raf, terdapat kegiatan penyambutan mahasiswa oleh pihak kampus. Beberapa pejabat dan pengelola kegiatan mahasiswa hadir untuk menjelaskan خدمات رعاية الطلاب, yaitu layanan kesejahteraan atau pembinaan mahasiswa.
+
+Disebutkan adanya مدير عام رعاية الطلاب, yaitu direktur umum bidang pembinaan mahasiswa, serta pengelola kegiatan budaya dan sosial.
+
+Para mahasiswa diberi penjelasan bahwa رعاية الطلاب menyediakan berbagai kegiatan sepanjang tahun, baik kegiatan budaya, olahraga, seni, keilmuan, maupun teknologi.
+
+Untuk kegiatan budaya, disebutkan adanya مسابقات في القرآن الكريم, مسابقات في السنة النبوية, مسابقات في الخطابة, مسابقات في الإنشاد, dan berbagai kegiatan budaya lainnya.
+
+Untuk kegiatan olahraga, tersedia kegiatan bagi mahasiswa yang menyukai olahraga.
+
+Untuk kegiatan ilmiah dan teknologi, disebutkan adanya program yang berkaitan dengan aplikasi teknologi, pemrograman, dan elektronik agar mahasiswa dapat mengenal perkembangan teknologi baru dan mengikuti kebutuhan zaman.
+
+Mahasiswa juga diberitahu bahwa mereka dapat mengikuti kegiatan melalui مكتب رعاية الطلاب di fakultas.
+
+## 15. Kegiatan dan Bantuan Sosial Mahasiswa
+
+Dalam penjelasan mengenai layanan kemahasiswaan, disebutkan pula وجود الأبحاث الاجتماعية, yaitu penelitian atau pemeriksaan kondisi sosial mahasiswa yang digunakan untuk membantu mahasiswa yang membutuhkan.
+
+Mahasiswa yang memiliki keterbatasan ekonomi, kehilangan salah satu orang tua, termasuk yatim, atau termasuk ذوي الهمم, dapat mengajukan bantuan.
+
+Mahasiswa dapat mendatangi pihak yang bertanggung jawab dan mengambil formulir untuk mengajukan bantuan. Ditekankan bahwa pengajuan tersebut dapat dilakukan secara pribadi tanpa harus diketahui orang lain.
+
+Pihak kampus menjelaskan bahwa bantuan keuangan tersebut merupakan hak mahasiswa yang memenuhi ketentuan dan pada penjelasan tersebut dikaitkan dengan biaya atau رسوم yang telah dibayarkan mahasiswa.
+
+## 16. Kegiatan Quran, Bahasa, Olahraga, dan Teknologi
+
+Untuk kegiatan Al-Qur'an, dijelaskan bahwa akan ada kompetisi dengan tahap seleksi di tingkat fakultas terlebih dahulu. Kemudian fakultas akan mengirimkan mahasiswa yang berada pada peringkat pertama, kedua, dan ketiga untuk mengikuti seleksi pada tingkat universitas.
+
+Mahasiswa juga bertanya mengenai kursus bahasa. Dijelaskan bahwa terdapat rencana kursus bahasa Inggris. Pada saat itu bahasa Jerman dan Prancis belum dimasukkan. Kursus bahasa Inggris direncanakan berlangsung pada pertengahan tahun agar tidak mengganggu proses belajar reguler.
+
+Pendaftaran dilakukan melalui الأستاذ إبراهيم di مكتب رعاية الطلاب dan jadwalnya akan diumumkan kemudian.
+
+Dalam bidang olahraga, disebutkan adanya sepak bola, bola voli, bola basket, dan kegiatan liga pada cabang-cabang tersebut. Informasi kegiatan dapat diperoleh melalui pihak رعاية الشباب dan halaman resmi yang berkaitan dengan kegiatan mahasiswa.
+
+Setelah sesi pertanyaan tersebut selesai, pihak kampus menegaskan lokasi مكتب رعاية الطلاب. Dalam percakapan disebutkan bahwa tempat tersebut berada di lantai yang berkaitan dengan رعاية الطلاب, dekat الأقسام العلمية dan di depan قسم الحديث. Mahasiswa yang membutuhkan layanan dapat datang ke sana.
+
+Dosen kemudian menjelaskan bahwa tujuan utama para pejabat tersebut hadir dalam perkuliahan bukan untuk menggantikan materi, tetapi agar mahasiswa mengenal siapa yang bertanggung jawab atas kegiatan mahasiswa serta mengetahui lokasi kantor dan layanan yang dapat mereka gunakan.
+
+# 17. Kembali kepada Pembahasan Surah Al-A‘raf
+
+Setelah kegiatan penyambutan dan informasi kemahasiswaan selesai, dosen kembali ke materi tafsir.
+
+Ia mengingatkan bahwa Surah Al-A‘raf berkaitan dengan persoalan الميزان, yaitu timbangan pada hari kiamat.
+
+Allah berfirman:
+
+وَالْوَزْنُ يَوْمَئِذٍ الْحَقُّ
+
+Dosen menggunakan contoh timbangan dalam kehidupan sehari-hari. Ketika seseorang pergi ke pasar dan membeli daging, tomat, atau makanan lainnya, barang tersebut ditimbang. Penjual memperhatikan timbangan karena ingin memenuhi hak pembeli, sedangkan pembeli memperhatikan timbangan karena ingin mendapatkan haknya.
+
+Menurut penjelasan dosen, sebagaimana manusia memperhatikan timbangan di dunia untuk memastikan keadilan dalam transaksi, pada hari kiamat juga terdapat timbangan:
+
+وَالْوَزْنُ يَوْمَئِذٍ الْحَقُّ
+
+Kemudian Allah berfirman:
+
+فَمَنْ ثَقُلَتْ مَوَازِينُهُ فَأُولَٰئِكَ هُمُ الْمُفْلِحُونَ
+
+Orang yang berat timbangannya adalah orang-orang yang memperoleh keberuntungan. Beratnya timbangan dijelaskan sebagai banyaknya amal saleh pada sisi yang lebih berat.
+
+Sebaliknya Allah berfirman:
+
+وَمَنْ خَفَّتْ مَوَازِينُهُ فَأُولَٰئِكَ الَّذِينَ خَسِرُوا أَنْفُسَهُمْ بِمَا كَانُوا بِآيَاتِنَا يَظْلِمُونَ
+
+Orang yang ringan timbangannya adalah orang-orang yang merugikan diri sendiri. Dalam penjelasan dosen, sisi amal saleh mereka ringan karena amal keburukan lebih berat.
+
+# 18. Siapakah أصحاب الأعراف?
+
+Dosen kemudian mengajukan pertanyaan: bagaimana dengan orang yang timbangan amal baik dan amal buruknya sama?
+
+Ayat tersebut menyebut dua kelompok secara jelas: orang yang berat timbangannya dan orang yang ringan timbangannya. Namun muncul pertanyaan mengenai kelompok yang berada di tengah, yaitu ketika kedua timbangan seimbang.
+
+Menurut قول جمهور العلماء yang disebutkan dosen, أصحاب الأعراف adalah orang-orang yang amal baik dan amal buruknya sama.
+
+Mereka tidak memiliki satu kebaikan tambahan yang membuat mereka langsung masuk surga, tetapi juga tidak memiliki satu keburukan tambahan yang membuat mereka masuk neraka.
+
+Karena itu mereka berada di antara surga dan neraka, di tempat yang disebut الأعراف.
+
+Dengan demikian, dalam penjelasan dosen, الأعراف merupakan tempat tinggi yang memungkinkan orang-orang yang berada di sana melihat penghuni surga dan penghuni neraka.
+
+# 19. Makna الأعراف sebagai Tempat yang Tinggi
+
+Dosen kemudian memperjelas makna kata الأعراف.
+
+الأعراف merupakan tempat yang tinggi dan dapat melihat ke arah surga sekaligus melihat ke arah neraka. Karena letaknya tinggi, أصحاب الأعراف dapat melihat kedua kelompok tersebut.
+
+Dosen mengaitkan kata الأعراف dengan عرف الديك, yaitu jengger ayam. Jengger berada pada bagian atas tubuh ayam. Dengan demikian, penggunaan kata الأعراف menggambarkan sesuatu yang tinggi dan menonjol.
+
+Jadi, أصحاب الأعراف berada di tempat tinggi yang memungkinkan mereka melihat أهل الجنة dan أهل النار.
+
+# 20. Percakapan أصحاب الأعراف dengan أهل النار dan أهل الجنة
+
+Surah Al-A‘raf juga akan memperlihatkan interaksi antara أصحاب الأعراف dengan penghuni surga dan penghuni neraka.
+
+Dosen mengingatkan ayat:
+
+وَعَلَى الْأَعْرَافِ رِجَالٌ يَعْرِفُونَ كُلًّا بِسِيمَاهُمْ
+
+dan:
+
+وَنَادَى أَصْحَابُ الْأَعْرَافِ رِجَالًا يَعْرِفُونَهُمْ بِسِيمَاهُمْ
+
+Dengan demikian, mereka dapat mengenali penghuni surga dan penghuni neraka melalui tanda-tanda mereka.
+
+Pembahasan ini kemudian dikaitkan dosen dengan pertentangan antara kebenaran dan kebatilan di dunia. Dunia dipandang sebagai tempat terjadinya pertarungan antara الحق dan الباطل. Menurut penjelasan dosen, apabila kehidupan dunia dianggap sebagai akhir dari segala sesuatu, maka berbagai ketidakadilan yang terjadi akan tampak sebagai ketidakadilan yang tidak memiliki penyelesaian.
+
+Namun keyakinan akan adanya hari akhir membuat orang beriman memahami bahwa kehidupan dunia bukan akhir perjalanan. Akan ada hari ketika hak orang-orang yang dizalimi akan mendapatkan pembalasan dan keadilan.
+
+Dalam bagian ini dosen menggunakan contoh situasi politik kontemporer dengan menyebut Benjamin Netanyahu dan Itamar Ben-Gvir serta masyarakat Muslim yang disebutnya sebagai pihak yang tertindas. Contoh tersebut digunakan untuk menjelaskan gagasan bahwa konflik antara الحق dan الباطل tidak selesai hanya dengan melihat keadaan dunia, karena menurut keyakinan eskatologis Islam terdapat hari pembalasan.
+
+# 21. Makna Tafsir: الكشف والبيان
+
+Setelah pembahasan awal mengenai Surah Al-A‘raf, dosen menjelaskan makna istilah التفسير dalam علوم القرآن.
+
+Menurut penjelasan tersebut, التفسير berarti الكشف والبيان, yaitu menyingkap dan menjelaskan.
+
+Dosen memberikan contoh kata dalam Al-Qur'an yang termasuk kata yang membutuhkan penjelasan dari sisi bahasa, yaitu kata الصريم dalam ayat:
+
+فَأَصْبَحَتْ كَالصَّرِيمِ
+
+Untuk memahami kata tersebut, seorang mufasir membutuhkan penjelasan yang mengungkap maknanya.
+
+Karena Al-Qur'an turun dengan bahasa Arab yang jelas, sebagaimana prinsip القرآن بلسان عربي مبين, maka bahasa Arab menjadi salah satu rujukan dalam memahami tafsir.
+
+Seorang mufasir dapat merujuk kepada kitab-kitab bahasa untuk mencari makna suatu kata, kemudian memilih makna yang sesuai dengan konteks ayat.
+
+Selain menggunakan bahasa, terdapat beberapa طريق التفسير yang disebutkan dosen, yaitu menafsirkan Al-Qur'an dengan Al-Qur'an, menafsirkan Al-Qur'an dengan Sunnah, menafsirkan Al-Qur'an berdasarkan perkataan sahabat, serta menggunakan kitab-kitab bahasa Arab.
+
+Dengan demikian, تفسير القرآن بالقرآن, تفسير القرآن بالسنة, تفسير القرآن بأقوال الصحابة, dan penggunaan كتب اللغة semuanya disebut sebagai jalan untuk memahami makna Al-Qur'an.
+
+# 22. Contoh Tafsir Kata الصريم
+
+Untuk menjelaskan bagaimana bahasa digunakan dalam tafsir, dosen membahas kata الصريم.
+
+Kata tersebut terdapat dalam kisah أصحاب الجنة, yaitu orang-orang yang memiliki kebun dan berusaha menghalangi hak kaum miskin.
+
+Allah berfirman:
+
+إِنَّا بَلَوْنَاهُمْ كَمَا بَلَوْنَا أَصْحَابَ الْجَنَّةِ إِذْ أَقْسَمُوا لَيَصْرِمُنَّهَا مُصْبِحِينَ
+
+وَلَا يَسْتَثْنُونَ
+
+وَغَدَوْا عَلَىٰ حَرْدٍ قَادِرِينَ
+
+Dosen menjelaskan bahwa mereka berniat memotong hasil kebun pada pagi hari tanpa memberikan hak orang miskin. Kata حَرْد dijelaskan sebagai غضب, yaitu kemarahan.
+
+Ketika mereka keluar untuk menuju kebun, Allah menjadikan kebun mereka dalam keadaan yang membuat mereka tidak memperoleh manfaat darinya:
+
+فَأَصْبَحَتْ كَالصَّرِيمِ
+
+Dosen kemudian menjelaskan makna الصريم melalui gambaran proses pembakaran kayu atau tanaman. Sesuatu yang dibakar dapat berubah menjadi hitam seperti arang, kemudian dalam proses pembakaran dapat menjadi merah, dan pada tahap akhir dapat menjadi putih karena sangat kuat terbakar.
+
+Dengan demikian, menurut penjelasan dosen, الصريم merupakan kata yang mampu mencakup seluruh keadaan yang berkaitan dengan proses pembakaran tersebut.
+
+Dosen kemudian menjelaskan aspek balaghahnya. Al-Qur'an tidak sekadar mengatakan bahwa kebun tersebut menjadi فحم, yaitu arang. Al-Qur'an juga tidak hanya mengatakan bahwa kebun itu menjadi sesuatu yang merah atau putih karena terbakar.
+
+Sebaliknya, digunakan satu kata الصريم yang mampu menghimpun gambaran keseluruhan proses tersebut.
+
+Inilah yang menurut penjelasan dosen menunjukkan keindahan bahasa Al-Qur'an. Satu kata dapat membawa cakupan makna yang lebih luas daripada jika hanya dipilih salah satu keadaan secara spesifik.
+
+# 23. Makna Kata السورة
+
+Dosen kemudian menjelaskan makna kata السورة dalam علوم القرآن.
+
+السورة berarti منزلة رفيعة, yaitu tempat atau kedudukan yang tinggi.
+
+Kata tersebut dikaitkan dengan سور البناء, yaitu tembok tinggi yang memisahkan satu bangunan atau kawasan dari bangunan atau kawasan lainnya.
+
+Dengan demikian, surah dalam Al-Qur'an disebut سورة karena memiliki kedudukan tinggi. Orang yang menghafal atau menguasainya diibaratkan naik ke kedudukan tertentu. Selain itu, satu surah memiliki batas yang membedakannya dari surah sebelum dan sesudahnya.
+
+# 24. Nama Al-A‘raf Menurut Keterangan Muhaqqiq Kitab
+
+Dosen kemudian menyebut penjelasan محقق الكتاب mengenai nama Al-A‘raf.
+
+Nama الأعراف merupakan nama yang telah dikenal pada masa Rasulullah صلى الله عليه وسلم dan merupakan nama yang tetap digunakan dalam mushaf.
+
+Dosen menyebut riwayat dari Sayyidah ‘Aisyah رضي الله عنها bahwa Rasulullah صلى الله عليه وسلم pernah membaca Surah Al-A‘raf dalam salat Magrib dan membaginya ke dalam dua rakaat:
+
+قَرَأَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فِي صَلَاةِ الْمَغْرِبِ بِسُورَةِ الْأَعْرَافِ، فَرَّقَهَا فِي رَكْعَتَيْنِ
+
+Riwayat ini digunakan untuk menunjukkan bahwa nama الأعراف telah dikenal sejak masa Rasulullah صلى الله عليه وسلم.
+
+# 25. Nama-Nama Lain Surah Al-A‘raf
+
+Dosen kemudian menjelaskan bahwa Surah Al-A‘raf memiliki beberapa nama lain yang disebut dalam sebagian آثار.
+
+Nama yang disebut pertama adalah الميقات.
+
+Dosen kemudian menjelaskan terlebih dahulu makna الميقات. Mīqāt dapat bersifat زماني maupun مكاني.
+
+Dalam ibadah haji terdapat الميقات الزماني dan الميقات المكاني.
+
+Untuk haji, dosen menyebut ayat:
+
+الْحَجُّ أَشْهُرٌ مَعْلُومَاتٌ
+
+Kemudian dijelaskan adanya perbedaan penjelasan mengenai bulan-bulan tersebut. Dalam penjelasan dosen disebutkan Zulqa‘dah, Zulhijjah, dan Muharram, dengan alasan bahwa Muharram merupakan masa kepulangan orang-orang setelah haji. Dosen juga menyebut pendapat lain yang menetapkan Syawal, Zulqa‘dah, dan Zulhijjah sebagai أشهر الحج, karena sejak Syawal orang-orang sudah mulai bergerak menuju Makkah.
+
+Adapun الميقات المكاني adalah tempat-tempat yang telah ditentukan untuk orang yang hendak memasuki kawasan haram dengan niat ibadah.
+
+Dosen memberikan beberapa contoh. Dari arah Madinah disebut ذو الحليفة, yang juga disebut آبار علي. Dari arah Irak disebut ذات عرق. Adapun dari arah Mesir disebut رابغ dalam penjelasan dosen.
+
+Seseorang tidak boleh melewati tempat-tempat miqat tersebut menuju Makkah untuk melakukan ibadah haji atau umrah tanpa berada dalam keadaan ihram sesuai niatnya.
+
+Dosen kemudian menjelaskan bahwa ihram bukan sekadar mengenakan pakaian ihram, tetapi berkaitan dengan niat untuk melakukan ibadah, seperti umrah, haji ifrad, haji qiran, atau haji tamattu‘.
+
+# 26. Mengapa Al-A‘raf Disebut الميقات?
+
+Dosen kemudian mengajukan pertanyaan: jika Surah Al-A‘raf tidak secara khusus membahas haji, mengapa salah satu nama yang disebut dalam sebagian آثار adalah الميقات?
+
+Jawabannya dikaitkan dengan ميقات Nabi Musa عليه السلام.
+
+Allah berfirman:
+
+وَلَمَّا جَاءَ مُوسَىٰ لِمِيقَاتِنَا وَكَلَّمَهُ رَبُّهُ قَالَ رَبِّ أَرِنِي أَنْظُرْ إِلَيْكَ قَالَ لَنْ تَرَانِي وَلَٰكِنِ انْظُرْ إِلَى الْجَبَلِ
+
+Dosen menjelaskan bahwa dalam ayat tersebut terdapat penyebutan مِيقَات, yaitu waktu atau tempat yang telah ditentukan bagi Musa عليه السلام.
+
+Pembahasan kemudian mengarah kepada tempat yang disebut sebagai Ṭūr Sīnā’. Dosen menyebut bahwa tempat tersebut berada di Sinai, Mesir, dan memperkirakan jaraknya dari tempat mereka mengajar sekitar 400 kilometer, yang dapat ditempuh dengan kendaraan dalam beberapa jam.
+
+Dosen kemudian mengungkapkan harapan agar pihak fakultas suatu saat dapat mengadakan perjalanan bersama mahasiswa ke Ṭūr Sīnā’, bahkan secara bercanda membayangkan perjalanan dengan sekitar seribu mahasiswa.
+
+Dalam pembahasan bahasa, dosen menggunakan kalimat ليتهم untuk menunjukkan التمني, yaitu harapan yang bersifat تمنِّي. Kemudian jika ingin menggunakan الترجي, digunakan لعلهم.
+
+Dengan demikian, salah satu nama lain yang disebutkan bagi Surah Al-A‘raf adalah الميقات karena di dalamnya terdapat kisah ميقات Musa عليه السلام.
+
+# 27. Nama الميثاق dan Perjanjian di Alam ذر
+
+Nama lain yang disebutkan dalam sebagian آثار adalah الميثاق.
+
+Dosen menjelaskan bahwa nama tersebut dikaitkan dengan ayat tentang الميثاق, yaitu perjanjian Allah dengan anak keturunan Adam.
+
+Allah berfirman:
+
+وَإِذْ أَخَذَ رَبُّكَ مِنْ بَنِي آدَمَ مِنْ ظُهُورِهِمْ ذُرِّيَّتَهُمْ وَأَشْهَدَهُمْ عَلَىٰ أَنْفُسِهِمْ
+
+أَلَسْتُ بِرَبِّكُمْ قَالُوا بَلَىٰ شَهِدْنَا
+
+Dalam penjelasan dosen, ayat tersebut berkaitan dengan عالم الذر, yaitu alam yang bersifat gaib, ketika manusia telah diberi kesaksian mengenai ربوبية Allah.
+
+Allah bertanya:
+
+أَلَسْتُ بِرَبِّكُمْ
+
+dan mereka menjawab:
+
+بَلَىٰ شَهِدْنَا.
+
+Dosen kemudian menjelaskan bahwa kesaksian tersebut masih memiliki pengaruh dalam diri manusia. Ketika manusia menghadapi keadaan yang sangat berat, secara spontan ia memanggil Allah dan berkata “يا رب”.
+
+Bahkan, menurut ilustrasi dosen, seseorang yang dalam keadaan normal memiliki keyakinan atau agama yang berbeda pun ketika mengalami keadaan sangat genting dapat memanggil Tuhan. Dosen menghubungkan hal tersebut dengan ayat:
+
+وَإِذَا مَسَّ الْإِنْسَانَ ضُرٌّ دَعَا رَبَّهُ مُنِيبًا إِلَيْهِ
+
+Ketika manusia tertimpa kesulitan, ia kembali kepada Allah.
+
+Menurut dosen, keadaan tersebut mengingatkan manusia kepada kesaksian dalam عالم الذر:
+
+أَلَسْتُ بِرَبِّكُمْ قَالُوا بَلَىٰ شَهِدْنَا.
+
+Namun manusia sering melupakan kesaksian tersebut ketika berada dalam keadaan lapang.
+
+Dosen membedakan sikap المؤمن الصادق dengan orang yang melupakan Allah. Orang beriman seharusnya mengingat Allah bukan hanya ketika susah, tetapi juga ketika mendapatkan kelapangan. Jika dalam kesulitan ia mengatakan “يا رب”, maka dalam keadaan lapang pun ia tetap mengingat Allah.
+
+Sebaliknya, dosen mengaitkan orang yang lupa dengan ayat:
+
+وَإِذَا مَسَّ الْإِنْسَانَ ضُرٌّ دَعَا رَبَّهُ مُنِيبًا إِلَيْهِ ثُمَّ إِذَا خَوَّلَهُ نِعْمَةً مِنْهُ نَسِيَ مَا كَانَ يَدْعُو إِلَيْهِ مِنْ قَبْلُ
+
+Orang tersebut mengingat Allah ketika mengalami kesulitan, tetapi ketika mendapatkan nikmat ia melupakan-Nya.
+
+Atas dasar ayat tentang الميثاق tersebut, Surah Al-A‘raf juga disebut الميثاق dalam sebagian آثار.
+
+Dosen kemudian mengatakan bahwa untuk keperluan mahasiswa, tiga nama sudah cukup untuk diingat: الأعراف, الميقات, dan الميثاق.
+
+# 28. Apakah Surah Al-A‘raf Makkiyah atau Madaniyah?
+
+Pada bagian akhir perkuliahan, dosen mengajukan pertanyaan apakah Surah Al-A‘raf termasuk surah Makkiyah atau Madaniyah.
+
+Jawaban awal mahasiswa adalah Makkiyah.
+
+Dosen kemudian menyebut pendapat Imam Ibn ‘Aṭiyyah bahwa:
+
+سورة الأعراف مكية
+
+yaitu Surah Al-A‘raf adalah Makkiyah.
+
+Dosen mengingatkan definisi Makki dan Madani yang akan dipelajari lebih jauh dalam علوم القرآن. Dalam pembagian berdasarkan زمان النزول, ayat atau surah Makkiyah adalah yang turun sebelum hijrah Nabi صلى الله عليه وسلم, sedangkan Madaniyah adalah yang turun setelah hijrah.
+
+Dengan demikian, hijrah Nabi menjadi batas waktu dalam menentukan apakah suatu wahyu disebut Makkiyah atau Madaniyah berdasarkan زمن النزول.
+
+## 29. Pendapat Imam Muqatil tentang Satu Ayat yang Dikecualikan
+
+Dosen kemudian menyebut pendapat Imam Muqatil. Menurut Muqatil, Surah Al-A‘raf secara umum adalah Makkiyah, kecuali firman Allah:
+
+وَاسْأَلْهُمْ عَنِ الْقَرْيَةِ الَّتِي كَانَتْ حَاضِرَةَ الْبَحْرِ
+
+Menurut dosen, pendapat Muqatil merupakan وجه وجيه dan memiliki alasan yang dapat diterima.
+
+Dosen kemudian menganalisis kata واسألهم.
+
+Dalam kalimat tersebut, الفاعل bagi kata اسأل adalah ضمير مستتر yang merujuk kepada أنت, yaitu Nabi Muhammad صلى الله عليه وسلم. Adapun هم merupakan ضمير المفعول, yaitu objek yang ditanya.
+
+Maka struktur maknanya adalah: “Tanyakanlah kepada mereka.”
+
+Dosen kemudian bertanya: siapa yang dimaksud dengan “mereka”?
+
+Dalam konteks ayat tersebut, yang dimaksud adalah بني إسرائيل atau orang-orang Yahudi.
+
+Dosen menghubungkan hal tersebut dengan kenyataan bahwa orang-orang Yahudi yang menjadi objek pertanyaan tersebut berada di Madinah. Karena itu, perintah kepada Nabi untuk bertanya kepada mereka mengenai kisah suatu negeri yang berada di tepi laut dipandang sebagai indikasi bahwa ayat tersebut turun setelah Nabi berada di Madinah.
+
+Ayat yang dimaksud adalah:
+
+وَاسْأَلْهُمْ عَنِ الْقَرْيَةِ الَّتِي كَانَتْ حَاضِرَةَ الْبَحْرِ إِذْ يَعْدُونَ فِي السَّبْتِ إِذْ تَأْتِيهِمْ حِيتَانُهُمْ يَوْمَ سَبْتِهِمْ شُرَّعًا وَيَوْمَ لَا يَسْبِتُونَ لَا تَأْتِيهِمْ كَذَلِكَ نَبْلُوهُمْ بِمَا كَانُوا يَفْسُقُونَ
+
+Dengan demikian, menurut pendapat Muqatil yang disampaikan dosen, ayat tersebut merupakan pengecualian dari status umum Surah Al-A‘raf sebagai surah Makkiyah.
+
+Dosen menilai alasan Muqatil cukup kuat karena bentuk perintah “tanyakanlah kepada mereka” mengarah kepada situasi ketika Nabi telah bertemu komunitas Yahudi di Madinah.
+
+# 30. Bagian Materi Logika: تصورات dan تصديقات
+
+Dalam bagian transkripsi juga terdapat pembahasan ilmu المنطق yang muncul sebagai bagian dari materi sebelumnya atau bagian lain dari perkuliahan.
+
+Dosen menjelaskan bahwa المنطق disebut sebagai معرف, yaitu sesuatu yang berfungsi mengenalkan atau memberikan pengertian. Istilah lain yang digunakan adalah القول الشارح, yaitu perkataan atau penjelasan yang menjelaskan sesuatu yang hendak dikenal.
+
+Dari sini dijelaskan bahwa tujuan mempelajari مقدمات التصورات adalah untuk memahami التعريف. Jadi ketika seseorang mempelajari التصورات, tujuan utamanya berkaitan dengan معرفة التعريف.
+
+Adapun pembahasan التصديقات berkaitan dengan التطبيقات. Dosen mengatakan bahwa موضوعات التطبيقات merupakan bagian yang akan dipelajari sepanjang tahun.
+
+Dosen menggambarkan المنطق sebagai suatu تسلسل فكري atau rangkaian pemikiran yang teratur untuk mencapai hasil tertentu sehingga صورة ذهنية menjadi lengkap mengenai sesuatu yang hendak disampaikan.
+
+## 31. تعريف المنطق yang Kedua
+
+Dosen kemudian memberikan definisi kedua tentang علم المنطق:
+
+المعلومات التصورية والتصديقية من حيث توصل إلى مجهول التصوري ومجهول التصديقي.
+
+Definisi ini dibaca berulang bersama para mahasiswa.
+
+Maksudnya, logika berkaitan dengan informasi yang bersifat تصوري dan تصديقي dari sisi bahwa informasi tersebut menjadi sarana untuk mencapai sesuatu yang sebelumnya belum diketahui, baik مجهول تصوري maupun مجهول تصديقي.
+
+Dari definisi tersebut muncul empat istilah:
+
+معلوم تصوري،
+معلوم تصديقي،
+مجهول تصوري،
+مجهول تصديقي.
+
+Dosen kemudian meminta mahasiswa mengingat makna التصور.
+
+## 32. Pengertian التصور
+
+التصور dijelaskan sebagai:
+
+حصول صورة الشيء في الذهن من غير حكم عليه بنفي أو إثبات.
+
+Artinya, تصور adalah terbentuknya gambaran suatu objek di dalam pikiran tanpa memberikan hukum atau penilaian terhadapnya dengan penafian atau penetapan.
+
+Contohnya, ketika seseorang mengatakan “شمس”, gambaran matahari muncul dalam pikiran tanpa memberikan penilaian bahwa matahari sedang terbit atau tidak.
+
+Demikian pula ketika seseorang mengatakan “قلم”, muncul gambaran pena dalam pikiran. Ketika mengatakan “هاتف”, muncul gambaran telepon. Ketika mengatakan “كتاب”, muncul gambaran buku.
+
+Semua itu disebut تصور.
+
+Namun ketika seseorang mengatakan:
+
+الشمس طالعة
+
+maka ia tidak hanya menghadirkan gambaran matahari, tetapi juga memberikan حكم bahwa matahari sedang terbit. Hal itu disebut تصديق.
+
+Begitu pula ketika seseorang mengatakan:
+
+الشمس ليست طالعة
+
+ia juga memberikan hukum dengan bentuk penafian. Maka tetap disebut تصديق.
+
+Dengan demikian, perbedaan utama adalah bahwa التصور hanya berupa حصول صورة الشيء في الذهن tanpa حكم, sedangkan التصديق merupakan حصول صورة الشيء في الذهن مع الحكم عليه بالنفي أو الإثبات.
+
+# 33. معلوم dan مجهول
+
+Dosen kemudian menjelaskan bahwa معلوم adalah sesuatu yang telah ثابت atau مستقراً dalam pikiran sehingga tidak membutuhkan دليل.
+
+Ketika seseorang mengatakan “كتاب”, “شمس”, atau “قلم”, gambaran benda tersebut dapat langsung dipahami tanpa membutuhkan pembuktian tertentu. Dalam konteks ini, hal tersebut disebut معلوم تصوري.
+
+Sebaliknya, suatu konsep yang belum jelas bagi seseorang disebut مجهول تصوري.
+
+Dosen menggunakan kata “المنطق” sebagai contoh. Ketika seseorang mendengar kata المنطق, kata tersebut dapat menjadi مجهول تصوري jika hakikat dan definisinya belum diketahui.
+
+Bagaimana مجهول تصوري tersebut menjadi معلوم? Jawabannya adalah melalui التعريف.
+
+Dosen kemudian memberikan definisi:
+
+المنطق آلة قانونية تعصم مراعاتها الذهن عن الوقوع في الخطأ في الفكر.
+
+Dengan definisi tersebut, gambaran mengenai المنطق yang sebelumnya belum jelas menjadi lebih jelas.
+
+Contoh kedua adalah “الملائكة”. Ketika kata الملائكة disebut, hal tersebut merupakan تصور, tetapi tidak otomatis menjadi معلوم bagi setiap orang. Karena tidak semua manusia mengetahui hakikat malaikat, maka bagi orang yang belum mengetahui definisinya, ia merupakan مجهول تصوري.
+
+Dosen kemudian menjelaskan malaikat dengan definisi:
+
+الملائكة أجساد نورانية، قادرة على التشكل بأشكال حسنة، وظيفتها الطاعة، لا يعصون الله ما أمرهم ويفعلون ما يؤمرون.
+
+Dengan definisi tersebut, مجهول تصوري menjadi lebih diketahui melalui التعريف.
+
+# 34. معلوم تصديقي dan مجهول تصديقي
+
+Selain konsep, terdapat pula تصديق yang sudah diketahui dan tidak membutuhkan pembuktian.
+
+Contohnya:
+
+الأب أكبر من الابن
+
+atau:
+
+الشيء الواحد لا يكون في مكانين في وقت واحد.
+
+Dosen mengklasifikasikan pernyataan semacam itu sebagai تصديق. Ketika seseorang telah memahami dan menerimanya tanpa membutuhkan دليل tambahan, hal tersebut disebut معلوم تصديقي.
+
+Dosen juga menyebut:
+
+الواحد نصف الاثنين.
+
+Pernyataan tersebut digunakan sebagai contoh معلوم تصديقي.
+
+Namun tidak semua تصديق merupakan معلوم. Ada تصديق yang membutuhkan pembuktian. Dosen memberikan contoh:
+
+محمد صلى الله عليه وسلم رسول الله.
+
+Ketika mengatakan kalimat tersebut, kita terlebih dahulu memiliki تصور mengenai Muhammad صلى الله عليه وسلم, kemudian memberikan حكم bahwa beliau adalah رسول الله. Karena terdapat حكم, maka ini adalah تصديق.
+
+Namun pertanyaan selanjutnya adalah apakah التصديق tersebut membutuhkan دليل?
+
+Jawabannya adalah ya. Karena klaim bahwa Muhammad صلى الله عليه وسلم adalah Rasul Allah merupakan sesuatu yang memerlukan dalil bagi orang yang belum menerima atau mengakuinya.
+
+Dosen kemudian membedakan antara البديهي dan النظري.
+
+## 35. البديهي dan النظري
+
+Dosen menjelaskan sebuah kaidah:
+
+الشيء البديهي الذي لا خلاف عليه، الجميع يقر به.
+
+Sesuatu yang بدهي dan tidak diperselisihkan akan diterima oleh semua orang.
+
+Kemudian beliau bertanya apakah semua orang menerima hukum bahwa Muhammad صلى الله عليه وسلم adalah Rasul Allah. Jawabannya tidak, karena terdapat orang-orang yang mengingkari dan tidak menerimanya.
+
+Karena itu, dari sudut pembahasan yang disampaikan dosen, hukum tersebut masuk dalam kategori نظري, yaitu sesuatu yang membutuhkan دليل.
+
+Pembahasan tersebut kembali menunjukkan bagaimana ilmu المنطق membedakan antara معلوم تصوري, مجهول تصوري, معلوم تصديقي, dan مجهول تصديقي serta bagaimana manusia bergerak dari sesuatu yang telah diketahui menuju sesuatu yang sebelumnya belum diketahui.
+
+# 36. Penutup Materi dan Tanya Jawab
+
+Setelah menjelaskan bagian-bagian tersebut, dosen berkali-kali memastikan apakah materi telah dipahami. Ia mengatakan bahwa jika ada bagian yang tidak jelas, mahasiswa harus bertanya.
+
+Dosen menekankan bahwa ilmu dapat hilang di antara الحياء dan الكبر. Seorang Muslim tidak boleh malu bertanya dan tidak boleh sombong untuk mengakui bahwa ia belum memahami sesuatu.
+
+Ia mengatakan bahwa dirinya siap mengulang penjelasan satu, dua, tiga, bahkan empat kali jika diperlukan. Yang penting mahasiswa benar-benar memahami materi.
+
+Pada akhir perkuliahan tafsir, dosen kembali menegaskan materi pokok untuk mahasiswa tingkat kedua: Surah Al-A‘raf dan Surah Al-Anfal dari Tafsir Al-Muḥarrar al-Wajīz karya Imam Ibn ‘Aṭiyyah al-Andalusi.
+
+Dosen juga menjawab pertanyaan mahasiswa mengenai nama-nama Surah Al-A‘raf dan mengingatkan kembali tiga nama yang dianggap cukup untuk diingat:
+
+الأعراف،
+الميقات،
+الميثاق.
+
+Nama الأعراف berkaitan dengan أصحاب الأعراف. Nama الميقات berkaitan dengan ميقات Musa عليه السلام. Nama الميثاق berkaitan dengan ayat tentang الميثاق dan kesaksian Bani Adam:
+
+أَلَسْتُ بِرَبِّكُمْ قَالُوا بَلَىٰ شَهِدْنَا.
+
+Dosen kemudian menutup perkuliahan dengan salawat kepada Nabi Muhammad صلى الله عليه وسلم, mengucapkan terima kasih, dan mendoakan para mahasiswa.
+
+والسلام عليكم ورحمة الله وبركاته.

@@ -1,0 +1,806 @@
+# Rekonstruksi Lengkap Materi علم المنطق: قسم التصديقات والقضايا
+
+## 1. Pembukaan Tahun Akademik dan Pengantar Perkuliahan
+
+Perkuliahan diawali dengan sambutan kepada mahasiswa pada awal tahun akademik baru. Dosen mendoakan agar tahun tersebut menjadi tahun yang penuh kebaikan dan keberkahan, Allah memberikan taufik kepada seluruh mahasiswa, serta membuka berbagai فتوح atau kemudahan dan keberhasilan bagi mereka.
+
+Setelah salam, hamdalah, dan shalawat kepada سيدنا رسول الله صلى الله عليه وسلم, dosen menyambut mahasiswa di كلية أصول الدين بالقاهرة. Fakultas ini disebut sebagai salah satu fakultas tertua di جامعة الأزهر, bahkan disebut sebagai قلب الأزهر النابض, “jantung Al-Azhar yang berdenyut”, tanpa berlebihan.
+
+Dosen kemudian mendoakan agar mahasiswa memperoleh tahun yang bahagia, berhasil, dan bermanfaat. Ia juga menyampaikan bahwa sebagaimana yang telah disampaikan oleh عميد الكلية, pintu fakultas terbuka bagi mahasiswa. Mereka tidak akan menutup pintu terhadap siapa pun. Bahkan para pengajar berusaha mencari dan membantu mahasiswa sendiri dalam menyelesaikan kebutuhan serta kepentingan mereka.
+
+Dosen menggambarkan dirinya dan para pengajar sebagai orang tua atau kakak-kakak yang lebih tua bagi mahasiswa selama mereka berada di negeri tersebut. Khusus bagi الطالب الوافد, yaitu mahasiswa asing, dosen menekankan besarnya tanggung jawab mereka. Mahasiswa asing datang ke Al-Azhar untuk membawa ilmu dan kelak menjadi نائب عن الأزهر الشريف di negaranya masing-masing. Karena itu, menurut dosen, رسالة الطالب الوافد sangat besar. Mahasiswa Mesir juga memiliki tanggung jawab, tetapi رسالة الطالب الوافد disebut lebih أبلغ وأعمق وأعظم karena ia akan membawa nama dan ilmu Al-Azhar kembali ke negaranya.
+
+Oleh sebab itu, dosen berharap mahasiswa mempertahankan kebiasaan yang telah diharapkan dari mereka: الالتزام والانضباط dalam perkuliahan, kehadiran, متابعة, terus bertanya, serta selalu mengikuti arahan dan penjelasan para dosen. Jika terdapat persoalan akademik maupun administratif, para pengajar menyatakan siap membantu menghilangkannya agar tujuan pendidikan yang hendak dicapai dapat terlaksana.
+
+## 2. Pengalaman Dosen Bersama Mahasiswa dan Pembagian Pengajaran
+
+Dosen kemudian mengingatkan bahwa mahasiswa yang sekarang berada di الفرقة الثانية pernah mendapat beberapa kuliah darinya pada tahun sebelumnya. Ia pernah mengajar mereka dalam مادة التوحيد, tetapi tidak sampai selesai.
+
+Ia menjelaskan bahwa pada الفصل الأول tahun sebelumnya ia menggantikan الدكتور جمال karena beliau mengalami sakit. Setelah itu, pada الفصل الثاني, الدكتور جمال kembali mengajar mereka. Karena itu, sebagian mahasiswa sudah cukup mengenal dosen tersebut.
+
+Untuk tahun ini, mereka akan mempelajari مادة المنطق القديم. Pengajaran dilakukan bersama الدكتور جميل الدين atau الدكتور جميل إبراهيم. Dosen tersebut disebut sebagai guru bagi pembicara ketika ia berada di الفرقة الثالثة dan pernah menjadi وكيل الكلية sebelum pembicara menjabat sebagai wakil fakultas.
+
+Dengan demikian, mahasiswa akan belajar dari dua orang yang pernah dan sedang menjadi wakil fakultas. Dosen bahkan mengatakan kepada mahasiswa, dengan nada bercanda, bahwa mereka “beruntung”.
+
+Mengenai pembagian pengajaran, dosen menjelaskan bahwa ia akan memulai materi dan الدكتور جميل akan melanjutkan, atau mereka dapat mengajar secara bergantian antara satu المحاضرة dengan المحاضرة lainnya. Mereka akan menyepakati teknisnya. Dosen menegaskan bahwa mahasiswa tidak akan dirugikan.
+
+Ia juga menyampaikan bahwa مادة المنطق sebenarnya bukan materi yang mudah dibagi-bagi secara sembarangan. Karena itu, mereka akan mencari kesepakatan yang tepat, apakah satu dosen mengambil satu bagian dan dosen lain bagian berikutnya, atau mereka bergantian setiap pertemuan.
+
+Dosen kemudian menanyakan apakah الدكتور جميل sudah hadir dan apa yang telah beliau jelaskan. Mahasiswa menjawab bahwa beliau memberikan تقديم عام, yaitu pengantar umum. Dosen mengatakan bahwa dirinya juga akan memberikan pengantar, tetapi tidak sekadar pengantar. Ia akan langsung memberikan sedikit penjelasan substantif.
+
+## 3. Kitab yang Digunakan: التهذيب والتذهيب
+
+Dosen menjelaskan metode pengajarannya. Ia mengatakan bahwa mereka akan membaca kitab secara langsung, kemudian menjelaskan isi kitab dan menggunakan papan tulis untuk memperjelas materi.
+
+Kitab yang akan dipelajari adalah kitab التهذيب. Mahasiswa telah mempelajari bagian pertama kitab tersebut ketika berada di الفرقة الأولى.
+
+Dosen menjelaskan bahwa sebenarnya ada dua kitab yang berkaitan:
+
+«تهذيب المنطق والكلام»
+
+karya سعد الدين التفتزاني, dan syarahnya yang bernama:
+
+«التذهيب»
+
+karya عبيد الله الخبيصي.
+
+Jadi, yang mereka pelajari terdiri dari متن التهذيب karya سعد الدين التفتزاني dan syarah التذهيب karya عبيد الله الخبيصي.
+
+Metode dosen dalam setiap pertemuan adalah menuliskan teks التهذيب karya الإمام السعد di papan tulis. Mereka akan membaca teks tersebut bersama-sama terlebih dahulu tanpa penjelasan.
+
+Setelah itu dosen akan menjelaskan teks tersebut. Setelah penjelasan selesai, mereka akan kembali membaca kitab secara keseluruhan, baik متن maupun شرح.
+
+Metode ini dipilih karena teks التهذيب merupakan تلخيص للدرس, yaitu ringkasan dari materi. Dengan membaca teks terlebih dahulu, mahasiswa memperoleh إدراك كلي atau كشف كلي terhadap materi. Mereka dapat mengetahui dari teks apa saja النقاط المهمة atau hal-hal utama yang akan dibahas. Setelah mendapatkan gambaran umum tersebut, barulah materi dijelaskan secara rinci. Setelah penjelasan selesai, kitab dibaca kembali secara lengkap, baik matan maupun syarahnya.
+
+Dosen menanyakan apakah metode tersebut bermasalah. Menurutnya, metode tersebut cukup mudah.
+
+Ia juga memberikan penekanan penting mengenai karakter ilmu المنطق: علم المنطق يقوم على المتابعة والفهم. Menurutnya, ilmu المنطق bukan ilmu yang bergantung pada حفظ semata. Ia bahkan mengulang:
+
+«علم المنطق لا يعرف الحفظ»
+
+Ilmu المنطق adalah علم الفهم, ilmu yang menuntut pemahaman.
+
+## 4. Jadwal Perkuliahan dan Komitmen terhadap Disiplin
+
+Dosen menjelaskan bahwa jadwal perkuliahan sebenarnya adalah besok, dari pukul sebelas sampai pukul satu. Namun karena ada kemungkinan ia tidak dapat hadir besok karena suatu kondisi, ia hadir pada hari tersebut sebagai pengganti.
+
+Ia kemudian mengaitkan hal itu dengan tuntutan disiplin yang diberikan kepada mahasiswa. Jika mahasiswa dituntut disiplin, maka dosen juga harus menjadi teladan dalam kedisiplinan tersebut.
+
+Apabila ia tidak dapat hadir dalam suatu pertemuan, salah seorang dosen akan menggantikannya. Atau ia akan berusaha mengubah jadwal agar mahasiswa tidak kehilangan materi.
+
+Setelah pengantar tersebut, dosen memulai pembahasan:
+
+«بسم الله الرحمن الرحيم»
+
+dan menyampaikan hamdalah serta shalawat kepada Rasulullah صلى الله عليه وسلم.
+
+---
+
+# 5. Memasuki قسم التصديقات dalam Ilmu Manthiq
+
+Dosen kemudian menjelaskan bahwa pembahasan mereka adalah قسم التصديقات dalam علم المنطق.
+
+Mahasiswa pada الفرقة الأولى telah mengetahui bahwa علم المنطق disebut علم الميزان atau معيار العلم. Dosen juga sering menyebut bahwa:
+
+«علم المنطق هو خادم العلوم»
+
+Ilmu المنطق adalah “pelayan ilmu-ilmu”, karena ia memberikan perangkat untuk menata dan mengontrol proses berpikir dalam berbagai ilmu.
+
+Ilmu المنطق dibagi menjadi dua bagian besar:
+
+التصورات dan التصديقات.
+
+قسم التصورات berkaitan dengan المفردات, sedangkan قسم التصديقات berkaitan dengan المركبات.
+
+Pada bagian pertama, yaitu قسم التصورات, tujuan ilmu المنطق adalah ضبط التعريف. Pertanyaan utamanya adalah: bagaimana mendapatkan تعريف yang benar? Bagaimana mendapatkan definisi yang جامع مانع? Bagaimana membedakan antara definisi yang benar dan definisi yang rusak?
+
+Dengan demikian, tujuan utama قسم التصورات adalah mengontrol dan membenahi التعريفات.
+
+Sedangkan قسم التصديقات membahas المركب التام الخبري.
+
+Dosen mengingatkan kembali perbedaan antara التصور dan التصديق yang telah dipelajari mahasiswa pada tahun pertama.
+
+التصور adalah إدراك لا حكم معه, yaitu إدراك tanpa hukum.
+
+Adapun التصديق adalah إدراك معه حكم, yaitu إدراك yang disertai hukum.
+
+Sebagai contoh, ketika seseorang mengatakan:
+
+«زيد قائم»
+
+di dalamnya terdapat sesuatu yang محكوم عليه dan sesuatu yang محكوم به.
+
+Bagian ini menjadi awal masuk ke pembahasan القضايا.
+
+---
+
+# 6. القضية sebagai مبادئ التصديقات
+
+Dosen kemudian meminta mahasiswa membersihkan papan tulis dan menghapus judul sebelumnya. Setelah itu ia mengatakan:
+
+«اتفقنا على أن مبادئ التصديقات هي القضايا»
+
+Jadi, مبادئ التصديقات adalah القضايا dan pembahasan mengenai pembagiannya.
+
+Pertanyaan pertama adalah: apa yang dimaksud dengan القضية?
+
+Secara istilah, definisi yang masyhur adalah:
+
+«قول يحتمل الصدق أو الكذب لذاته»
+
+Yaitu suatu قول yang memungkinkan untuk dinilai benar atau salah pada dirinya sendiri.
+
+Dosen menjelaskan bahwa ini merupakan definisi yang masyhur. Namun صاحب السلم memilih redaksi yang hanya menyebut احتمال الصدق sebagai bentuk تأدب. Ia tidak secara eksplisit menyebut الكذب. Hal ini akan dijelaskan lebih lanjut ketika mereka membaca kitab.
+
+Dalam definisi tersebut terdapat kata «قول». Kata ini berfungsi sebagai جنس dalam definisi. Karena sebagai جنس, kata tersebut mencakup berbagai macam قول: القول المركب, القول الناقص, الأساليب الإنشائية, الأساليب الخبرية, serta berbagai bentuk perkataan lainnya.
+
+Kata قول juga dapat digunakan untuk sesuatu yang ملفوظ dan sesuatu yang معقول.
+
+Dosen mengutip ungkapan:
+
+«إن الكلام لفي الفؤاد وإنما جعل اللسان على الفؤاد دليلا»
+
+Kemudian disebutkan pula bahwa Al-Qur'an menyebut sesuatu yang berada dalam diri atau pikiran sebagai قول, seperti ungkapan:
+
+«ويقولون في أنفسهم...»
+
+Jadi, dalam pembahasan ini, istilah قول dapat digunakan untuk الكلام النفساني maupun الكلام اللفظي.
+
+## 7. Apakah قول Hakiki bagi yang Lafzhi dan Nafsani?
+
+Dosen kemudian menjelaskan adanya pembahasan mengenai apakah penggunaan kata قول untuk الكلام النفساني dan الملفوظ merupakan penggunaan hakiki pada keduanya.
+
+Salah satu pendapat mengatakan bahwa kata قول berlaku pada keduanya secara حقيقة dan merupakan اشتراك لفظي. Artinya, kata قول memang digunakan secara hakiki untuk kedua makna tersebut.
+
+Dosen memberikan analogi dengan kata عين. Kata عين dapat memiliki beberapa makna, seperti mata, mata-mata, dan makna lainnya. Menurut pendapat ini, setiap makna tersebut merupakan penggunaan hakiki dari kata عين.
+
+Demikian pula قول dapat menjadi حقيقة pada الملفوظ dan حقيقة pada المعقول jika dianggap sebagai اشتراك لفظي.
+
+Namun terdapat pendapat lain. Menurut pendapat ini, حقيقة القول adalah الكلام النفساني, yaitu sesuatu yang berada di dalam النفس. Adapun penggunaan قول untuk lafaz yang diucapkan merupakan penggunaan مجازي, karena terjadi تسمية الدال باسم المدلول.
+
+Lafaz merupakan الدال, sedangkan sesuatu yang berada dalam النفس merupakan المدلول. Karena lafaz menjadi sesuatu yang menunjukkan apa yang ada di dalam النفس, maka lafaz tersebut diberi nama yang sama dengan المدلول. Dengan demikian, menurut pendapat ini, قول hakiki adalah yang berada dalam النفس, sedangkan قول untuk lafaz adalah مجاز.
+
+Dosen menyederhanakan persoalan tersebut kepada mahasiswa: ketika ia mengatakan قول, yang dimaksud dapat berupa dua hal, yaitu المعقول dan الملفوظ. Bagian ini memang agak sulit, tetapi inti pembahasannya adalah memahami bahwa istilah قول dapat mencakup keduanya menurut penjelasan yang sedang dipaparkan.
+
+---
+
+# 8. Fungsi قيد «يحتمل الصدق أو الكذب»
+
+Setelah جنس «قول», definisi القضية memberikan قيد:
+
+«يحتمل الصدق أو الكذب»
+
+Dosen menjelaskan bahwa ketika suatu definisi diberi قيد atau فصل, maka قيد tersebut berfungsi mengeluarkan sesuatu yang sebenarnya bukan bagian dari definisi. Tujuannya agar definisi akhirnya menjadi جامع مانع.
+
+قيد pertama ini mengeluarkan sesuatu yang tidak memiliki kemungkinan الصدق والكذب, seperti الأساليب الإنشائية.
+
+Contoh الأساليب الإنشائية yang disebutkan adalah:
+
+«قم»
+
+«اقعد»
+
+«يا علي»
+
+dan pertanyaan:
+
+«هل جاء محمد؟»
+
+Menurut pembahasan dosen, bentuk-bentuk tersebut bukan قول yang dapat dinilai secara langsung sebagai benar atau salah dalam dirinya.
+
+Kalimat «قم» merupakan perintah. Ia tidak dapat dikatakan benar atau salah seperti sebuah berita. Demikian juga «اقعد» dan bentuk-bentuk إنشاء lainnya.
+
+---
+
+# 9. «لذاته» dan الإنشاء yang Memiliki لازم خبري
+
+Definisi القضية tidak berhenti pada «يحتمل الصدق أو الكذب», tetapi dilanjutkan dengan:
+
+«لذاته»
+
+Kata لذاته merupakan قيد kedua.
+
+Dosen menjelaskan bahwa ada perkataan yang secara bentuk tidak mengandung kemungkinan benar atau salah, tetapi memiliki لازم خبري.
+
+Contohnya:
+
+«اسقني»
+
+Secara bentuk, «اسقني» merupakan إنشاء, yaitu permintaan. Ia bukan خبر.
+
+Namun ketika seseorang berkata «اسقني», terdapat makna yang dipahami di balik permintaan tersebut, yaitu:
+
+«أنا عطشان»
+
+“Saya haus.”
+
+Jadi, secara bentuk «اسقني» adalah طلب atau permintaan. Tetapi ia mempunyai لازم خبري, yaitu keadaan bahwa orang yang mengucapkannya sedang haus.
+
+Contoh lain adalah ketika seseorang berkata:
+
+«انتهِ من سؤالك بسرعة»
+
+Secara bentuk, ini merupakan perintah agar seseorang segera menyelesaikan pertanyaannya. Namun di baliknya terdapat makna yang dipahami, yaitu:
+
+«أنا متعجل»
+
+“Saya sedang terburu-buru.”
+
+Jadi, الإنشاء tersebut memiliki لازم خبري.
+
+Dosen juga memberikan contoh ketika seseorang dalam ujian meminta temannya:
+
+«أعطني»
+
+Dalam konteks yang disebutkan dalam ceramah, permintaan tersebut memiliki makna yang tersirat, yaitu ia membutuhkan bantuan.
+
+Dengan demikian, الأساليب الإنشائية memang tidak menerima الصدق والكذب secara langsung dalam bentuknya sendiri. Namun ia dapat memiliki لازم خبري yang secara tersendiri dapat dipahami sebagai sesuatu yang memiliki kemungkinan الصدق والكذب.
+
+Karena itu, ia tetap bukan قضية. Sebab القضية mensyaratkan bahwa kemungkinan الصدق والكذب ada لذات القول, bukan karena لازمه.
+
+Dosen mengulang prinsip tersebut beberapa kali:
+
+الإنشاء tidak menerima الصدق والكذب لذاته, tetapi dapat menerimanya للزمه.
+
+---
+
+# 10. Makna «لذاته» sebagai قيد للإخراج والإدخال
+
+Dosen kemudian menjelaskan bahwa «لذاته» tidak hanya berfungsi sebagai قيد للإخراج, tetapi juga قيد للإدخال.
+
+Maksudnya, kata tersebut dapat mengeluarkan beberapa bentuk perkataan sekaligus memasukkan bentuk lainnya ke dalam مفهوم القضية.
+
+Contoh yang diberikan adalah perkataan yang jika dilihat dari dirinya sendiri memiliki kemungkinan benar atau salah, tetapi jika dilihat berdasarkan siapa yang mengucapkannya menjadi pasti benar atau pasti salah.
+
+Dosen memberikan contoh tulisan di papan:
+
+«الكتاب من أوله إلى آخره مقرر»
+
+Jika mahasiswa datang dan melihat tulisan tersebut tetapi tidak mengetahui siapa yang menulisnya, maka dari sisi perkataan itu sendiri ia masih dapat dipandang memiliki احتمال.
+
+Namun jika kemudian diberitahukan bahwa yang menulisnya adalah الأستاذ, maka berdasarkan siapa yang mengucapkannya, penilaian mahasiswa dapat berubah.
+
+Demikian pula ketika membaca ayat:
+
+«وإلهكم إله واحد»
+
+Jika kita melihatnya hanya sebagai susunan perkataan dan memutuskan النظر عن القائل, maka ia memiliki kemungkinan secara konseptual. Namun jika kita telah mengetahui bahwa ini adalah كلام الله, maka berdasarkan قائلnya, perkataan tersebut tidak lagi dianggap sekadar sesuatu yang masih mungkin benar atau salah.
+
+Contoh lain:
+
+«محمد رسول الله والذين معه أشداء على الكفار رحماء بينهم»
+
+Jika seseorang memutuskan النظر عن كونها من القرآن الكريم, maka dari sisi struktur perkataan, ia dapat dibahas dalam kerangka احتمال الصدق والكذب. Namun jika diketahui bahwa ia merupakan كلام الله, maka berdasarkan قائلnya, ia tidak lagi berada pada tingkat kemungkinan tersebut.
+
+Karena itu, ukuran القضية adalah احتمال الصدق والكذب لذات القول.
+
+Dosen merumuskan beberapa batasan:
+
+Jika kemungkinan benar atau salah hanya ada karena لازم القول, maka ia bukan قضية.
+
+Jika kemungkinan benar atau salah bergantung pada النظر إلى القائل, maka dalam pembahasan ini ia dapat masuk sebagai قضية karena jika dilihat لذات القول, ia tetap memiliki احتمال.
+
+Jika sejak awal suatu perkataan tidak memiliki kemungkinan الصدق والكذب, maka ia bukan قضية.
+
+Jika sesuatu bahkan bukan قول, maka ia juga bukan قضية.
+
+Jadi ضابط القضية adalah:
+
+«قول يحتمل الصدق والكذب لذاته»
+
+---
+
+# 11. Penjelasan tentang قول الله dan Klaim Kenabian
+
+Dosen kemudian menjawab sebuah pertanyaan mahasiswa mengenai ayat:
+
+«أنا ربكم الأعلى»
+
+yang merupakan perkataan Fir'aun.
+
+Jika kalimat tersebut dilihat tanpa memperhatikan siapa yang mengucapkannya, maka bentuknya merupakan قول yang dapat dibahas dalam kerangka القضية.
+
+Tetapi jika diperhatikan bahwa القائل adalah فرعون, maka dalam konteks pembahasan yang sedang dijelaskan, ia tidak diperlakukan sama seperti berita yang masih terbuka kemungkinan benarnya.
+
+Dosen kemudian memberikan contoh مسيلمة الكذاب yang mengatakan:
+
+«أنا رسول الله»
+
+dan غلام أحمد القادياني yang juga mengklaim:
+
+«أنا رسول الله»
+
+bahkan mengklaim:
+
+«أنا خاتم النبيين»
+
+dan:
+
+«أنا المسيح الموعود»
+
+Dosen menyebut adanya komunitas الأحمدية di باكستان dan mengatakan bahwa pengikut-pengikutnya masih menyatakan klaim tersebut.
+
+Jika seseorang berkata «قال الغلام كذا», maka dengan memperhatikan القائل, perkataan tersebut tidak diperlakukan sebagai قضية dalam pengertian yang sama. Namun jika kalimat tersebut diambil sebagai susunan kata tanpa memperhatikan siapa yang mengucapkannya, ia memiliki kemungkinan untuk dibahas sebagai قول yang secara ذات dapat dinilai benar atau salah.
+
+Dosen kemudian menegaskan bahwa احتمال الصدق والكذب tidak berarti pembicara sedang memvonis bahwa sebuah perkataan itu benar atau salah. Kata «يحتمل» hanya berarti bahwa secara konseptual terdapat kemungkinan.
+
+---
+
+# 12. Redaksi صاحب السلم dan تأدب dalam Tidak Menyebut الكذب
+
+Dosen menjelaskan bahwa الإمام الملاوي صاحب السلم atau الإمام الأخضري dalam bait mengenai القضية tidak secara eksplisit mengatakan «الكذب».
+
+Bait yang disebut adalah:
+
+«ما احتمل الصدق لذاته جرى
+بينهم قضية وخبرا»
+
+Ia tidak mengatakan «ما احتمل الصدق والكذب».
+
+Menurut penjelasan dosen, tidak menyebut الكذب merupakan bentuk تأدب.
+
+Walaupun demikian, makna الكذب tetap dipahami dari konsep احتمال الصدق. Dosen menekankan bahwa penyusun kitab tidak sedang menuduh suatu perkataan sebagai dusta. Ia hanya menjelaskan kemungkinan yang secara konseptual dimiliki oleh perkataan tersebut.
+
+---
+
+# 13. الكلام النفساني dan الكلام اللفظي
+
+Pembahasan kemudian kembali kepada الكلام النفساني.
+
+Dosen menjelaskan bahwa Allah جل وعلا menyebut sesuatu yang berada dalam النفس sebagai قول.
+
+Ia juga memberikan contoh سيدنا عمر بن الخطاب pada يوم السقيفة yang mengatakan:
+
+«إني زورت في نفسي كلاما»
+
+Maksudnya, ia telah menyusun atau mempersiapkan suatu perkataan di dalam dirinya.
+
+Dengan demikian, sesuatu yang berada dalam hati atau النفس dapat disebut قول dan كلام, walaupun belum diucapkan dengan lisan.
+
+Namun, apakah الكلام النفساني dapat digunakan untuk komunikasi praktis?
+
+Menurut dosen, tidak. Untuk التعامل والتخاطب, yang berguna adalah الأداء, yaitu mengeluarkan sesuatu melalui lafaz.
+
+Dosen kemudian bertanya: bagaimana seseorang dapat mengetahui apa yang ada dalam diri orang lain?
+
+Jawabannya adalah melalui الكلام. Jika seseorang tidak berbicara, maka orang lain tidak dapat mengetahui isi pikirannya melalui komunikasi biasa.
+
+---
+
+# 14. التخاطر dan الكلام النفساني
+
+Dalam konteks pembahasan ini, dosen menyebut fenomena yang disebut علم التخاطر.
+
+Ia bertanya apakah mahasiswa pernah mendengarnya. Kemudian ia mengaitkannya dengan pembahasan yang kelak terdapat dalam أدب البحث والمناظرة, terutama bagi mahasiswa yang melanjutkan studi di bidang العقيدة.
+
+Dosen menyebut adanya istilah المناظرة النفسانية, yaitu komunikasi atau perdebatan tanpa lafaz.
+
+Menurut penjelasan yang disampaikan, التخاطب dapat dibayangkan berlangsung tanpa ucapan. Dosen menyebut bahwa cabang tertentu yang disebut علم التخاطر membahas pembicaraan atau komunikasi النفساني.
+
+Ia bahkan menyebut kemungkinan bahwa seseorang tidak melihat lawan bicaranya dan seolah-olah الأرواح bertemu dan saling berbicara.
+
+Namun dosen segera mengatakan bahwa pembahasan tersebut merupakan ilmu khusus dan bukan fokus mereka. Dalam konteks pembelajaran المنطق, komunikasi yang mereka gunakan adalah الكلام yang dapat dipahami melalui bahasa dan lafaz.
+
+Ia menegaskan bahwa الكلام النفساني merupakan حقيقة الكلام, tetapi bukan الوسيلة utama untuk التعليم dan التعامل.
+
+Dosen juga menyebut bahwa الفلاسفة الإلهيون tidak menganggap mustahil adanya bentuk خطاب النفساني semacam ini, karena dalam kerangka mereka النفس dianggap sebagai sesuatu yang مجرد, dan mereka membahas kemungkinan النفوس saling bertemu dan berkomunikasi.
+
+Kemudian dosen mengaitkannya secara singkat dengan pembahasan dalam أول الجوهرة dan kitab تحفة المريد mengenai عالم الأرواح.
+
+Ia menyebut bahwa Nabi صلى الله عليه وسلم di عالم الأرواح diutus kepada siapa? Kepada seluruh manusia, baik السابق maupun اللاحق. Kemudian disebut bahwa المؤمنون adalah جميع المرسلين dan الرسل merupakan نواب عنه, sehingga terdapat ungkapan tertentu bahwa ia مرسل إلى نفسه.
+
+Dosen sendiri mengatakan bahwa bagian ini cukup sulit, kemudian menjelaskan perbedaan antara عالم الأرواح dan عالم الأشباح.
+
+Di عالم الأشباح والأجساد, bahasa komunikasi dan interaksi adalah الكلام.
+
+Sedangkan dalam عالم الأرواح, bahasa komunikasi disebut الكلام النفساني.
+
+Namun dosen kemudian mengatakan kepada mahasiswa agar tidak terlalu memikirkan bagian tersebut karena tidak menjadi kebutuhan utama materi yang sedang dipelajari.
+
+---
+
+# 15. المركب الناقص dan المركب التام الإنشائي
+
+Dosen kemudian kembali kepada struktur perkataan.
+
+Ia menjelaskan bahwa المركب الناقص tidak menerima الصدق.
+
+Adapun المركب التام الإنشائي dapat memiliki لازم, meskipun ia tidak menerima الصدق والكذب dalam bentuknya sendiri.
+
+Contoh yang kembali digunakan adalah:
+
+«اسكتي»
+
+Secara bentuk, kalimat tersebut adalah طلب. Namun dari لازمه dapat dipahami adanya خبر tertentu yang melatarbelakanginya.
+
+Dosen mengatakan bahwa pada titik ini mereka memang perlu masuk lebih dalam ke ilmu المنطق. Bahkan ia bercanda bahwa mereka bukan hanya perlu mendalaminya sedikit, tetapi harus mendalaminya cukup banyak.
+
+---
+
+# 16. Pertanyaan tentang «لذاته»
+
+Seorang mahasiswa bertanya apakah «لذاته» mengeluarkan sesuatu yang hanya menerima الصدق والكذب بسبب لازمه.
+
+Dosen menjawab: نعم.
+
+Kemudian ditanyakan apakah «لذاته» juga mengeluarkan berita yang dinilai berdasarkan القائل.
+
+Dosen menjawab: لا.
+
+Justru berita semacam itu dapat masuk ke dalam مفهوم القضية, karena jika perkataan tersebut dilihat pada dirinya sendiri, ia tetap merupakan قول yang mempunyai احتمال الصدق والكذب.
+
+Jadi «لذاته» sekaligus berfungsi sebagai قيد للإخراج dan قيد للإدخال.
+
+Ia mengeluarkan sesuatu yang hanya mempunyai kemungkinan الصدق والكذب karena لازمه, tetapi memasukkan perkataan yang secara ذات memiliki احتمال, meskipun ketika النظر إلى القائل seseorang sudah mengetahui bahwa perkataan tersebut pasti benar atau pasti salah.
+
+---
+
+# 17. Pembagian Awal القضية: حملية dan شرطية
+
+Setelah konsep القضية selesai dijelaskan, dosen mengatakan bahwa القضية terbagi secara أولي menjadi dua:
+
+القضية الحملية
+
+dan
+
+القضية الشرطية.
+
+Pembagian ini merupakan pembagian yang حاصر, yaitu القضية hanya masuk ke dalam salah satu dari dua bagian tersebut: حملية atau شرطية.
+
+Untuk membedakan keduanya, terdapat dua sudut pandang:
+
+من جهة المعنى
+
+dan
+
+من جهة الصورة.
+
+---
+
+# 18. القضية الحملية dari Segi Makna
+
+Dari sisi makna, القضية الحملية adalah sesuatu yang memberikan ثبوت شيء لشيء atau نفي شيء عن شيء.
+
+Dosen menjelaskan istilah إيقاع النسبة dan انتزاع النسبة.
+
+إيقاع berarti إثبات atau إيجاب.
+
+انتزاع berarti سلب.
+
+Karena itu, حملية dari sisi makna dapat berupa موجبة atau سالبة.
+
+Contohnya:
+
+«محمد صلى الله عليه وسلم رسول الله»
+
+Kalimat tersebut memberikan ثبوت الرسالة kepada Muhammad صلى الله عليه وسلم.
+
+Contoh lain:
+
+«كل من عليها فان»
+
+Menurut penjelasan dosen, maksudnya adalah setiap yang berada di atasnya, yaitu yang berada di langit dan bumi sebagaimana penjelasan beliau, akan fana. Kalimat tersebut memberikan ثبوت الفناء kepada yang termasuk dalam cakupan «كل من عليها».
+
+Dosen kemudian menjelaskan bahwa jika dikatakan sesuatu berlaku bagi sebagian, hal itu tidak otomatis berarti kebalikannya berlaku bagi sebagian lainnya.
+
+Misalnya:
+
+«بعض الأطباء نبات»
+
+Dalam contoh tersebut, jika ada sebagian dokter yang merupakan “tumbuhan”, secara struktur pembicaraan mengenai «بعض» tidak berarti semua dokter demikian. Bagian lainnya tidak dibicarakan.
+
+Demikian pula:
+
+«بعض الناس يموتون»
+
+Jika dikatakan sebagian manusia mati, maka yang dimaksud hanya sebagian. Bagian lainnya tidak otomatis menjadi tidak mati berdasarkan kalimat tersebut.
+
+Contoh:
+
+«بعض الطلاب ناجحون»
+
+Jika sebagian mahasiswa berhasil, bukan berarti mahasiswa lainnya gagal. Mereka hanya مسكوت عنهم, yaitu tidak dibicarakan dalam pernyataan tersebut.
+
+Bahkan dosen memberi kemungkinan bahwa sebagian lainnya bisa lebih berhasil. Ia menggunakan contoh أفعل التفضيل untuk menjelaskan bahwa jika seseorang disebut ناجح, yang lain bisa saja أنجح, tetapi hal tersebut tidak otomatis dinyatakan oleh kalimat pertama.
+
+Jadi, pada القضية الحملية, yang diperhatikan adalah bahwa ada ثبوت المحكوم به للمحكوم عليه atau نفي sesuatu dari sesuatu.
+
+Dosen menyebut bahwa ada pembahasan lanjutan mengenai bahwa yang diperhatikan pada المحكوم به adalah مفهومnya, sedangkan pada المحكوم عليه adalah أفراده, tetapi ia meminta mahasiswa tidak berhenti pada bagian tersebut karena akan dipelajari kemudian.
+
+---
+
+# 19. «الثبوت» Lebih Tepat daripada «الإثبات»
+
+Dosen memberikan perhatian khusus kepada istilah ثبوت.
+
+Ia mengatakan bahwa kata ثبوت lebih luas atau lebih tepat daripada sekadar إثبات.
+
+الثبوت merupakan pemberitaan mengenai sesuatu yang memang ثابت dalam واقع.
+
+Sedangkan الإثبات secara bahasa mengandung makna bahwa seseorang “membuat sesuatu menjadi ثابت”. Seolah-olah sebelumnya belum ثابت, kemudian ia menjadikannya ثابت.
+
+Dalam القضية seperti:
+
+«محمد رسول الله»
+
+seseorang sebenarnya tidak sedang menciptakan atau menetapkan kenabian Muhammad صلى الله عليه وسلم dengan perkataannya. Ia hanya memberitakan suatu hukum yang telah ثابت.
+
+Karena itu, istilah ثبوت lebih tepat untuk menjelaskan makna القضية الحملية.
+
+---
+
+# 20. القضية الحملية dari Segi Bentuk
+
+Selain dilihat dari makna, القضية الحملية juga dilihat dari صورتها.
+
+Dari sisi bentuk, طرفا القضية الحملية berupa مفردين بالقوة atau بالفعل.
+
+Dosen memberikan contoh:
+
+«زيد قائم»
+
+Di sini «زيد» merupakan satu طرف dan «قائم» merupakan الطرف lainnya. Keduanya merupakan مفرد secara بالفعل.
+
+Dosen kemudian menjelaskan perbedaan بالقوة dan بالفعل.
+
+Sesuatu bisa menjadi مفرد بالفعل, tetapi bisa pula berada dalam قوة المفرد meskipun secara lahiriah terdiri dari lebih dari satu kata.
+
+Contoh:
+
+«الورد الأحمر جميل المنظر»
+
+Di sini الموضوع adalah «الورد الأحمر», yang terdiri dari dua kata. Adapun المحمول adalah «جميل المنظر», yang juga terdiri dari dua kata.
+
+Namun masing-masing berfungsi sebagai satu kesatuan dalam القضية. Karena itu, keduanya disebut مفردين بالقوة, bukan مفردين بالفعل.
+
+Dosen menggunakan contoh lain mengenai seseorang yang secara بالقوة berada di rumah tetapi secara بالفعل tidak berada di rumah saat ini. Hal itu untuk menunjukkan bahwa sesuatu dapat memiliki dua اعتبار, yaitu اعتبار بالقوة dan اعتبار بالفعل.
+
+Dengan demikian, القضية الحملية disebut sederhana karena kedua طرفnya berupa مفردين, baik بالفعل maupun بالقوة.
+
+---
+
+# 21. القضية الشرطية dari Segi Makna
+
+Berbeda dengan حملية, القضية الشرطية dari sisi makna mengandung التعليق.
+
+Dosen menjelaskan bahwa الشرطية merupakan القضية yang di dalamnya terdapat حكم بالاتصال atau حكم بالانفصال antara dua طرف.
+
+Dengan demikian, di dalam الشرطية terdapat hubungan شرط.
+
+Hubungan tersebut dapat berupa ارتباط atau dapat berupa عناد وتنافٍ.
+
+Contoh hubungan yang bersifat ارتباط:
+
+«كلما كنت أزهرياً كنت مسلماً»
+
+Dosen menjelaskan adanya hubungan antara الأزهرية dan الإسلام dalam bentuk yang sedang dijelaskan.
+
+Contoh lain:
+
+«كلما كانت الشمس طالعة كان النهار موجوداً»
+
+Ada ارتباط antara طلوع الشمس dan وجود النهار sebagaimana contoh yang digunakan dosen.
+
+Contoh lainnya:
+
+«إن ذاكرت نجحت»
+
+Dalam struktur ini terdapat hubungan antara belajar dan keberhasilan menurut bentuk القضية yang sedang dibahas.
+
+Bagian pertama disebut مقدم dan bagian kedua disebut تالي.
+
+Dalam «إن ذاكرت نجحت»:
+
+«ذاكرت» merupakan مقدم.
+
+«نجحت» merupakan تالي.
+
+Hubungan antara keduanya adalah ارتباط.
+
+---
+
+# 22. الشرط اللزومي dan الشرط العنادي
+
+Dosen kemudian membedakan dua macam hubungan dalam القضية الشرطية.
+
+Pertama adalah الشرط اللزومي, yaitu hubungan berupa تلازم atau keterkaitan antara المقدم dan التالي.
+
+Contohnya:
+
+«كلما كانت الشمس طالعة كان النهار موجوداً»
+
+Ada hubungan antara طلوع الشمس dan وجود النهار.
+
+Contoh lainnya:
+
+«إن ذاكرت نجحت»
+
+Belajar ditempatkan sebagai مقدم dan keberhasilan sebagai تالي, dengan hubungan yang dijelaskan dalam bentuk الشرط اللزومي.
+
+Kedua adalah الشرط العنادي.
+
+Dalam الشرط العنادي terdapat تنافي atau عناد antara الطرفين.
+
+Contohnya:
+
+«إما أن يكون العدد زوجاً أو فرداً»
+
+atau:
+
+«إما أن يكون الجسم متحركاً أو ساكناً»
+
+Dalam bentuk «إما ... أو ...», terdapat dua kemungkinan yang diposisikan secara عنادي atau saling berlawanan sebagaimana struktur yang dijelaskan.
+
+Jadi الشرطية dari sisi makna memiliki معنى الشرط. Namun hubungan tersebut dapat berupa تلازم atau تنافٍ وعناد.
+
+Karena itu, secara umum:
+
+الحملية mengandung حكم بثبوت شيء لشيء أو نفي شيء عن شيء.
+
+Sedangkan الشرطية mengandung حكم بالاتصال أو الانفصال.
+
+الاتصال berarti adanya hubungan atau ارتباط.
+
+الانفصال berarti adanya عناد atau تنافي.
+
+---
+
+# 23. القضية الشرطية dari Segi Bentuk
+
+Dari sisi صورة, طرفا القضية الشرطية berupa مركبين, baik بالفعل maupun بالقوة.
+
+Contoh yang jelas adalah:
+
+«كلما كانت الشمس طالعة كان النهار موجوداً»
+
+Bagian pertama merupakan مركب dan bagian kedua juga مركب.
+
+«كانت الشمس طالعة» merupakan bagian yang memiliki struktur lebih dari satu unsur.
+
+«كان النهار موجوداً» juga demikian.
+
+Dosen kemudian memberikan contoh:
+
+«هذا ملزوم لذا»
+
+Secara lafaz, «هذا» dan «ذا» tampak sebagai kata tunggal. Namun «ملزوم» dan «لذا» mengandung makna hubungan yang membuatnya berada dalam قوة المركب.
+
+Contoh lain:
+
+«إن ذاكرت نجحت»
+
+«ذاكرت» secara lafaz hanya satu kata, tetapi ia terdiri dari فعل dan فاعل, sehingga secara makna berada dalam قوة المركب.
+
+«نجحت» juga merupakan فعل dan فاعل yang terkandung di dalamnya.
+
+Dengan demikian, طرف القضية الشرطية dapat berupa المركب بالفعل atau المركب بالقوة.
+
+---
+
+# 24. أجزاء القضية الحملية
+
+Dosen kemudian masuk kepada bagian-bagian القضية الحملية.
+
+Ia menjelaskan bahwa agar istilah-istilahnya jelas, أجزاء القضية الحملية antara lain:
+
+موضوع،
+محمول،
+نسبة،
+حكم.
+
+Contoh:
+
+«محمد رسول الله صلى الله عليه وسلم»
+
+«محمد» adalah موضوع.
+
+«رسول الله» adalah محمول.
+
+Mengapa disebut موضوع? Karena ia diletakkan untuk menjadi sesuatu yang dikenai الحمل.
+
+Mengapa disebut محمول? Karena ia dibawa atau disandarkan kepada موضوع.
+
+Dengan demikian:
+
+الموضوع هو المحكوم عليه.
+
+المحمول هو المحكوم به.
+
+Di antara keduanya terdapat نسبة.
+
+Hubungan tersebut disebut نسبة حكمية atau نسبة كلامية.
+
+Dosen menjelaskan bahwa hubungan ini kadang diungkapkan dengan lafaz tertentu. Lafaz tersebut dapat berfungsi sebagai رابطة, seperti penggunaan «هو» atau «كان» dalam struktur tertentu.
+
+Jadi terdapat unsur موضوع, محمول, dan نسبة atau رابطة.
+
+Namun menurut penjelasan dosen, ada unsur keempat yang berkaitan dengan النسبة الخارجية, yaitu الإذعان atau التصديق atau القبول.
+
+Unsur keempat tersebut tidak selalu disebut secara eksplisit dalam pembagian awal yang tertulis di kitab.
+
+Dosen kemudian menegaskan bahwa أجزاء القضية الحملية pada pembahasan ini berjumlah empat:
+
+موضوع،
+محمول،
+نسبة،
+حكم.
+
+Ia mengingatkan bahwa materi tersebut akan diulang kembali dan akan dibahas bersama teks kitab. Penjelasan hari tersebut baru merupakan تمهيد ومقدمة, yaitu pengantar sebelum masuk secara penuh kepada kitab.
+
+---
+
+# 25. القضية الشرطية: مقدم dan تالي
+
+Setelah القضية الحملية, dosen beralih kepada القضية الشرطية.
+
+القضية الشرطية terdiri dari:
+
+مقدم
+
+dan
+
+تالي.
+
+المقدم adalah bagian yang تقدم رتبةً, yaitu lebih dahulu dari sisi رتبة atau posisi logis.
+
+Dosen menjelaskan bahwa تقدم رتبة tidak selalu sama dengan تقدم لفظاً.
+
+Maksudnya, sesuatu bisa menjadi مقدم dari sisi رتبة meskipun dalam susunan lafaz ia berada setelah bagian lainnya.
+
+Pada القضية الشرطية المنفصلة, tidak ada ترتيب tertentu antara kedua طرف dari sisi رتبة yang mengharuskan satu berada lebih dahulu. Apa yang disebutkan pertama menjadi مقدم dan yang kedua menjadi تالي.
+
+Contohnya:
+
+«العدد إما زوج أو فرد»
+
+Dalam susunan tersebut:
+
+زوج adalah مقدم.
+
+فرد adalah تالي.
+
+Namun jika susunan dibalik:
+
+«العدد إما فرد أو زوج»
+
+maka:
+
+فرد menjadi مقدم.
+
+زوج menjadi تالي.
+
+Hal ini karena pada القضية المنفصلة tidak ada ترتيب khusus yang mengharuskan salah satu الطرف menjadi مقدم secara makna.
+
+Adapun pada القضية الشرطية المتصلة, terdapat ترتيب dari sisi رتبة.
+
+Dosen memberikan contoh:
+
+«نجاحك حاصل إن ذاكرت»
+
+Secara lafaz, «نجاحك حاصل» muncul terlebih dahulu, sedangkan «إن ذاكرت» muncul kemudian. Tetapi dari sisi رتبة, «إن ذاكرت» merupakan مقدم dan «نجاحك حاصل» merupakan تالي.
+
+Jadi, المقدم dapat تقدم رتبةً وإن تأخر لفظاً.
+
+Inilah perbedaan penting antara تقدم رتبة dan تقدم لفظ.
+
+---
+
+# 26. Penutup Pertemuan
+
+Dosen menegaskan bahwa seluruh pembahasan yang diberikan hari itu belum dimaksudkan sebagai pembahasan mendalam dari kitab. Ia hanya memberikan تمهيد terhadap موضوع yang akan dipelajari.
+
+Ia mengatakan bahwa pembahasan القضية الحملية, القضية الشرطية, definisi القضية, الفرق بين الحملية والشرطية, serta bagian-bagian keduanya akan dibaca dan dijelaskan kembali dengan menggunakan kitab التهذيب.
+
+Dosen juga menyampaikan bahwa pembahasan utama dari kitab akan dilakukan pada hari Ahad, bukan pada pertemuan berikutnya yang semula disebut sebagai “besok”, tetapi pada Ahad setelahnya sesuai jadwal yang ia jelaskan di akhir.
+
+Dengan demikian, materi pada pertemuan ini berfungsi sebagai pengantar untuk memasuki قسم التصديقات secara lebih serius.
+
+Alur keseluruhan materi dimulai dari pengenalan metode pembelajaran المنطق القديم dan kitab التهذيب والتذهيب, kemudian mengingat kembali bahwa علم المنطق terbagi menjadi التصورات dan التصديقات. التصورات berkaitan dengan المفردات dan tujuan utamanya adalah ضبط التعريف, sedangkan التصديقات berkaitan dengan المركبات dan مبادئ التصديقات adalah القضايا.
+
+Dari sini pembahasan bergerak kepada definisi القضية sebagai «قول يحتمل الصدق أو الكذب لذاته». Setiap unsur dalam definisi kemudian dianalisis: kata قول sebagai جنس, cakupannya terhadap الملفوظ dan المعقول, perbedaan pendapat mengenai hakikat penggunaan kata قول, lalu قيد احتمال الصدق والكذب yang mengeluarkan الإنشاء, dan قيد لذاته yang membedakan antara kemungkinan pada hakikat perkataan dan kemungkinan yang hanya muncul karena لازمه atau karena mempertimbangkan القائل.
+
+Setelah konsep القضية dipahami, القضية dibagi secara أولي menjadi حملية dan شرطية. الحملية dari sisi makna menunjukkan ثبوت شيء لشيء atau نفي شيء عن شيء, sedangkan dari sisi bentuk kedua طرفnya berupa مفردين بالقوة atau بالفعل. الشرطية dari sisi makna menunjukkan اتصال atau انفصال, dan dari sisi bentuk kedua طرفnya berupa مركبين بالقوة atau بالفعل.
+
+Kemudian dijelaskan أجزاء القضية الحملية berupa موضوع، محمول، نسبة، وحكم, sedangkan القضية الشرطية terdiri dari مقدم dan تالي. Pada bagian akhir dijelaskan pula bahwa تقدم المقدم merupakan تقدم رتبة dan tidak selalu berarti تقدم لفظاً, terutama dalam القضية الشرطية المتصلة.
+
+Seluruh pembahasan tersebut pada pertemuan ini masih ditempatkan sebagai مقدمات dan تمهيد. Pembacaan teks التهذيب secara lengkap, kata demi kata, beserta syarahnya akan menjadi bagian dari pembelajaran berikutnya.

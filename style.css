@@ -1,0 +1,216 @@
+:root {
+  --bg: #101217;
+  --panel: #171a21;
+  --panel-2: #20242d;
+  --text: #f4f1e8;
+  --muted: #9da3ae;
+  --accent: #e7b85c;
+  --accent-2: #c99235;
+  --paper: #f4edda;
+  --ink: #29251d;
+  --border: rgba(255,255,255,.09);
+}
+
+* { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  background:
+    radial-gradient(circle at 20% 0%, rgba(231,184,92,.10), transparent 32rem),
+    var(--bg);
+  color: var(--text);
+  font-family: Georgia, "Times New Roman", serif;
+  min-height: 100vh;
+}
+
+button { font: inherit; }
+
+.app {
+  width: min(1100px, calc(100% - 28px));
+  margin: 0 auto;
+  padding: 28px 0 60px;
+}
+
+.topbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 18px;
+  border-bottom: 1px solid var(--border);
+  padding-bottom: 20px;
+}
+
+.eyebrow {
+  color: var(--accent);
+  letter-spacing: .18em;
+  font: 700 12px/1 Arial, sans-serif;
+}
+
+h1 {
+  margin: 7px 0 0;
+  font-size: clamp(28px, 5vw, 44px);
+  font-weight: 700;
+}
+
+.small-btn, .back-btn {
+  border: 1px solid rgba(231,184,92,.35);
+  background: var(--panel);
+  color: var(--text);
+  padding: 10px 15px;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+.small-btn:hover, .back-btn:hover { background: var(--panel-2); }
+
+.breadcrumb {
+  margin: 22px 0 12px;
+  color: var(--muted);
+  font: 14px/1.5 Arial, sans-serif;
+}
+
+.breadcrumb button {
+  border: 0;
+  background: transparent;
+  color: var(--accent);
+  cursor: pointer;
+  padding: 0;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(155px, 1fr));
+  gap: 18px;
+  margin-top: 20px;
+}
+
+.item {
+  min-height: 150px;
+  border: 1px solid var(--border);
+  background: linear-gradient(145deg, #1b1f27, #14171d);
+  border-radius: 18px;
+  padding: 18px 14px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  cursor: pointer;
+  color: var(--text);
+  transition: transform .16s ease, border-color .16s ease, background .16s ease;
+}
+
+.item:hover {
+  transform: translateY(-4px);
+  border-color: rgba(231,184,92,.45);
+  background: var(--panel-2);
+}
+
+.icon {
+  font-size: 58px;
+  line-height: 1;
+  margin-bottom: 13px;
+  filter: drop-shadow(0 5px 8px rgba(0,0,0,.25));
+}
+
+.item.file .icon { font-size: 52px; }
+
+.name {
+  max-width: 100%;
+  overflow-wrap: anywhere;
+  font-weight: 700;
+  font-size: 17px;
+}
+
+.type {
+  color: var(--muted);
+  font: 11px/1.4 Arial, sans-serif;
+  margin-top: 5px;
+  text-transform: uppercase;
+  letter-spacing: .08em;
+}
+
+.empty {
+  color: var(--muted);
+  padding: 50px 10px;
+  text-align: center;
+  font: 15px/1.6 Arial, sans-serif;
+}
+
+.hidden { display: none !important; }
+
+.reader {
+  position: fixed;
+  inset: 0;
+  z-index: 10;
+  background: rgba(5,7,10,.82);
+  display: grid;
+  place-items: center;
+  padding: 20px;
+  overflow: auto;
+}
+
+.paper {
+  position: relative;
+  width: min(850px, 100%);
+  max-height: calc(100vh - 40px);
+  overflow: auto;
+  background:
+    linear-gradient(rgba(255,255,255,.18), rgba(255,255,255,.18)),
+    var(--paper);
+  color: var(--ink);
+  border-radius: 4px;
+  padding: 55px clamp(22px, 6vw, 70px);
+  box-shadow: 0 25px 80px rgba(0,0,0,.45);
+}
+
+.paper::before {
+  content: "";
+  position: absolute;
+  inset: 0 0 auto 0;
+  height: 7px;
+  background: var(--accent);
+}
+
+.paper-label {
+  font: 700 11px/1 Arial, sans-serif;
+  letter-spacing: .16em;
+  opacity: .55;
+  margin-bottom: 12px;
+}
+
+.paper h2 {
+  margin: 0 45px 25px 0;
+  font-size: clamp(25px, 4vw, 38px);
+}
+
+.paper pre {
+  white-space: pre-wrap;
+  overflow-wrap: anywhere;
+  margin: 0;
+  font: 17px/1.85 Georgia, "Times New Roman", serif;
+}
+
+.close-btn {
+  position: absolute;
+  right: 15px;
+  top: 13px;
+  width: 42px;
+  height: 42px;
+  border: 0;
+  border-radius: 50%;
+  background: rgba(0,0,0,.08);
+  color: var(--ink);
+  font-size: 28px;
+  cursor: pointer;
+}
+
+@media (max-width: 520px) {
+  .app { width: min(100% - 18px, 1100px); padding-top: 18px; }
+  .grid { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 11px; }
+  .item { min-height: 135px; padding: 14px 8px; }
+  .icon { font-size: 48px; }
+  .name { font-size: 15px; }
+  .paper { padding: 48px 20px 30px; }
+  .paper pre { font-size: 16px; line-height: 1.75; }
+}
