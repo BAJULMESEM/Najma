@@ -3,55 +3,124 @@
   "type": "folder",
   "children": [
     {
-      "name": "Bahasa Arab",
+      "name": "LITERAL MUHADOROH",
       "type": "folder",
       "children": [
         {
-          "name": "Nahwu",
+          "name": "MANTIQ",
           "type": "folder",
           "children": [
             {
-              "name": "Jurumiyah",
-              "type": "folder",
-              "children": [
-                {
-                  "name": "1.txt",
-                  "type": "file",
-                  "path": "texts/Bahasa Arab/Nahwu/Jurumiyah/1.txt"
-                }
-              ]
+              "name": "mantiq1.txt",
+              "type": "file",
+              "path": "texts/LITERAL MUHADOROH/MANTIQ/mantiq1.txt"
+            },
+            {
+              "name": "mantiq2.txt",
+              "type": "file",
+              "path": "texts/LITERAL MUHADOROH/MANTIQ/mantiq2.txt"
+            }
+          ]
+        },
+        {
+          "name": "TAFSIR TAHLILI",
+          "type": "folder",
+          "children": [
+            {
+              "name": "tafsir1.txt",
+              "type": "file",
+              "path": "texts/LITERAL MUHADOROH/TAFSIR TAHLILI/tafsir1.txt"
+            }
+          ]
+        },
+        {
+          "name": "TAUHID",
+          "type": "folder",
+          "children": [
+            {
+              "name": "tauhid.txt",
+              "type": "file",
+              "path": "texts/LITERAL MUHADOROH/TAUHID/tauhid.txt"
+            }
+          ]
+        },
+        {
+          "name": "selasa 1.txt",
+          "type": "file",
+          "path": "texts/LITERAL MUHADOROH/selasa 1.txt"
+        }
+      ]
+    },
+    {
+      "name": "PELAJARAN",
+      "type": "folder",
+      "children": [
+        {
+          "name": "hadits tahlili",
+          "type": "folder",
+          "children": [
+            {
+              "name": "1.txt",
+              "type": "file",
+              "path": "texts/PELAJARAN/hadits tahlili/1.txt"
+            }
+          ]
+        },
+        {
+          "name": "maantiq",
+          "type": "folder",
+          "children": [
+            {
+              "name": "1.txt",
+              "type": "file",
+              "path": "texts/PELAJARAN/maantiq/1.txt"
+            },
+            {
+              "name": "2.txt",
+              "type": "file",
+              "path": "texts/PELAJARAN/maantiq/2.txt"
+            }
+          ]
+        },
+        {
+          "name": "tafsirr",
+          "type": "folder",
+          "children": [
+            {
+              "name": "1.txt",
+              "type": "file",
+              "path": "texts/PELAJARAN/tafsirr/1.txt"
+            }
+          ]
+        },
+        {
+          "name": "tauhid",
+          "type": "folder",
+          "children": [
+            {
+              "name": "1.txt",
+              "type": "file",
+              "path": "texts/PELAJARAN/tauhid/1.txt"
+            }
+          ]
+        },
+        {
+          "name": "ulumul quran",
+          "type": "folder",
+          "children": [
+            {
+              "name": "1.txt",
+              "type": "file",
+              "path": "texts/PELAJARAN/ulumul quran/1.txt"
             }
           ]
         }
       ]
     },
     {
-      "name": "Kuliah",
-      "type": "folder",
-      "children": [
-        {
-          "name": "Tauhid",
-          "type": "folder",
-          "children": [
-            {
-              "name": "Muhadharah 1",
-              "type": "folder",
-              "children": [
-                {
-                  "name": "1.txt",
-                  "type": "file",
-                  "path": "texts/Kuliah/Tauhid/Muhadharah 1/1.txt"
-                },
-                {
-                  "name": "2.txt",
-                  "type": "file",
-                  "path": "texts/Kuliah/Tauhid/Muhadharah 1/2.txt"
-                }
-              ]
-            }
-          ]
-        }
-      ]
+      "name": "1.txt",
+      "type": "file",
+      "path": "texts/1.txt"
     }
   ]
 }
