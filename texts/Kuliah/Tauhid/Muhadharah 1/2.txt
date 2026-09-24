@@ -1,3 +1,0 @@
-Ini contoh teks kedua.
-
-Struktur folder boleh dibuat sedalam apa pun.
