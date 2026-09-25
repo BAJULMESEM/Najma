@@ -224,6 +224,11 @@
           "path": "texts/PELAJARAN/1.txt"
         }
       ]
+    },
+    {
+      "name": "REKAMAN.link",
+      "type": "link",
+      "url": "https://bajulmesem.github.io/haha/"
     }
   ]
 }
