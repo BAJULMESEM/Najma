@@ -1,0 +1,226 @@
+```text
+REKONSTRUKSI MATERI FIQH MUAMALAT
+PEMBAHASAN TENTANG JENIS-JENIS JUAL BELI DAN RUKUN AKAD JUAL BELI
+
+Pembahasan diawali dengan penjelasan tentang بيوع الأمانة, yaitu jual beli yang sangat bergantung pada kejujuran penjual dalam menyampaikan harga awal barang yang pernah ia beli. Sebagai contoh, seorang penjual mengatakan bahwa ia membeli sebuah telepon dengan harga 10.000 جنيه, kemudian menjualnya kembali dengan harga tertentu. Dari sini dijelaskan perbedaan antara tiga macam بيوع الأمانة, yaitu المرابحة, التولية, dan الوضيعة.
+
+Dalam بيع المرابحة, barang dijual berdasarkan الثمن الأول, yaitu harga pertama ketika penjual membeli barang tersebut, kemudian ditambahkan keuntungan yang diketahui atau disepakati. Jadi, المرابحة adalah jual beli dengan harga pokok pertama ditambah keuntungan yang معلوم.
+
+Adapun التولية adalah menjual barang dengan harga pertama yang sama, tanpa penambahan keuntungan dan tanpa pengurangan. Dengan demikian, penjual menjual kembali barang tepat pada harga ketika ia membelinya.
+
+Sedangkan الوضيعة adalah menjual barang dengan harga di bawah harga pertama. Dalam contoh yang diberikan, sebuah telepon dibeli seharga 10.000 جنيه lalu dijual seharga 9.000 جنيه. Artinya, penjual menjualnya dengan harga 1.000 جنيه lebih rendah daripada harga awal sehingga penjual mengalami kerugian 1.000 جنيه. Dalam penjelasan dosen, pada بيع الوضيعة penjual tidak memperoleh keuntungan, bahkan menjual barang di bawah harga pokoknya.
+
+Ketiga bentuk tersebut disebut بيوع الأمانة karena semuanya bergantung pada kejujuran penjual ketika memberitahukan harga awal barang. Ketika penjual berkata, “Saya membeli telepon ini dengan harga sekian,” maka ia harus benar dan jujur mengenai harga tersebut. Karena dasar penetapan harga dalam jual beli ini bergantung pada informasi yang disampaikan penjual tentang harga awal, maka kejujuran penjual menjadi hal yang sangat penting.
+
+Dengan demikian, perlu dibedakan antara بيوع الأمانة sebagai kategori besar dan المرابحة sebagai salah satu jenis di dalamnya. بيوع الأمانة mencakup المرابحة، التولية، والوضيعة. Jadi, المرابحة bukan sesuatu yang berdiri di luar بيوع الأمانة, melainkan salah satu jenis dari بيوع الأمانة.
+
+Setelah itu dosen mengingatkan bahwa pembahasan sebelumnya telah membedakan بيع المزايدة، والمناقصة، والمساومة, kemudian membedakan pula بيوع الأمانة menjadi المرابحة، والتولية، والوضيعة. Setelah bagian tersebut dianggap selesai, pembahasan beralih kepada pembagian jual beli berdasarkan طريقة تسليم الثمن, yaitu berdasarkan cara dan waktu penyerahan harga dan barang.
+
+PEMBAGIAN JUAL BELI BERDASARKAN CARA PENYERAHAN
+
+Pada bagian ini, jual beli dibedakan berdasarkan apakah pembayaran dan penyerahan barang dilakukan segera atau ditangguhkan. Dengan kata lain, pertanyaannya adalah: apakah الثمن diserahkan sekarang atau ditunda, dan apakah السلعة atau المثمن diserahkan sekarang atau ditunda?
+
+Pembagian ini dijelaskan menjadi empat macam.
+
+Pertama, البيع المنجز atau البيع الحال. Yang dimaksud dengan البيع المنجز adalah jual beli yang tidak mensyaratkan penundaan baik terhadap الثمن maupun terhadap السلعة. Tidak ada penundaan pembayaran dan tidak ada penundaan penyerahan barang. Karena pembayaran harga dan penyerahan barang berlangsung حالا, jual beli ini juga disebut البيع الحال.
+
+Jadi, cirinya adalah الثمن dibayar sekarang dan السلعة juga diserahkan sekarang. Tidak ada salah satu dari keduanya yang ditangguhkan.
+
+Kedua, بيع مؤجل الثمن, yaitu jual beli yang harga atau الثمن-nya ditangguhkan, sementara barangnya diserahkan sekarang.
+
+Diberikan contoh: seseorang menjual telepon dengan harga 10.000 جنيه. Pembeli mengatakan bahwa ia menerima jual beli tersebut, tetapi pembayaran 10.000 جنيه baru akan dilakukan setelah satu minggu, dua minggu, atau satu bulan sesuai dengan waktu yang telah disepakati. Telepon diterima sekarang, sedangkan harga dibayar kemudian.
+
+Maka jual beli tersebut disebut بيع مؤجل الثمن karena yang ditangguhkan adalah الثمن, sementara barang telah diterima.
+
+Pada bagian ini seorang mahasiswa bertanya apakah bentuk tersebut merupakan عقد السلم. Dosen menjelaskan bahwa bukan. عقد السلم justru memiliki pola yang berlawanan. Dalam السلم, الثمن dibayar terlebih dahulu, sedangkan السلعة ditangguhkan. Sementara dalam بيع مؤجل الثمن yang sedang dibahas, السلعة diberikan terlebih dahulu dan الثمن yang ditangguhkan.
+
+Ketiga, البيع مؤجل المثمن. Istilah المثمن dijelaskan sebagai السلعة atau barang yang menjadi objek jual beli. Dalam akad jual beli terdapat dua unsur utama yang dapat menjadi objek penyerahan, yaitu الثمن, yakni uang atau harga, dan المثمن, yakni barang.
+
+بيع مؤجل المثمن berarti barangnya ditangguhkan, sedangkan الثمن dibayar sekarang. Jadi, pembeli menyerahkan harga terlebih dahulu, kemudian menerima barang pada waktu yang telah ditentukan.
+
+Contoh yang diberikan adalah بيع السلم. Dalam akad السلم, seseorang membayar harga sekarang untuk memperoleh barang yang belum ada atau belum diserahkan sekarang, tetapi barang tersebut akan diserahkan pada waktu yang telah ditentukan kemudian.
+
+Selain السلم, contoh lainnya adalah عقد الاستصناع.
+
+Dalam contoh الاستصناع, seseorang mendatangi seorang pembuat sepatu. Ia meminta agar dibuatkan sebuah sepatu dengan sifat-sifat tertentu. Pembuat sepatu mengatakan bahwa harga sepatu tersebut adalah 1.000 جنيه. Orang tersebut membayar 1.000 جنيه terlebih dahulu. Setelah sepatu selesai dibuat dan setelah waktu tertentu berlalu, ia datang untuk mengambil sepatu tersebut.
+
+Dengan demikian, dalam contoh tersebut الثمن dibayar terlebih dahulu, sedangkan السلعة diterima kemudian. Pola ini termasuk البيع مؤجل المثمن atau jual beli dengan barang yang ditangguhkan.
+
+Jadi, pada jenis ketiga ini, yang ditangguhkan adalah المثمن atau السلعة. Contohnya adalah عقد السلم dan عقد الاستصناع.
+
+Dalam menjelaskan السلم, dosen juga menyebutkan bahwa barang yang menjadi objek السلم dapat berupa sesuatu yang belum ada pada saat akad tetapi akan ada kemudian. Contohnya dapat berupa hasil pertanian. Dosen kemudian menyebut hadis:
+
+«من أسلف في شيء فليسلف في كيل معلوم ووزن معلوم إلى أجل معلوم»
+
+Dalam penjelasan yang diberikan, السلم harus berkaitan dengan sesuatu yang memiliki ukuran yang dapat diketahui, seperti كيل معلوم, وزن معلوم, dan أجل معلوم. Dosen memberikan contoh berupa قمح, أرز, dan شعير serta barang-barang yang dapat dihitung atau diukur.
+
+Keempat, البيع مؤجل العوضين. Dalam jenis ini kedua ‘iwadh atau kedua objek pertukaran sama-sama ditangguhkan. Artinya, الثمن ditangguhkan dan السلعة juga ditangguhkan.
+
+Dalam istilah yang digunakan dosen, bentuk ini disebut بيع الدين بالدين. Alasannya, الثمن menjadi utang dalam tanggungan pihak pembeli, sementara السلعة juga menjadi sesuatu yang masih menjadi kewajiban dalam tanggungan pihak penjual. Dengan demikian, kedua pihak sama-sama memiliki kewajiban yang belum diserahkan.
+
+Jenis jual beli ini dinyatakan tidak boleh karena Nabi صلى الله عليه وسلم melarang بيع الدين بالدين. Dosen menegaskan bahwa dari empat bentuk yang telah dijelaskan, inilah bentuk yang tidak diperbolehkan, sedangkan bentuk-bentuk sebelumnya diperbolehkan sebagaimana dijelaskan dalam materi.
+
+Dalam konteks ini dosen kembali membedakan antara السلم dan bentuk yang dilarang tersebut. Dalam السلم, harga dibayar terlebih dahulu sedangkan barang diserahkan kemudian. Karena itu, السلم tidak termasuk penundaan kedua ‘iwadh. Adapun apabila harga juga belum dibayar dan barang juga belum diserahkan, maka kedua sisi akad sama-sama menjadi tanggungan, sehingga masuk ke dalam بيع الدين بالدين.
+
+Dosen memberikan penjelasan praktis untuk menghindari keadaan tersebut. Jika seseorang tidak ingin seluruh الثمن ditangguhkan, ia dapat membayar sebagian harga terlebih dahulu. Dengan demikian, tidak seluruh الثمن ditunda. Dalam materi disebutkan bahwa menunda sebagian الثمن diperlakukan sebagai تأجيل الثمن, tetapi kondisi tersebut tetap masuk dalam النوع الثاني, yaitu مؤجل الثمن, bukan مؤجل العوضين, karena tidak seluruh الثمن ditangguhkan.
+
+Dosen kemudian menjelaskan alasan larangan dengan istilah yang dalam transkrip terdengar sebagai “عمار ذمتين” atau “غمار ذمتين”. Maksud penjelasan yang disampaikan adalah bahwa apabila kedua sisi ditangguhkan, maka tanggungan kedua pihak sama-sama menjadi terbebani utang: ذمة satu pihak memiliki utang yang harus dibayar dan ذمة pihak lainnya juga memiliki kewajiban yang belum diserahkan. Dalam penjelasan dosen, satu ذمة yang memiliki tanggungan masih diperbolehkan dalam konteks jual beli yang dibahas, sedangkan dua tanggungan sekaligus tidak diperbolehkan. Karena istilah pada bagian ini kurang jelas dalam transkrip, bentuk persis ungkapannya tidak dapat dipastikan, tetapi penjelasan dosen berfokus pada adanya tanggungan pada kedua belah pihak.
+
+Dosen kemudian menutup pembahasan mengenai pembagian jual beli berdasarkan cara penyerahan dengan mengingatkan kembali bahwa عقد الاستصناع adalah permintaan untuk membuat sesuatu tertentu dengan spesifikasi tertentu, sedangkan عقد السلم adalah pembayaran harga terlebih dahulu untuk memperoleh sesuatu yang belum diserahkan dan akan diserahkan kemudian. Dalam konteks السلم, dosen mencontohkan hasil pertanian seperti gandum, beras, dan jelai.
+
+Dengan demikian, pembagian jual beli berdasarkan cara penyerahan yang dijelaskan dalam materi adalah: البيع المنجز atau البيع الحال, بيع مؤجل الثمن, البيع مؤجل المثمن seperti السلم dan الاستصناع, serta البيع مؤجل العوضين yang disebut بيع الدين بالدين dan dinyatakan tidak boleh.
+
+PEMBAHASAN KETIGA: أَرْكَانُ عَقْدِ الْبَيْعِ
+
+Setelah pembahasan mengenai jenis-jenis jual beli, dosen masuk ke المبحث الثالث, yaitu أركان عقد البيع, atau rukun-rukun akad jual beli.
+
+Dalam masalah rukun akad jual beli, para fuqaha berbeda pendapat menjadi dua pandangan utama.
+
+Pendapat pertama adalah mazhab Hanafiyah. Menurut الحنفية, akad memiliki satu rukun, yaitu الصيغة. الصيغة adalah bentuk yang menunjukkan terjadinya akad, yaitu الإيجاب والقبول. Dengan demikian, menurut Hanafiyah, rukun akad hanya satu, yakni الصيغة yang terdiri atas ijab dan kabul.
+
+Pendapat kedua adalah pendapat الجمهور, yaitu المالكية، والشافعية، والحنابلة. Menurut jumhur, rukun akad terdiri atas tiga secara global: العاقدان، والمعقود عليه، والصيغة.
+
+العاقدان adalah dua pihak yang melakukan akad, yaitu البائع dan المشتري.
+
+المعقود عليه adalah sesuatu yang menjadi objek akad, yaitu الثمن dan المثمن.
+
+Sedangkan الصيغة adalah الإيجاب والقبول.
+
+Jika dirinci, tiga rukun menurut jumhur tersebut menjadi enam unsur: البائع، والمشتري، والثمن، والمثمن، والإيجاب، والقبول.
+
+Dosen kemudian menjelaskan bahwa perbedaan antara Hanafiyah dan jumhur ini pada hakikatnya merupakan خلاف شكلي, yaitu perbedaan secara bentuk atau terminologi, bukan perbedaan substantif mengenai unsur yang harus ada dalam akad.
+
+Alasannya, Hanafiyah memang hanya menyebut الصيغة sebagai rukun, tetapi الصيغة yang berupa الإيجاب والقبول secara otomatis mengandaikan adanya pihak yang melakukan ijab dan kabul. الإيجاب membutuhkan موجب, sedangkan القبول membutuhkan قابل. Dengan adanya موجب dan قابل, maka dua pihak yang berakad, yaitu العاقدان, sudah tercakup.
+
+Selain itu, ijab dan kabul harus terjadi berkaitan dengan sesuatu yang menjadi objek akad. Dengan kata lain, الإيجاب والقبول harus bertemu pada المحل, yaitu sesuatu yang menjadi objek akad. Dalam jual beli, المحل tersebut adalah الثمن dan المثمن.
+
+Oleh karena itu, meskipun Hanafiyah hanya menyebut الصيغة sebagai rukun, di dalam الصيغة sudah terkandung unsur-unsur lain yang disebut secara terpisah oleh jumhur. Karena itu, dosen menegaskan kembali bahwa perbedaan ini adalah خلاف شكلي.
+
+Dalam materi kemudian diputuskan bahwa pembahasan selanjutnya akan mengikuti pendapat الجمهور. Dosen bertanya apakah akan mengikuti pendapat Hanafiyah atau الجمهور, kemudian ditegaskan bahwa pembahasan akan berjalan menurut pendapat الجمهور.
+
+RUKUN PERTAMA: الصيغة
+
+Rukun pertama yang dibahas adalah الصيغة. Dosen menjelaskan bahwa الصيغة terdiri dari الإيجاب والقبول.
+
+Kemudian dijelaskan bagaimana الصيغة dapat dilakukan. Akad dapat terlaksana dengan ucapan, perbuatan, tulisan, ataupun isyarat.
+
+Pertama, akad dapat dilakukan dengan القول, yaitu melalui ucapan. Contoh ucapan yang menunjukkan akad adalah “بعت” (saya menjual), “اشتريت” (saya membeli), “قبلت” (saya menerima), dan ungkapan lain yang menunjukkan adanya ijab dan kabul.
+
+Kedua, akad dapat dilakukan dengan الفعل, yaitu perbuatan. Contoh yang paling jelas adalah بيع المعاطاة.
+
+المعاطاة berarti melakukan jual beli melalui tindakan saling memberi dan menerima tanpa ucapan. Dosen memberikan contoh kehidupan sehari-hari di supermarket. Seseorang mengetahui harga sebuah pak atau bungkus tisu, kemudian ia datang ke supermarket, menyerahkan uang tanpa berbicara, mengambil barang tanpa berbicara, lalu pergi. Tidak ada ucapan “saya membeli” atau “saya menjual”, tetapi ada tindakan menyerahkan uang dan mengambil barang.
+
+Dalam kondisi tersebut, jual beli terjadi melalui perbuatan, bukan melalui ucapan. Inilah yang disebut المعاطاة, yaitu الأخذ والعطاء دون كلام, mengambil dan memberi tanpa kata-kata; atau البيع والشراء دون كلام, jual beli tanpa ucapan.
+
+Dosen menekankan bahwa agar gambaran المعاطاة benar-benar terpenuhi sebagaimana dijelaskan dalam materi, tidak boleh ada ucapan dari penjual maupun pembeli. Bentuknya murni tindakan: pihak pertama memberikan barang, pihak kedua memberikan harga.
+
+Ketiga, jual beli dapat dilakukan dengan الكتابة, yaitu tulisan. Seseorang dapat menulis bahwa ia ingin membeli barang tertentu. Dengan demikian, tulisan dapat menjadi bentuk الصيغة.
+
+Keempat, jual beli dapat dilakukan dengan الإشارة, yaitu isyarat. Dosen secara khusus mengaitkannya dengan orang bisu atau الأخرس, karena bagi orang tersebut isyarat merupakan bahasanya. Dengan demikian, ia dapat melakukan akad melalui isyarat.
+
+Dari sini dosen menyimpulkan bahwa طرق البيع atau cara berlangsungnya jual beli ada empat: القول, الفعل seperti المعاطاة, الكتابة, dan الإشارة.
+
+PEMBAGIAN الصيغة MENJADI قولية DAN فعلية
+
+Setelah menjelaskan empat cara tersebut, pembahasan difokuskan kepada الصيغة اللفظية atau الصيغة القولية, yaitu akad yang dilakukan dengan ucapan. Bentuk inilah yang berkaitan langsung dengan الإيجاب والقبول.
+
+Dosen kemudian membahas persoalan penting: apa yang dimaksud dengan الإيجاب dan القبول menurut الجمهور, dan apa yang dimaksud dengan keduanya menurut الحنفية?
+
+Dosen juga menjelaskan bahwa ia sengaja menjelaskan materi dengan perlahan karena sebagian besar mahasiswa merupakan mahasiswa وافدون atau mahasiswa pendatang yang belum begitu menguasai bahasa Arab percakapan. Karena itu, penjelasan dibuat sesederhana mungkin dan tetap menggunakan bahasa Arab agar seluruh mahasiswa dapat memahami materi.
+
+MAKNA الإيجاب والقبول MENURUT JUMHUR
+
+Menurut الجمهور, الإيجاب adalah sesuatu yang keluar dari المملك, yaitu pihak yang memiliki barang dan hendak memindahkan kepemilikannya kepada orang lain. Dalam konteks jual beli, المملك adalah البائع.
+
+Sedangkan القبول adalah sesuatu yang keluar dari المتملك, yaitu pihak yang akan menerima kepemilikan barang, yakni المشتري.
+
+Dengan demikian, menurut jumhur, yang menentukan apakah suatu ucapan disebut ijab atau kabul bukanlah siapa yang berbicara terlebih dahulu, tetapi siapa yang mengucapkannya.
+
+Ucapan penjual adalah إيجاب, meskipun penjual mengucapkannya setelah pembeli berbicara.
+
+Sebaliknya, ucapan pembeli adalah قبول, meskipun pembeli mengucapkannya terlebih dahulu.
+
+Contohnya, apabila pembeli mengatakan kepada penjual, “Saya membeli barang ini darimu,” lalu penjual mengatakan, “Saya terima,” maka menurut الجمهور ucapan pembeli tetap disebut قبول karena keluar dari المشتري, sedangkan ucapan penjual disebut إيجاب karena keluar dari البائع.
+
+Jadi, urutan ucapan tidak menjadi ukuran utama bagi jumhur. Yang menjadi ukuran adalah pihak yang mengeluarkan ucapan tersebut.
+
+Dalam penjelasan sederhana dosen, كلام البائع هو الإيجاب حتى وإن صدر متأخرًا, yaitu ucapan penjual tetap disebut ijab meskipun muncul belakangan. Sementara كلام المشتري هو القبول سواء جاء في الأول أو جاء في الآخر, yaitu ucapan pembeli tetap disebut kabul, baik muncul terlebih dahulu maupun belakangan.
+
+MAKNA الإيجاب والقبول MENURUT HANAFIYAH
+
+Berbeda dari jumhur, الحنفية menentukan الإيجاب dan القبول berdasarkan urutan keluarnya ucapan.
+
+Menurut Hanafiyah, الكلام الذي يقال أولًا adalah إيجاب, yaitu ucapan yang keluar pertama kali disebut ijab, siapa pun yang mengucapkannya, baik البائع maupun المشتري.
+
+Adapun الكلام الذي يقال ثانيًا, yaitu ucapan yang keluar kedua, disebut قبول, siapa pun yang mengucapkannya.
+
+Dengan demikian, menurut Hanafiyah, apabila pembeli berbicara terlebih dahulu lalu penjual menjawab, ucapan pembeli adalah ijab dan ucapan penjual adalah kabul.
+
+Sebaliknya, apabila penjual berbicara terlebih dahulu kemudian pembeli menjawab, ucapan penjual adalah ijab dan ucapan pembeli adalah kabul.
+
+Jadi, perbedaan kedua mazhab dapat dipahami sebagai berikut. Menurut الجمهور, ukuran الإيجاب والقبول adalah pihak yang mengucapkan: ucapan البائع merupakan إيجاب dan ucapan المشتري merupakan قبول, tanpa memandang siapa yang berbicara terlebih dahulu.
+
+Menurut الحنفية, ukuran الإيجاب والقبول adalah urutan ucapan: ucapan pertama adalah إيجاب dan ucapan kedua adalah قبول, tanpa memandang apakah yang berbicara pertama adalah penjual atau pembeli.
+
+Dosen kembali menegaskan contoh tersebut dengan bentuk yang sederhana. Jika البائع mengatakan “بعتك” atau “أبيعك هذه السلعة”, maka menurut jumhur itu adalah ijab. Jika pembeli menjawab “قبلت” atau “أنا قبلت”, maka itu adalah kabul. Pembeli juga dapat mengatakan kepada penjual “اشتريت هذه السلعة منك”, dan ucapan tersebut menurut jumhur merupakan kabul karena berasal dari pembeli.
+
+Sebaliknya, apabila pembeli lebih dahulu pergi kepada pemilik toko dan mengatakan bahwa ia menginginkan kain tertentu dengan harga tertentu, kemudian penjual menjawab dengan persetujuan, maka menurut jumhur ucapan pembeli tetap merupakan قبول dan ucapan penjual merupakan إيجاب, karena ukuran mereka bukan urutan ucapan tetapi pihak yang mengucapkannya.
+
+Sementara menurut Hanafiyah, karena ucapan pembeli muncul lebih dahulu, maka ucapan pembeli itulah yang disebut إيجاب dan jawaban penjual disebut قبول.
+
+PENJELASAN TENTANG المعاطاة
+
+Setelah menjelaskan الإيجاب والقبول dan perbedaan definisinya antara jumhur dan Hanafiyah, dosen kembali kepada persoalan المعاطاة karena ada mahasiswa yang bertanya atau belum memahami bagian tersebut.
+
+Dosen memberikan contoh lagi agar konsepnya jelas. Seseorang pergi ke supermarket dan menemukan sebungkus tisu. Ia mengetahui bahwa harganya dua جنيه. Ia kemudian menyerahkan dua جنيه tanpa berbicara dan mengambil sebungkus tisu tersebut tanpa berbicara. Tidak ada ucapan akad dari kedua pihak.
+
+Tindakan tersebut disebut المعاطاة. Jadi, المعاطاة adalah الأخذ والعطاء دون كلام, yakni proses mengambil dan memberikan tanpa ucapan, atau البيع والشراء دون كلام, yaitu jual beli yang dilakukan tanpa ucapan.
+
+Dosen sempat memberikan teguran bernada humor kepada mahasiswa yang tidak memperhatikan penjelasan sebelumnya, kemudian meminta mahasiswa lain menjelaskan kembali pengertian المعاطاة. Penjelasan tersebut tetap menegaskan bahwa المعاطاة bukan berarti tidak ada akad, melainkan akad dilakukan melalui tindakan dan bukan melalui الصيغة اللفظية.
+
+Dengan demikian, perbedaan antara jual beli biasa yang dilakukan dengan ucapan dan المعاطاة terletak pada cara terjadinya الصيغة. Dalam jual beli yang menggunakan صيغة لفظية, pihak-pihak mengucapkan ungkapan seperti بعت dan اشتريت. Dalam المعاطاة, tidak ada ucapan tersebut; yang ada adalah tindakan mengambil dan memberikan barang serta harga.
+
+PEMBAHASAN TENTANG “نقد” DAN CONTOH PERTUKARAN BARANG
+
+Dalam bagian lain dari penjelasan kelas, dosen menerangkan istilah نقد. Menurut penjelasan yang diberikan, نقد berarti sesuatu yang dapat dijadikan harga atau alat pembayaran atas barang.
+
+Contoh yang disebutkan adalah دراهم، دنانير، جنيهات، دولارات, dan دينارات. Jadi, tidak disyaratkan harus satu jenis mata uang tertentu. Yang dimaksud adalah mata uang yang berlaku dan digunakan oleh masyarakat. Setiap عملة رائجة, yaitu mata uang yang beredar dan dipakai oleh masyarakat sebagai alat pembayaran, dapat menjadi نقد.
+
+Pembahasan kemudian beralih kepada contoh pertukaran dengan hewan. Dosen memberikan contoh seseorang yang memiliki tiga ekor kambing. Kata yang digunakan adalah شياه, yang merupakan bentuk jamak dari شاة. Jadi, tiga ekor kambing disebut ثلاث شياه.
+
+Kemudian terdapat seseorang yang berdagang sapi. Harga seekor sapi menurut harga yang biasa digunakan dalam contoh adalah empat ekor kambing. Namun seseorang yang memiliki tiga kambing mendatangi pedagang tersebut dan sepakat untuk memperoleh satu ekor sapi hanya dengan tiga ekor kambing. Pedagang sapi tersebut menyetujui transaksi itu.
+
+Dalam penjelasan dosen, hal yang sangat penting adalah التراضي بين الطرفين, yaitu adanya kerelaan atau persetujuan antara kedua belah pihak. Karena pihak penjual rela menerima tiga ekor kambing untuk sapi tersebut dan pembeli juga rela dengan pertukaran tersebut, maka dalam konteks contoh yang diberikan, persoalan utamanya adalah adanya kerelaan kedua belah pihak.
+
+Dosen kemudian memberikan contoh lain yang merupakan gabungan antara pertukaran barang dan pembayaran dengan uang. Misalnya harga seekor sapi adalah empat ekor kambing, kemudian seseorang melakukan pertukaran dengan tiga ekor kambing dan melengkapi kekurangan nilainya dengan uang.
+
+Dalam keadaan tersebut, transaksi tidak hanya dapat dilihat sebagai مقايضة atau barter murni. Dosen menjelaskan bahwa transaksi tersebut menggabungkan dua bentuk: المقايضة dan البيع.
+
+Bagian yang ditukar dengan tiga ekor kambing merupakan مقايضة, karena barang ditukar dengan barang. Sedangkan bagian nilai yang dilengkapi dengan uang merupakan بيع مطلق, yaitu bagian transaksi yang berhadapan dengan harga berupa uang.
+
+Dengan demikian, dalam satu transaksi dapat terkumpul dua bentuk sekaligus: sebagian merupakan المقايضة dan sebagian merupakan البيع. Bagian yang مقابل dengan tiga ekor kambing merupakan barter, sedangkan bagian yang مقابل dengan harga uang merupakan jual beli.
+
+PENEGASAN KEMBALI TENTANG PERBEDAAN البيع DAN المعاطاة
+
+Menjelang akhir pembahasan, dosen kembali menegaskan bahwa المعاطاة tetap merupakan jual beli. Perbedaannya bukan pada apakah transaksi tersebut jual beli atau bukan, melainkan pada bagaimana transaksi tersebut dilakukan.
+
+Jual beli pada umumnya dapat dilakukan dengan ucapan seperti بعت dan اشتريت. Adapun المعاطاة dilakukan melalui tindakan. Seseorang mengambil barang dan memberikan harga tanpa berbicara.
+
+Karena itu, المعاطاة adalah بيع بالفعل, yaitu jual beli yang dilakukan melalui perbuatan, bukan بيعًا بالصيغة اللفظية, yaitu jual beli yang dilakukan melalui formula verbal.
+
+Dosen kemudian menyatakan bahwa pembahasan mengenai شروط الصيغة اللفظية belum dilanjutkan secara lengkap pada pertemuan tersebut. Ia memilih mencukupkan pembahasan karena ini merupakan المحاضرة الأولى. Dosen mengatakan bahwa materi akan dijelaskan secara bertahap agar mahasiswa tidak mengalami kelelahan dalam memahami materi.
+
+Pertemuan berikutnya akan dilanjutkan pada waktu dan tempat yang sama. Dalam penjelasan kelas, mata kuliah tersebut adalah فقه المعاملات dan jadwal yang disebutkan adalah setiap minggu pada waktu yang sama, sekitar pukul sembilan sampai sebelas pagi.
+
+Dosen juga menjelaskan bahwa apabila terjadi keterlambatan, hal itu disebabkan ia datang dari daerah yang jauh dan berangkat setelah صلاة الفجر, sehingga perjalanan dan transportasi dapat menyebabkan keterlambatan.
+
+Pada akhir kelas, dosen menanyakan apakah masih terdapat permasalahan atau bagian yang belum dipahami. Setelah tidak ada persoalan yang diajukan, pembahasan ditutup.
+
+Inti alur materi pada pertemuan ini bergerak dari pembagian jual beli berdasarkan harga dan cara penyerahannya menuju pembahasan tentang rukun akad. Pertama, بيوع الأمانة dijelaskan melalui المرابحة، والتولية، والوضيعة, dengan penekanan pada kejujuran penjual mengenai الثمن الأول. Setelah itu jual beli dibagi berdasarkan cara penyerahan menjadi البيع المنجز أو الحال, بيع مؤجل الثمن, بيع مؤجل المثمن seperti السلم والاستصناع, serta بيع مؤجل العوضين yang disebut بيع الدين بالدين dan dinyatakan tidak diperbolehkan.
+
+Selanjutnya pembahasan berpindah kepada أركان عقد البيع. Di sini ditampilkan perbedaan antara الحنفية dan الجمهور. Hanafiyah menyebut الصيغة sebagai satu-satunya rukun, sedangkan الجمهور menyebut العاقدان، والمعقود عليه، والصيغة, yang jika dirinci menjadi البائع، والمشتري، والثمن، والمثمن، والإيجاب، والقبول. Perbedaan tersebut kemudian dijelaskan sebagai خلاف شكلي karena unsur-unsur yang disebut oleh jumhur pada dasarnya sudah tercakup dalam konsep الصيغة menurut Hanafiyah.
+
+Pembahasan kemudian difokuskan pada الصيغة. الصيغة dapat berlangsung melalui القول، والفعل، والكتابة، والإشارة. Bentuk الفعل dijelaskan melalui المعاطاة, yaitu jual beli melalui tindakan mengambil dan memberikan tanpa ucapan. Setelah itu dibahas secara khusus الصيغة القولية berupa الإيجاب والقبول, termasuk perbedaan definisi antara الجمهور dan الحنفية. Menurut الجمهور, ucapan penjual adalah ijab dan ucapan pembeli adalah kabul tanpa melihat siapa yang berbicara terlebih dahulu. Menurut الحنفية, ucapan pertama adalah ijab dan ucapan kedua adalah kabul tanpa melihat siapa yang mengucapkannya.
+
+Materi kemudian dilengkapi dengan contoh-contoh praktis tentang المعاطاة, نقد, pertukaran kambing dengan sapi, serta transaksi yang menggabungkan المقايضة dan البيع. Pada akhirnya dosen menghentikan pembahasan sebelum masuk lebih jauh ke شروط الصيغة اللفظية, karena pertemuan tersebut merupakan pertemuan pertama dan materi akan dilanjutkan pada pertemuan-pertemuan berikutnya.
+```

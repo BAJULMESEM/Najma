@@ -14,7 +14,13 @@
         {
           "name": "FIKIH",
           "type": "folder",
-          "children": []
+          "children": [
+            {
+              "name": "1.txt",
+              "type": "file",
+              "path": "texts/LITERAL MUHADOROH/FIKIH/1.txt"
+            }
+          ]
         },
         {
           "name": "HADITS TAHLILI",
@@ -103,7 +109,13 @@
         {
           "name": "FIKIH",
           "type": "folder",
-          "children": []
+          "children": [
+            {
+              "name": "1.txt",
+              "type": "file",
+              "path": "texts/PELAJARAN/FIKIH/1.txt"
+            }
+          ]
         },
         {
           "name": "hadits tahlili",
