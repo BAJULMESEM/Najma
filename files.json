@@ -3,6 +3,27 @@
   "type": "folder",
   "children": [
     {
+      "name": "KITAB",
+      "type": "folder",
+      "children": [
+        {
+          "name": "ENSIK MANTIK LOGIKA.link",
+          "type": "link",
+          "url": "https://notebook.google.com/notebook/828def10-905a-4c99-9820-eefee759adcb"
+        },
+        {
+          "name": "MUQORROR TINGKAT 2.link",
+          "type": "link",
+          "url": "https://drive.google.com/drive/folders/1YkQvu-RFhaC4aM7tRYXygDl62xXYUYfX?usp=drive_link"
+        },
+        {
+          "name": "NOTEBOOK MUQORROR TK2.link",
+          "type": "link",
+          "url": ""
+        }
+      ]
+    },
+    {
       "name": "LITERAL MUHADOROH",
       "type": "folder",
       "children": [
@@ -203,11 +224,6 @@
           "path": "texts/PELAJARAN/1.txt"
         }
       ]
-    },
-    {
-      "name": "MUQORROR TINGKAT 2.link",
-      "type": "link",
-      "url": "https://drive.google.com/drive/folders/1YkQvu-RFhaC4aM7tRYXygDl62xXYUYfX?usp=drive_link"
     }
   ]
 }
