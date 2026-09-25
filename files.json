@@ -196,18 +196,18 @@
               "path": "texts/PELAJARAN/ulumul quran/1.txt"
             }
           ]
+        },
+        {
+          "name": "1.txt",
+          "type": "file",
+          "path": "texts/PELAJARAN/1.txt"
         }
       ]
     },
     {
-      "name": "1.txt",
-      "type": "file",
-      "path": "texts/1.txt"
-    },
-    {
-      "name": "New Dokumen Teks.txt",
-      "type": "file",
-      "path": "texts/New Dokumen Teks.txt"
+      "name": "google.link",
+      "type": "link",
+      "url": "Google.com"
     }
   ]
 }

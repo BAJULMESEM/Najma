@@ -11,7 +11,10 @@ def build_tree(folder: Path):
     if not folder.exists():
         folder.mkdir(parents=True)
 
-    entries = sorted(folder.iterdir(), key=lambda p: (p.is_file(), p.name.lower()))
+    entries = sorted(
+        folder.iterdir(),
+        key=lambda p: (p.is_file(), p.name.lower())
+    )
 
     for path in entries:
         if path.name.startswith("."):
@@ -32,14 +35,6 @@ def build_tree(folder: Path):
                 "path": relative
             })
 
-        elif path.suffix.lower() == ".link":
-            url = path.read_text(encoding="utf-8").strip()
-            children.append({
-                "name": path.name,
-                "type": "link",
-                "url": url
-            })
-
     return children
 
 tree = {
@@ -54,25 +49,19 @@ OUTPUT.write_text(
 )
 
 def count_items(node):
-    files = folders = links = 0
-
+    files = folders = 0
     for child in node.get("children", []):
         if child["type"] == "file":
             files += 1
-        elif child["type"] == "link":
-            links += 1
         else:
             folders += 1
-            f, d, l = count_items(child)
+            f, d = count_items(child)
             files += f
             folders += d
-            links += l
+    return files, folders
 
-    return files, folders, links
-
-files, folders, links = count_items(tree)
+files, folders = count_items(tree)
 
 print("files.json berhasil diperbarui.")
 print(f"Folder: {folders}")
 print(f"File .txt: {files}")
-print(f"File .link: {links}")
