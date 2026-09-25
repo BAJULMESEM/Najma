@@ -207,7 +207,7 @@
     {
       "name": "google.link",
       "type": "link",
-      "url": "Google.com"
+      "url": "https://www.google.com/"
     }
   ]
 }
