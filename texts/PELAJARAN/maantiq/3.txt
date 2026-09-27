@@ -1,0 +1,1186 @@
+# القضية وأقسامها وأجزاؤها
+
+## 1. Awal pembahasan: dari التصورات menuju التصديقات
+
+Pembahasan ini memasuki **المقصد الثاني في التصديقات**, setelah sebelumnya selesai dibahas **المقصد الأول في التصورات**. Sebagaimana dijelaskan dalam pelajaran, ilmu التصديقات juga mempunyai مبادئ dan مقاصد. مبادئ التصديقات adalah **القضايا وأقسامها وأحكامها**, sedangkan مقاصدnya adalah pembahasan tentang **القياس** dan pembahasan lanjutan yang disebut dalam pelajaran sebagai **الحرج**. Karena مقاصد bergantung kepada مبادئ, maka pembahasan tentang القضايا didahulukan.
+
+Teks yang digunakan dalam pelajaran adalah teks **التهذيب**, dengan penjelasan yang dikaitkan dengan dua pembahasan/kitab yang disebutkan dalam kelas, yaitu **التهذيب للقبيصي** dan **التهذيب للسعد**. Pengajar juga menjelaskan bahwa yang sedang memberikan syarah terhadap teks tersebut adalah فضل الله atau عبيد الله القبيصي, sementara definisi yang dibaca dari teks disebut sebagai definisi yang dikemukakan oleh **السعد**.
+
+Karena teks yang sedang dipelajari sangat ringkas, pengajar menekankan bahwa pembacaan terhadap teks dan komentar-komentarnya dilakukan secara bersamaan. Komentar atau تعليقات dipakai terutama ketika terdapat bagian yang sulit dipahami. Jika teks sudah jelas, komentar berfungsi untuk memastikan dan memperjelas maksudnya. Karena itu mahasiswa diarahkan untuk tetap membaca teks asli, bukan hanya bergantung pada penjelasan dosen.
+
+---
+
+# 2. Pengertian القضية
+
+Definisi yang menjadi titik awal pembahasan adalah:
+
+**القضية قول يحتمل الصدق والكذب لذاته**
+
+Artinya, القضية adalah suatu **قول** yang pada dirinya sendiri dapat dinilai benar atau salah.
+
+Kata **قول** dalam definisi merupakan جنس. Ia mencakup berbagai macam perkataan atau susunan, baik yang berupa lafaz yang diucapkan maupun konsep atau perkataan yang ada dalam pikiran. Dalam penjelasan kelas disebutkan bahwa **القول** dapat mencakup اللفظ المركب maupun المفهوم العقلي المركب. Karena itu, kata tersebut secara awal masih mencakup berbagai bentuk المركب: المركب التقييدي, المركب الإنشائي, المركب الخبري, dan bahkan apa yang disebut sebagai الخبرية المشكوكة.
+
+Barulah bagian **يحتمل الصدق والكذب** berfungsi mengeluarkan sesuatu yang bukan القضية.
+
+Akan tetapi, teks menambahkan keterangan **لذاته**, dan bagian ini mempunyai fungsi penting. Dengan tambahan tersebut, yang dimaksud bukan segala sesuatu yang pada suatu sisi dapat mengandung kemungkinan benar atau salah, melainkan sesuatu yang pada hakikat dirinya memang mempunyai kemungkinan tersebut.
+
+---
+
+# 3. Mengapa harus dikatakan لذاته؟
+
+Pengajar menjelaskan bahwa ada sebagian bentuk الإنشاء yang secara lahiriah bukan خبر, tetapi melalui لازim atau konsekuensi maknanya dapat menunjukkan sesuatu yang berupa خبر.
+
+Misalnya terdapat bentuk الإنشاء yang secara langsung bukan pernyataan yang dapat dinilai benar atau salah. Akan tetapi, apabila dilihat dari لازim maknanya, dapat muncul suatu makna berita yang mungkin benar atau salah. Dalam contoh yang diberikan, suatu ungkapan perintah atau ungkapan tertentu secara bentuk tetap merupakan الإنشاء, tetapi لازim maknanya dapat menunjukkan keadaan batin atau informasi tertentu.
+
+Contoh yang diberikan dalam penjelasan adalah ketika seseorang menggunakan ungkapan seperti perintah atau pertanyaan tertentu yang sebenarnya secara lahiriah merupakan أسلوب إنشائي, tetapi dari makna yang tersirat dapat dipahami bahwa pembicara sedang merasa heran atau mempunyai keadaan tertentu. Makna yang menjadi لازim tersebut mungkin berbentuk مركب خبري dan dapat dinilai benar atau salah, tetapi bentuk الإنشاء itu sendiri tidak memiliki kemungkinan benar-salah tersebut **لذاته**.
+
+Karena itu, tambahan **لذاته** mengeluarkan sesuatu yang hanya mempunyai kemungkinan benar dan salah karena لازim maknanya, bukan karena dirinya sendiri.
+
+---
+
+# 4. Bagaimana dengan berita yang sudah pasti benar atau pasti salah?
+
+Pembahasan berikutnya menyentuh persoalan penting: apakah pernyataan yang sudah pasti benar atau sudah pasti salah masih termasuk القضية, padahal definisi mengatakan bahwa القضية adalah قول يحتمل الصدق والكذب?
+
+Jawabannya: yang dilihat adalah **ذاته**, dengan mengabaikan siapa yang menyampaikan perkataan tersebut.
+
+Misalnya:
+
+**قال الله تعالى: والله إله واحد**  
+atau dalam contoh yang disebutkan dalam pelajaran, ayat:
+
+**وَإِلَهُكُمْ إِلَهٌ وَاحِدٌ**
+
+Jika kita melihat kalimat tersebut dengan memperhatikan bahwa kalimat itu adalah perkataan Allah تعالى, maka kita mengetahui bahwa kalimat tersebut pasti benar. Demikian pula:
+
+**قال رسول الله صلى الله عليه وسلم: إنما الأعمال بالنيات وإنما لكل امرئ ما نوى**
+
+Jika dilihat sebagai perkataan Rasulullah صلى الله عليه وسلم, maka bagi orang yang menerima kebenaran berita tersebut, ia merupakan berita yang pasti benar.
+
+Namun, dalam ilmu المنطق, yang diperhatikan dalam definisi القضية adalah kalimat itu **dengan memotong النظر عن القائل**, yaitu dengan tidak mempertimbangkan siapa yang mengucapkannya. Jika النظر عن القائل dipotong, maka kalimat tersebut pada dirinya merupakan perkataan yang secara zat dapat dinilai benar atau salah.
+
+Dengan demikian, ucapan yang secara faktual sudah diketahui benar atau salah tetap dapat disebut قضية apabila dilihat dari dirinya dan bukan dari kepastian yang diperoleh karena mengetahui sumber atau قائله.
+
+---
+
+# 5. Persoalan الخبرية المشكوكة
+
+Bagian yang cukup panjang dalam pelajaran diberikan untuk menjelaskan masalah **الخبرية المشكوكة**, yaitu susunan berita yang masih diragukan.
+
+Misalnya seseorang mengatakan:
+
+**زيد طائر**
+
+atau:
+
+**الطالب ناجح**
+
+tetapi pendengar tidak mengetahui apakah Zaid benar-benar sedang terbang atau apakah الطالب benar-benar lulus.
+
+Dalam keadaan demikian, muncul keberatan: bukankah kalimat tersebut masih mungkin benar dan mungkin salah? Kalau demikian, mengapa ia tidak masuk dalam definisi القضية?
+
+Jawaban yang diberikan dalam teks adalah bahwa **المحتمل للصدق والكذب هو الحكم**. Kemungkinan benar atau salah berkaitan dengan adanya **حكم**. Agar sesuatu dapat disebut قضية, harus terdapat الحكم di dalamnya.
+
+Menurut penjelasan dosen, ketika seseorang masih benar-benar dalam keadaan شك terhadap suatu perkara, ia belum menetapkan الحكم atas perkara tersebut. Ia belum mengatakan secara pasti bahwa sifat atau predikat tertentu ثابت bagi موضوع, dan juga belum mengatakan bahwa sifat tersebut tidak ثابت.
+
+Contohnya, apabila seseorang berkata:
+
+**الطالب ناجح**
+
+sementara ia hanya mengatakan, "Saya belum melihat hasilnya; saya tidak tahu apakah dia lulus atau tidak," maka dalam pembahasan ini kalimat tersebut tidak dipandang sebagai قضية yang sesungguhnya, karena belum ada حكم yang ditetapkan.
+
+Begitu seseorang telah memperoleh kepastian dan berkata:
+
+"الطالب ناجح"
+
+dengan telah terbuktinya keberhasilan الطالب, maka telah terjadi الحكم: **ثبت النجاح للطالب**. Pada saat itulah terdapat قضية.
+
+Jadi, yang dimaksud dengan المشكوكة di sini bukan sekadar sebuah kalimat yang secara objektif mungkin benar atau salah, melainkan keadaan ketika belum terdapat الإذعان atau الحكم terhadap salah satu sisi.
+
+---
+
+# 6. Perbedaan antara احتمال dan شك
+
+Dalam pelajaran kemudian dibedakan antara kata **يحتمل** dalam definisi القضية dan **الشك**.
+
+Kata احتمال dalam definisi tidak berarti bahwa orang yang berbicara harus berada dalam keadaan ragu. Maksudnya adalah bahwa perkataan tersebut, pada dirinya, dapat diarahkan kepada salah satu dari dua sisi: **الصدق أو الكذب**.
+
+Contohnya:
+
+**محمد قائم**
+
+Kalimat itu pada dirinya dapat dibenarkan atau didustakan. Seseorang bisa mengatakan bahwa Muhammad berdiri dan orang lain bisa mengatakan bahwa ia tidak berdiri. Kemungkinan yang dimaksud dalam definisi adalah kemungkinan yang melekat pada القول itu sendiri.
+
+Hal tersebut berbeda dengan **الشك**.
+
+Dalam istilah المنطق yang dijelaskan di kelas:
+
+**الشك هو التردد بين أمرين من غير ترجيح**
+
+Artinya, syak adalah keadaan ragu antara dua perkara tanpa adanya ترجیح. Dalam penjelasan sederhana yang diberikan, syak digambarkan seperti 50-50.
+
+Adapun **الظن** adalah keadaan ketika terdapat dua sisi tetapi salah satunya lebih kuat:
+
+**الظن: تردد الطرف الراجح**
+
+sedangkan **الوهم** adalah ketika sisi yang lebih lemah yang menjadi kecenderungan, atau kemungkinan salah satu sisi berada di bawah tingkat yang diberikan kepada sisi lainnya. Dalam penjelasan kelas disebutkan secara ilustratif bahwa الظن berada di atas lima puluh persen, sedangkan الوهم di bawah lima puluh persen.
+
+Namun ketika teks mengatakan bahwa القضية **تحتمل الصدق والكذب**, kata احتمال tidak boleh dipahami sebagai شك. Maksudnya bukan bahwa orang yang mengatakan القضية harus ragu. Maksudnya ialah bahwa القول tersebut secara zat memungkinkan dinisbatkan kepada salah satu dari dua sisi: benar atau salah.
+
+Dengan demikian:
+
+- **احتمال الصدق والكذب** adalah karakteristik القول dari sisi hakikatnya.
+- **الشك** adalah keadaan orang yang belum melakukan الإذعان kepada salah satu sisi.
+
+---
+
+# 7. Mengapa الخبر المشكوك disebut خبر?
+
+Ada persoalan terminologis lain. Dalam sebagian pembahasan, perkara yang masih diragukan disebut **خبر** atau **الخبر المشكوك**. Padahal telah dijelaskan bahwa المشكوك tidak mempunyai الحكم dan karenanya tidak termasuk القضية.
+
+Jawabannya adalah bahwa penyebutan tersebut bersifat **مجازي**, bukan penggunaan hakiki.
+
+Mengapa disebut demikian? Karena dari segi bentuk, susunan المشكوك mempunyai **صورة الخبر**. Ia menyerupai الخبر dalam susunan dan unsur-unsurnya. Ia dapat tersusun seperti:
+
+**المسند والمسند إليه**
+
+atau dalam istilah nahwu, seperti **المبتدأ والخبر**.
+
+Jadi, ketika suatu susunan yang masih مشكوك disebut خبر, penyebutan tersebut bukan berarti ia benar-benar خبر secara hakiki menurut definisi القضية, tetapi merupakan **تسمية مجازية** berdasarkan keserupaan bentuknya dengan الخبر atau karena susunannya mengandung sebagian besar unsur الخبر.
+
+Dalam teks disebutkan bahwa penyebutan seperti itu termasuk tambahan atau penjelasan yang terdapat dalam kitab dan bukan inti dari persoalan المنطق itu sendiri.
+
+---
+
+# 8. Persoalan المتوقف dalam ilmu الكلام
+
+Pengajar kemudian menghubungkan pembahasan tersebut dengan istilah **التوقف** dalam ilmu التوحيد atau ilmu الكلام.
+
+Orang yang tidak menetapkan salah satu dari dua pendapat dan hanya berhenti pada sikap tidak menentukan tidak dianggap mempunyai suatu **مذهب** dalam arti bahwa ia telah menetapkan suatu pendapat.
+
+Kaedah yang disampaikan adalah:
+
+**المتوقف ليس بصاحب مذهب**
+
+Sebab orang yang berhenti belum memutuskan salah satu sisi. Jika dikatakan bahwa "mazhabnya adalah التوقف", maka secara tertentu seolah-olah dikatakan bahwa "pendapatnya adalah ia tidak mengatakan sesuatu". Padahal مذهب atau رأي mengandaikan adanya sesuatu yang ditetapkan.
+
+Karena itu, ketika para ahli kalam mengatakan bahwa seorang متكلم "توقف", maksudnya adalah bahwa ia tidak menetapkan salah satu dari dua sisi tersebut, bukan bahwa التوقف itu sendiri selalu merupakan sebuah pendapat substantif yang dipilihnya.
+
+Hubungan pembahasan ini dengan القضية adalah bahwa **المشكوك** dan keadaan التوقف tidak mengandung حكم yang telah ditetapkan. Karena itu, ia tidak memenuhi syarat القضية menurut definisi yang sedang dijelaskan.
+
+---
+
+# 9. Bagaimana mengetahui bahwa suatu kalimat itu مشكوكة?
+
+Muncul pertanyaan dari mahasiswa: jika yang tertulis di papan hanyalah:
+
+**الطالب ناجح**
+
+bagaimana kita mengetahui apakah kalimat itu merupakan خبر yang telah ditetapkan atau خبر مشكوك?
+
+Jawabannya bergantung pada **القرائن الخارجية** dan konteks orang yang mengucapkannya.
+
+Jika dosen menulis **زيد طائر** di papan, secara tulisan kita melihat susunan tersebut. Namun apakah pembicara sedang menetapkan bahwa Zaid benar-benar terbang, atau hanya menyampaikan suatu dugaan, atau sedang membicarakan sesuatu yang ia sendiri ragukan, hal itu diketahui dari konteks dan keterangan pembicara.
+
+Misalnya seseorang berkata:
+
+"الطالب ناجح."
+
+Kemudian ketika ditanya, "Apakah kamu sudah melihat hasilnya?" ia menjawab, "Belum, tetapi saya menduga dia lulus."
+
+Maka konteks tersebut menunjukkan bahwa pembicara belum memberikan الحكم yang dimaksud dalam القضية.
+
+Jadi, bentuk lahiriah tulisan saja tidak selalu cukup untuk mengetahui status suatu kalimat sebagai مشكوكة; konteks dan keadaan المتكلم dapat menentukan bagaimana perkataan tersebut dipahami.
+
+---
+
+# 10. Pembagian awal القضية: الحملية dan الشرطية
+
+Setelah definisi القضية dan pembahasan mengenai المشكوك selesai, teks memasuki **التقسيم الأولي للقضية**.
+
+Pembagian tersebut adalah:
+
+1. **القضية الحملية**
+2. **القضية الشرطية**
+
+Teks menyatakan bahwa:
+
+Jika الحكم dalam القضية adalah **ثبوت شيء لشيء** atau **نفي شيء عن شيء**, maka القضية disebut **حملية**.
+
+Jika tidak demikian, maka القضية disebut **شرطية**.
+
+Pembagian ini disebut sebagai **حصر** karena القضية dibatasi pada dua bagian tersebut. Dalam penjelasan tentang metode pembagian disebutkan bahwa pembagian ini merupakan **تقسيم استقرائي**, berbeda dengan pembagian yang disebut **تقسيم عقلي**. Pengajar merujuk kepada pembahasan dalam ilmu **آداب البحث والمناظرة**, dan menyebut **رسالة الآداب** yang dinisbatkan kepada الشيخ محمد محيي الدين عبد الحميد sebagai salah satu bacaan yang dapat menjelaskan masalah pembagian tersebut.
+
+Inti pembagiannya adalah: apabila الحكم berada pada bentuk ثبوت atau نفي sesuatu atas sesuatu, maka ia حملية; apabila bukan demikian, maka ia شرطيّة. Karena itu tidak ada bagian ketiga di antara keduanya menurut pembagian yang sedang dipakai.
+
+---
+
+# 11. القضية الحملية: إيجاب dan سلب
+
+القضية الحملية adalah القضية yang di dalamnya terdapat الحكم dengan:
+
+**ثبوت شيء لشيء**
+
+atau:
+
+**نفي شيء عن شيء**
+
+Apabila الحكم berupa ثبوت, maka القضية disebut:
+
+**موجبة**
+
+dan الحكم tersebut disebut **إيقاع**.
+
+Apabila الحكم berupa نفي, maka القضية disebut:
+
+**سالبة**
+
+dan الحكم tersebut disebut **انتزاع**.
+
+Contoh:
+
+**زيد قائم**
+
+Dalam kalimat tersebut, القيام ditetapkan kepada زيد. Maka ia adalah قضية حملية موجبة.
+
+Sebaliknya:
+
+**زيد ليس بقائم**
+
+atau contoh yang diberikan:
+
+**لا شيء من الإنسان بحجر**
+
+di dalamnya terdapat penolakan bahwa الإنسان mempunyai sifat حجر. Maka ia merupakan قضية حملية سالبة.
+
+Jadi:
+
+- ثبوت = إيجاب = إيقاع.
+- نفي = سلب = انتزاع.
+
+---
+
+# 12. Dua طرف dalam القضية الحملية
+
+القضية الحملية mempunyai dua طرف utama:
+
+1. **الموضوع**
+2. **المحمول**
+
+Keduanya merupakan dua bagian pokok yang tidak dapat dihilangkan apabila suatu susunan hendak menjadi قضية حملية.
+
+**الموضوع** adalah **المحكوم عليه**, yaitu sesuatu yang menjadi tempat dikenakannya الحكم.
+
+**المحمول** adalah **المحكوم به**, yaitu sesuatu yang dihukumi atau dinisbatkan kepada الموضوع.
+
+Contohnya:
+
+**زيد قائم**
+
+maka:
+
+- زيد = الموضوع / المحكوم عليه.
+- قائم = المحمول / المحكوم به.
+
+Mengapa disebut **موضوع**? Karena ia "diletakkan" untuk menjadi tempat yang akan dibebani atau dikenai المحمول. Dalam penjelasan kelas, hal tersebut diibaratkan seperti sesuatu yang diletakkan sebagai tempat untuk membawa sesuatu yang lain.
+
+Mengapa المحمول disebut **محمول**? Karena ia "dibawa" atau dikenakan kepada الموضوع.
+
+Pengajar juga menjelaskan bahwa الموضوع dipandang lebih utama atau lebih tinggi kedudukannya daripada المحمول dalam struktur tersebut, karena المحمول dibawa dan dikenakan kepada الموضوع. Contohnya, dalam "زيد قائم", زيد adalah yang menjadi sasaran pembicaraan, sementara "قائم" dinisbatkan kepadanya.
+
+---
+
+# 13. الموضوع adalah أفراد, sedangkan المحمول adalah مفهوم
+
+Salah satu penjelasan penting yang diberikan dosen adalah bahwa ketika kita mengatakan:
+
+**زيد قائم**
+
+yang menjadi موضوع adalah فرد, yaitu Zaid tertentu, sedangkan المحمول adalah مفهوم, yaitu konsep "berdiri".
+
+Jadi tidak tepat memahami الحكم sebagai الحكم atas "konsep" dengan "konsep", atau فرد dengan فرد secara sembarangan.
+
+Dijelaskan:
+
+- الموضوع berkaitan dengan **الأفراد**.
+- المحمول berkaitan dengan **المفهوم**.
+
+Karena itu, kalimat seperti:
+
+**زيد محمد**
+
+tidak dapat diperlakukan begitu saja sebagai contoh normal bagi حملية yang sedang dibahas, sebab ia akan tampak sebagai penghakiman فرد atas فرد.
+
+Demikian pula tidak tepat:
+
+**قائم قائم**
+
+karena itu seperti menghubungkan konsep dengan konsep.
+
+Contoh yang tepat adalah:
+
+**زيد قائم**
+
+karena terdapat فرد sebagai موضوع dan مفهوم sebagai محمول.
+
+Pengajar menegaskan bahwa penjelasan lebih rinci mengenai hubungan الموضوع dengan الأفراد dan المحمول dengan المفهوم akan datang pada pembahasan berikutnya, sehingga mahasiswa diminta tidak tergesa-gesa masuk ke pembahasan lanjutan.
+
+---
+
+# 14. مفرد بالفعل dan مفرد بالقوة
+
+القضية الحملية tidak mengharuskan setiap طرف hanya terdiri dari satu kata secara lahiriah. Kedua طرف dapat berupa:
+
+**مفرد بالفعل**
+
+atau:
+
+**مفرد بالقوة**
+
+Contoh paling sederhana:
+
+**الإنسان كاتب**
+
+Kedua طرف hanya satu kata secara lahiriah:
+
+- الإنسان
+- كاتب
+
+maka keduanya مفردان بالفعل.
+
+Namun dapat pula digunakan contoh:
+
+**الحيوان الناطق ينتقل بنقل القدمين**
+
+Dalam contoh tersebut, **الحيوان الناطق** terdiri dari lebih dari satu kata, tetapi secara fungsi ia menjadi satu طرف. Demikian pula bagian **ينتقل بنقل القدمين** terdiri dari beberapa kata, tetapi diperlakukan sebagai satu طرف dalam struktur الحملية.
+
+Mengapa **الحيوان الناطق** disebut مفرد بالقوة?
+
+Karena meskipun tersusun dari beberapa kata, ia tidak memberikan فائدة تامة yang memungkinkan seseorang berhenti di situ. Dari sudut nahwu, **الحيوان الناطق** dapat menjadi مبتدأ, tetapi belum menjadi كلام تام karena masih membutuhkan خبر.
+
+Apabila dikatakan:
+
+**الحيوان الناطق منتقل بنقل القدمين**
+
+maka "الحيوان الناطق" menjadi الموضوع, sedangkan "منتقل بنقل القدمين" menjadi المحمول.
+
+Dalam analisis nahwu, **الحيوان الناطق** dapat menjadi مبتدأ, sedangkan bagian berikutnya menjadi خبر. Meskipun secara lahiriah terdiri dari beberapa kata, keseluruhan bagian tersebut berfungsi sebagai satu طرف.
+
+Karena itu, istilah مفرد di sini bukan semata-mata berarti "satu kata secara fisik", tetapi juga dapat berarti bahwa bagian tersebut berada **في قوة المفرد**.
+
+---
+
+# 15. Mengapa tidak disebut saja مركب ناقص?
+
+Ada pertanyaan apakah susunan seperti **الحيوان الناطق** boleh disebut **مركب ناقص**.
+
+Pengajar mengakui bahwa dari sisi tertentu dapat disebut demikian, tetapi memilih untuk menyebutnya مفرد بالقوة agar tidak terjadi kerancuan antara القضية الحملية dan القضية الشرطية.
+
+Dalam pelajaran sebelumnya telah dijelaskan bahwa المركب adalah sesuatu yang memberikan **فائدة يحسن السكوت عليها**. Jika suatu susunan terdiri dari beberapa kata tetapi belum memberikan faedah sempurna yang dapat menjadi tempat berhenti, maka ia belum menjadi المركب التام.
+
+Karena itu:
+
+**الحيوان الناطق**
+
+belum memberikan فائدة يحسن السكوت عليها. Ia masih membutuhkan خبر. Maka dalam struktur الحملية ia diperlakukan sebagai satu طرف, yakni مفرد بالقوة.
+
+Pengajar mengatakan bahwa penggunaan istilah ini sengaja dilakukan supaya pembahasan tidak menjadi ambigu dan supaya حملية tidak tercampur dengan شرطيّة.
+
+---
+
+# 16. Hubungan dengan definisi المركب dalam nahwu
+
+Muncul pula penjelasan bahwa dalam ilmu nahwu, خبر مفرد tidak selalu berarti satu kata secara mutlak dalam setiap konteks pembahasan, melainkan terdapat definisi tertentu seperti sesuatu yang bukan جملة dan bukan شبه جملة.
+
+Namun dalam pembahasan المنطق, ukuran yang diperhatikan adalah apakah susunan tersebut telah memberikan فائدة yang sempurna.
+
+Diberikan contoh:
+
+**الحيوان الناطق**
+
+tidak memberikan فائدة yang sempurna.
+
+Sedangkan:
+
+**الحيوان الناطق ينتقل بنقل القدمين**
+
+telah memberikan hubungan lengkap antara موضوع dan محمول.
+
+Karena itu, perbedaan antara "terdiri dari beberapa kata" dan "menjadi satu طرف" harus selalu diperhatikan.
+
+---
+
+# 17. Tiga bagian القضية الحملية
+
+Setelah membahas الموضوع dan المحمول, teks masuk ke bagian ketiga, yaitu:
+
+**النسبة الحكمية**
+
+Jadi secara lengkap القضية الحملية terdiri dari tiga hal:
+
+1. **الموضوع**
+2. **المحمول**
+3. **النسبة الحكمية**
+
+النسبة الحكمية adalah hubungan atau nisbah yang menghubungkan المحمول dengan الموضوع.
+
+Misalnya:
+
+**زيد قائم**
+
+bukan hanya terdapat مفهوم زيد dan مفهوم قائم. Harus ada pula hubungan bahwa sifat قيام dinisbatkan kepada زيد.
+
+Jika hanya ditulis:
+
+**زيد محمد**
+
+maka, sebagaimana dijelaskan di kelas, belum tentu ada النسبة الحكمية yang dimaksud. Sebaliknya, dalam:
+
+**زيد قائم**
+
+terdapat nisbah antara القيام dan زيد.
+
+Dengan demikian, المحمول tidak berdiri sendiri; ia dihubungkan kepada الموضوع melalui النسبة الحكمية.
+
+---
+
+# 18. النسبة adalah أمر معقول
+
+النسبة الحكمية bukan sesuatu yang berdiri sendiri sebagai sebuah benda yang dapat ditunjuk secara langsung. Ia merupakan sesuatu yang **معقول** dan dipahami melalui hubungan antara الموضوع dan المحمول.
+
+Contohnya, ketika seseorang mengatakan:
+
+**زيد قائم**
+
+kita memahami adanya nisbah bahwa قيام berlaku bagi زيد. Kita tidak harus mengucapkan kata khusus untuk hubungan tersebut agar hubungan itu dipahami.
+
+Dengan demikian, النسبة dapat:
+
+- dipahami tetapi tidak diungkapkan dengan lafaz tertentu;
+- atau diungkapkan dengan suatu lafaz yang menunjukkan hubungan tersebut.
+
+Jika tidak ada lafaz khusus untuk النسبة, القضية tetap dapat dipahami sebagai حملية ثنائية dari sisi lafaznya, karena yang tampak hanya الموضوع dan المحمول.
+
+---
+
+# 19. الرابطة
+
+Jika النسبة الحكمية diungkapkan dengan suatu lafaz yang menunjukkan hubungan antara الموضوع dan المحمول, lafaz tersebut disebut **رابطة**.
+
+Pengajar menekankan bahwa lafaz yang disebut رابطة itu sendiri sebenarnya bukan hubungan yang sesungguhnya. Ia hanyalah **دال على النسبة**.
+
+Karena itu, ketika dikatakan bahwa lafaz tersebut adalah رابطة, itu merupakan bentuk **تسمية الدال باسم المدلول**.
+
+Misalnya:
+
+**زيد هو قائم**
+
+Kata **هو** menunjukkan hubungan antara زيد dan قائم.
+
+Demikian pula:
+
+**زيد كان قائما**
+
+kata **كان** menunjukkan adanya hubungan tersebut dalam bentuk tertentu.
+
+Namun hubungan yang sebenarnya adalah **النسبة الحكمية**, sedangkan "هو" dan "كان" hanyalah lafaz yang menunjukkan hubungan tersebut.
+
+---
+
+# 20. Mengapa disebut رابطة padahal bukan الرابط yang sebenarnya?
+
+Pengajar memberikan analogi untuk membedakan sesuatu dengan sesuatu yang menunjukkan sesuatu.
+
+Misalnya manusia tidak melihat "السعادة" sebagai suatu benda secara langsung. Yang dilihat adalah آثار السعادة. Dengan demikian, sesuatu yang terlihat menunjukkan kepada sesuatu yang tidak terlihat secara langsung.
+
+Demikian pula:
+
+**هو**
+
+bukan النسبة نفسها. Ia hanya menunjukkan adanya النسبة.
+
+Jadi:
+
+- النسبة الحكمية = hubungan yang bersifat معنوي dan معقول.
+- هو / كان dan bentuk lain = lafaz yang يدل على هذه النسبة.
+
+Karena lafaz tersebut disebut berdasarkan sesuatu yang ditunjukkannya, maka penggunaan istilah رابطة pada lafaz tersebut merupakan **استعارة** atau penggunaan مجازي.
+
+Teks mengatakan:
+
+**وقد استعير لها لفظة هو**
+
+Maksudnya, lafaz "هو" dipinjamkan penggunaannya untuk menunjukkan الرابط.
+
+---
+
+# 21. رابطة dapat berbentuk اسم atau فعل
+
+Rابطة secara makna adalah sesuatu yang tidak independen dalam الدلالة, karena maknanya bergantung pada طرفين yang dihubungkannya.
+
+Karena itu, dari sisi makna, ia menyerupai **أداة**.
+
+Namun dari sisi قالب lafaz, ia dapat muncul dalam bentuk yang secara nahwu disebut اسم atau فعل.
+
+Contoh:
+
+**زيد هو عالم**
+
+Lafaz **هو** secara bentuk merupakan اسم.
+
+Contoh lain:
+
+**زيد كان قائما**
+
+Lafaz **كان** berbentuk فعل.
+
+Akan tetapi, dalam ilmu المنطق, keduanya dapat berfungsi sebagai penanda hubungan.
+
+Pengajar juga memberikan contoh dari bahasa lain. Dalam bahasa Inggris, kata:
+
+**is**
+
+atau:
+
+**was**
+
+dapat menunjukkan hubungan semacam itu.
+
+Dalam pelajaran bahkan disebutkan suatu lafaz asing seperti **أس**, yang dijelaskan sebagai kata Persia yang dapat digunakan untuk menggantikan fungsi hubungan seperti "هو" dalam bahasa Arab. Maksud pembahasan tersebut adalah bahwa الرابطة tidak terbatas pada satu lafaz tertentu; setiap lafaz yang menunjukkan hubungan dapat berfungsi sebagai penanda الرابط.
+
+---
+
+# 22. القضية الثنائية والثلاثية
+
+Berdasarkan apakah الرابطة disebutkan secara eksplisit atau tidak, القضية الحملية dapat dilihat sebagai:
+
+**ثنائية**
+
+atau:
+
+**ثلاثية**
+
+Jika hanya disebut:
+
+**زيد قائم**
+
+maka yang tampak hanya:
+
+- الموضوع: زيد
+- المحمول: قائم
+
+Hubungannya dipahami secara langsung dan tidak diungkapkan dengan lafaz khusus. Maka dari sisi penyebutan bagian-bagiannya, القضية disebut **ثنائية**.
+
+Namun jika dikatakan:
+
+**زيد هو قائم**
+
+maka selain الموضوع dan المحمول terdapat lafaz yang menunjukkan الرابطة, sehingga disebut **ثلاثية**.
+
+Jadi الرابطة secara makna selalu dibutuhkan untuk menghubungkan الموضوع dan المحمول, tetapi lafaz yang menunjukkannya tidak selalu disebutkan.
+
+---
+
+# 23. Belajar dengan bentuk lengkap sebelum menggunakan اختصار
+
+Pengajar menggunakan prinsip pedagogis untuk menjelaskan mengapa pada tahap awal pembelajaran lebih baik hubungan-hubungan tersebut disebutkan secara lengkap.
+
+Ia memberi contoh pengalaman belajar bahasa asing. Ketika belajar bahasa Inggris, guru pada tahap awal melarang murid menggunakan اختصار. Murid diminta mengatakan secara lengkap:
+
+**my name is ...**
+
+dan tidak langsung memakai bentuk singkatan.
+
+Tujuannya adalah agar seseorang memahami struktur secara sempurna terlebih dahulu. Setelah ia menguasai bahasa atau ilmu tersebut, ia boleh menggunakan bentuk اختصار.
+
+Prinsip yang sama diterapkan pada المنطق. Pada awal pembelajaran, lebih baik mahasiswa memahami secara jelas:
+
+**زيد هو قائم**
+
+dan mengetahui mana الموضوع, mana المحمول, dan mana الرابطة. Setelah sudah menguasai struktur tersebut, barulah dapat menggunakan bentuk ringkas:
+
+**زيد قائم**
+
+Pengajar juga menyebut bahwa dalam beberapa catatan ahli logika digunakan اختصار tertentu seperti **كف** untuk menunjukkan **كلية موجبة**, tetapi bentuk-bentuk semacam itu sebaiknya digunakan setelah seseorang sudah benar-benar menguasai dasar-dasarnya.
+
+---
+
+# 24. القضية الشرطية
+
+Setelah selesai menjelaskan الحملية, teks beralih kepada **القضية الشرطية**.
+
+Jika القضية tidak merupakan الحكم بثبوت شيء لشيء atau نفي شيء عن شيء, maka ia masuk dalam القسم الثاني, yaitu الشرطية.
+
+القضية الشرطية tidak menetapkan langsung suatu المحمول atas موضوع. Sebaliknya, ia menetapkan suatu hubungan atau menafikan suatu hubungan berdasarkan kondisi atau nisbah lain.
+
+Dalam penjelasan disebutkan bahwa الشرطية dapat mengandung makna **التعليل** atau pengaitan.
+
+Contoh:
+
+**كلما كانت الشمس طالعة كان النهار موجودا**
+
+Di sini tidak dikatakan bahwa "الشمس" merupakan موضوع dan "النهار" merupakan محمول dengan cara القضية الحملية. Yang dilakukan adalah menghubungkan dua القضية:
+
+- الشمس طالعة
+- النهار موجود
+
+dengan hubungan tertentu.
+
+Begitu pula:
+
+**كلما ذاكرت نجحت**
+
+Maksudnya adalah keberhasilan dikaitkan dengan keadaan atau فرض adanya المذاكرة.
+
+Maka الشرطية merupakan الحكم بثبوت نسبة أو نفيها على تقدير نسبة أخرى, bukan sekadar الحكم بثبوت شيء لشيء.
+
+---
+
+# 25. طرفا القضية الشرطية
+
+Untuk memahami الشرطية, القضية tersebut diuraikan menjadi dua bagian.
+
+Bagian pertama disebut:
+
+**المقدم**
+
+dan bagian kedua disebut:
+
+**التالي**
+
+Disebut **مقدما** karena bagian tersebut berada di depan atau mendahului dalam penyebutan.
+
+Disebut **تاليا** karena mengikuti bagian pertama.
+
+Contoh:
+
+**كلما كانت الشمس طالعة كان النهار موجودا**
+
+Jika kata penghubung seperti "كلما" dan "كان" dihilangkan dalam analisis, kita melihat dua bagian:
+
+**الشمس طالعة**
+
+dan:
+
+**النهار موجود**
+
+Keduanya bukan مفرد seperti طرف dalam الحملية, tetapi merupakan susunan yang mempunyai bentuk lengkap.
+
+Karena itu, ketika ditanya apakah **الشمس طالعة** merupakan مفرد, jawabannya tidak. Ia merupakan مركب, sebab ia memberikan فائدة yang dapat dipahami sebagai كلام.
+
+---
+
+# 26. Perbedaan الحملية dan الشرطية dari sisi طرف
+
+Dalam الحملية, طرفnya berupa مفرد بالفعل atau مفرد بالقوة.
+
+Contoh:
+
+**زيد قائم**
+
+atau:
+
+**الحيوان الناطق منتقل بنقل القدمين**
+
+Sedangkan dalam الشرطية, bagian-bagiannya dapat berupa jumlah atau susunan yang masing-masing mempunyai struktur sempurna.
+
+Contoh:
+
+**الشمس طالعة**
+
+adalah satu bagian, dan:
+
+**النهار موجود**
+
+adalah bagian lainnya.
+
+Karena itu pengajar menekankan agar mahasiswa tidak menyebut bagian الشرطية sebagai مفرد hanya karena keseluruhan القضية dianggap sebagai satu unit. Masing-masing طرف الشرطية dapat berupa مركب.
+
+---
+
+# 27. Mengapa الحملية hanya mempunyai dua bagian utama, sedangkan الرابطة adalah bagian ketiga?
+
+Dalam pembahasan القضية الحملية disebutkan bahwa terdapat tiga unsur:
+
+**الموضوع، المحمول، النسبة**
+
+Namun الموضوع dan المحمول merupakan dua unsur yang secara pokok tidak dapat dihilangkan. الرابطة berbeda, sebab hubungan itu bisa saja hanya dipahami secara معنوي tanpa adanya lafaz yang mengungkapkannya.
+
+Karena itu:
+
+**زيد قائم**
+
+tetap قضية meskipun tidak ada lafaz "هو".
+
+Adapun:
+
+**زيد هو قائم**
+
+mengungkapkan hubungan tersebut secara eksplisit sehingga tampak tiga bagian dalam susunan lafaz.
+
+Jadi pembagian ثنائية dan ثلاثية berkaitan dengan apakah الرابطة dinyatakan secara لفظية, bukan berarti bahwa القضية الحملية secara makna dapat sepenuhnya terlepas dari hubungan antara الموضوع dan المحمول.
+
+---
+
+# 28. Isyarat tentang النسبة الخارجية dan النسبة الحكمية
+
+Pengajar kemudian membahas penggunaan istilah **النسبة**.
+
+Kata النسبة dapat digunakan dalam beberapa pengertian. Ada النسبة yang berkaitan dengan keadaan luar atau hubungan objektif, dan ada **النسبة الحكمية** yang berkaitan dengan الحكم.
+
+Tidak setiap hubungan yang dipahami dalam الواقع otomatis menjadi قضية.
+
+Misalnya seseorang mengetahui:
+
+**محمد قائم**
+
+dan ia memahami محمد sebagai seseorang serta قيام sebagai keadaan yang dinisbatkan kepadanya. Tetapi jika belum ada **إذعان** atau penerimaan terhadap الحكم tersebut, maka belum terbentuk التصديق sebagaimana yang dimaksud.
+
+Dalam penjelasan dikatakan bahwa apabila terdapat الإذعان terhadap النسبة, maka terjadi تصديق; jika tidak ada الإذعان, maka belum terjadi التصديق.
+
+Dengan demikian, النسبة yang menjadi dasar القضية dalam pembahasan ini adalah **النسبة الحكمية**, bukan sekadar hubungan yang dipahami secara eksternal.
+
+---
+
+# 29. القضية tidak hanya ditentukan oleh تصور dua طرف
+
+Pembahasan ini juga berhubungan dengan perbedaan antara التصور dan التصديق.
+
+Dalam القضية terdapat unsur-unsur تصور, tetapi sekadar memiliki dua تصور tidak cukup. Harus terdapat hubungan الحكم atau الإذعان.
+
+Misalnya seseorang memiliki تصور tentang:
+
+- محمد
+- قائم
+
+Tetapi hanya mengetahui dua konsep tersebut tidak berarti ia telah melakukan تصديق.
+
+Ia baru sampai kepada التصديق ketika terdapat الحكم atau الإذعان bahwa قيام ثابت لمحمد.
+
+Dengan demikian, القضية berkaitan dengan struktur yang mengandung الحكم, bukan sekadar kumpulan dua تصور.
+
+---
+
+# 30. Pengingat tentang المركب والخبر
+
+Dalam penjelasan mengenai المفرد dan المركب, pengajar kembali kepada kaidah bahwa:
+
+**المركب ما أفاد فائدة يحسن السكوت عليها**
+
+Jika suatu susunan tidak memberikan faedah yang memungkinkan seseorang berhenti padanya, maka ia tidak diperlakukan sebagai المركب التام.
+
+Karena itu:
+
+**الحيوان الناطق**
+
+belum menjadi كلام تام.
+
+Sedangkan:
+
+**الحيوان الناطق منتقل بنقل القدمين**
+
+telah mempunyai hubungan yang lengkap.
+
+Hal ini menjelaskan mengapa suatu bagian dapat terdiri dari beberapa kata tetapi tetap disebut **مفرد بالقوة** dalam analisis المنطق.
+
+---
+
+# 31. Kisah الإمام صفي الدين الهندي
+
+Di tengah pembahasan, pengajar memberikan sebuah cerita yang berkaitan dengan **صفي الدين الهندي**.
+
+Ia disebut sebagai salah seorang ulama Asy'ariyah yang kuat dalam perdebatan dan terkenal memiliki hujjah yang kuat. Namun ia juga terkenal memiliki tulisan tangan yang buruk.
+
+Dalam beberapa perdebatan, ketika lawannya tidak mampu mengalahkannya dalam argumentasi, lawan tersebut mengejek tulisan tangannya. Mereka mengatakan bahwa tidak ada sesuatu yang lebih buruk daripada tulisan tangannya.
+
+Pengajar menekankan bahwa masalah utama dalam المناظرة adalah apakah seseorang kalah atau menang dalam hujjah, bukan apakah tulisannya bagus atau buruk.
+
+Kemudian disebut sebuah kisah yang dinukil dari **تاج الدين السبكي** dalam biografi صفي الدين الهندي. Suatu ketika ia berjalan di سوق الوراقين dan melihat sebuah kitab dengan tulisan yang sangat buruk. Ia membeli kitab tersebut. Tujuannya adalah agar jika ada orang yang mengejek tulisannya, ia dapat menunjukkan bahwa ada tulisan yang lebih buruk.
+
+Namun ketika sampai di rumah dan memeriksa kitab itu, ternyata kitab yang ia beli tersebut adalah kitabnya sendiri.
+
+Cerita ini digunakan untuk mencairkan suasana sekaligus menunjukkan bahwa buruknya tulisan tidak mengurangi nilai keilmuan dan kekuatan hujjah seseorang.
+
+Dalam pembahasan yang sama disebut pula bahwa صفي الدين الهندي terkenal dalam membantah pendapat-pendapat **ابن تيمية** pada persoalan-persoalan yang menurut penjelasan dosen bertentangan dengan pendapat الجمهور, baik dalam العقيدة maupun الفقه. Sumber dalam rekaman menyebut adanya perdebatan dengan orang-orang yang mengikuti atau berkaitan dengan pemikiran ابن تيمية, meskipun pengajar memberikan koreksi terhadap penyebutan "الوهابية" dengan menjelaskan konteks sejarahnya.
+
+---
+
+# 32. Perbedaan antara مفرد dan جملة
+
+Dalam penjelasan selanjutnya ditegaskan sebuah prinsip bahwa dalam pembagian logis yang sedang digunakan, **مفرد dan جملة** tidak dikategorikan sebagai dua hal yang dapat terjadi sekaligus pada level yang sama.
+
+Dikatakan:
+
+**المنطقان لا يجتمعان ولا يرتفعان**
+
+dalam konteks penjelasan bahwa sesuatu dilihat sebagai مفرد atau جملة.
+
+Jika suatu susunan tidak menjadi جملة karena tidak memberikan فائدة yang dapat digunakan sebagai tempat berhenti, maka ia berada dalam kategori مفرد dalam pengertian yang digunakan di sini.
+
+Karena itu:
+
+**الحيوان الناطق**
+
+disebut مفرد بالقوة karena belum menjadi جملة.
+
+Adapun:
+
+**الحيوان الناطق ينتقل بنقل القدمين**
+
+merupakan susunan yang telah memberikan faedah dan dapat dianalisis sebagai قضية حملية.
+
+---
+
+# 33. Pembagian القضية الحملية menurut الإيجاب والسلب
+
+Setelah struktur القضية الحملية dijelaskan, kembali ditegaskan pembagian berdasarkan الحكم:
+
+Jika الحكم berupa **ثبوت**, maka:
+
+**القضية موجبة**
+
+Jika الحكم berupa **نفي**, maka:
+
+**القضية سالبة**
+
+Contoh:
+
+**زيد قائم**
+
+adalah موجبة.
+
+**زيد ليس بقائم**
+
+adalah سالبة.
+
+Dan contoh lain:
+
+**لا شيء من الإنسان بحجر**
+
+merupakan حملية سالبة karena الحكم di dalamnya menafikan حجر dari الإنسان.
+
+---
+
+# 34. الشرطية dan makna التعليق
+
+Pada الشرطية, الحكم tidak diarahkan langsung untuk menetapkan satu مفهوم kepada satu فرد, tetapi terjadi تعليق antara dua perkara.
+
+Contoh:
+
+**كلما كانت الشمس طالعة كان النهار موجودا**
+
+Di sini وجود النهار dikaitkan dengan طلوع الشمس.
+
+Contoh lainnya:
+
+**كلما ذاكرت نجحت**
+
+keberhasilan dikaitkan dengan المذاكرة.
+
+Jadi الشرطية mempunyai makna bahwa suatu perkara ditetapkan atau dinafikan **على تقدير نسبة أخرى**.
+
+Dalam penjelasan dikatakan bahwa الشرطية dapat mengandung:
+
+- الحكم بثبوت نسبة على تقدير نسبة أخرى;
+- atau الحكم بنفي نسبة على تقدير نسبة أخرى.
+
+Dengan demikian, الشرطية mempunyai bentuk hubungan yang berbeda dari حملية.
+
+---
+
+# 35. Dua macam besar الشرطية: متصلة dan منفصلة
+
+Pengajar kemudian memberikan pengantar mengenai pembagian الشرطية yang akan dibahas lebih lanjut.
+
+القضية الشرطية dapat berupa:
+
+**متصلة**
+
+atau:
+
+**منفصلة**
+
+Dalam **المتصلة**, terdapat hubungan اتصال antara dua نسبة.
+
+Contohnya:
+
+**كلما كان كذا كان كذا**
+
+seperti:
+
+**كلما كانت الشمس طالعة كان النهار موجودا**
+
+Dalam **المنفصلة**, hubungan yang diperhatikan adalah انفصال antara dua نسبة atau dua kemungkinan.
+
+Contoh:
+
+**إما أن يكون العدد زوجا أو فردا**
+
+atau:
+
+**إما متحرك أو ساكن**
+
+atau:
+
+**الإنسان حي أو ميت**
+
+Dalam bentuk tersebut terdapat pembahasan mengenai pemisahan atau عدم الاجتماع بحسب jenis القضية المنفصلة.
+
+Pengajar hanya memberikan pengantar mengenai hal ini dan menyatakan bahwa penjelasan detail tentang الشرطية المتصلة والمنفصلة akan datang pada tempat pembahasannya.
+
+---
+
+# 36. Struktur الشرطية: المقدم والتالي
+
+Setiap قضية شرطية dalam pembahasan ini mempunyai dua bagian:
+
+**المقدم** dan **التالي**.
+
+المقدم adalah الجزء الأول، karena ia disebut lebih dahulu.
+
+التالي adalah الجزء الثاني، karena ia mengikuti bagian pertama.
+
+Contohnya:
+
+**كلما كانت الشمس طالعة كان النهار موجودا**
+
+Bagian:
+
+**الشمس طالعة**
+
+adalah المقدم.
+
+Bagian:
+
+**النهار موجود**
+
+adalah التالي.
+
+Ini berbeda dari الحملية yang طرف utamanya berupa الموضوع والمحمول.
+
+---
+
+# 37. القضية الموجهة
+
+Setelah pembagian dasar tersebut, pengajar memberikan pengantar mengenai **القضايا الموجهة**.
+
+القضية الحملية secara dasar dapat dilihat sebagai القضية yang terdiri dari الموضوع والمحمول والنسبة الحكمية. Tetapi dapat ditambahkan unsur lain berupa **الجهة**.
+
+Jika الجهة disebutkan, maka القضية dapat menjadi **رباعية**.
+
+Jadi:
+
+- الموضوع
+- المحمول
+- الرابطة/النسبة بحسب cara pengungkapan
+- الجهة
+
+Pengajar menegaskan bahwa pembahasan القضايا الموجهة bukan bagian yang akan dibahas secara rinci dalam درس ini karena keterbatasan waktu dan karena tidak termasuk مقرر yang sedang diberikan kepada mahasiswa.
+
+Ia bahkan menyebut bahwa dirinya sendiri tidak mengajarkan الموجهات dalam mata kuliah tersebut sejak menjadi pengajar, meskipun pernah mempelajarinya beberapa kali dan menganggapnya penting. Ia membuka kemungkinan bahwa pada kesempatan lain dapat diadakan دورة علمية khusus mengenai القضايا الموجهة.
+
+---
+
+# 38. الجهات الأربع yang disebut dalam pelajaran
+
+Untuk sekadar menjelaskan maksud الجهة, pengajar menyebut empat bentuk:
+
+1. **الضرورة**
+2. **الدوام**
+3. **الإطلاق**
+4. **الإمكان**
+
+Contoh **الضرورة** diberikan dengan pembahasan seperti:
+
+**الله قادر بالضرورة**
+
+Maksudnya adalah bahwa sifat القدرة dinisbatkan kepada Allah تعالى dengan ضرورة.
+
+Kemudian **الدوام** dijelaskan dengan contoh:
+
+**كل كاتب يحرك أصابعه ما دام كاتبا**
+
+Ketika seseorang sedang menulis, ia menggerakkan jari-jarinya. Tetapi apakah menggerakkan jari merupakan sesuatu yang selalu wajib melekat padanya dalam seluruh keadaan? Tidak. Gerakan itu berlangsung dalam keadaan tertentu, yaitu ketika ia sedang menulis. Karena itu contoh tersebut digunakan untuk menjelaskan دوام dalam pengertian yang sedang dibahas.
+
+Selanjutnya ada **الإطلاق**, dengan contoh:
+
+**الإنسان ضاحك**
+
+Dalam penjelasan pengajar, إطلاق digunakan untuk menunjukkan bentuk penetapan tanpa pembatasan tertentu sebagaimana jenis-jenis الجهة yang lain.
+
+Adapun **الإمكان** dijelaskan dengan contoh:
+
+**النار محرقة**
+
+Pengajar mengaitkannya dengan kisah Nabi Ibrahim عليه السلام. Secara kebiasaan, النار محرقة, tetapi ketika Nabi Ibrahim عليه السلام berada di dalam api, api tersebut tidak membakar beliau. Karena sifat membakar itu dapat tidak terjadi pada kondisi tertentu, maka tidak tepat dikatakan bahwa الإحراق bagi النار adalah ضرورة مطلقة yang mustahil tidak terjadi.
+
+Pengajar menghubungkannya dengan firman Allah تعالى mengenai perintah kepada النار agar menjadi dingin dan keselamatan bagi إبراهيم عليه السلام. Jadi, dari sisi الإمكان, sesuatu dapat terjadi dan dapat pula tidak terjadi.
+
+---
+
+# 39. Contoh القضية الموجهة
+
+Contoh yang digunakan adalah:
+
+**زيد هو قاعد بالإمكان العام**
+
+Jika disebutkan الجهة berupa **الإمكان العام**, maka selain الموضوع dan المحمول serta hubungan, terdapat unsur tambahan berupa الجهة.
+
+Karena itu القضية tersebut dihitung sebagai **رباعية** dalam pembagian yang sedang dijelaskan.
+
+Namun apabila hanya ditambahkan **الصورة** atau bentuk tertentu yang menentukan jenis القضية, penambahan itu tidak otomatis menjadikan jumlah أجزاء القضية bertambah menjadi خمسة. الصورة menentukan نوع القضية, tetapi bukan bagian tambahan yang dihitung sebagai جزء مستقل seperti الجهة.
+
+---
+
+# 40. الصورة bukan جزء tambahan
+
+Pada akhir pembahasan mengenai الموجهات, pengajar menjelaskan bahwa jika suatu القضية memiliki جهة, maka ia dapat menjadi رباعية. Tetapi apabila disebutkan الصورة atau bentuk القضية, hal tersebut tidak menjadikan القضية خماسية.
+
+Sebab الصورة berfungsi menentukan نوع القضية, bukan menjadi جزء tambahan dari struktur dasar القضية.
+
+Jadi perlu dibedakan antara:
+
+- **أجزاء القضية**,
+- dan sesuatu yang digunakan untuk **تحديد نوع القضية**.
+
+---
+
+# 41. Penjelasan tambahan tentang الحكم dan الواقع
+
+Pada bagian akhir rekaman terdapat dialog yang sebagian besar tidak terdengar jelas. Di antara bagian yang dapat dipahami, pengajar mengingatkan bahwa **الحكم tidak ditentukan hanya berdasarkan اعتقاد atau pemahaman hakim**, melainkan berkaitan dengan الواقع dan **نفس الأمر**.
+
+Dinyatakan:
+
+**الحكم لا يكون باعتبار الحاكم، وإنما يكون باعتبار الواقع والنفس الأمر**
+
+Dalam konteks contoh yang sedang dibicarakan, pengajar menegaskan bahwa sekadar pemahaman seseorang bahwa sesuatu adalah ضرورة tidak otomatis menjadi hujjah; pemahaman tersebut harus dibedakan dari keadaan الواقع itu sendiri.
+
+Bagian lanjutan percakapan sangat tidak jelas dalam sumber. Terdapat pembicaraan mengenai **قول جديد**, **مقتضيات**, dan kalimat:
+
+**لا يجتمعان ولا يفترقان**
+
+serta analisis nahwu bahwa suatu jumlah dapat berada:
+
+**في محل رفع خبر المبتدأ**
+
+karena jika susunan tersebut secara i‘rab sah sebagai مبتدأ dan خبر, maka dalam analisis الحملية ia dapat dipandang sebagai موضوع dan محمول.
+
+Namun karena sebagian besar percakapan pada bagian tersebut tidak terdengar, rincian argumentasi dan konteksnya tidak dapat dipastikan dari sumber.
+
+---
+
+# 42. Catatan mengenai آيات القرآن yang terdapat di akhir file
+
+Setelah penutup pelajaran, file masih memuat rangkaian ayat Al-Qur'an. Bagian ini tampaknya merupakan materi atau rekaman lanjutan yang tidak disertai penjelasan logis yang lengkap dalam transkrip. Karena itu, ayat-ayat tersebut tidak dapat diberi interpretasi tambahan tanpa keluar dari sumber.
+
+Di antara ayat yang tercatat adalah:
+
+**ذَٰلِكَ وَلَوْ يَشَاءُ اللَّهُ لَانْتَصَرَ مِنْهُمْ وَلَكِنْ لِيَبْلُوَ بَعْضَكُمْ بِبَعْضٍ وَالَّذِينَ قُتِلُوا فِي سَبِيلِ اللَّهِ فَلَنْ يُضِلَّ أَعْمَالَهُمْ**
+
+kemudian:
+
+**سَيَهْدِيهِمْ وَيُصْلِحُ بَالَهُمْ**
+
+dan:
+
+**وَيُدْخِلُهُمُ الْجَنَّةَ عَرَّفَهَا لَهُمْ**
+
+serta:
+
+**يَا أَيُّهَا الَّذِينَ آمَنُوا إِنْ تَنْصُرُوا اللَّهَ يَنْصُرْكُمْ وَيُثَبِّتْ أَقْدَامَكُمْ**
+
+Kemudian terdapat:
+
+**وَالَّذِينَ كَفَرُوا فَتَعْسًا لَهُمْ وَأَضَلَّ أَعْمَالَهُمْ**
+
+**ذَٰلِكَ بِأَنَّهُمْ كَرِهُوا مَا أَنْزَلَ اللَّهُ فَأَحْبَطَ أَعْمَالَهُمْ**
+
+**أَفَلَمْ يَسِيرُوا فِي الْأَرْضِ فَيَنْظُرُوا كَيْفَ كَانَ عَاقِبَةُ الَّذِينَ مِنْ قَبْلِهِمْ دَمَّرَ اللَّهُ عَلَيْهِمْ وَلِلْكَافِرِينَ أَمْثَالُهَا**
+
+**ذَٰلِكَ بِأَنَّ اللَّهَ مَوْلَى الَّذِينَ آمَنُوا وَأَنَّ الْكَافِرِينَ لَا مَوْلَى لَهُمْ**
+
+**إِنَّ اللَّهَ يُدْخِلُ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ جَنَّاتٍ تَجْرِي مِنْ تَحْتِهَا الْأَنْهَارُ وَالَّذِينَ كَفَرُوا يَتَمَتَّعُونَ وَيَأْكُلُونَ كَمَا تَأْكُلُ الْأَنْعَامُ وَالنَّارُ مَثْوًى لَهُمْ**
+
+**وَكَأَيِّنْ مِنْ قَرْيَةٍ هِيَ أَشَدُّ قُوَّةً مِنْ قَرْيَتِكَ الَّتِي أَخْرَجَتْكَ أَهْلَكْنَاهُمْ فَلَا نَاصِرَ لَهُمْ**
+
+**أَفَمَنْ كَانَ عَلَى بَيِّنَةٍ مِنْ رَبِّهِ كَمَنْ زُيِّنَ لَهُ سُوءُ عَمَلِهِ وَاتَّبَعُوا أَهْوَاءَهُمْ**
+
+**مَثَلُ الْجَنَّةِ الَّتِي وُعِدَ الْمُتَّقُونَ فِيهَا أَنْهَارٌ مِنْ مَاءٍ غَيْرِ آسِنٍ وَأَنْهَارٌ مِنْ لَبَنٍ لَمْ يَتَغَيَّرْ طَعْمُهُ وَأَنْهَارٌ مِنْ خَمْرٍ لَذَّةٍ لِلشَّارِبِينَ وَأَنْهَارٌ مِنْ عَسَلٍ مُصَفًّى وَلَهُمْ فِيهَا مِنْ كُلِّ الثَّمَرَاتِ وَمَغْفِرَةٌ مِنْ رَبِّهِمْ كَمَنْ هُوَ خَالِدٌ فِي النَّارِ وَسُقُوا مَاءً حَمِيمًا فَقَطَّعَ أَمْعَاءَهُمْ**
+
+**وَمِنْهُمْ مَنْ يَسْتَمِعُ إِلَيْكَ حَتَّى إِذَا خَرَجُوا مِنْ عِنْدِكَ قَالُوا لِلَّذِينَ أُوتُوا الْعِلْمَ مَاذَا قَالَ آنِفًا أُولَئِكَ الَّذِينَ طَبَعَ اللَّهُ عَلَى قُلُوبِهِمْ وَاتَّبَعُوا أَهْوَاءَهُمْ**
+
+**وَالَّذِينَ اهْتَدَوْا زَادَهُمْ هُدًى وَآتَاهُمْ تَقْوَاهُمْ**
+
+**فَهَلْ يَنْظُرُونَ إِلَّا السَّاعَةَ أَنْ تَأْتِيَهُمْ بَغْتَةً فَقَدْ جَاءَ أَشْرَاطُهَا فَأَنَّى لَهُمْ إِذَا جَاءَتْهُمْ ذِكْرَاهُمْ**
+
+**فَاعْلَمْ أَنَّهُ لَا إِلَهَ إِلَّا اللَّهُ وَاسْتَغْفِرْ لِذَنْبِكَ وَلِلْمُؤْمِنِينَ وَالْمُؤْمِنَاتِ وَاللَّهُ يَعْلَمُ مُتَقَلَّبَكُمْ وَمَثْوَاكُمْ**
+
+**وَيَقُولُ الَّذِينَ آمَنُوا لَوْلَا نُزِّلَتْ سُورَةٌ فَإِذَا أُنْزِلَتْ سُورَةٌ مُحْكَمَةٌ وَذُكِرَ فِيهَا الْقِتَالُ رَأَيْتَ الَّذِينَ فِي قُلُوبِهِمْ مَرَضٌ يَنْظُرُونَ إِلَيْكَ نَظَرَ الْمَغْشِيِّ عَلَيْهِ مِنَ الْمَوْتِ فَأَوْلَى لَهُمْ**
+
+**طَاعَةٌ وَقَوْلٌ مَعْرُوفٌ فَإِذَا عَزَمَ الْأَمْرُ فَلَوْ صَدَقُوا اللَّهَ لَكَانَ خَيْرًا لَهُمْ**
+
+**فَهَلْ عَسَيْتُمْ إِنْ تَوَلَّيْتُمْ أَنْ تُفْسِدُوا فِي الْأَرْضِ وَتُقَطِّعُوا أَرْحَامَكُمْ**
+
+**أُولَئِكَ الَّذِينَ لَعَنَهُمُ اللَّهُ فَأَصَمَّهُمْ وَأَعْمَى أَبْصَارَهُمْ**
+
+**أَفَلَا يَتَدَبَّرُونَ الْقُرْآنَ أَمْ عَلَى قُلُوبٍ أَقْفَالُهَا**
+
+**إِنَّ الَّذِينَ ارْتَدُّوا عَلَى أَدْبَارِهِمْ مِنْ بَعْدِ مَا تَبَيَّنَ لَهُمُ الْهُدَى الشَّيْطَانُ سَوَّلَ لَهُمْ وَأَمْلَى لَهُمْ**
+
+**ذَٰلِكَ بِأَنَّهُمْ قَالُوا لِلَّذِينَ كَرِهُوا مَا نَزَّلَ اللَّهُ سَنُطِيعُكُمْ فِي بَعْضِ الْأَمْرِ وَاللَّهُ يَعْلَمُ إِسْرَارَهُمْ**
+
+**فَكَيْفَ إِذَا تَوَفَّتْهُمُ الْمَلَائِكَةُ يَضْرِبُونَ وُجُوهَهُمْ وَأَدْبَارَهُمْ**
+
+**ذَٰلِكَ بِأَنَّهُمُ اتَّبَعُوا مَا أَسْخَطَ اللَّهَ وَكَرِهُوا رِضْوَانَهُ فَأَحْبَطَ أَعْمَالَهُمْ**
+
+dan pada bagian paling akhir terdapat potongan:
+
+**أَمْ حَسِبَ الَّذِينَ فِي قُلُوبِهِمْ مَرَضٌ أَنْ لَنْ يُخْرِجَ اللَّهُ أَضْغَانَهُمْ**
+
+Dalam file, rangkaian ayat tersebut muncul setelah penutupan pembahasan المنطق dan tidak disertai penjelasan yang cukup untuk memastikan hubungan masing-masing ayat dengan pembahasan sebelumnya. Karena itu, sumber tidak memberikan dasar untuk menambahkan penafsiran atau menjadikannya bagian dari argumentasi logis yang telah dijelaskan.
+
+---
+
+# 43. Alur keseluruhan materi
+
+Jika seluruh pembahasan disusun menjadi satu alur, materi dimulai dari perpindahan pembahasan **من التصورات إلى التصديقات**. Dalam التصديقات, salah satu مبادئ utama adalah **القضايا**. Karena القياس dan pembahasan lanjutan bergantung pada pemahaman القضية, maka القضية dibahas terlebih dahulu.
+
+القضية didefinisikan sebagai:
+
+**قول يحتمل الصدق والكذب لذاته**
+
+Kata قول merupakan جنس yang mencakup berbagai المركبات, sedangkan احتمل الصدق والكذب mengeluarkan apa yang tidak dapat dinilai benar atau salah. Tambahan لذاته mengeluarkan hal-hal yang hanya dapat dianggap mengandung benar-salah melalui لازim atau makna yang menyertainya.
+
+Setelah itu dibahas persoalan الخبرية المشكوكة. Walaupun bentuknya tampak seperti خبر dan secara lahiriah dapat diarahkan kepada benar atau salah, ia tidak menjadi القضية selama belum terdapat الحكم. Kemungkinan الصدق والكذب yang menjadi ukuran القضية merupakan konsekuensi dari adanya الحكم. Karena itu, الشك dan التوقف berbeda dari مجرد الاحتمال yang terdapat dalam definisi القضية.
+
+Kemudian القضية dibagi secara أولي menjadi dua:
+
+**حملية** dan **شرطية**.
+
+الحملية adalah القضية yang di dalamnya الحكم berupa ثبوت شيء لشيء atau نفي شيء عن شيء. Jika ثبوت, ia موجبة dan الحكم disebut إيقاع. Jika نفي, ia سالبة dan الحكم disebut انتزاع.
+
+القضية الحملية memiliki الموضوع sebagai المحكوم عليه, المحمول sebagai المحكوم به, dan النسبة الحكمية yang menghubungkan keduanya. الموضوع dan المحمول dapat berupa مفرد بالفعل atau مفرد بالقوة. مفرد بالقوة dapat terdiri dari beberapa kata selama keseluruhan bagian tersebut belum memberikan فائدة تامة secara mandiri.
+
+النسبة الحكمية dapat dipahami tanpa lafaz khusus. Jika diungkapkan dengan lafaz seperti **هو** atau **كان**, lafaz tersebut disebut رابطة. Namun lafaz tersebut bukan الرابط yang sebenarnya; ia hanyalah الدال على الرابط. Karena itu, penyebutan lafaz tersebut sebagai رابطة merupakan تسمية الدال باسم المدلول dan secara hakiki النسبة sendiri adalah hubungan معنوي yang mengikat المحمول dengan الموضوع.
+
+Jika الرابطة tidak disebutkan secara lafaz, seperti dalam **زيد قائم**, القضية dapat disebut ثنائية. Jika الرابطة dinyatakan, seperti **زيد هو قائم**, ia disebut ثلاثية dari sisi lafaz dan unsur yang tampak.
+
+Adapun jika القضية tidak termasuk الحكم بثبوت شيء لشيء atau نفي شيء عن شيء, maka ia masuk dalam الشرطية. الشرطية berkaitan dengan الحكم atas نسبة dengan mempertimbangkan نسبة lainnya. Ia dapat mempunyai makna تعليق atau تعليل, seperti:
+
+**كلما كانت الشمس طالعة كان النهار موجودا**
+
+dan:
+
+**كلما ذاكرت نجحت**.
+
+Bagian pertama الشرطية disebut **مقدم**, sedangkan bagian kedua disebut **تالٍ**. الشرطية kemudian dapat dibagi menjadi متصلة dan منفصلة. متصلة menghubungkan dua نسبة, sedangkan منفصلة menetapkan pemisahan antara dua نسبة atau dua kemungkinan, seperti:
+
+**إما أن يكون العدد زوجا أو فردا**
+
+atau:
+
+**إما متحرك أو ساكن**.
+
+Setelah itu diberikan pengantar tentang **القضايا الموجهة**, yang dapat memiliki unsur tambahan berupa **الجهة**, sehingga القضية dapat menjadi رباعية. الجهات yang disebut dalam pelajaran adalah الضرورة، الدوام، الإطلاق، والإمكان. Pembahasan tersebut hanya diberikan sebagai pengantar dan tidak dijelaskan secara rinci karena bukan bagian dari مقرر yang sedang dibahas.
+
+Dengan demikian, inti materi ini adalah membangun fondasi untuk memahami القضية sebelum masuk kepada مباحث التصديقات yang lebih lanjut. Penguasaan terhadap definisi القضية, syarat الحكم, perbedaan antara احتمال dan شك, pembagian حملية dan شرطية, serta pemahaman الموضوع والمحمول والنسبة والرابطة menjadi dasar bagi pembahasan المنطق berikutnya, terutama القياس.

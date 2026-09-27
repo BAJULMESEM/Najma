@@ -58,14 +58,24 @@
           "type": "folder",
           "children": [
             {
-              "name": "mantiq1.txt",
+              "name": "mantiq (2).txt",
               "type": "file",
-              "path": "texts/LITERAL MUHADOROH/MANTIQ/mantiq1.txt"
+              "path": "texts/LITERAL MUHADOROH/MANTIQ/mantiq (2).txt"
             },
             {
-              "name": "mantiq2.txt",
+              "name": "mantiq (3).txt",
               "type": "file",
-              "path": "texts/LITERAL MUHADOROH/MANTIQ/mantiq2.txt"
+              "path": "texts/LITERAL MUHADOROH/MANTIQ/mantiq (3).txt"
+            },
+            {
+              "name": "mantiq (4).txt",
+              "type": "file",
+              "path": "texts/LITERAL MUHADOROH/MANTIQ/mantiq (4).txt"
+            },
+            {
+              "name": "mantiq.txt",
+              "type": "file",
+              "path": "texts/LITERAL MUHADOROH/MANTIQ/mantiq.txt"
             }
           ]
         },
@@ -167,6 +177,16 @@
               "name": "2.txt",
               "type": "file",
               "path": "texts/PELAJARAN/maantiq/2.txt"
+            },
+            {
+              "name": "3.txt",
+              "type": "file",
+              "path": "texts/PELAJARAN/maantiq/3.txt"
+            },
+            {
+              "name": "4.txt",
+              "type": "file",
+              "path": "texts/PELAJARAN/maantiq/4.txt"
             }
           ]
         },

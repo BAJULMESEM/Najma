@@ -1,0 +1,1287 @@
+# REKONSTRUKSI MATERI MANTIQ: القضية DAN BAGIAN-BAGIANNYA
+
+## 1. Konteks pembahasan: hubungan التصورات, الألفاظ, dan التصديقات
+
+Pembahasan ini dimulai dengan mengingat kembali bahwa pengetahuan mengenai **التصديقات** bergantung pada pengetahuan mengenai **التصورات**. Karena itu, sebelum masuk lebih jauh ke dalam pembahasan التصديقات dan القضية, dosen terlebih dahulu melakukan مراجعة atau pengulangan singkat terhadap materi yang telah dipelajari pada tahun sebelumnya, khususnya **مبحث الألفاظ**.
+
+Dosen juga memperkenalkan konteks pembelajaran dengan menyebut فضيلة الدكتور جميل, yang disebut sebagai seorang guru yang ahli dalam bidang ini. Dosen mengatakan bahwa dirinya belajar kepada beliau sekaligus belajar melalui kitab beliau. Setelah itu beliau mempersilakan فضيلة الدكتور الشيخ مصطفى untuk melanjutkan pembahasan.
+
+Maksud مراجعة ini bukan untuk mengulang seluruh مبحث الألفاظ secara mendalam, tetapi hanya mengingatkan bagian-bagian yang diperlukan agar pembahasan القضية dan الاستدلال dapat dipahami. Sebab, menurut penjelasan dosen, terdapat hubungan yang sangat erat antara pembahasan المنطق dan pembahasan الألفاظ. Apa yang disebut قضية tidak dapat dipahami dengan baik tanpa mengetahui terlebih dahulu apa yang disebut لفظ, مفرد, مركب, dan terutama مركب تام خبري.
+
+---
+
+# 2. مراجعة مبحث الألفاظ
+
+Dalam pembahasan sebelumnya telah dijelaskan bahwa **اللفظ** terbagi menjadi dua, yaitu **مفرد** dan **مركب**.
+
+اللفظ المفرد kemudian dibagi menjadi tiga:
+
+**اسم، كلمة، أداة**
+
+Istilah ini berkaitan dengan pembagian dalam ilmu nahwu. Dalam istilah nahwu, **الكلمة** yang dimaksud di sini adalah الفعل, sedangkan **الأداة** adalah الحرف. Jadi, pembagian yang digunakan adalah:
+
+- اسم
+- كلمة yang dalam istilah nahwu adalah فعل
+- أداة yang dalam istilah nahwu adalah حرف
+
+Adapun **اللفظ المركب** terbagi menjadi dua:
+
+**مركب تام** dan **مركب ناقص**.
+
+Mركب تام kemudian terbagi menjadi:
+
+**مركب تام خبري** dan **مركب تام إنشائي**.
+
+Sedangkan المركب الناقص terbagi menjadi:
+
+**تقييدي** dan **غير تقييدي**.
+
+Untuk mengingat pembagian tersebut, dosen menghubungkannya dengan bait awal Alfiyyah Ibn Malik:
+
+**كلامنا لفظ مفيد استقم  
+واسم وفعل ثم حرف الكلم**
+
+Bait tersebut dipakai sebagai sarana untuk mengingat pembagian اللفظ dan الكلام yang telah dipelajari dalam ilmu nahwu. Dosen menjelaskan bahwa pembahasan ini merupakan مراجعة cepat dan bukan pengulangan keseluruhan pelajaran sebelumnya.
+
+---
+
+# 3. المركب التام الخبري sebagai القضية
+
+Dari berbagai macam المركب tersebut, ilmu المنطق tidak membutuhkan seluruhnya dalam pembahasan yang sedang dilakukan. Yang menjadi perhatian utama adalah **المركب التام الخبري**.
+
+Mركب تام إنشائي mencakup banyak bentuk seperti:
+
+**الأمر، النهي، الدعاء، الالتماس، الرجاء، التمني، الترجي، النداء**
+
+dan bentuk-bentuk إنشاء lainnya.
+
+Namun المركب التام الإنشائي tidak menjadi fokus utama pembahasan القضية, karena الإنشاء tidak memenuhi syarat القضية yang akan dijelaskan.
+
+Yang dimaksud dengan **القضية** dalam pembahasan ini adalah:
+
+**المركب التام الخبري**
+
+Dengan demikian, sebelum mempelajari القضية, seseorang harus mengetahui terlebih dahulu apa yang dimaksud dengan المركب dan bagaimana membedakan المركب الخبري dari المركب الإنشائي.
+
+Dosen menegaskan bahwa tujuan مراجعة مبحث الألفاظ adalah agar mahasiswa mengetahui dua hal: pertama, mana yang dapat disebut القضية; kedua, dari apa القضية itu tersusun.
+
+---
+
+# 4. Definisi القضية
+
+Setelah مراجعة tersebut, dosen masuk ke definisi القضية.
+
+Definisi yang diberikan adalah:
+
+**القضية قول يحتمل الصدق والكذب لذاته**
+
+Artinya, القضية adalah suatu **قول** yang pada dirinya sendiri memungkinkan untuk dinilai benar atau salah.
+
+Ada definisi lain yang juga disebutkan:
+
+**قول يصح أن يقال لقائله إنه صادق فيه أو كاذب**
+
+Artinya, القضية adalah suatu قول yang memungkinkan seseorang mengatakan kepada orang yang mengucapkannya bahwa ia benar dalam perkataannya atau salah/dusta dalam perkataannya.
+
+Dengan demikian, ketika kita mendengar suatu perkataan, kita dapat bertanya: apakah orang yang mengucapkannya benar ataukah salah? Jika perkataan tersebut memang dapat dinilai demikian, maka ia memenuhi sifat القضية.
+
+---
+
+# 5. Mengapa digunakan kata قول?
+
+Kata **قول** dalam definisi mempunyai cakupan yang luas. Ia tidak hanya mencakup القضية, tetapi juga berbagai bentuk المركب.
+
+Sebab:
+
+**المركب التام الخبري** adalah قول,
+
+**المركب التام الإنشائي** juga merupakan قول,
+
+dan **المركب الناقص** juga termasuk قول.
+
+Jadi, ketika definisi mengatakan:
+
+**قول يحتمل الصدق والكذب لذاته**
+
+kata **قول** terlebih dahulu mencakup berbagai macam المركب. Kemudian bagian:
+
+**يحتمل الصدق والكذب لذاته**
+
+menjadi pembatas yang mengeluarkan bentuk-bentuk lain dan menyisakan المركب التام الخبري yang disebut القضية.
+
+Karena itu, القول dalam definisi bukan berarti bahwa setiap قول adalah قضية. Yang disebut قضية hanyalah قول yang mempunyai kemungkinan الصدق والكذب لذاته.
+
+---
+
+# 6. Makna لذاته
+
+Dosen memberikan perhatian khusus kepada kata:
+
+**لذاته**
+
+Kata tersebut berarti bahwa kemungkinan benar atau salah itu dilihat dari perkataan itu sendiri, bukan berdasarkan siapa yang mengucapkannya.
+
+Ada perkataan yang jika dilihat dari **قائله** tidak mungkin dianggap benar atau salah secara terbuka, karena sumbernya sudah menjamin kebenarannya. Misalnya perkataan Allah سبحانه وتعالى. Ketika Allah berfirman, perkataan tersebut, jika dilihat dari قائله, tidak mengandung kemungkinan salah.
+
+Demikian pula perkataan para nabi عليهم السلام dan perkataan yang sahih dinukil dari Nabi صلى الله عليه وسلم. Jika dilihat dari قائله, perkataan tersebut tidak mungkin dianggap sebagai perkataan yang salah.
+
+Sebaliknya, ada pula perkataan yang jika dinisbatkan kepada orang tertentu hanya mungkin salah. Dosen memberikan contoh seseorang yang berkata:
+
+**أنا رسول الله**
+
+jika dikatakan oleh orang yang bukan Rasul, atau contoh perkataan Fir'aun:
+
+**أنا ربكم الأعلى**
+
+Perkataan tersebut, jika dilihat dari قائله, tidak mungkin dinilai benar.
+
+Jadi, yang menjadi perhatian dalam definisi القضية adalah bukan siapa yang mengatakan perkataan tersebut, melainkan sifat perkataan itu sendiri. Karena itu dikatakan:
+
+**لذاته**
+
+Artinya, kemungkinan benar atau salah harus dilihat dari القول itu sendiri.
+
+---
+
+# 7. Contoh: الشمس طالعة
+
+Dosen kemudian menggunakan contoh:
+
+**الشمس طالعة**
+
+Contoh ini menjadi dasar untuk menjelaskan struktur القضية الحملية.
+
+Ketika kita mengatakan **الشمس طالعة**, kita mempunyai تصور mengenai الشمس dan تصور mengenai طلوع. Kemudian kita memberikan suatu حكم bahwa طلوع berlaku bagi الشمس.
+
+Dalam pembelajaran sebelumnya telah dijelaskan perbedaan antara **التصور** dan **التصديق**. التصور adalah تصور صورة الشيء في الذهن, yaitu menghadirkan gambaran atau konsep sesuatu dalam pikiran. Adapun التصديق berkaitan dengan حصول صورة الشيء في الذهن disertai dengan الحكم عليه بالإثبات أو النفي.
+
+Jadi ketika seseorang hanya memahami konsep الشمس, ia memperoleh تصور tentang الشمس. Ketika ia memahami مفهوم الطلوع, ia juga memperoleh تصور tentang الطلوع. Namun ketika ia menetapkan bahwa الشمس طالعة, terjadi الحكم, dan keseluruhan struktur tersebut berkaitan dengan التصديق.
+
+---
+
+# 8. القضية dalam istilah nahwu dan balaghah
+
+Kalimat:
+
+**الشمس طالعة**
+
+dapat dianalisis dengan beberapa istilah dari ilmu yang berbeda.
+
+Dalam ilmu nahwu:
+
+**الشمس** disebut **مبتدأ**.
+
+**طالعة** disebut **خبر**.
+
+Dalam istilah علم المعاني atau البلاغة:
+
+**الشمس** disebut **مسند إليه**.
+
+**طالعة** disebut **مسند**.
+
+Sedangkan dalam ilmu المنطق:
+
+**الشمس** disebut **موضوع**.
+
+**طالعة** disebut **محمول**.
+
+Dengan demikian, istilah yang digunakan berbeda-beda berdasarkan bidang ilmu yang sedang dipakai, meskipun objek yang sedang dianalisis sama.
+
+Dosen menjelaskan bahwa **الموضوع** disebut demikian karena ia ditempatkan sebagai sesuatu yang menjadi tempat الحكم. Adapun **المحمول** disebut demikian karena الحكم yang terkandung pada المحمول "dibebankan" atau "dihamalkan" kepada الموضوع.
+
+Jadi dalam:
+
+**الشمس طالعة**
+
+الشمس adalah موضوع, sedangkan طالعة adalah محمول.
+
+---
+
+# 9. Empat unsur القضية الحملية
+
+Dari contoh tersebut, dosen menjelaskan bahwa **القضية الحملية** memiliki empat unsur yang perlu diperhatikan:
+
+1. **الموضوع**
+2. **المحمول**
+3. **العلاقة أو الرابطة أو النسبة**
+4. **الحكم**
+
+الموضوع adalah sesuatu yang menjadi tempat الحكم.
+
+المحمول adalah sesuatu yang hukumnya dibawa atau dinisbatkan kepada الموضوع.
+
+Adapun العلاقة أو الرابطة أو النسبة adalah hubungan antara الموضوع dan المحمول.
+
+Sedangkan **الحكم** adalah tindakan menetapkan atau menafikan المحمول terhadap الموضوع.
+
+Contohnya dalam:
+
+**الشمس طالعة**
+
+الشمس = الموضوع.
+
+طالعة = المحمول.
+
+Hubungan antara الشمس dan طالعة = العلاقة أو الرابطة أو النسبة.
+
+Penetapan bahwa الطلوع ثابت للشمس = الحكم.
+
+Dengan demikian, ketika kita mengatakan bahwa الشمس طالعة, kita tidak hanya mempunyai الموضوع dan المحمول. Ada hubungan di antara keduanya dan ada pula الحكم yang menetapkan atau menolak hubungan tersebut.
+
+---
+
+# 10. الرابطة dapat disebutkan atau tidak disebutkan
+
+Dosen kemudian menjelaskan bahwa **العلاقة أو الرابطة أو النسبة** mempunyai karakter khusus.
+
+Dalam bahasa Arab, hubungan tersebut kadang disebutkan secara lafaz, dan kadang tidak disebutkan.
+
+Misalnya:
+
+**الشمس هي طالعة**
+
+Kata **هي** menunjukkan العلاقة atau الرابطة antara الشمس dan طالعة.
+
+Tetapi kita juga dapat mengatakan:
+
+**الشمس طالعة**
+
+tanpa menyebutkan lafaz khusus untuk الرابطة.
+
+Dalam bahasa Arab, keberadaan الرابطة dapat dipahami tanpa lafaz tersendiri. Dalam beberapa bentuk, tanda i‘rab atau susunan kalimat sudah menunjukkan hubungan tersebut.
+
+Dosen menjelaskan bahwa dalam banyak bahasa lain, hubungan semacam ini biasanya harus disebutkan secara eksplisit. Sedangkan dalam bahasa Arab, الرابطة bisa dinyatakan dan bisa juga tidak dinyatakan.
+
+Jika الرابطة disebutkan, القضية dari sisi jumlah unsur lafaznya disebut **ثلاثية**.
+
+Jika الرابطة tidak disebutkan, القضية disebut **ثنائية**.
+
+Contohnya:
+
+**الشمس هي طالعة**
+
+memiliki tiga unsur yang tampak: الشمس، هي، طالعة.
+
+Sedangkan:
+
+**الشمس طالعة**
+
+hanya menampakkan dua unsur utama: الشمس dan طالعة, sementara الرابطة dipahami.
+
+Namun perlu diingat bahwa secara makna hubungan antara الموضوع dan المحمول tetap ada. Yang berbeda hanyalah apakah hubungan tersebut dinyatakan dengan lafaz atau tidak.
+
+---
+
+# 11. Apa fungsi penyebutan الرابطة?
+
+Dalam sesi tanya jawab, seorang mahasiswa bertanya mengenai manfaat menyebutkan atau tidak menyebutkan الرابطة.
+
+Dosen belum memberikan jawaban panjang pada saat itu. Beliau mengatakan bahwa fungsi dan أثر penyebutan الرابطة akan dipelajari pada pembahasan berikutnya, tetapi mahasiswa diminta untuk menyimpan pertanyaan tersebut karena persoalan itu penting.
+
+Dengan demikian, dari sumber ini yang dapat dipastikan adalah bahwa وجود الرابطة secara lafaz mempunyai pembahasan tersendiri yang akan dijelaskan kemudian. Sumber yang tersedia belum memberikan uraian lengkap mengenai seluruh manfaat atau konsekuensi penyebutannya.
+
+---
+
+# 12. الحكم sebagai unsur keempat
+
+Setelah menjelaskan الموضوع، المحمول، والرابطة, dosen menambahkan unsur keempat, yaitu **الحكم**.
+
+الحكم adalah ketika kita menetapkan bahwa المحمول berlaku bagi الموضوع atau menafikannya.
+
+Dosen menjelaskan:
+
+**إثبات الحكم الموجود في المحمول إلى الموضوع**
+
+atau menafikan الحكم yang terdapat dalam المحمول dari أفراد الموضوع.
+
+Dalam contoh:
+
+**الشمس طالعة**
+
+kita menetapkan الطلوع bagi الشمس.
+
+Jika kita mengatakan:
+
+**الشمس ليست طالعة**
+
+maka kita menafikan الطلوع dari الشمس.
+
+Jadi الحكم dapat berupa:
+
+**إثبات**
+
+atau:
+
+**نفي**.
+
+Yang menetapkan atau menafikan tersebut disebut الحكم.
+
+---
+
+# 13. Hubungan القضية الحملية dengan التصور والتصديق
+
+Setelah empat unsur القضية الحملية dijelaskan, muncul persoalan yang sangat penting: dari empat unsur tersebut, mana yang termasuk التصور dan mana yang termasuk التصديق?
+
+Dosen menjelaskan bahwa persoalan ini memiliki dua pendapat.
+
+Menurut pendapat pertama, yang dinisbatkan dalam pelajaran kepada **المعلم الثاني الفارابي**, setiap unsur secara individual merupakan **تصور**, sedangkan keseluruhan empat unsur tersebut merupakan **تصديق**.
+
+Artinya:
+
+الموضوع وحده = تصور.
+
+المحمول وحده = تصور.
+
+الرابطة أو العلاقة = تصور.
+
+الحكم = تصور.
+
+Tetapi apabila seluruh unsur tersebut digabungkan menjadi satu keseluruhan القضية, maka keseluruhannya disebut **تصديق**.
+
+Dalam contoh:
+
+**الشمس طالعة**
+
+تصور terhadap الشمس adalah تصور.
+
+تصور terhadap طالعة adalah تصور.
+
+تصور terhadap الرابطة adalah تصور.
+
+Bahkan تصور terhadap الحكم juga merupakan تصور jika dilihat secara tersendiri.
+
+Namun ketika seluruh unsur tersebut terkumpul sebagai satu قضية, keseluruhannya menjadi تصديق.
+
+Karena التصديق menurut pandangan ini merupakan مجموع empat unsur tersebut, maka التصديق disebut **مركب**.
+
+Dosen menegaskan:
+
+**التصديق مركب**
+
+menurut pendapat ini, karena ia merupakan مجموع dari الأمور الأربعة.
+
+---
+
+# 14. Pendapat kedua: التصديق adalah الحكم
+
+Pendapat kedua adalah pendapat **الحكماء** yang dibahas dalam pelajaran.
+
+Menurut pendapat ini, التصديق bukan مجموع empat unsur tersebut, tetapi **الحكم وحده**.
+
+Dengan demikian:
+
+الموضوع = تصور.
+
+المحمول = تصور.
+
+الرابطة أو الأداة = تصور.
+
+الحكم = تصديق.
+
+Jadi التصديق menurut pendapat ini bersifat **بسيط**, bukan مركب.
+
+Perbedaan kedua pendapat tersebut dapat dirumuskan sebagai berikut secara naratif.
+
+Menurut pendapat pertama, yang dinisbatkan kepada الفارابي sebagai **المعلم الثاني**, التصديق adalah مجموع empat unsur القضية الحملية, sehingga التصديق merupakan أمر مركب.
+
+Menurut pendapat kedua, yang dinisbatkan kepada الحكماء, التصديق adalah الحكم saja, sehingga التصديق merupakan أمر بسيط.
+
+---
+
+# 15. Hubungan tiga unsur pertama dengan الحكم menurut pendapat الحكماء
+
+Meskipun الحكماء mengatakan bahwa التصديق adalah الحكم saja, mereka tidak mengatakan bahwa الموضوع والمحمول والرابطة tidak diperlukan.
+
+Ketiga hal tersebut tetap harus ada agar الحكم dapat terjadi.
+
+Dosen memberikan analogi dengan **أركان الصلاة** dan **شروط صحة الصلاة**.
+
+Rukun-rukun الصلاة merupakan bagian dari hakikat الصلاة. Jika rukun tersebut tidak ada, صلاة tidak terbentuk sebagaimana mestinya.
+
+Namun ada pula hal-hal yang bukan bagian dari hakikat الصلاة tetapi harus ada agar الصلاة sah, seperti yang disebut dalam pelajaran berupa ستر العورة, pakaian yang suci, استقبال القبلة, dan berdiri di tempat yang suci.
+
+Hal-hal tersebut bukan bagian dari أركان الصلاة, tetapi merupakan **شروط صحة**.
+
+Dosen menggunakan analogi ini untuk menjelaskan hubungan antara التصديق dan unsur-unsur القضية menurut pendapat الحكماء.
+
+الموضوع والمحمول والرابطة bukan bagian dari hakikat التصديق menurut definisi mereka, tetapi ketiganya merupakan hal-hal yang **لا بد منها** agar الحكم dapat terjadi.
+
+Jadi, menurut pendapat الحكماء:
+
+**التصديق = الحكم**
+
+sedangkan:
+
+**الموضوع والمحمول والرابطة**
+
+merupakan hal-hal yang harus ada untuk terjadinya الحكم, tetapi berada di luar hakikat التصديق itu sendiri.
+
+---
+
+# 16. Apakah salah satu dari dua pendapat harus dipilih?
+
+Ketika mahasiswa bertanya pendapat mana yang benar, dosen menjawab bahwa tidak ada masalah apabila mengambil salah satu dari dua pendapat tersebut.
+
+Yang paling penting dalam pembelajaran adalah memahami bahwa **الحكم harus ada dalam القضية**.
+
+Dengan kata lain, perbedaan antara kedua pendapat tersebut tidak menghilangkan unsur dasar bahwa القضية berkaitan dengan الحكم.
+
+Perbedaan hanya terletak pada pertanyaan: apakah التصديق adalah keseluruhan struktur yang terdiri dari beberapa unsur ataukah التصديق adalah الحكم saja?
+
+Menurut pendapat pertama, التصديق adalah keseluruhan empat unsur.
+
+Menurut pendapat kedua, التصديق adalah الحكم saja, sedangkan unsur-unsur lainnya merupakan syarat yang diperlukan untuk adanya الحكم.
+
+Dosen mengatakan bahwa mahasiswa boleh mengambil salah satu pendapat tersebut karena tidak ada masalah praktis dalam konteks pembahasan ini, selama memahami posisi masing-masing pendapat.
+
+---
+
+# 17. Perbedaan istilah menurut berbagai ilmu
+
+Dalam sesi tanya jawab, mahasiswa bertanya mengenai perbedaan antara **أجزاء القضية** dan **أركان القضية**.
+
+Dosen menjelaskan bahwa setiap ilmu mempunyai istilahnya sendiri. Satu istilah dapat mempunyai makna yang berbeda ketika digunakan dalam disiplin yang berbeda.
+
+Sebagai contoh, istilah **القضية** sendiri mempunyai penggunaan khusus dalam ilmu المنطق, tetapi istilah tersebut juga dapat ditemukan dalam ilmu fiqh dan أصول الفقه dengan penggunaan yang sesuai dengan istilah disiplin masing-masing.
+
+Karena itu, seseorang harus selalu memperhatikan bidang ilmu ketika memahami suatu istilah.
+
+Demikian pula, perbedaan antara أجزاء dan أركان tidak boleh dipahami hanya berdasarkan penggunaan istilah dalam satu bidang. Dalam pembahasan yang sedang berlangsung, dosen menggunakan istilah tersebut untuk menjelaskan struktur القضية, sedangkan rincian terminologisnya dapat berbeda sesuai dengan فن yang digunakan.
+
+---
+
+# 18. Mengapa الإنشاء bukan القضية?
+
+Seorang mahasiswa bertanya kembali tentang syarat kemungkinan benar dan salah.
+
+Dosen menegaskan bahwa jika suatu perkataan tidak memungkinkan untuk dinilai benar atau salah, maka ia tidak disebut القضية.
+
+Karena itu, berbagai bentuk **الجمل الإنشائية** seperti:
+
+**الأمر، النهي، الدعاء، الترجي، التمني**
+
+dan bentuk إنشاء lainnya tidak disebut القضية.
+
+Sebab ketika seseorang mengatakan suatu perintah, doa, larangan, atau harapan, perkataan tersebut tidak dinilai dengan mengatakan kepada pembicaranya "engkau benar" atau "engkau dusta" dalam pengertian yang menjadi dasar definisi القضية.
+
+Maka kemungkinan الصدق والكذب merupakan syarat penting dalam definisi القضية.
+
+---
+
+# 19. Nama-nama القضية الحملية berdasarkan berbagai اعتبار
+
+Setelah membahas definisi dan unsur القضية, dosen masuk kepada pembahasan lain yang penting, yaitu bahwa **القضية الحملية mempunyai banyak nama berdasarkan berbagai اعتبار**.
+
+Dosen menekankan bahwa ini bukan berarti terdapat banyak benda yang berbeda. Satu القضية yang sama dapat memperoleh beberapa nama berdasarkan sisi yang sedang diperhatikan.
+
+Untuk menjelaskan prinsip tersebut, dosen memberikan analogi tentang manusia.
+
+Seseorang dapat disebut:
+
+**أب**
+
+karena ia mempunyai anak.
+
+Ia dapat disebut:
+
+**ابن**
+
+karena ia mempunyai ayah.
+
+Ia dapat disebut:
+
+**طالب**
+
+karena ia mempunyai guru.
+
+Ia dapat disebut:
+
+**أستاذ**
+
+jika ia mempunyai murid.
+
+Ia dapat disebut:
+
+**جار**
+
+karena mempunyai tetangga.
+
+Ia dapat disebut:
+
+**صديق**
+
+karena mempunyai teman.
+
+Ia dapat disebut:
+
+**زوج**
+
+karena mempunyai pasangan.
+
+Orang yang sama tidak berubah menjadi banyak orang hanya karena memiliki banyak nama. Perbedaan nama tersebut muncul karena **اعتبارات مختلفة**.
+
+Begitu pula dengan القضية.
+
+---
+
+# 20. القضية
+
+Pertama, القضية disebut **قضية** dari sisi bahwa ia mengandung **الحكم**.
+
+Contoh:
+
+**العالم حادث**
+
+Kalimat tersebut merupakan قضية karena di dalamnya terdapat الحكم bahwa العالم حادث.
+
+Kita telah menetapkan حدوث kepada العالم.
+
+Jadi:
+
+**من حيث اشتمالها على الحكم = قضية**
+
+---
+
+# 21. الإخبار
+
+Kedua, القضية disebut **إخبارا** dari sisi bahwa ia memberikan atau menyampaikan الحكم.
+
+Dalam:
+
+**العالم حادث**
+
+kalimat tersebut memberikan informasi bahwa العالم حادث.
+
+Karena ia memberikan إفادة mengenai الحكم, maka dari sisi ini ia disebut **إخبارا**.
+
+Jadi:
+
+**من حيث إفادتها للحكم = إخبار**
+
+---
+
+# 22. الخبر
+
+Ketiga, القضية disebut **خبرا** dari sisi bahwa ia mempunyai kemungkinan **الصدق والكذب**.
+
+Dalam:
+
+**العالم حادث**
+
+kita dapat bertanya apakah العالم حادث benar atau tidak.
+
+Karena القضية memungkinkan penilaian benar atau salah, maka dari sisi ini ia disebut **خبر**.
+
+Jadi:
+
+**من حيث احتمالها للصدق والكذب = خبر**
+
+Dosen kemudian menegaskan dalam sesi tanya jawab bahwa dalam ilmu المنطق, **الخبر adalah salah satu nama dari القضية**.
+
+Namun istilah الخبر tidak selalu mempunyai makna yang sama di semua disiplin. Dalam ilmu الحديث, fiqh, dan أصول الفقه, istilah tersebut dapat memiliki penggunaan terminologis yang berbeda. Karena itu, sekali lagi konteks ilmu harus diperhatikan.
+
+---
+
+# 23. الدعوى
+
+Keempat, القضية disebut **دعوى** dari sisi bahwa ia membutuhkan دليل.
+
+Contohnya:
+
+**العالم حادث**
+
+Jika seseorang menyatakan bahwa العالم حادث, lawan bicara dapat bertanya:
+
+"ما دليلك على أن العالم حادث؟"
+
+Maka orang tersebut harus memberikan bukti atau argumentasi.
+
+Dosen memberikan struktur argumentasinya:
+
+**العالم متغير**
+
+dan:
+
+**كل متغير حادث**
+
+maka:
+
+**العالم حادث**
+
+Dengan demikian, ketika seseorang menyatakan bahwa العالم حادث dan membutuhkan دليل untuk mendukungnya, القضية tersebut disebut **دعوى**.
+
+Jadi:
+
+**من حيث احتياجها إلى الدليل = دعوى**
+
+Dalam kitab-kitab المنطق lama, dosen mengatakan bahwa seseorang dapat menemukan ungkapan seperti:
+
+**الدعوى الأولى**
+
+**الدعوى الثانية**
+
+**الدعوى الثالثة**
+
+dan seterusnya. Maksudnya adalah klaim-klaim yang diajukan oleh seseorang dan kemudian harus dibuktikan dengan sesuatu yang menunjukkan kebenarannya.
+
+---
+
+# 24. المسألة
+
+Kelima, القضية disebut **مسألة** dari sisi bahwa ia menjadi sesuatu yang ditanyakan.
+
+Misalnya:
+
+**هل العالم حادث؟**
+
+Pertanyaan tersebut menjadikan "العالم حادث" sebagai sebuah masalah yang sedang ditanyakan.
+
+Jadi dari sisi bahwa القضية menjadi objek pertanyaan, ia disebut:
+
+**مسألة**
+
+Dosen menghubungkan penggunaan ini dengan kitab-kitab ilmu التوحيد. Dalam kitab-kitab tersebut sering ditemukan judul atau pembahasan seperti:
+
+**مسألة في كذا**
+
+dan:
+
+**مسألة في كذا**
+
+Karena suatu perkara sedang ditanyakan dan dibahas, ia disebut مسألة.
+
+Jadi:
+
+**من حيث كونها يسأل عنها = مسألة**
+
+---
+
+# 25. المقدمة
+
+Keenam, القضية disebut **مقدمة** jika ia menjadi bagian dari **قياس**.
+
+Dosen kemudian mulai memberikan contoh قياس tentang حدوث العالم.
+
+Contoh sederhananya:
+
+**العالم متغير**
+
+**وكل متغير حادث**
+
+maka:
+
+**العالم حادث**
+
+Dalam قياس tersebut terdapat مقدمات dan نتيجة.
+
+Ketika suatu قضية digunakan sebagai salah satu bagian yang menjadi dasar untuk memperoleh قضية lain, maka ia disebut **مقدمة**.
+
+Dosen menekankan bahwa suatu القضية dapat menjadi نتيجة dalam satu قياس sekaligus menjadi مقدمة dalam قياس lain.
+
+Contohnya, seseorang dapat memperoleh:
+
+**العالم حادث**
+
+sebagai نتيجة dari:
+
+**العالم متغير**
+
+dan:
+
+**كل متغير حادث**.
+
+Kemudian القضية **العالم حادث** dapat digunakan lagi sebagai مقدمة untuk قياس berikutnya, misalnya bersama قضية lain untuk memperoleh نتيجة lain.
+
+Karena itu, status مقدمة atau نتيجة bergantung pada kedudukannya dalam suatu قياس tertentu.
+
+---
+
+# 26. نتيجة dan kemungkinan satu القضية menjadi نتيجة sekaligus مقدمة
+
+Dosen menjelaskan bahwa suatu القضية tidak harus selalu hanya menjadi مقدمة atau selalu menjadi نتيجة.
+
+Misalnya:
+
+**العالم حادث**
+
+dapat menjadi نتيجة karena diperoleh dari:
+
+**العالم متغير**
+
+dan:
+
+**كل متغير حادث**.
+
+Tetapi setelah diperoleh, القضية tersebut dapat dipakai sebagai مقدمة dalam قياس lain.
+
+Maka:
+
+**نتيجة بالنسبة إلى قياس**
+
+dan:
+
+**مقدمة بالنسبة إلى قياس آخر**
+
+tidak saling bertentangan.
+
+Ini menunjukkan bahwa nama القضية ditentukan berdasarkan **الاعتبار** dan kedudukannya dalam struktur argumentasi.
+
+---
+
+# 27. المبحث
+
+Ketujuh, القضية disebut **مبحث** dari sisi bahwa ia menjadi tempat البحث والنظر.
+
+Misalnya pertanyaan:
+
+**هل العالم حادث؟**
+
+dapat menjadi suatu pembahasan yang memerlukan penelitian.
+
+Kita melakukan بحث dan نظر untuk mengetahui apakah benar:
+
+**العالم حادث**
+
+atau tidak.
+
+Maka القضية disebut **مبحثا** dari sisi bahwa ia menjadi محل البحث والنظر.
+
+Dosen memberikan contoh:
+
+**العالم حادث**
+
+kemudian bertanya:
+
+"ما الدليل على أن العالم حادث؟"
+
+Jawabannya adalah:
+
+**العالم متغير**
+
+Kemudian ditanyakan lagi:
+
+"ما الدليل على أن العالم متغير؟"
+
+Dosen menjawab bahwa dasar yang digunakan adalah **المشاهدة**.
+
+---
+
+# 28. المشاهدة sebagai dasar yang disebut dalam sumber
+
+Dalam menjelaskan bagaimana kita mengetahui bahwa العالم متغير, dosen menyebut **المشاهدة**.
+
+Menurut penjelasan beliau, المشاهدة merupakan salah satu perkara yang tidak memerlukan pembuktian panjang dalam konteks yang sedang dijelaskan. Perubahan dapat disaksikan.
+
+Dari المشاهدة, seseorang mengetahui bahwa العالم متغير.
+
+Kemudian digunakan kaidah:
+
+**كل متغير حادث**
+
+Sehingga:
+
+**العالم حادث**
+
+Dosen menyebut bahwa pembahasan mengenai المشاهدة ini akan muncul lagi dan merupakan salah satu dasar yang digunakan dalam argumentasi tersebut.
+
+Bagian rekaman pada titik ini memiliki beberapa lafaz yang tidak sepenuhnya jelas, sehingga rincian lebih jauh mengenai istilah yang muncul setelah pembahasan المشاهدة tidak dapat dipastikan.
+
+---
+
+# 29. المطلوب
+
+Kedelapan, القضية disebut **مطلوبا** dari sisi bahwa ia merupakan sesuatu yang dicari atau diminta pembuktiannya dengan دليل.
+
+Dalam contoh:
+
+**العالم حادث**
+
+kita belum sekadar menyebut sebuah القضية, tetapi sedang berusaha memperoleh dan membuktikannya melalui دليل.
+
+Caranya:
+
+**العالم متغير**
+
+**وكل متغير حادث**
+
+maka:
+
+**العالم حادث**
+
+Karena القضية **العالم حادث** merupakan sesuatu yang dicari melalui دليل, ia disebut:
+
+**مطلوبا**
+
+Jadi:
+
+**من حيث كونها تطلب بالدليل = مطلوب**
+
+---
+
+# 30. النتيجة
+
+Kesembilan, القضية disebut **نتيجة** dari sisi bahwa ia diperoleh melalui دليل.
+
+Dalam المثال:
+
+**العالم متغير**
+
+**وكل متغير حادث**
+
+maka:
+
+**العالم حادث**
+
+Dua القضية pertama digunakan sebagai مقدمات dan dari keduanya diperoleh قضية ketiga.
+
+قضية yang diperoleh melalui تركيب القياس tersebut disebut **نتيجة**.
+
+Jadi:
+
+**من حيث كونها تحصل بالدليل = نتيجة**
+
+Dengan demikian, satu قضية yang sama, yaitu:
+
+**العالم حادث**
+
+dapat disebut قضية، وإخبارا، وخبرا، ودعوى، ومسألة، ومقدمة، ومبحثا، ومطلوبا، ونتيجة.
+
+Masing-masing nama tidak menunjukkan bahwa terdapat sembilan perkara berbeda, melainkan sembilan اعتبار berbeda terhadap satu القضية.
+
+---
+
+# 31. Contoh lengkap: العالم حادث
+
+Dosen kemudian menyatukan seluruh nama tersebut melalui contoh:
+
+**العالم حادث**
+
+Sebagai **قضية**, ia mengandung الحكم.
+
+Sebagai **إخبار**, ia memberikan informasi tentang الحكم.
+
+Sebagai **خبر**, ia dapat dinilai benar atau salah.
+
+Sebagai **دعوى**, ia merupakan suatu klaim yang membutuhkan دليل.
+
+Sebagai **مسألة**, ia dapat menjadi sesuatu yang ditanyakan: apakah العالم حادث?
+
+Sebagai **مقدمة**, ia dapat digunakan sebagai bagian dari قياس lain.
+
+Sebagai **مبحث**, ia menjadi objek البحث والنظر.
+
+Sebagai **مطلوب**, ia dicari dan diminta pembuktiannya melalui دليل.
+
+Sebagai **نتيجة**, ia diperoleh dari مقدمات melalui قياس.
+
+Dosen mengulang pembagian ini beberapa kali agar mahasiswa memahami bahwa perbedaan nama tersebut hanya berasal dari **اعتبارات مختلفة**.
+
+---
+
+# 32. Bentuk قياس dalam contoh العالم حادث
+
+Argumentasi yang diberikan dalam sumber adalah:
+
+**العالم متغير**
+
+**وكل متغير حادث**
+
+**إذن العالم حادث**
+
+Dosen menjelaskan bahwa keseluruhan susunan tersebut disebut **قياس**.
+
+Dalam struktur قياس, dua القضية pertama merupakan مقدمات, sedangkan القضية terakhir merupakan نتيجة.
+
+Salah satu مقدمات disebut:
+
+**المقدمة الصغرى**
+
+dan yang lain:
+
+**المقدمة الكبرى**.
+
+Kemudian hasilnya disebut:
+
+**النتيجة**.
+
+Dosen menegaskan bahwa pembahasan utama dari ilmu المنطق pada tahap berikutnya akan berkaitan dengan القياس, karena salah satu tujuan penting dari ilmu المنطق adalah memahami bagaimana memperoleh hasil atau نتيجة dari مقدمات melalui قياس yang benar.
+
+---
+
+# 33. Hubungan pembahasan القضية dengan الاستدلال
+
+Dosen sejak awal mengatakan bahwa pembahasan yang sedang diberikan berkaitan dengan hal-hal yang menjadi dasar bagi **موضوع الاستدلال**.
+
+Hal tersebut menjelaskan mengapa مبحث القضية perlu dipelajari sebelum masuk ke القياس.
+
+Seseorang tidak dapat memahami القياس jika belum mengetahui:
+
+apa yang disebut قضية,
+
+apa yang disebut مقدمة,
+
+apa yang disebut نتيجة,
+
+bagaimana suatu قضية tersusun,
+
+dan bagaimana suatu الحكم ditetapkan.
+
+Dengan demikian, pembahasan القضية bukan pembahasan yang berdiri sendiri, melainkan fondasi untuk pembahasan الاستدلال dan القياس yang akan datang.
+
+---
+
+# 34. القرآن dan penggunaan الأدلة العقلية
+
+Dalam menjelaskan قياس العالم حادث, dosen kemudian mengaitkan pembahasan tersebut dengan الأدلة العقلية yang terdapat dalam Al-Qur'an.
+
+Dosen mengatakan bahwa موضوعات العقيدة yang terdapat dalam Al-Qur'an juga disebutkan melalui **أدلة عقلية** dan dalam bentuk yang menyerupai **أقياس منطقية**.
+
+Menurut penjelasan dosen, hal tersebut berkaitan dengan sifat dakwah Islam sebagai dakwah yang bersifat universal.
+
+Karena dakwah Islam ditujukan kepada semua manusia, dari berbagai tempat, budaya, tingkat pengetahuan, dan latar belakang, maka dalam Al-Qur'an terdapat pula argumentasi yang dapat dipahami melalui penalaran.
+
+Dalam contoh yang sedang dibahas, seseorang dapat bergerak dari:
+
+**العالم متغير**
+
+kepada:
+
+**كل متغير حادث**
+
+kemudian:
+
+**العالم حادث**
+
+dan dari حدوث العالم dilanjutkan kepada kebutuhan adanya محدث.
+
+Dosen menyebut bahwa محدث العالم adalah:
+
+**الله سبحانه وتعالى**
+
+Namun bagian ini disampaikan sebagai pengaitan terhadap contoh قياس dan pembahasan العقيدة, bukan sebagai pengembangan argumentasi baru di luar struktur yang diberikan dalam sumber.
+
+---
+
+# 35. Kedudukan المشاهدة dalam argumentasi
+
+Urutan argumentasi yang dijelaskan adalah sebagai berikut.
+
+Pertama, melalui **المشاهدة**, seseorang mengetahui bahwa العالم متغير.
+
+Kedua, digunakan premis:
+
+**كل متغير حادث**
+
+Ketiga, dari kedua مقدمات tersebut diperoleh:
+
+**العالم حادث**
+
+Jadi:
+
+المشاهدة → العالم متغير → كل متغير حادث → العالم حادث.
+
+Dosen menyebut المشاهدة sebagai sesuatu yang dalam konteks pembahasan ini tidak memerlukan تحقيق panjang karena perubahan dapat disaksikan.
+
+---
+
+# 36. Pertanyaan tentang الموضوع yang لفظه مفرد dan جزئي
+
+Di bagian tengah sesi tanya jawab, seorang mahasiswa bertanya apakah الموضوع yang lafaznya مفرد dapat sekaligus bersifat **جزئي**.
+
+Dosen menjawab bahwa hal tersebut memungkinkan.
+
+Contoh yang disebut dalam transkrip adalah penggunaan nama seperti:
+
+**محمد**
+
+ketika dikatakan:
+
+**محمد عالم**
+
+Dalam susunan tersebut, Muhammad dapat menjadi موضوع yang berupa lafaz مفرد dan merujuk kepada suatu individu tertentu.
+
+Dosen juga menyebut nama-nama tempat seperti:
+
+**القاهرة**
+
+dan:
+
+**البصرة**
+
+sebagai contoh lafaz yang dapat digunakan sebagai nama tertentu.
+
+Namun bagian percakapan mahasiswa mengenai rincian contoh tersebut tidak terdengar dengan sempurna dalam sumber, sehingga penjelasan lebih jauh mengenai klasifikasi masing-masing contoh tidak dapat dipastikan.
+
+Dosen mengatakan bahwa pembahasan semacam ini akan datang kemudian.
+
+---
+
+# 37. القضية الحملية dan istilah الحمل
+
+Dosen kembali menjelaskan mengapa القضية ini disebut **حملية**.
+
+Dalam القضية الحملية terdapat:
+
+**موضوع**
+
+dan:
+
+**محمول**
+
+Kemudian suatu الحكم yang terdapat pada المحمول **يحمل على الموضوع**.
+
+Contohnya:
+
+**الشمس طالعة**
+
+الشمس adalah الموضوع.
+
+طالعة adalah المحمول.
+
+الحكم bahwa الطلوع berlaku bagi الشمس dibawa atau dihamalkan kepada الموضوع.
+
+Karena itulah القضية disebut **حملية**.
+
+Dalam istilah nahwu, terdapat hubungan antara المبتدأ dan الخبر.
+
+Dalam istilah البلاغة, terdapat مسند إليه dan مسند.
+
+Dalam istilah المنطق, terdapat موضوع dan محمول.
+
+Semua istilah tersebut digunakan untuk menggambarkan struktur hubungan yang sama dari sudut ilmu masing-masing.
+
+---
+
+# 38. Perbedaan القضية dan الخبر
+
+Pada sesi tanya jawab terdapat pertanyaan mengenai perbedaan antara **القضية** dan **الخبر**.
+
+Jawaban yang diberikan dosen adalah bahwa dalam istilah ilmu المنطق:
+
+**الخبر اسم من أسماء القضية**
+
+Jadi الخبر merupakan salah satu nama القضية berdasarkan اعتبار tertentu.
+
+Perbedaannya bukan berarti القضية dan الخبر selalu menunjuk kepada dua jenis perkara yang berbeda. Sebaliknya, satu القضية dapat disebut خبر jika dilihat dari sisi kemungkinan الصدق والكذب.
+
+Dosen kembali mengingatkan bahwa istilah الخبر dapat memiliki makna yang berbeda dalam disiplin lain, seperti:
+
+- علم الحديث
+- الفقه
+- أصول الفقه
+
+Karena setiap علم mempunyai istilah dan definisinya sendiri.
+
+Jadi ketika seseorang mendengar istilah **خبر**, ia harus melihat terlebih dahulu dalam ilmu apa istilah tersebut digunakan.
+
+---
+
+# 39. مراجعة mahasiswa terhadap materi
+
+Di bagian akhir file, seorang mahasiswa bernama **طلحة من بنجلاديش** diminta menjelaskan kembali materi yang telah dipelajari.
+
+Ia memulai dengan menyebut bahwa pelajaran hari itu diawali dengan مراجعة terhadap materi sebelumnya, khususnya **مبحث الألفاظ**.
+
+Ia kemudian menjelaskan kembali bahwa:
+
+اللفظ terbagi menjadi:
+
+**مفرد** dan **مركب**.
+
+المفرد mencakup:
+
+**اسم، فعل، حرف**
+
+dengan istilah yang disesuaikan antara terminologi المنطق dan nahwu.
+
+Adapun المركب terbagi menjadi:
+
+**ناقص** dan **تام**.
+
+المركب الناقص terbagi menjadi:
+
+**تقييدي** dan **غير تقييدي**.
+
+Sedangkan المركب التام terbagi menjadi:
+
+**خبري** dan **إنشائي**.
+
+المركب الإنشائي mencakup bentuk-bentuk seperti:
+
+**الأمر، النهي، الدعاء، الترجي، النداء** dan bentuk lainnya.
+
+Kemudian mahasiswa menyimpulkan bahwa المركب التام الخبري adalah **القضية**.
+
+---
+
+# 40. مراجعة definisi القضية oleh mahasiswa
+
+Mahasiswa tersebut kemudian mengulang definisi:
+
+**القضية قول يحتمل الصدق والكذب لذاته**
+
+dan menjelaskan bahwa القول tersebut mempunyai kemungkinan benar dan salah.
+
+Ia juga mengulang definisi kedua, yaitu bahwa القضية merupakan القول yang memungkinkan seseorang mengatakan kepada قائله bahwa ia benar atau salah.
+
+Kemudian ia menyebut bahwa القضية terdiri dari dua حدين dalam pembahasan dasarnya, dan salah satu حد dapat berupa اسم atau bentuk lain sesuai struktur القضية.
+
+Setelah itu ia mengulang empat bagian القضية الحملية:
+
+**الموضوع**
+
+**المحمول**
+
+**العلاقة أو الرابطة أو النسبة**
+
+**الحكم**
+
+Dalam contoh:
+
+**الشمس طالعة**
+
+الشمس adalah الموضوع.
+
+طالعة adalah المحمول.
+
+Hubungan antara keduanya adalah الرابطة atau النسبة, meskipun dalam bahasa Arab hubungan tersebut dapat tidak disebutkan secara lafaz.
+
+Sedangkan الحكم adalah apakah الطلوع ditetapkan bagi الشمس atau tidak.
+
+---
+
+# 41. مراجعة dua pendapat tentang التصديق
+
+Mahasiswa tersebut kemudian mengulang dua pendapat mengenai التصديق.
+
+Pendapat pertama menyatakan bahwa:
+
+الموضوع = تصور.
+
+المحمول = تصور.
+
+الرابطة = تصور.
+
+الحكم = تصور.
+
+Sedangkan مجموع semuanya merupakan التصديق.
+
+Pendapat kedua menyatakan bahwa:
+
+الموضوع = تصور.
+
+المحمول = تصور.
+
+الرابطة = تصور.
+
+Sedangkan:
+
+**الحكم = التصديق**
+
+Mahasiswa juga mengingat bahwa menurut pendapat kedua, الموضوع والمحمول والرابطة merupakan hal-hal yang diperlukan agar الحكم dapat terjadi, meskipun ketiganya tidak termasuk hakikat التصديق menurut definisi tersebut.
+
+Dosen membenarkan penjelasan tersebut.
+
+---
+
+# 42. مراجعة أسماء القضية الحملية
+
+Mahasiswa kemudian mengulang bahwa القضية الحملية mempunyai banyak nama berdasarkan berbagai اعتبار.
+
+Ia menyebut:
+
+**قضية** من حيث اشتمالها على الحكم.
+
+**إخبار** من حيث إفادتها للحكم.
+
+**خبر** من حيث احتمالها للصدق والكذب.
+
+**دعوى** من حيث اقتياضها إلى الدليل.
+
+**مسألة** من حيث كونها يسأل عنها.
+
+**مقدمة** من حيث كونها جزءا من القياس.
+
+Kemudian ia berusaha menyebut nama-nama berikutnya berdasarkan penjelasan dosen, tetapi beberapa lafaz dalam rekamannya tidak terdengar dengan jelas. Dosen sebelumnya menjelaskan bahwa nama yang dimaksud adalah **مبحث** dari حيث كونها محلا للبحث والنظر، و**مطلوب** من حيث كونها تطلب بالدليل، و**نتيجة** من حيث كونها تحصل بالدليل.
+
+Karena bagian pengulangan mahasiswa tersebut mengandung beberapa kesalahan transkripsi dan lafaz yang tidak jelas, istilah yang tidak dapat dipastikan tidak diperbaiki secara diam-diam. Yang dapat dipastikan dari penjelasan utama dosen adalah tiga istilah terakhir tersebut: **مبحث، مطلوب، نتيجة**.
+
+---
+
+# 43. Penekanan dosen mengenai kedisiplinan kelas
+
+Pada akhir pelajaran, dosen memberikan teguran mengenai kedisiplinan.
+
+Beliau mengulang pesan dari المحاضرة الماضية bahwa mahasiswa tidak boleh datang terlambat. Beliau mengatakan bahwa kehadiran harus dilakukan lebih awal dan keterlambatan tidak diperbolehkan.
+
+Sebelum penutupan tersebut, dosen juga mengingatkan mahasiswa agar tidak melakukan percakapan sampingan dengan teman di sebelahnya. Beliau mengatakan bahwa:
+
+**لا يتحدث أي أحد بجوار زميله**
+
+dan telepon harus dimatikan:
+
+**الهاتف يجب أن يكون مغلقا**
+
+Hal ini disampaikan sebagai bagian dari tata tertib pembelajaran agar mahasiswa memperhatikan pelajaran dan tidak mengganggu jalannya المحاضرة.
+
+---
+
+# 44. Kesimpulan alur materi
+
+Materi ini pada dasarnya bergerak dari pembahasan **الألفاظ** menuju **القضية**, kemudian dari القضية menuju **التصديق**, dan akhirnya menuju kebutuhan terhadap **القياس والاستدلال**.
+
+Pertama, mahasiswa mengingat kembali bahwa اللفظ terbagi menjadi مفرد dan مركب. المركب kemudian dibagi menjadi تام dan ناقص, dan المركب التام terbagi menjadi خبري dan إنشائي.
+
+Dari seluruh pembagian tersebut, yang menjadi fokus ilmu المنطق dalam pembahasan ini adalah **المركب التام الخبري**, karena itulah yang disebut **قضية**.
+
+القضية didefinisikan sebagai:
+
+**قول يحتمل الصدق والكذب لذاته**
+
+Kemungkinan الصدق والكذب merupakan syarat yang membedakannya dari الجمل الإنشائية seperti الأمر والنهي والدعاء والتمني وغيرها.
+
+Kata **لذاته** berarti bahwa kemungkinan benar atau salah dilihat dari القول itu sendiri, bukan dari siapa yang mengucapkannya. Sebab perkataan Allah dan para nabi, jika dilihat dari قائله, tidak mungkin dipandang sebagai perkataan yang salah; sementara perkataan orang tertentu yang mengaku sebagai sesuatu yang tidak benar dapat dipastikan salah jika dilihat dari قائله. Yang dimaksud dalam definisi القضية adalah sifat القول dari dirinya sendiri.
+
+Kemudian القضية الحملية dijelaskan melalui contoh:
+
+**الشمس طالعة**
+
+Dalam ilmu nahwu, الشمس adalah مبتدأ dan طالعة adalah خبر. Dalam البلاغة, keduanya disebut مسند إليه dan مسند. Dalam المنطق, keduanya disebut موضوع dan محمول.
+
+القضية الحملية kemudian dianalisis mempunyai empat unsur:
+
+**الموضوع، المحمول، العلاقة أو الرابطة أو النسبة، الحكم**.
+
+الرابطة dapat disebutkan secara lafaz, seperti:
+
+**الشمس هي طالعة**
+
+atau tidak disebutkan, seperti:
+
+**الشمس طالعة**.
+
+Jika disebutkan, dari sisi lafaz القضية dapat disebut ثلاثية; jika tidak disebutkan, disebut ثنائية.
+
+Kemudian dijelaskan hubungan unsur-unsur tersebut dengan التصور dan التصديق. Terdapat dua pendapat utama dalam sumber. Menurut pendapat pertama yang dinisbatkan kepada **المعلم الثاني الفارابي**, masing-masing empat unsur merupakan تصور jika dilihat secara tersendiri, sedangkan مجموعnya merupakan تصديق. Karena التصديق merupakan مجموع empat unsur, maka التصديق menurut pendapat ini bersifat مركب.
+
+Menurut pendapat kedua yang dinisbatkan kepada **الحكماء**, التصديق adalah الحكم saja. الموضوع والمحمول والرابطة merupakan تصورات yang diperlukan untuk terjadinya الحكم, tetapi berada di luar hakikat التصديق. Karena itu التصديق menurut pendapat ini bersifat بسيط. Dosen menegaskan bahwa dalam konteks pembelajaran, mahasiswa boleh mengambil salah satu pendapat tersebut; yang paling penting adalah memahami bahwa الحكم harus ada dalam القضية.
+
+Setelah itu dibahas bahwa satu القضية mempunyai berbagai nama berdasarkan اعتبار yang berbeda. Dengan contoh:
+
+**العالم حادث**
+
+ia disebut قضية karena mengandung الحكم, إخبار karena memberikan إفادة للحكم, خبر karena mempunyai kemungkinan الصدق والكذب, دعوى karena membutuhkan دليل, مسألة karena menjadi sesuatu yang ditanyakan, مقدمة karena dapat menjadi bagian dari قياس, مبحث karena menjadi objek البحث والنظر, مطلوب karena dicari melalui دليل, dan نتيجة karena diperoleh melalui دليل.
+
+Contoh قياس yang digunakan adalah:
+
+**العالم متغير**
+
+**وكل متغير حادث**
+
+**إذن العالم حادث**
+
+Melalui contoh ini dijelaskan bahwa satu القضية dapat berubah kedudukannya berdasarkan القياس yang sedang dianalisis. Ia dapat menjadi نتيجة dalam satu قياس dan kemudian menjadi مقدمة dalam قياس berikutnya.
+
+Pembahasan tersebut kemudian dihubungkan dengan الاستدلال dan الأدلة العقلية. Dosen menjelaskan bahwa Al-Qur'an juga memuat argumentasi العقلية dan bentuk-bentuk yang dapat dipahami melalui القياس, karena الدعوة الإسلامية bersifat عالمية dan berbicara kepada manusia dengan berbagai tingkat ilmu dan budaya.
+
+Akhirnya, mahasiswa diminta mengulang materi untuk memastikan bahwa hubungan antara مبحث الألفاظ، القضية، التصديق، الحكم، dan القياس telah dipahami. Pelajaran ditutup dengan penegasan tata tertib kelas, khususnya larangan datang terlambat, larangan melakukan percakapan sampingan selama pelajaran, dan keharusan mematikan telepon agar المحاضرة berlangsung dengan baik.
