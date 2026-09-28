@@ -1,0 +1,902 @@
+# PEMBAGIAN QADHIYYAH HAMLIYYAH BERDASARKAN INDIVIDU-INDIVIDU MAWDHU‘
+
+## Pengantar: posisi pembahasan dalam ilmu manthiq
+
+Pada awal pembelajaran, dosen mengingatkan kembali materi yang telah dibahas pada pertemuan sebelumnya. Sebelumnya telah dijelaskan tentang القضية atau qadhiyyah, kemudian pembagian awalnya menjadi القضية الحملية dan القضية الشرطية. Setelah itu telah dibahas bagian-bagian dari qadhiyyah hamliyyah maupun bagian-bagian dari qadhiyyah syarthiyyah.
+
+Setelah keluar dari pembahasan umum tersebut, المؤلف mulai masuk ke القضية الحملية dan pembagian-pembagiannya. Qadhiyyah hamliyyah didahulukan karena sifatnya lebih sederhana. Dalam penjelasan dosen, qadhiyyah hamliyyah merupakan qadhiyyah yang lebih sederhana dibandingkan qadhiyyah syarthiyyah, sehingga pembahasannya diletakkan terlebih dahulu.
+
+Qadhiyyah hamliyyah sebenarnya dapat dibagi dengan berbagai اعتبار atau sudut pandang. Karena itu, sebelum membahas suatu pembagian, harus terlebih dahulu diketahui apa yang menjadi اعتبار atau مورد التقسيم, yaitu dari sudut mana qadhiyyah tersebut sedang dibagi.
+
+Secara umum, dosen menyebut beberapa pembagian qadhiyyah hamliyyah. Dilihat dari individu-individu yang menjadi objek pembicaraan, qadhiyyah hamliyyah terbagi menjadi شخصية, طبيعية, محصورة, dan مهملة. Dilihat dari keberadaan individu-individunya, terdapat pembagian lain menjadi حقيقية, خارجية, dan ذهنية. Dilihat dari العدول والتحصيل, terdapat معدولة dan محصلة. Dilihat dari الجهة, terdapat موجهة dan غير موجهة; qadhiyyah muwajjahah sendiri kemudian terbagi menjadi بسائط dan مركبات dengan beberapa jenis di dalamnya. Dilihat dari الكيف, qadhiyyah terbagi menjadi موجبة dan سالبة. Dilihat dari penyebutan الرابط atau copula, terdapat ثنائية dan ثلاثية.
+
+Namun pada pertemuan ini, yang menjadi fokus bukan semua pembagian tersebut. Pembagian yang sedang dipelajari adalah pembagian القضية الحملية باعتبار أفراد الموضوع, yaitu qadhiyyah hamliyyah berdasarkan individu-individu dari الموضوع.
+
+Karena itu, hal pertama yang harus ditentukan adalah: apa yang menjadi مورد التقسيم? Jawabannya adalah الموضوع, tetapi yang diperhatikan dalam pembagian ini adalah أفراد الموضوع, yaitu individu-individu yang termasuk ke dalam موضوع.
+
+Dalam penjelasan yang dikaitkan dengan العلامة السعد, موضوع menjadi dasar atau مورد التقسيم. Dosen kembali mengingatkan perbedaan antara الموضوع dan المحمول. Yang dimaksud dengan الموضوع dalam pembagian ini adalah أفراد الموضوع, sedangkan المحمول dipahami melalui مفهومه.
+
+Sebagai gambaran, apabila dikatakan “الطلاب ناجحون”, maka yang menjadi perhatian pada الموضوع adalah individu-individu yang termasuk dalam الطلاب, sedangkan المحمول ناجحون berkaitan dengan konsep atau مفهوم keberhasilan.
+
+Dengan dasar tersebut, qadhiyyah hamliyyah berdasarkan individu-individu الموضوع terbagi menjadi empat: القضية الشخصية، القضية الطبيعية، القضية المهملة، dan القضية المحصورة.
+
+## Mengapa hanya ada empat? وجه الحصر
+
+Dosen tidak ingin mahasiswa hanya menghafal empat jenis tersebut. Ia meminta mereka memahami وجه الحصر, yaitu alasan mengapa pembagian itu berhenti pada empat dan tidak menjadi lima atau lebih.
+
+Untuk menemukan وجه الحصر, pertama-tama الموضوع dilihat dari sifatnya. موضوع secara umum, dalam kaitannya dengan pembagian ini, hanya mungkin berada dalam dua keadaan: جزئي atau كلي. Tidak ada keadaan ketiga di antara keduanya.
+
+Jika الموضوع جزئي, maka qadhiyyah disebut شخصية atau مخصوصة.
+
+Jika الموضوع كلي, maka perlu dilihat lagi: apakah hukum yang diberikan diarahkan kepada الحقيقة atau طبيعة الموضوع itu sendiri, atau diarahkan kepada أفراد الموضوع.
+
+Jika hukum diarahkan kepada الحقيقة atau طبيعة الشيء, maka qadhiyyah disebut طبيعية.
+
+Jika hukum diarahkan kepada أفراد الموضوع, maka ada dua kemungkinan lagi. Apakah jumlah atau kuantitas individu yang dikenai hukum dijelaskan atau tidak?
+
+Jika kuantitas individu dijelaskan, qadhiyyah disebut محصورة atau مصوّرة. Qadhiyyah محصورة ini kemudian terbagi lagi menjadi كليه dan جزئيه, tergantung apakah yang disebutkan adalah seluruh individu atau sebagian individu.
+
+Jika kuantitas individu tidak dijelaskan, qadhiyyah disebut مهملة.
+
+Dengan demikian, urutan logisnya adalah:
+
+موضوع → جزئي atau كلي.
+
+Jika جزئي → شخصية.
+
+Jika كلي → lihat apakah hukum mengenai الحقيقة atau الأفراد.
+
+Jika mengenai الحقيقة → طبيعية.
+
+Jika mengenai الأفراد → lihat apakah jumlah individu dijelaskan.
+
+Jika dijelaskan → محصورة, dan محصورة terbagi menjadi كلية atau جزئية.
+
+Jika tidak dijelaskan → مهملة.
+
+Dari sinilah diperoleh empat jenis utama yang sedang dibicarakan: شخصية، طبيعية، مهملة، محصورة.
+
+Dalam pembagian ini, qadhiyyah محصورة kemudian menghasilkan empat bentuk yang dikenal sebagai المحصورات الأربع, karena masing-masing dapat berupa موجبة atau سالبة. Maka terdapat:
+
+كلية موجبة،
+كلية سالبة،
+جزئية موجبة،
+جزئية سالبة.
+
+## Pertama: القضية الشخصية atau المخصوصة
+
+Jenis pertama adalah القضية الشخصية.
+
+Definisi sederhananya adalah qadhiyyah yang موضوع-nya جزئي atau مشخص, yaitu sesuatu yang tertentu dan tidak mencakup banyak individu.
+
+Contoh paling mudah adalah:
+
+زيد قائم
+
+“Zaid berdiri.”
+
+Zaid merupakan individu tertentu. Karena موضوع-nya menunjuk kepada satu individu tertentu, qadhiyyah tersebut disebut شخصية.
+
+Namun dosen memberikan perhatian khusus pada istilah “شخصية”. Kata tersebut tidak harus dipahami bahwa موضوع selalu berupa nama seseorang. Yang dimaksud مشخص adalah sesuatu yang tertentu, terbatas, atau جزئي; bukan sesuatu yang dapat diterapkan kepada banyak individu.
+
+Misalnya “مصر” dapat menjadi موضوع yang مشخص dalam suatu qadhiyyah, karena yang dimaksud adalah negara tertentu. Demikian pula “كتاب المنطق” dapat menjadi موضوع جزئي tertentu, meskipun “كتاب” secara umum merupakan konsep كلي.
+
+Jadi, yang menentukan bukan apakah موضوع berupa manusia atau bukan manusia, melainkan apakah yang dimaksud merupakan individu tertentu atau konsep yang dapat berlaku pada banyak individu.
+
+Dosen memberikan contoh lain berupa “الطالب الذي يلبس الأحمر”, yaitu siswa yang mengenakan pakaian merah. Di sini pembicaraan diarahkan kepada siswa tertentu. Dengan demikian, موضوع tersebut bersifat جزئي atau مشخص.
+
+Dalam istilah bahasa yang digunakan dalam kelas, sesuatu disebut مشخص apabila ia telah ditentukan. Jika موضوع mengandung sesuatu yang menunjukkan penentuan atau ta‘rif, seperti اسم الإشارة, الاسم الموصول, “الـ” التعريفية, ضمير, dan bentuk-bentuk pengenal lainnya, hal tersebut dapat membantu menunjukkan bahwa yang dimaksud adalah sesuatu yang tertentu.
+
+Namun dosen mengingatkan bahwa inti persoalannya tetap pada sifat جزئي: موضوع tersebut tidak dapat diterapkan kepada banyak individu secara tidak terbatas seperti مفهوم انسان.
+
+### Mengapa disebut شخصية dan مخصوصة?
+
+Qadhiyyah ini disebut شخصية karena موضوع-nya مشخص atau tertentu.
+
+Selain itu, qadhiyyah tersebut juga disebut مخصوصة. Dosen memberikan perhatian khusus terhadap istilah مخصوصة karena terdapat kasus yang موضوع-nya adalah الذات الأقدس, yaitu Allah سبحانه وتعالى.
+
+Misalnya:
+
+الله قادر
+
+“Allah Maha Kuasa.”
+
+atau:
+
+الله مريد
+
+“Allah berkehendak.”
+
+atau:
+
+الله قديم.
+
+Dalam kasus seperti ini, dosen tidak ingin menggunakan istilah “شخصي” dengan cara yang dapat menimbulkan kesalahpahaman terhadap الذات الأقدس. Allah tidak disebut جزئي dalam pengertian yang biasa digunakan dalam klasifikasi konsep. Karena itu, ketika موضوع adalah الذات الأقدس, digunakan istilah مخصوصة untuk menunjukkan kekhususan موضوع tersebut.
+
+Jadi, secara umum qadhiyyah dengan موضوع جزئي dapat disebut شخصية atau مخصوصة. Tetapi ketika موضوع adalah الذات الأقدس, istilah yang digunakan secara khusus adalah مخصوصة, sebagai bentuk perhatian terhadap خصوصية الموضوع.
+
+Dosen juga menjelaskan bahwa kata مخصوصة tidak semata-mata terbatas pada kasus الذات الأقدس. Qadhiyyah الشخصية sendiri juga dapat disebut مخصوصة karena موضوع-nya memiliki kekhususan. Namun apabila موضوع-nya adalah الذات الأقدس, tidak digunakan istilah “شخصية” untuk menghindari الإيهام atau kesalahpahaman.
+
+Contoh lain:
+
+زيد قائم
+
+adalah شخصية dan juga dapat disebut مخصوصة.
+
+Sedangkan:
+
+الله قادر
+
+disebut مخصوصة karena موضوع-nya adalah الذات الأقدس.
+
+## Qadhiyyah الشخصية dan hubungannya dengan الكلية
+
+Dosen kemudian memberikan penjelasan penting: qadhiyyah الشخصية berada في قوة الكلية, yaitu “berkedudukan seperti كلية” dari satu sisi.
+
+Mengapa?
+
+Ketika dikatakan:
+
+زيد عالم
+
+“Zaid adalah orang berilmu,”
+
+hukum “العلم” diberikan kepada Zaid secara keseluruhan. Bukan hanya kepada sebagian dari Zaid. Dosen memberikan ilustrasi bahwa ketika kita mengatakan Zaid عالم, kita tidak mengatakan bahwa hanya kepala Zaid atau kaki Zaid yang عالم. Hukum diarahkan kepada Zaid sebagai satu keseluruhan.
+
+Dengan demikian, dari sisi cakupan الحكم terhadap موضوع, qadhiyyah شخصية menyerupai كلية. Dalam qadhiyyah كلية seperti:
+
+كل الطلاب ناجحون
+
+hukum keberhasilan mencakup seluruh أفراد الموضوع.
+
+Dalam qadhiyyah شخصية:
+
+زيد عالم
+
+hukum ilmu mencakup seluruh موضوع, yaitu Zaid sebagai individu tersebut. Karena itulah dikatakan bahwa الشخصية في قوة الكلية.
+
+Namun dosen memberikan catatan bahwa penjelasan tersebut berkaitan dengan keadaan المحمول yang كلي. Jika المحمول sendiri جزئي, maka tidak secara otomatis dikatakan bahwa qadhiyyah الشخصية berada dalam قوة الكلية dalam pengertian tersebut.
+
+## Kedua: القضية الطبيعية
+
+Setelah الشخصية, jenis kedua adalah القضية الطبيعية.
+
+Di sini موضوع-nya bukan جزئي, melainkan كلي. Akan tetapi, الحكم tidak diarahkan kepada أفراد الموضوع. الحكم diarahkan kepada نفس الحقيقة atau طبيعة الشيء itu sendiri.
+
+Contoh:
+
+الإنسان نوع
+
+“Manusia adalah spesies.”
+
+Dalam pernyataan tersebut, dosen bertanya: apakah الحكم بالنوعية diberikan kepada Muhammad, Ahmad, Zaid, Ali, dan setiap individu manusia satu per satu?
+
+Jawabannya tidak.
+
+Yang dihukumi sebagai “نوع” adalah الإنسان sebagai حقيقة atau طبيعة, bukan masing-masing individu manusia.
+
+Demikian juga:
+
+الحيوان جنس
+
+“Animal adalah genus.”
+
+Yang dimaksud bukan bahwa keledai, kuda, atau individu tertentu secara sendiri-sendiri sedang dihukumi sebagai جنس. Yang menjadi الحكم adalah حقيقة الحيوان sebagai konsep atau hakikat yang dimaksud.
+
+Karena itu, apabila موضوع كلي dan الحكم diarahkan kepada نفس الحقيقة atau الطبيعة, qadhiyyah tersebut disebut طبيعية.
+
+## Kedudukan القضية الطبيعية dalam ilmu manthiq
+
+Pada bagian ini terdapat penjelasan penting mengenai perbedaan pandangan para ahli manthiq.
+
+Dosen menjelaskan bahwa القضية الطبيعية pada umumnya tidak dianggap sebagai qadhiyyah yang menjadi objek utama dalam العلوم الحكمية atau ilmu-ilmu logika.
+
+Salah satu tokoh yang disebut secara khusus adalah ابن سينا. Dosen mengatakan bahwa Ibn Sina mengeluarkan القضية الطبيعية dari pembagian yang dipakai dalam ilmu tersebut dan menjadikan pembagian utama hanya tiga: شخصية، محصورة، dan مهملة.
+
+Namun dosen juga menyebut bahwa ada ulama atau ahli manthiq yang tetap menghitung القضية الطبيعية sebagai salah satu bagian.
+
+Jadi terdapat perbedaan dalam cara memasukkannya ke dalam pembagian. Dosen menegaskan bahwa keluarnya satu jenis dari pembagian seorang ulama tidak berarti pembagian tersebut menjadi tidak sah. Jika seorang ulama tidak menganggap suatu jenis sebagai bagian dari objek ilmu tertentu, maka jenis tersebut memang berada di luar cakupan pembagian menurutnya.
+
+Dalam penjelasan dosen, المشهور di kalangan المناطقة adalah bahwa القضية الطبيعية tidak dianggap sebagai bagian yang معتبر dalam العلوم المنطقية, karena ilmu manthiq lebih memperhatikan أفراد الموضوع. Adapun القضية الطبيعية justru berbicara mengenai الحقيقة atau الطبيعة, bukan individu-individu.
+
+Karena itu, dosen menyatakan bahwa القضية الطبيعية lebih berkaitan dengan ilmu-ilmu lain, sedangkan dalam ilmu manthiq ia tidak menjadi fokus utama.
+
+Contohnya tetap:
+
+الإنسان نوع
+
+الإنسان ليس بجنس
+
+Dalam kedua pernyataan tersebut, yang diperhatikan adalah طبيعة الإنسان, bukan Muhammad, Ahmad, Zaid, atau individu lainnya.
+
+Dosen juga mengatakan bahwa القضية الطبيعية dapat berbentuk موجبة ataupun سالبة, sebagaimana القضية الشخصية juga dapat berbentuk موجبة maupun سالبة.
+
+## Ketiga: القضية المهملة
+
+Setelah الموضوع جزئي dan الموضوع كلي dengan الحكم atas الحقيقة, tersisa موضوع كلي yang الحكم-nya diarahkan kepada أفراد الموضوع.
+
+Dalam keadaan ini ada dua kemungkinan: jumlah individu yang dikenai الحكم disebutkan atau tidak.
+
+Jika tidak disebutkan, qadhiyyah disebut مهملة.
+
+Definisi yang diberikan dosen secara lebih hati-hati adalah:
+
+القضية التي لم يبين فيها كمية الأفراد
+
+yaitu qadhiyyah yang di dalamnya tidak dijelaskan kuantitas individu-individu موضوع.
+
+Dosen sengaja tidak menggunakan kata “أهمل” dalam definisi karena kata tersebut berasal dari kata yang sama dengan istilah yang sedang didefinisikan. Dalam kaidah penyusunan تعريف, ia ingin menghindari penggunaan lafaz مشتق dari المعرف di dalam definisinya.
+
+Karena itu, formulasi yang dipilih adalah “ما لم يبين فيها كمية الأفراد”, yaitu “qadhiyyah yang tidak dijelaskan di dalamnya jumlah/kuantitas individu.”
+
+Contoh:
+
+الطلاب حاضرون
+
+“Para siswa hadir.”
+
+Dalam pernyataan tersebut, موضوع الطلاب bersifat كلي. Hukum hadir diberikan kepada أفراد الطلاب. Akan tetapi, tidak disebutkan apakah semua siswa hadir atau hanya sebagian.
+
+Apakah semua الطلاب hadir?
+
+Tidak dapat dipastikan.
+
+Apakah sebagian الطلاب hadir?
+
+Ya, dari pernyataan tersebut setidaknya itulah yang dapat dipahami secara minimal.
+
+Karena jumlah individu yang dikenai الحكم tidak dijelaskan, qadhiyyah tersebut disebut مهملة.
+
+Contoh lain:
+
+الطلاب ليسوا بحاضرين
+
+atau pernyataan yang serupa, ketika jumlah individu yang dimaksud tidak dijelaskan.
+
+## Mengapa المهملة في قوة الجزئية?
+
+Dosen kemudian menjelaskan kaidah yang sangat penting:
+
+المهملة تلازم الجزئية
+
+atau القضية المهملة berada dalam قوة الجزئية.
+
+Alasannya adalah bahwa dalam qadhiyyah مهملة, الحكم terhadap seluruh أفراد الموضوع masih diragukan, sedangkan الحكم terhadap sebagian individu dapat dipastikan.
+
+Dosen memberikan ilustrasi langsung dari kelas.
+
+Ia masuk ke sebuah ruang kuliah dan melihat banyak mahasiswa hadir. Kemudian ia mengatakan:
+
+الطلاب حاضرون
+
+Ia melihat banyak mahasiswa, sehingga ia dapat memastikan bahwa sebagian mahasiswa memang hadir.
+
+Tetapi apakah seluruh mahasiswa hadir?
+
+Ia belum melakukan pemeriksaan daftar nama. Ia belum memanggil setiap mahasiswa satu per satu. Karena itu, keberadaan seluruh mahasiswa di dalam ruangan masih belum pasti.
+
+Dengan demikian:
+
+الحكم على البعض متيقن
+
+sedangkan:
+
+الحكم على الكل مشكوك فيه.
+
+Karena yang pasti adalah sebagian, sementara keseluruhan belum pasti, maka qadhiyyah مهملة berada dalam قوة الجزئية.
+
+Dosen menjelaskan bahwa inilah maksud perkataan الإمام السعد bahwa المهملة تلازم الجزئية.
+
+Bukan berarti setiap qadhiyyah مهملة secara material selalu dimaksudkan untuk menyatakan hanya sebagian. Akan tetapi, dari sisi logis, yang dapat dipastikan darinya adalah minimal sebagian.
+
+Dosen memberikan contoh bahwa dalam materi tertentu, qadhiyyah مهملة bisa saja pada akhirnya memberikan makna umum atau mencakup keseluruhan. Namun hal itu disebabkan oleh قرينة atau kekhususan materi, bukan karena sifat dasar qadhiyyah المهملة itu sendiri.
+
+Contoh seperti:
+
+الإنسان فان
+
+“Manusia fana.”
+
+Dalam konteks tertentu, pernyataan tersebut dapat dipahami mencakup seluruh manusia. Tetapi cakupan tersebut dikembalikan kepada خصوصية المادة atau قرينة خارجية.
+
+Karena itu, kaidah umum tetap:
+
+المهملة في قوة الجزئية.
+
+## Contoh diskusi mengenai “الليبرالية”
+
+Dosen memberikan pengalaman ketika menjadi penguji atau pembimbing sebuah penelitian. Seorang mahasiswa menulis mengenai سمات الليبرالية dan menggunakan pernyataan yang bersifat مهملة.
+
+Penguji kemudian mempertanyakan mengapa mahasiswa hanya menyebut sebagian hal dan tidak menyebut seluruhnya. Mahasiswa tersebut kemudian mengatakan bahwa ia memang bermaksud demikian.
+
+Dosen menjelaskan bahwa secara logis, المهملة في قوة الجزئية. Karena itu, tidak selalu tepat menuntut bahwa sebuah qadhiyyah مهملة harus mencakup seluruh individu.
+
+Penjelasan ini kembali menunjukkan bahwa pemahaman terhadap struktur qadhiyyah penting dalam membaca sebuah kalimat. Kita tidak boleh memasukkan makna الكلية ke dalam sebuah pernyataan yang secara bentuknya مهملة tanpa melihat قرينة atau konteks materi.
+
+## Keempat: القضية المحصورة atau المصوّرة
+
+Jenis keempat adalah القضية المحصورة.
+
+Di sini موضوع bersifat كلي, hukum diarahkan kepada أفراد الموضوع, dan jumlah individu yang dikenai hukum dijelaskan.
+
+Karena terdapat بيان terhadap كمية الأفراد, qadhiyyah disebut محصورة. Ia juga disebut مصوّرة karena mengandung صُورة, yaitu lafaz yang menunjukkan kuantitas atau jenis cakupan الحكم.
+
+Dosen menjelaskan bahwa “الصورة” di sini adalah lafaz yang digunakan untuk menunjukkan jenis qadhiyyah, khususnya dari sisi الكم dan الكيف.
+
+Pembagian berdasarkan الكم berkaitan dengan apakah الحكم mengenai seluruh individu atau sebagian individu.
+
+Sedangkan الكيف berkaitan dengan apakah الحكم berupa ثبوت atau نفي, yakni موجبة atau سالبة.
+
+Karena itu, qadhiyyah محصورة dapat berbentuk:
+
+كلية موجبة،
+كلية سالبة،
+جزئية موجبة،
+جزئية سالبة.
+
+Inilah yang disebut المحصورات الأربع.
+
+## كلية موجبة
+
+Pertama adalah الكلية الموجبة.
+
+Ia merupakan qadhiyyah yang الحكم-nya berupa penetapan المحمول kepada seluruh أفراد الموضوع.
+
+Contohnya:
+
+كل إنسان فان
+
+“Setiap manusia fana.”
+
+Dalam contoh tersebut, konsep “فناء” ditetapkan kepada seluruh individu yang termasuk dalam إنسان.
+
+Dosen menjelaskan bahwa secara struktur:
+
+الكم = الكلية
+
+karena الحكم berlaku untuk seluruh individu.
+
+Sedangkan:
+
+الكيف = الإيجاب
+
+karena المحمول ditetapkan, bukan dinafikan.
+
+Beberapa lafaz yang menjadi صور atau kata penanda كلية موجبة antara lain:
+
+كل،
+جميع،
+كافة،
+عامة،
+أي،
+كل ما يؤدي معنى الكلية.
+
+Jadi, apabila ditemukan salah satu lafaz yang menunjukkan seluruh individu disertai penetapan المحمول, qadhiyyah tersebut adalah كلية موجبة.
+
+## كلية سالبة
+
+Kedua adalah الكلية السالبة.
+
+Dalam qadhiyyah ini, hukum berupa penafian المحمول dari seluruh أفراد الموضوع.
+
+Contohnya:
+
+لا شيء من الإنسان بحجر
+
+“Tidak satu pun manusia merupakan batu.”
+
+Di sini tidak ada satu individu pun dari أفراد الإنسان yang memiliki sifat الحجر yang dimaksud.
+
+Dosen juga memberikan contoh ayat:
+
+لا تذر على الأرض من الكافرين ديارا
+
+Dalam pembahasan struktur logisnya, ungkapan tersebut menunjukkan penafian secara menyeluruh.
+
+Ciri utama كلية سالبة adalah terdapat بيان yang menunjukkan keseluruhan dan sekaligus نفي.
+
+Lafaz seperti:
+
+لا شيء،
+لا واحد،
+لا فرد,
+
+dan bentuk نكرة dalam سياق النفي dapat menunjukkan كلية سالبة.
+
+Dosen menjelaskan bahwa ketika نكرة berada dalam konteks penafian, ia dapat berfungsi menunjukkan penafian secara menyeluruh.
+
+Contoh:
+
+لا شيء من الحجر بناطق
+
+“Tidak satu pun batu dapat berbicara.”
+
+Hukum “berbicara” dinafikan dari seluruh أفراد الحجر.
+
+## جزئية موجبة
+
+Ketiga adalah الجزئية الموجبة.
+
+Di sini الحكم berupa penetapan المحمول kepada sebagian أفراد الموضوع.
+
+Contoh:
+
+بعض الطلاب حاضرون
+
+“Sebagian siswa hadir.”
+
+Atau:
+
+بعض الأنبياء رسل
+
+“Sebagian nabi adalah rasul.”
+
+Atau:
+
+بعض العلوم مفيد
+
+“Sebagian ilmu bermanfaat.”
+
+Lafaz “بعض” menunjukkan bahwa yang dimaksud bukan keseluruhan أفراد الموضوع, melainkan sebagian.
+
+Dosen menegaskan bahwa “sebagian” tidak berarti “hanya sebagian dan bukan yang lain”. Jika dikatakan:
+
+بعض الناس يموتون
+
+maka pernyataan tersebut benar selama terdapat sebagian manusia yang mati. Tidak boleh langsung disimpulkan bahwa sebagian lainnya tidak mati.
+
+Demikian pula:
+
+بعض الطلاب يفهمون
+
+tidak berarti bahwa mahasiswa lainnya pasti tidak memahami. Yang lainnya hanya tidak termasuk dalam الحكم yang sedang disebutkan.
+
+Dengan kata lain, الحكم على البعض tidak secara otomatis berarti نفي الحكم عن البعض الآخر.
+
+## مفهوم المخالفة dalam pembahasan جزئية موجبة
+
+Pada bagian ini dosen menghubungkan persoalan tersebut dengan مفهوم المخالفة.
+
+Jika dikatakan:
+
+بعض الطلاب لا يفهمون
+
+maka tidak otomatis berarti bahwa sebagian mahasiswa yang lain memahami.
+
+Dosen menyebut adanya perbedaan pendekatan yang berkaitan dengan konsep ini di kalangan Hanafiyyah dan pihak lainnya. Dalam transkrip, pembicaraan menyebut bahwa konsep مفهوم المخالفة tidak diambil dengan cara yang sama dalam semua pembahasan oleh kalangan Hanafiyyah, dan dosen mengaitkannya dengan adanya rincian dalam penggunaannya.
+
+Dosen kemudian memberikan contoh ayat:
+
+كلا إنهم عن ربهم يومئذ لمحجوبون
+
+Ia bertanya apakah ayat tersebut memberikan pengertian bahwa orang-orang beriman tidak berada dalam keadaan yang sama, sehingga dapat diambil pemahaman berlawanan mengenai المؤمنين. Pembicaraan ini digunakan untuk menunjukkan bahwa persoalan مفهوم المخالفة memiliki pembahasan tersendiri dan tidak boleh disederhanakan.
+
+Dosen tidak menguraikan seluruh rincian perbedaan tersebut dalam pertemuan ini. Ia hanya menunjukkan bahwa terdapat pembahasan mengenai sejauh mana مفهوم المخالفة dapat dijadikan دليل dan bahwa persoalan tersebut memiliki rincian dalam mazhab dan pembahasan usul.
+
+## جزئية سالبة
+
+Keempat adalah الجزئية السالبة.
+
+Dalam qadhiyyah ini, الحكم berupa penafian المحمول dari sebagian أفراد الموضوع.
+
+Misalnya:
+
+بعض الطلاب ليسوا بفهم
+
+atau bentuk yang lebih tepat dalam susunan contoh yang digunakan di kelas:
+
+بعض الطلاب ليسوا فاهمين
+
+Maksud struktur logisnya adalah bahwa sifat “memahami” dinafikan dari sebagian siswa.
+
+Namun, seperti pada جزئية موجبة, penafian terhadap sebagian tidak otomatis menetapkan lawannya kepada sebagian yang lain.
+
+Jadi, jika dikatakan:
+
+بعض الطلاب لا يفهمون
+
+tidak otomatis berarti:
+
+sebagian yang lain memahami.
+
+Informasi tentang sebagian lainnya masih مسكوت عنه kecuali ada dalil atau قرينة yang menunjukkan hal tersebut.
+
+## المحصورات الأربع dan bentuk-bentuknya
+
+Dari penjelasan tersebut diperoleh empat bentuk utama:
+
+1. كلية موجبة: الحكم بثبوت المحمول لكل أفراد الموضوع.
+
+2. كلية سالبة: الحكم بسلب المحمول عن كل أفراد الموضوع.
+
+3. جزئية موجبة: الحكم بثبوت المحمول لبعض أفراد الموضوع.
+
+4. جزئية سالبة: الحكم بسلب المحمول عن بعض أفراد الموضوع.
+
+Dosen menyebut keempatnya sebagai المحصورات الأربع.
+
+Ia juga menggunakan singkatan:
+
+ك م untuk كلية موجبة,
+
+ك س untuk كلية سالبة,
+
+ج م untuk جزئية موجبة,
+
+ج س untuk جزئية سالبة.
+
+## Makna “السور”
+
+Dalam pembahasan qadhiyyah محصورة, dosen memberikan perhatian khusus pada istilah السور.
+
+السور adalah lafaz yang digunakan untuk menunjukkan كمية الأفراد, yakni berapa banyak individu موضوع yang terkena الحكم.
+
+Jadi, السور merupakan lafaz yang membatasi atau menjelaskan cakupan individu yang dimaksud.
+
+Karena qadhiyyah pada dasarnya memiliki الكم dan الكيف, maka السور terutama menunjukkan الكم, sedangkan موجبة atau سالبة menunjukkan الكيف.
+
+Dengan demikian, misalnya:
+
+كل إنسان فان
+
+kata “كل” menunjukkan الكم, yaitu كلية.
+
+Sedangkan “فان” menunjukkan bahwa المحمول ditetapkan, sehingga dari sisi الكيف qadhiyyah tersebut موجبة.
+
+Sebaliknya:
+
+لا شيء من الحجر بناطق
+
+“لا شيء” menunjukkan cakupan keseluruhan, sedangkan “ناطق” dinafikan sehingga qadhiyyah menjadi سالبة.
+
+## صور الكلية الموجبة
+
+Untuk كلية موجبة, lafaz yang menjadi سور antara lain:
+
+كل،
+جميع،
+كافة،
+عامة,
+
+dan lafaz-lafaz lain yang menunjukkan seluruh individu.
+
+Contoh:
+
+كل من عليها فان
+
+كل شيء هالك إلا وجهه
+
+Dalam contoh tersebut, “كل” menunjukkan كلية, sementara hukum berupa ثبوت المحمول sehingga menjadi موجبة.
+
+Dosen juga menyebut أن lafaz lain yang secara makna menunjukkan keseluruhan dapat mengambil fungsi yang sama.
+
+## صور الكلية السالبة
+
+Untuk كلية سالبة, beberapa bentuk yang digunakan adalah:
+
+لا شيء،
+لا واحد،
+لا فرد,
+
+dan نكرة yang berada dalam سياق النفي.
+
+Contohnya:
+
+لا شيء من الحجر بناطق
+
+atau:
+
+لا واحد من الناس باق
+
+atau ayat:
+
+لا تذر على الأرض من الكافرين ديارا.
+
+Intinya adalah bahwa الحكم dinafikan dari seluruh أفراد الموضوع.
+
+## صور الجزئية الموجبة
+
+Untuk جزئية موجبة, digunakan lafaz yang menunjukkan sebagian, seperti:
+
+بعض،
+جزء،
+قليل،
+كثير,
+
+selama penggunaannya memberikan makna جزئية.
+
+Dosen juga menjelaskan bahwa menyebut عدد tertentu dapat menunjukkan sebagian, tetapi penentuan apakah jumlah itu merupakan seluruh kelompok atau sebagian kelompok harus dikembalikan kepada konteks.
+
+Misalnya, “60 طالبًا ناجحون” dapat menjadi جزئية apabila yang dimaksud adalah 60 dari jumlah siswa yang lebih besar.
+
+## صور الجزئية السالبة
+
+Untuk جزئية سالبة, dosen menyebut beberapa bentuk:
+
+ليس كل،
+ليس بعض،
+بعض ليس.
+
+Dalam bentuk:
+
+ليس كل طالب فاهمًا
+
+artinya tidak semua siswa memahami.
+
+Dalam:
+
+ليس بعض الطلاب بفاهمين
+
+atau bentuk serupa, penafian diarahkan kepada sebagian.
+
+Dosen menekankan bahwa dalam kitab-kitab yang lebih panjang dan tingkat studi yang lebih tinggi terdapat pembahasan yang lebih rinci mengenai perbedaan antara صور الجزئية السالبة tersebut. Misalnya, terdapat pembahasan tentang perbedaan makna antara “ليس كل”, “ليس بعض”, dan “بعض ليس”, serta rincian lainnya.
+
+Namun dosen mengatakan bahwa rincian tersebut belum menjadi bagian yang perlu dikuasai pada tahap pembelajaran ini.
+
+## Catatan nahwu tentang “ليس”
+
+Dalam membahas contoh جزئية سالبة, dosen menyisipkan penjelasan nahwu.
+
+Contohnya:
+
+ليس كل طالب فاهمًا.
+
+Ia mengingatkan bahwa “ليس” termasuk فعل ناقص dan bekerja seperti كان. Karena itu, ia memiliki اسم dan خبر, dan خبر-nya berada dalam keadaan منصوب.
+
+Dengan demikian, pembahasan manthiq juga berkaitan dengan ketepatan susunan bahasa Arab. Ketika menggunakan contoh qadhiyyah, mahasiswa tidak hanya harus memahami makna logisnya, tetapi juga memperhatikan struktur nahwu dari lafaz yang digunakan.
+
+## Urutan المحصورات الأربع
+
+Dosen kemudian menjelaskan bahwa urutan المحصورات الأربع yang biasa digunakan bukan urutan acak.
+
+Urutannya adalah:
+
+كلية موجبة،
+كلية سالبة،
+جزئية موجبة،
+جزئية سالبة.
+
+Ia menyebut bahwa ترتيب ini merupakan ترتيب مقصود berdasarkan رتبة atau tingkatan.
+
+Untuk memahami alasannya, perlu dilihat dua aspek:
+
+الكم: كلية atau جزئية.
+
+الكيف: موجبة atau سالبة.
+
+Dalam aspek الكم, الكلية dianggap lebih utama daripada الجزئية, karena الكلية mencakup keseluruhan, sedangkan الجزئية hanya mencakup sebagian.
+
+Dalam aspek الكيف, الإيجاب dipandang sebagai sisi yang lebih utama dibanding السلب dalam urutan yang sedang digunakan.
+
+Karena itu, كلية موجبة menggabungkan dua sisi yang dianggap lebih utama: الكلية dan الإيجاب. Maka ia ditempatkan pertama.
+
+Sedangkan جزئية سالبة menggabungkan dua sisi yang dianggap lebih rendah: الجزئية dan السلب. Karena itu ia ditempatkan terakhir.
+
+Yang kemudian perlu dijelaskan adalah mengapa كلية سالبة ditempatkan sebelum جزئية موجبة.
+
+Dosen menjelaskan bahwa كلية سالبة memiliki فضيلة yang berkaitan dengan الموضوع, karena موضوع-nya tetap كلي. Sementara جزئية موجبة memiliki فضيلة yang berkaitan dengan المحمول atau sisi الإيجاب.
+
+Dalam pembahasan sebelumnya, موضوع dianggap lebih mulia daripada المحمول. Karena itu, keunggulan كلية سالبة dikembalikan kepada موضوع yang bersifat كلي, sehingga ia ditempatkan setelah كلية موجبة dan sebelum جزئية موجبة.
+
+Maka urutannya:
+
+كلية موجبة → memiliki فضيلة الكم dan فضيلة الكيف.
+
+كلية سالبة → memiliki فضيلة الكلية pada الموضوع.
+
+جزئية موجبة → memiliki فضيلة الإيجاب.
+
+جزئية سالبة → menggabungkan الجزئية dan السلب.
+
+## Ringkasan struktur pembagian القضية الحملية باعتبار أفراد الموضوع
+
+Setelah seluruh jenis dijelaskan, dosen kembali mengulang kerangka pembagian dari awal agar mahasiswa tidak kehilangan struktur besarnya.
+
+القضية الحملية باعتبار أفراد الموضوع terbagi menjadi empat.
+
+Pertama, شخصية: موضوع-nya جزئي atau مشخص.
+
+Kedua, طبيعية: موضوع-nya كلي tetapi الحكم diarahkan kepada نفس الحقيقة atau الطبيعة, bukan kepada individu-individu.
+
+Ketiga, مهملة: موضوع-nya كلي, الحكم diarahkan kepada أفراد الموضوع, tetapi كمية الأفراد tidak dijelaskan.
+
+Keempat, محصورة: موضوع-nya كلي, الحكم diarahkan kepada أفراد الموضوع, dan كمية الأفراد dijelaskan.
+
+Qadhiyyah محصورة kemudian terbagi menjadi كلية dan جزئية. Masing-masing dapat berupa موجبة atau سالبة. Karena itu terdapat empat المحصورات الأربع.
+
+## Pembacaan dan penjelasan teks العلامة السعد
+
+Dosen kemudian membaca kembali rumusan yang dikaitkan dengan العلامة السعد:
+
+“والموضوع إن كان مشخصا سميت القضية مخصوصة، وإن كان نفس الحقيقة فطبيعية، وإلا فإن بين فيها كمية أفراده كلا أو بعضا فمحصورة وسميت محصورة للحصر ومصورة لاشتمالها على الصورة، أما كلية أو جزئية، وما به البيان صورة، وإلا فمهملة، وهذه المهملة تلازم الجزئية.”
+
+Maksud keseluruhan teks tersebut dijelaskan secara bertahap.
+
+Jika موضوع مشخص, qadhiyyah disebut مخصوصة.
+
+Jika موضوع adalah نفس الحقيقة, qadhiyyah disebut طبيعية.
+
+Jika bukan keduanya, berarti موضوع berupa أفراد الحقيقة. Kemudian dilihat apakah كمية أفراد dijelaskan atau tidak.
+
+Jika dijelaskan, qadhiyyah disebut محصورة, karena individu-individu موضوع dibatasi atau ditentukan jumlahnya.
+
+Ia juga disebut مصورة karena mengandung صورة, yaitu lafaz yang menjadi sarana untuk menunjukkan jumlah individu tersebut.
+
+Jika بيان menunjukkan keseluruhan, maka qadhiyyah كلية.
+
+Jika بيان menunjukkan sebagian, maka qadhiyyah جزئية.
+
+Adapun lafaz yang menjadi alat untuk menunjukkan كمية الأفراد disebut صورة.
+
+Jika tidak ada بيان mengenai كمية الأفراد, maka qadhiyyah disebut مهملة.
+
+Dan المهملة تلازم الجزئية, karena ketika qadhiyyah مهملة dinilai benar, sekurang-kurangnya sebagian أفراد الموضوع berada dalam الحكم tersebut.
+
+## Mengapa المنطق lebih memperhatikan المحصورات الأربع?
+
+Dosen kemudian memperluas penjelasan mengenai apa yang sebenarnya menjadi perhatian utama ahli manthiq.
+
+Dalam pembahasan hukum-hukum qadhiyyah yang akan datang, seperti العكس dan التناقض, terdapat hubungan antara jenis-jenis qadhiyyah tersebut. Dalam beberapa hukum, qadhiyyah الشخصية diperlakukan seperti جزئية, sedangkan المهملة juga berkaitan dengan الجزئية karena sifatnya yang telah dijelaskan.
+
+Namun secara umum, yang menjadi perhatian utama dalam ilmu manthiq adalah المحصورات الأربع.
+
+Alasannya, ilmu manthiq sangat memperhatikan التحديد dan الحصر. Manthiq membutuhkan kejelasan mengenai sejauh mana sebuah الحكم berlaku: apakah kepada seluruh individu atau hanya sebagian.
+
+Qadhiyyah جزئية sendiri موضوع-nya telah جزئي, sehingga perhatian manthiq terhadapnya berbeda. Sedangkan qadhiyyah طبيعية sejak awal berada di luar fokus utama karena ia tidak membicarakan أفراد الموضوع.
+
+Qadhiyyah مهملة juga tidak menjadi fokus utama karena kuantitas individu di dalamnya tidak ditentukan. Ia hanya diperhatikan dalam batas tertentu, terutama karena kemiripannya atau keterkaitannya dengan جزئية.
+
+Dengan demikian, perhatian utama para المناطقة dalam pembahasan qadhiyyah adalah المحصورات الأربع.
+
+## Pembacaan lengkap pembagian dari kitab
+
+Dosen kemudian membaca kembali uraian kitab dengan struktur yang lebih lengkap.
+
+Jika موضوع adalah مشخص, yaitu جزئي حقيقي, seperti:
+
+زيد عالم
+
+atau:
+
+زيد ليس بحجر,
+
+maka qadhiyyah disebut مخصوصة atau شخصية.
+
+Jika موضوع adalah نفس الحقيقة dan tidak dimaksudkan أفرادnya, seperti:
+
+الحيوان جنس
+
+dan:
+
+الإنسان نوع,
+
+maka qadhiyyah disebut طبيعية.
+
+Menurut penjelasan yang dibaca dosen, القضية الطبيعية tidak معتبرة dalam العلوم المنطقية. Karena itu, الشيخ الرئيس, yaitu ابن سينا, meninggalkannya dalam kitab الشفاء dan menyederhanakan pembagian menjadi شخصية، محصورة، dan مهملة.
+
+Kemudian, jika موضوع bukan جزئي حقيقي dan bukan pula نفس الحقيقة, melainkan أفراد الحقيقة, maka terdapat dua kemungkinan.
+
+Pertama, كمية الأفراد dijelaskan, baik seluruh maupun sebagian. Dalam keadaan tersebut qadhiyyah adalah محصورة.
+
+Jika بيان mencakup seluruh individu, maka كلية, seperti:
+
+كل إنسان حيوان
+
+dan:
+
+لا شيء من الإنسان بحجر.
+
+Yang pertama كلية موجبة, sedangkan yang kedua كلية سالبة.
+
+Jika بيان hanya mencakup sebagian individu, maka جزئية, seperti:
+
+بعض الحيوان إنسان
+
+atau:
+
+ليس بعض الحيوان إنسانا.
+
+Masing-masing qadhiyyah الشخصية dan الجزئية dapat berupa موجبة maupun سالبة. Karena itu qadhiyyah محصورة menghasilkan المحصورات الأربع.
+
+Kemudian, lafaz yang digunakan untuk menunjukkan كمية الأفراد disebut صورة. Lafaz seperti كل dan بعض pada qadhiyyah موجبة, serta لا شيء dan bentuk-bentuk yang menunjukkan penafian pada qadhiyyah سالبة, menjadi alat untuk menjelaskan jumlah atau cakupan individu.
+
+Jika كمية الأفراد tidak dijelaskan, baik tidak disebutkan seluruh maupun sebagian, maka qadhiyyah menjadi مهملة, seperti:
+
+الإنسان كاتب
+
+atau:
+
+الإنسان ليس بكاتب.
+
+Qadhiyyah tersebut disebut مهملة karena بيان كمية الأفراد di dalamnya tidak disebutkan.
+
+Dosen kembali menekankan bahwa المهملة تلازم الجزئية. Jika “الإنسان كاتب” benar, maka sebagian manusia pasti penulis. Tetapi tidak otomatis berarti seluruh manusia penulis.
+
+## Pertanyaan tentang “الحديد معدن”
+
+Setelah penjelasan utama, mahasiswa mengajukan pertanyaan mengenai contoh:
+
+الحديد معدن
+
+“Besi adalah mineral.”
+
+Mahasiswa bertanya apakah pernyataan tersebut termasuk مهملة atau طبيعية, karena dapat dipahami sebagai pernyataan mengenai طبيعة الحديد dan حقيقة الحديد.
+
+Dosen menjelaskan bahwa pertanyaan seperti ini bergantung pada bagaimana الحكم dipahami. Jika yang dimaksud adalah حقيقة الحديد, maka ia mendekati طبيعية. Jika yang dimaksud adalah individu-individu tertentu dari besi, maka pembahasannya berbeda.
+
+Dengan demikian, dalam menentukan jenis qadhiyyah, seseorang harus melihat apa yang sebenarnya menjadi objek الحكم: apakah الحقيقة atau أفرادها.
+
+Dosen tidak ingin mahasiswa hanya melihat bentuk lahiriah kalimat. Mereka harus mengetahui apa yang sebenarnya dihukumi.
+
+## Pertanyaan tentang “عشرة طلاب”
+
+Mahasiswa kemudian memberikan contoh mengenai sepuluh siswa.
+
+Jika dikatakan:
+
+عشرة من الطلاب ناجحون
+
+maka ini dapat menjadi جزئية, karena sepuluh siswa tersebut merupakan sebagian dari keseluruhan الطلاب.
+
+Namun jika yang dimaksud adalah seluruh kelompok yang memang hanya terdiri dari sepuluh siswa, maka konteks dapat membuat angka sepuluh tersebut menunjukkan keseluruhan.
+
+Dosen menjelaskan bahwa penyebutan angka tertentu tidak dengan sendirinya selalu berarti جزئية. Apakah angka tersebut menunjukkan seluruh atau sebagian kembali kepada قرينة.
+
+Jika seluruh kelompok memang terdiri dari sepuluh orang dan dikatakan “العشرة طلاب ناجحون”, maka angka tersebut dapat menunjukkan keseluruhan kelompok.
+
+Karena itu, dalam menentukan الكم, tidak cukup hanya melihat angka yang disebutkan. Konteks dan cakupan موضوع juga harus diperhatikan.
+
+## Perbedaan الكم dan الكيف
+
+Pada bagian akhir, mahasiswa menanyakan kembali tentang fungsi السور dan hubungan antara الكم dan الكيف.
+
+Dosen menjelaskan bahwa الكم dan الكيف merupakan dua aspek berbeda.
+
+الكيف secara umum berkaitan dengan apakah qadhiyyah موجبة atau سالبة. Setiap qadhiyyah, pada dasarnya, memiliki الحكم berupa ثبوت atau نفي, sehingga dari sisi الكيف ia dapat dipahami sebagai موجبة atau سالبة.
+
+Adapun الكم terutama menjadi perhatian dalam القضية المحصورة, karena di dalamnya terdapat بيان mengenai كمية أفراد الموضوع: apakah seluruh atau sebagian.
+
+Karena itu, ketika kita mengatakan:
+
+كل إنسان فان
+
+“كل” menunjukkan الكم, yaitu كلية.
+
+Sedangkan “فان” yang ditetapkan kepada موضوع menunjukkan الكيف, yaitu إيجاب.
+
+Dalam:
+
+لا شيء من الحجر بناطق,
+
+“لا شيء” menunjukkan الكم berupa كلية, sedangkan penafian “ناطق” menunjukkan الكيف berupa سلب.
+
+Dengan demikian, السور secara khusus berfungsi menjelaskan الكم, sedangkan موجبة dan سالبة berkaitan dengan الكيف.
+
+## Penutup pembahasan
+
+Dosen menutup pembahasan dengan menegaskan kembali bahwa materi hari itu secara khusus membahas القضية الحملية باعتبار أفراد الموضوع.
+
+Urutan pembagiannya harus benar-benar dipahami:
+
+Jika موضوع جزئي atau مشخص → شخصية atau مخصوصة.
+
+Jika موضوع كلي dan الحكم pada نفس الحقيقة → طبيعية.
+
+Jika موضوع كلي dan الحكم pada الأفراد tanpa بيان كمية الأفراد → مهملة.
+
+Jika موضوع كلي dan الحكم pada الأفراد dengan بيان كمية الأفراد → محصورة.
+
+Kemudian المحصورة terbagi menjadi كلية dan جزئية, dan masing-masing dapat berupa موجبة dan سالبة, sehingga terbentuk المحصورات الأربع:
+
+الكلية الموجبة،
+الكلية السالبة،
+الجزئية الموجبة،
+الجزئية السالبة.
+
+Qadhiyyah المهملة tidak memiliki بيان mengenai كمية الأفراد dan karena itu berada في قوة الجزئية. Qadhiyyah الطبيعية tidak menjadi bagian utama yang معتبر dalam ilmu manthiq menurut pendapat yang dijelaskan dosen dan menurut المشهور yang ia sebutkan, sedangkan ابن سينا secara khusus disebut telah mengeluarkannya dari pembagian dalam الشفاء.
+
+Pada pertemuan berikutnya, dosen mengatakan bahwa pembahasan akan berpindah kepada القضية الحملية باعتبار وجود الأفراد, yang akan dibagi menjadi حقيقية، خارجية، dan ذهنية.
+
+Kuliah kemudian ditutup dengan salam, salawat kepada Nabi Muhammad صلى الله عليه وسلم, doa agar mahasiswa memperoleh توفيق dan سداد, serta penutup pertemuan.
+
+Catatan: beberapa bagian transkrip mengalami gangguan OCR dan terdapat dialog mahasiswa yang tidak seluruhnya terbaca secara jelas. Dalam rekonstruksi ini, istilah dan contoh yang masih dapat dipastikan dari konteks dipertahankan, sedangkan bagian yang tidak jelas tidak ditambahkan dengan informasi dari luar materi.

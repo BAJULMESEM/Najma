@@ -1,0 +1,467 @@
+# Sejarah Tafsir, Perkembangan ‘Ulūm al-Qur’ān, dan Pembahasan Asbāb al-Nuzūl
+
+## Pendahuluan: dari tafsir ke ‘ulūm al-Qur’ān
+
+Pembahasan diawali dengan sejarah perkembangan tafsir Al-Qur’an. Dosen menjelaskan bahwa salah satu karya tafsir yang paling tua dan paling awal yang sampai kepada kita secara lengkap adalah tafsir Ibn Jarīr al-Ṭabarī. Dalam sumber, pembahasan ini diawali dengan keterangan yang secara rekaman tampak terpotong, tetapi konteksnya mengarah pada pembahasan tentang tafsir yang sampai kepada kita secara utuh. Dosen kemudian menjelaskan karakter utama tafsir al-Ṭabarī, yaitu bahwa tafsir tersebut sangat kuat menggunakan hadis dan sunnah sebagai dasar penafsiran.
+
+Pola yang dilakukan al-Ṭabarī ketika menafsirkan ayat adalah menjelaskan terlebih dahulu pendapat atau arah penafsirannya, kemudian menghadirkan riwayat-riwayat yang mendukungnya. Misalnya, setelah mengatakan bahwa makna suatu ayat adalah demikian, ia kemudian menyebutkan riwayat dengan pola seperti:
+
+حدثنا فلان عن فلان عن فلان عن النبي صلى الله عليه وسلم أنه قال كذا وكذا
+
+atau ia meriwayatkan sesuatu dari sahabat, seperti Abū Bakr al-Ṣiddīq, ‘Umar ibn al-Khaṭṭāb, Abū Hurayrah, ‘Ā’isyah رضي الله عنهم, dan lain-lain. Ia juga dapat mengambil penafsiran dari para tābi‘īn yang menjadi sumber keilmuan baginya, misalnya Qatādah dan lainnya.
+
+Dengan demikian, tafsir pada fase ini sangat erat hubungannya dengan riwayat. Al-Ṭabarī tidak hanya menyampaikan makna ayat secara bebas, tetapi mengaitkan penjelasannya dengan hadis Nabi صلى الله عليه وسلم, perkataan sahabat, dan perkataan tābi‘īn.
+
+Setelah itu, perkembangan ilmu-ilmu keislaman menjadi semakin luas. Ilmu-ilmu syariat mulai ditulis dan dibukukan secara lebih khusus. Mulai muncul karya-karya dalam bidang النحو, الصرف, البلاغة, الفقه, أصول الفقه, علم الكلام, مسائل العقيدة, dan berbagai cabang ilmu lainnya.
+
+Ketika para ulama yang menguasai bidang-bidang tersebut kemudian menulis tafsir Al-Qur’an, ilmu yang mereka kuasai ikut memberikan warna yang kuat terhadap tafsir mereka. Artinya, seorang ulama yang sangat ahli dalam النحو ketika menulis tafsir akan banyak memberikan perhatian kepada persoalan nahwu. Ulama yang sangat ahli dalam البلاغة akan lebih banyak menyoroti aspek-aspek balaghah. Demikian pula ahli fikih akan banyak membahas persoalan hukum, sementara ahli ilmu kalam akan banyak membahas persoalan akidah, logika, dan ilmu kalam.
+
+Dosen memberikan beberapa contoh.
+
+Dalam tafsir Abū Ḥayyān al-Andalusī, seseorang akan menemukan pembahasan nahwu dan sharaf yang sangat banyak. Karena itu, ketika membacanya, seseorang seolah-olah sedang membaca sebuah kitab nahwu, sebab banyak sekali pembahasan mengenai i‘rab, nahwu, sharaf, dan persoalan kebahasaan lainnya.
+
+Kemudian disebutkan tafsir al-Zamakhsharī. Ia dikenal sebagai salah satu tokoh besar dalam bidang البلاغة. Karena itu, tafsirnya sangat kuat dalam menjelaskan aspek-aspek balaghah Al-Qur’an. Ketika membaca tafsirnya, perhatian pembaca banyak diarahkan kepada keindahan susunan bahasa, gaya bahasa, dan aspek kebahasaan yang berkaitan dengan البلاغة.
+
+Contoh berikutnya adalah al-Qurṭubī. Karena al-Qurṭubī memiliki penguasaan besar dalam fikih dan uṣūl al-fiqh, tafsirnya yang dikenal dengan الجامع لأحكام القرآن banyak berisi pembahasan hukum. Ia menyebutkan pendapat para fuqahā’, menjelaskan bahwa seorang ulama berpendapat demikian, ulama lain berpendapat demikian, lalu memberikan pembahasan dan tanggapan terhadap pendapat-pendapat tersebut. Karena itu, orang yang membaca الجامع لأحكام القرآن terkadang merasa seakan-akan sedang membaca kitab fikih.
+
+Kemudian dibahas al-Rāzī. Ketika Imam Fakhr al-Dīn al-Rāzī telah mencapai penguasaan yang luas dalam علم الكلام, tafsirnya juga mendapatkan warna yang sangat kuat dari ilmu tersebut. Tafsir al-Rāzī banyak membahas علم الكلام, المنطق, dan persoalan-persoalan intelektual yang berkaitan dengan ayat.
+
+Dosen secara khusus menolak anggapan yang mengatakan bahwa tafsir al-Rāzī berisi segala sesuatu kecuali tafsir. Menurut dosen, ungkapan semacam itu tidak tepat dan dianggap sebagai perkataan orang-orang yang tidak menyukai al-Rāzī. Menurut penjelasan dosen, siapa yang benar-benar membaca tafsir al-Rāzī akan menemukan banyak sekali ilmu di dalamnya, dan pembahasannya memiliki keluasan, kekuatan penjelasan, serta aspek البلاغة yang baik.
+
+## Dari pembahasan dalam tafsir menuju lahirnya ‘Ulūm al-Qur’ān
+
+Setelah menjelaskan sejarah tafsir, dosen menerangkan alasan mengapa sejarah tersebut penting dalam pembahasan mata kuliah ini. Para mufassir ketika menafsirkan ayat Al-Qur’an tidak hanya menjelaskan makna ayat. Mereka juga sering kali membahas berbagai persoalan yang sekarang dikenal sebagai علوم القرآن.
+
+Misalnya, ketika seorang mufassir menemukan ayat yang berkaitan dengan sebab turunnya ayat, ia akan mengatakan:
+
+وسبب نزول هذه الآية كذا وكذا
+
+Kemudian ia dapat membandingkan berbagai riwayat tentang sebab turunnya ayat tersebut dan melakukan tarjīḥ di antara riwayat-riwayat yang ada.
+
+Ketika menemukan hubungan antara suatu ayat dengan ayat sebelumnya, ia membahas:
+
+والمناسبة بين هذه الآية والتي سبقتها كذا وكذا
+
+Begitu pula ketika membahas hubungan antara satu surah dan surah sebelumnya, ia menjelaskan:
+
+والمناسبة بين هذه السورة والتي سبقتها كذا وكذا.
+
+Dengan demikian, pembahasan yang sekarang disebut علم المناسبات awalnya berada di dalam kitab-kitab tafsir.
+
+Begitu pula ketika seorang mufassir menemukan ayat yang berkaitan dengan الناسخ والمنسوخ, ia akan menjelaskan apa yang dimaksud dengan nasikh dan mansukh, memberikan contoh, kemudian menjelaskan apakah suatu ayat merupakan ayat yang ناسخة atau منسوخة.
+
+Jika ia menemukan ayat محكم dan متشابه, ia menjelaskan bahwa ayat tertentu merupakan محكم, lalu mendefinisikan apa yang dimaksud dengan المحكم. Ketika menemukan ayat lain yang termasuk المتشابه, ia menjelaskan pula pengertian المتشابه.
+
+Dengan pola yang sama, berbagai persoalan lain dalam علوم القرآن juga dibahas oleh para mufassir di dalam kitab-kitab tafsir mereka.
+
+Dari sini dapat dipahami bahwa pada tahap awal, علوم القرآن belum menjadi sebuah disiplin ilmu yang berdiri sendiri dalam satu kitab khusus. Materinya masih tersebar di dalam kitab-kitab tafsir.
+
+## Dari pembahasan yang tersebar menjadi karya khusus dalam علوم القرآن
+
+Setelah berbagai pembahasan علوم القرآن tersebar di dalam kitab-kitab tafsir, para ulama kemudian mulai mengumpulkan masing-masing cabang tersebut ke dalam karya-karya yang berdiri sendiri.
+
+Misalnya, al-Wāḥidī menulis tentang أسباب النزول. Ia mengumpulkan pembahasan tentang definisi sebab turunnya ayat, jenis-jenisnya, ayat-ayat yang memiliki sebab turun, ayat yang tidak memiliki sebab khusus, dan berbagai persoalan lain yang berkaitan dengan أسباب النزول.
+
+Ada pula ulama yang secara khusus menulis tentang الناسخ والمنسوخ. Mereka mengumpulkan ayat-ayat yang dianggap nasikh dan mansukh, menjelaskan ayat yang menjadi nasikh dan ayat yang menjadi mansukh, serta membahas faedah atau hikmah النسخ dalam ayat tersebut.
+
+Demikian pula علم جمع القرآن. Para ulama mengumpulkan berbagai pendapat mengenai bagaimana Al-Qur’an dikumpulkan, bagaimana proses pengumpulan tersebut berlangsung, berapa kali pengumpulan Al-Qur’an dibahas dalam riwayat, serta sebab-sebab yang melatarbelakangi proses pengumpulan tersebut.
+
+Cabang lainnya juga mulai ditulis secara khusus, seperti العام والخاص, المحكم والمتشابه, dan cabang-cabang lainnya.
+
+Setelah fase tersebut, muncul fase baru: para ulama tidak lagi hanya menulis satu cabang علوم القرآن secara khusus, tetapi mulai mengumpulkan berbagai cabang علوم القرآن ke dalam satu kitab.
+
+Di antara tokoh yang disebut adalah الإمام الزركشي dalam kitab البرهان، الإمام السيوطي dalam الاتقان, dan محمد عبد العظيم الزرقاني dalam مناهل العرفان في علوم القرآن.
+
+Mereka mengumpulkan berbagai ilmu yang sebelumnya tersebar dalam banyak kitab dan menyusunnya dalam satu karya, dalam bab-bab yang tersusun secara berurutan. Dengan demikian, orang yang mempelajari kitab البرهان, الاتقان, مناهل العرفان, dan karya-karya sejenis dapat mempelajari berbagai cabang علوم القرآن dalam satu tempat.
+
+## Posisi kitab yang dipelajari dalam perkuliahan
+
+Dosen kemudian menjelaskan bahwa sejarah tersebut penting agar mahasiswa mengetahui asal-usul materi yang sedang dipelajari. Kitab yang menjadi مقرر dalam perkuliahan bukanlah kitab yang menyusun seluruh ilmu itu dari nol, melainkan berisi sejumlah bab yang dipilih dari karya-karya علوم القرآن yang lebih besar, terutama البرهان dan الاتقان.
+
+Mahasiswa pada tahun tersebut tidak akan mempelajari seluruh علوم القرآن sekaligus. Mereka hanya mengambil beberapa tema pilihan.
+
+Untuk tahun ini, tema-tema yang disebutkan adalah أسباب النزول, جمع القرآن الكريم, ترتيب السور والآيات, علم المناسبات, dan علم المبهمات.
+
+Pada tingkat berikutnya, mahasiswa yang mengambil spesialisasi tafsir dan علوم القرآن akan mempelajari tema-tema lain yang belum dibahas pada tahun sebelumnya. Demikian pula pada tingkat berikutnya lagi akan ada pembahasan علوم القرآن lainnya. Dosen menekankan bahwa علوم القرآن memiliki banyak cabang, sehingga semakin tinggi tingkat pendidikan seseorang, semakin banyak pula cabang علوم القرآن yang dapat dipelajarinya.
+
+Dosen kemudian menjelaskan pembagian pengajaran kitab tersebut. Ia akan menjelaskan bagian awal kitab, mulai dari أسباب النزول, kemudian جمع القرآن, kemudian ترتيب السور والآيات. Bagian berikutnya, mulai dari علم المناسبات, akan diajarkan oleh dosen lain.
+
+Walaupun terdapat empat dosen yang terlibat dalam mata kuliah tersebut, kitab yang dipelajari tetap satu. Dua dosen menangani bagian pertama dan dua dosen menangani bagian berikutnya, dengan pembagian pengajaran yang dimaksudkan agar mahasiswa tidak mengalami pergantian dosen di tengah-tengah sesi yang menyebabkan konsentrasi mereka terpecah.
+
+Setelah pengantar tersebut, dosen mengajak mahasiswa bershalawat kepada Nabi صلى الله عليه وسلم dan kemudian masuk kepada tema pertama, yaitu أسباب النزول.
+
+# أسباب النزول
+
+## Definisi أسباب النزول
+
+Dosen menjelaskan bahwa cara mengajarnya menggunakan pertanyaan-pertanyaan di tengah penjelasan. Pertanyaan tersebut dianggap penting karena menurut pengalaman dosen, pertanyaan yang diberikan ketika perkuliahan sering kali muncul kembali dalam ujian. Karena itu, mahasiswa diminta memperhatikan dan mencatat pertanyaan-pertanyaan tersebut.
+
+Definisi yang diberikan adalah bahwa سبب النزول berkaitan dengan terjadinya suatu حدث atau حادثة yang kemudian Al-Qur’an turun berkaitan dengan peristiwa tersebut.
+
+Dosen mengulang definisi tersebut beberapa kali agar mahasiswa benar-benar memahami strukturnya. سبب النزول adalah terjadinya suatu peristiwa yang menyebabkan turunnya Al-Qur’an berkaitan dengan peristiwa tersebut. Peristiwa itu dapat berupa قول, فعل, atau سؤال yang terjadi dari orang-orang yang hidup pada masa التنزيل.
+
+Dengan demikian, ketika ditanya apa yang dimaksud dengan سبب النزول, mahasiswa harus memahami bahwa ada suatu kejadian dalam kehidupan Nabi صلى الله عليه وسلم atau pada masa turunnya Al-Qur’an, kemudian turun ayat atau sejumlah ayat yang berkaitan dengan kejadian tersebut.
+
+Dosen menjelaskan bahwa kadar Al-Qur’an yang turun juga dapat berbeda. Kadang yang turun hanya beberapa ayat, dan dalam penjelasan dosen disebut pula kemungkinan turunnya suatu surah sesuai dengan kadar wahyu yang Allah turunkan.
+
+Tiga bentuk kejadian yang menjadi sebab turunnya ayat adalah:
+
+قول,
+فعل,
+dan سؤال.
+
+Untuk سؤال, orang yang bertanya adalah orang yang hidup dan menyaksikan masa turunnya Al-Qur’an, terutama para sahabat Nabi صلى الله عليه وسلم.
+
+Dengan demikian, unsur penting dalam definisi tersebut bukan hanya adanya kejadian, tetapi juga bahwa kejadian tersebut berkaitan dengan masa التنزيل.
+
+## Sebab نزول berupa قول: kisah Abū Jahl
+
+Contoh pertama adalah سبب النزول yang berupa قول.
+
+Dosen menyebut riwayat yang dikeluarkan oleh Imam Muslim dalam Ṣaḥīḥ-nya dari Abū Hurayrah رضي الله عنه. Tokoh yang dibahas adalah Abū Jahl.
+
+Dosen menjelaskan terlebih dahulu siapa Abū Jahl. Ia merupakan salah satu orang yang sangat keras memusuhi Nabi صلى الله عليه وسلم dan para sahabat. Dalam penjelasan dosen, ia juga disebut sebagai orang yang membunuh Yāsir, ayah ‘Ammār ibn Yāsir, serta membunuh Sāmmiyah, ibu ‘Ammār, yang disebut sebagai syahidah pertama dalam Islam.
+
+Dosen menceritakan bahwa Abū Jahl sangat keras menentang dakwah Nabi صلى الله عليه وسلم. Salah satu faktor yang membuat kaum Quraisy menolak Nabi adalah karena mereka menganggap dakwah beliau bertentangan dengan tradisi nenek moyang mereka.
+
+Dosen juga menjelaskan persoalan lain yang berkaitan dengan penolakan mereka, yaitu faktor fanatisme kabilah dan kepentingan ekonomi. Abū Jahl pernah berbicara dengan orang-orang dari Banū Hāsyim mengenai keutamaan yang mereka miliki. Mereka memberi makan jamaah haji dan memberi minum mereka, kemudian mengklaim bahwa di kalangan mereka terdapat seorang nabi. Abū Jahl mempertanyakan kapan akan muncul nabi dari kalangan mereka.
+
+Dalam penjelasan dosen, ini menunjukkan bahwa sebagian penolakan terhadap Nabi tidak semata-mata karena mereka tidak mengetahui kebenaran beliau. Mereka mengetahui banyak hal tentang kebenaran Nabi, tetapi fanatisme dan kepentingan tertentu menghalangi mereka untuk beriman.
+
+Selain fanatisme kabilah, ada juga kepentingan ekonomi. Masyarakat Quraisy mendapatkan keuntungan besar dari perdagangan yang berkaitan dengan aktivitas orang-orang Arab yang datang ke Makkah. Di sekitar Ka‘bah terdapat banyak berhala yang disembah oleh berbagai kabilah. Orang-orang datang ke Makkah, melakukan aktivitas keagamaan mereka, membeli barang, dan melakukan perdagangan.
+
+Dalam penjelasan dosen disebut bahwa di sekitar Ka‘bah terdapat sekitar 360 berhala. Setiap kabilah memiliki berhala yang mereka sembah. Karena itu, dakwah Islam yang menyeru kepada meninggalkan penyembahan berhala dan beribadah hanya kepada Allah dipandang mengancam sistem ekonomi yang telah berkembang di Makkah.
+
+Dosen kemudian kembali kepada peristiwa yang menjadi sebab turunnya ayat.
+
+Abū Jahl pernah bertanya kepada kaum Quraisy:
+
+أيعفر محمد وجهه بين أظهركم؟
+
+Ungkapan يعفر وجهه atau mengotori wajahnya dengan tanah dijelaskan sebagai kināyah untuk sujud. Maksud Abū Jahl adalah: bagaimana kalian membiarkan Muhammad salat dan bersujud di sekitar Ka‘bah?
+
+Ketika dijawab bahwa Nabi صلى الله عليه وسلم memang melakukan hal tersebut, Abū Jahl bersumpah dengan اللات والعزى. Dosen menjelaskan bahwa اللات والعزى adalah berhala yang disembah oleh orang-orang musyrik. Bersumpah dengan nama berhala tersebut merupakan bentuk القسم menurut kebiasaan mereka.
+
+Abū Jahl kemudian berkata bahwa jika ia melihat Nabi صلى الله عليه وسلم sedang bersujud, ia akan menginjak leher beliau dengan kakinya atau akan mengotori wajah beliau dengan tanah.
+
+Dalam materi juga terdapat catatan mengenai lafaz yang terdapat dalam kitab. Dosen menjelaskan bahwa terdapat kesalahan penulisan pada kata tersebut dan mahasiswa diminta memperhatikan bentuk yang benar ketika kitab dikoreksi.
+
+Maksud ucapan Abū Jahl adalah bahwa jika ia menemukan Nabi صلى الله عليه وسلم sedang sujud, ia akan menginjak leher Nabi. Dosen kemudian menjelaskan secara ilustratif bahwa tindakan tersebut merupakan tindakan yang sangat berbahaya.
+
+Nabi صلى الله عليه وسلم kemudian datang dan melaksanakan salat di dekat Ka‘bah. Abū Jahl benar-benar datang dengan maksud melaksanakan ancamannya. Ketika Nabi sedang sujud, Abū Jahl maju untuk menginjak leher beliau.
+
+Namun tiba-tiba Abū Jahl mundur.
+
+Dalam hadis disebutkan:
+
+فلا يفجأ منه إلا وهو ينكص على عقبيه ويتقي بيديه
+
+Dosen menjelaskan kata-kata tersebut secara bahasa.
+
+ينكص على عقبيه berarti mundur ke belakang. العقب adalah bagian belakang kaki. Jadi, Abū Jahl yang semula maju justru tiba-tiba mundur secara refleks.
+
+Sedangkan يتقي بيديه berarti melindungi diri dengan kedua tangannya. Dosen memberikan ilustrasi: apabila seseorang melihat sesuatu yang membahayakan atau sesuatu yang akan menghantam dirinya, ia secara spontan menggunakan kedua tangan untuk melindungi diri.
+
+Orang-orang yang melihat kejadian tersebut kemudian bertanya kepada Abū Jahl:
+
+مالك؟
+
+Apa yang terjadi padamu?
+
+Abū Jahl menjawab bahwa antara dirinya dan Nabi terdapat sesuatu yang sangat menakutkan: ia melihat خندقًا من نار وهولًا وأجنحة.
+
+Dalam penjelasan dosen, خندق berarti lubang atau parit yang dalam. Abū Jahl melihat seakan-akan ada parit yang berisi api, sesuatu yang sangat menakutkan, serta bentuk-bentuk yang membuatnya takut.
+
+Dosen meminta mahasiswa memperhatikan satu hal: tidak ada orang lain yang melihat apa yang dilihat Abū Jahl. Jika semua orang melihat parit tersebut, tentu mereka tidak perlu bertanya kepadanya apa yang terjadi. Karena itu, yang melihatnya adalah Abū Jahl sendiri.
+
+Nabi صلى الله عليه وسلم kemudian bersabda bahwa seandainya Abū Jahl mendekat, malaikat akan mengambil anggota tubuhnya satu demi satu.
+
+Dosen mengaitkan kejadian tersebut dengan penjagaan Allah terhadap Nabi صلى الله عليه وسلم dan menyebut makna ayat:
+
+إنا كفيناك المستهزئين
+
+Sebagai gambaran bahwa Allah menjaga Nabi dari gangguan orang-orang yang mengolok-olok beliau.
+
+Setelah itu, Abū Hurayrah رضي الله عنه meriwayatkan bahwa Allah menurunkan ayat:
+
+كلا إن الإنسان ليطغى
+أن رآه استغنى
+إن إلى ربك الرجعى
+أرأيت الذي ينهى
+عبدا إذا صلى
+
+dan ayat-ayat setelahnya.
+
+Dosen menjelaskan bahwa yang dimaksud dengan “الإنسان” dalam konteks yang sedang dibahas adalah Abū Jahl, sedangkan “العبد” yang dilarang untuk salat adalah Nabi صلى الله عليه وسلم.
+
+Dengan demikian, peristiwa Abū Jahl yang mengancam Nabi lalu berusaha mencegah beliau salat merupakan contoh سبب نزول yang berupa قول.
+
+Dosen kemudian mengajarkan cara mengenali riwayat semacam ini. Sering kali dalam hadis yang menjelaskan أسباب النزول terdapat ungkapan:
+
+فأنزل الله تعالى
+
+atau lafaz lain yang menunjukkan bahwa setelah suatu peristiwa terjadi, Allah menurunkan ayat tertentu.
+
+Menurut cara membaca yang diajarkan dosen, bagian sebelum ungkapan tersebut menjelaskan سبب النزول, sedangkan bagian sesudahnya menjelaskan ayat atau Al-Qur’an yang turun berkaitan dengan peristiwa tersebut.
+
+Dosen juga menjelaskan kata هول. هول adalah sesuatu yang sangat menakutkan atau keadaan yang menimbulkan rasa takut dan keguncangan.
+
+## Sebab نزول berupa فعل: orang-orang Yaman dan persoalan tawakal
+
+Jenis kedua adalah سبب النزول berupa فعل.
+
+Dosen menyebut hadis yang diriwayatkan oleh al-Bukhārī dari Ibn ‘Abbās رضي الله عنهما mengenai أهل اليمن.
+
+Dosen menjelaskan secara singkat konteks Yaman sebagai wilayah yang berada di selatan Jazirah Arab dan menyebut sejumlah hadis tentang keutamaan أهل اليمن, di antaranya:
+
+الإيمان يمان والحكمة يمانية
+
+Kemudian fokus diarahkan kepada peristiwa yang berkaitan dengan الحج.
+
+Ibn ‘Abbās رضي الله عنهما menyebut bahwa أهل اليمن melakukan haji tanpa membawa bekal dan mengatakan:
+
+نحن المتوكلون
+
+“Kami adalah orang-orang yang bertawakal.”
+
+Dosen menjelaskan bahwa bekal pada masa tersebut berupa makanan dan minuman serta sesuatu yang diperlukan selama perjalanan. Orang yang melakukan perjalanan dari tempat yang jauh, seperti orang-orang yang datang dari wilayah yang jauh untuk berhaji, tentu memerlukan bekal.
+
+Namun أهل اليمن pergi berhaji tanpa membawa bekal dan menganggap hal tersebut sebagai bentuk tawakal kepada Allah. Mereka berpikir bahwa karena mereka pergi untuk melaksanakan ibadah kepada Allah, Allah pasti akan memberikan rezeki kepada mereka.
+
+Menurut penjelasan dosen, tindakan tersebut bukan tawakal yang benar, melainkan تواكل. Tawakal tidak berarti meninggalkan sebab.
+
+Dosen memberikan analogi dengan mahasiswa. Seorang mahasiswa tidak boleh mengatakan, “Saya bertawakal kepada Allah bahwa saya akan lulus,” kemudian tidak belajar, tidak menghadiri kuliah, tidak membuka buku, dan tidak berusaha. Menurut penjelasan dosen, orang yang melakukan hal demikian bukan متوكل, melainkan متواكل, yaitu orang yang malas dan tidak mengambil sebab.
+
+Tawakal berarti mengambil الأسباب terlebih dahulu, kemudian menyerahkan hasil kepada Allah.
+
+Dengan demikian:
+
+نأخذ بالأسباب
+
+kemudian:
+
+نترك النتائج على الله.
+
+Dalam kasus أهل اليمن, mereka tidak membawa bekal. Ketika lapar dalam perjalanan atau setelah sampai di Makkah, mereka meminta makanan dan minuman kepada orang lain. Dosen menjelaskan bahwa meminta kepada orang lain dalam konteks ini berarti mereka akhirnya bergantung kepada masyarakat untuk memenuhi kebutuhan yang sebenarnya dapat mereka persiapkan sendiri.
+
+Perbuatan tersebut menjadi contoh سبب النزول yang berupa فعل.
+
+Dosen kemudian menjelaskan bahwa dalam hadis-hadis أسباب النزول, salah satu tanda yang sering muncul adalah pernyataan sahabat bahwa suatu peristiwa menjadi sebab turunnya ayat, kemudian diikuti ungkapan seperti:
+
+فأنزل الله تعالى
+
+Dalam kasus أهل اليمن, Allah menurunkan:
+
+وتزودوا فإن خير الزاد التقوى
+
+Ayat tersebut memerintahkan mereka untuk membawa bekal ketika melakukan perjalanan haji.
+
+Dengan demikian, hubungan antara فعل dan ayat sangat jelas dalam contoh ini: perbuatan mereka yang pergi berhaji tanpa bekal kemudian menjadi sebab turunnya perintah untuk mempersiapkan bekal.
+
+Dosen kembali merangkum: sebab turun yang berupa قول dicontohkan dengan ucapan Abū Jahl, sedangkan yang berupa فعل dicontohkan dengan perbuatan أهل اليمن yang berhaji tanpa bekal.
+
+## Sebab نزول berupa سؤال: kisah Khawlah bint Tha‘labah
+
+Jenis ketiga adalah سؤال.
+
+Dalam jenis ini, seseorang bertanya kepada Nabi صلى الله عليه وسلم mengenai suatu persoalan, lalu Al-Qur’an turun untuk menjelaskan hukum atau memberikan jawaban terhadap persoalan tersebut.
+
+Dosen menegaskan bahwa orang yang bertanya adalah orang yang hidup pada masa turunnya Al-Qur’an, terutama para sahabat Nabi صلى الله عليه وسلم. Karena itu, riwayat tentang أسباب النزول yang berkaitan dengan pertanyaan sering ditemukan melalui perkataan sahabat, baik sahabat laki-laki maupun perempuan.
+
+Contoh yang diberikan adalah kisah Khawlah bint Tha‘labah رضي الله عنها.
+
+Khawlah merupakan salah seorang sahabiyah yang datang kepada Nabi صلى الله عليه وسلم karena persoalan yang berkaitan dengan suaminya, Aws ibn al-Ṣāmit.
+
+Suaminya melakukan الظِّهار.
+
+Dosen kemudian menjelaskan istilah الظِّهار. Seorang suami mengatakan kepada istrinya:
+
+أنت علي كظهر أمي
+
+atau ungkapan yang maknanya menyerupakan istrinya dengan punggung ibunya.
+
+Dalam pembahasan fikih, perbuatan tersebut disebut باب الظهار. Dosen menjelaskan bahwa sebelum turunnya ayat-ayat yang mengatur persoalan الظهار, perkara tersebut mempunyai konsekuensi berat terhadap hubungan suami-istri dan menyerupai perceraian dalam pengaruhnya sebagaimana dijelaskan dalam materi.
+
+Khawlah kemudian datang kepada Nabi صلى الله عليه وسلم untuk mengadukan persoalannya.
+
+Dosen membawakan hadis ‘Ā’isyah رضي الله عنها:
+
+تبارك الذي وسع سمعه كل شيء
+
+dan kemudian:
+
+إني لأسمع كلام خولة بنت ثعلبة ويخفى علي بعضه وهي تشتكي زوجها إلى رسول الله صلى الله عليه وسلم.
+
+‘Ā’isyah menjelaskan bahwa ia mendengar sebagian pembicaraan Khawlah, tetapi sebagian yang lain tidak terdengar olehnya.
+
+## Penjelasan tentang suara Khawlah dan makna riwayat
+
+Dosen mengajak mahasiswa membaca hadis dengan menggunakan akal dan memperhatikan detail kecil dalam cerita.
+
+Jika ‘Ā’isyah mendengar sebagian pembicaraan tetapi sebagian lainnya tidak terdengar, hal itu menunjukkan bahwa Khawlah berbicara dengan suara yang tidak selalu keras. Suaranya mungkin naik dan turun sesuai dengan keadaan emosinya.
+
+Khawlah datang dalam keadaan sedih dan terluka secara emosional. Ketika menyampaikan keluhannya, suaranya mungkin kadang meninggi karena emosi dan kadang merendah karena kesedihan. Karena itu, ‘Ā’isyah hanya mendengar sebagian pembicaraan.
+
+Dosen kemudian mengklarifikasi bahwa pendengaran ‘Ā’isyah terhadap pembicaraan tersebut bukanlah التجسس.
+
+Menurut penjelasan dosen, التجسس terjadi ketika seseorang sengaja mencari-cari pembicaraan orang lain yang sebenarnya tidak ingin didengar, misalnya seseorang berbicara secara pribadi di tempat tertutup lalu orang lain sengaja menempelkan telinga ke pintu untuk mendengarkannya.
+
+Dalam kasus Khawlah, situasinya berbeda. Khawlah datang kepada Nabi صلى الله عليه وسلم ketika Nabi berada di rumah ‘Ā’isyah. Orang yang datang untuk bertanya kepada Nabi pada waktu itu berada dalam lingkungan yang memungkinkan ‘Ā’isyah mendengar pembicaraan tersebut. Khawlah tidak sedang berbicara di suatu tempat rahasia yang sengaja disembunyikan dari ‘Ā’isyah.
+
+Dosen kemudian kembali kepada awal hadis ‘Ā’isyah:
+
+تبارك الذي وسع سمعه كل شيء
+
+Ungkapan tersebut menunjukkan keluasan pendengaran Allah. Allah mendengar apa yang terdengar secara jelas dan apa yang tersembunyi. Apa yang diucapkan Khawlah dengan suara yang dapat didengar oleh manusia maupun bagian pembicaraan yang tidak terdengar oleh ‘Ā’isyah, semuanya didengar oleh Allah سبحانه وتعالى.
+
+## Makna ungkapan Khawlah: “أكل شبابي”
+
+Khawlah kemudian mengadukan penderitaannya kepada Nabi صلى الله عليه وسلم. Ia mengatakan bahwa suaminya telah “memakan masa mudanya”:
+
+أكل شبابي
+
+Dosen berhenti untuk menjelaskan apakah الشباب secara literal merupakan sesuatu yang dapat dimakan.
+
+Jawabannya tentu tidak. الشباب adalah perkara معنوي, yaitu masa atau periode kehidupan seseorang, bukan benda fisik yang dapat dimakan.
+
+Karena itu, ungkapan:
+
+أكل شبابي
+
+tidak boleh dipahami secara literal. Khawlah menggunakan ungkapan metaforis untuk menggambarkan bahwa ia telah menghabiskan masa muda, kesehatan, kekuatan, dan tenaga dalam kehidupan rumah tangganya.
+
+Ia telah memberikan masa mudanya kepada suaminya, melayaninya, hidup bersamanya, melahirkan dan membesarkan anak-anaknya, serta menghabiskan tenaga dan usia dalam kehidupan keluarga.
+
+Dosen menjadikan ungkapan tersebut sebagai contoh dalam pembahasan الحقيقة والمجاز. Menurut penjelasan dosen, orang yang menolak adanya majaz dalam Al-Qur’an dan Sunnah akan menghadapi kesulitan ketika memahami ungkapan-ungkapan seperti ini.
+
+Jika “أكل شبابي” dipaksa dipahami secara literal, maka muncul pertanyaan bagaimana seseorang dapat benar-benar memakan الشباب. Padahal setiap orang memahami bahwa yang dimaksud bukanlah memakan masa muda secara fisik, melainkan menghabiskan masa muda dalam pelayanan, kehidupan rumah tangga, dan pengabdian kepada suami serta keluarga.
+
+Dengan demikian, ungkapan tersebut menggambarkan secara kuat bahwa Khawlah merasa telah memberikan seluruh masa muda dan kekuatannya kepada suaminya.
+
+## Makna “ونثرت له بطني”
+
+Khawlah juga mengatakan:
+
+ونثرت له بطني
+
+Dosen kembali bertanya: apakah ungkapan tersebut boleh dipahami secara literal?
+
+Jika dipahami secara literal, seakan-akan Khawlah membelah perutnya dan mengeluarkan segala sesuatu yang ada di dalamnya. Tentu bukan itu maksudnya.
+
+Ungkapan tersebut merupakan kiasan untuk banyaknya kehamilan dan kelahiran yang dialaminya. Ia telah mengandung dan melahirkan anak-anak untuk suaminya sampai pada titik ia tidak lagi mampu mengandung.
+
+Dosen menggunakan analogi sebuah tas. Jika seseorang mengatakan “keluarkan semua isi tas”, maka semua benda di dalam tas dikeluarkan. Demikian pula ungkapan “نثرت له بطني” menggambarkan bahwa Khawlah telah “mengeluarkan” anak-anak dari rahimnya dalam jumlah banyak melalui proses kehamilan dan kelahiran.
+
+Jadi, ungkapan tersebut menggambarkan pengorbanan fisik dan kehidupan yang telah ia berikan kepada suaminya.
+
+## Makna “حتى إذا كبر سني وانقطع ولدي”
+
+Khawlah kemudian mengatakan:
+
+حتى إذا كبر سني وانقطع ولدي ظاهر مني
+
+Dosen menjelaskan bahwa “كبر سني” berarti usianya telah lanjut. Ia tidak lagi berada dalam keadaan muda dan tidak lagi mempunyai kekuatan sebagaimana sebelumnya.
+
+Adapun:
+
+وانقطع ولدي
+
+tidak dimaksudkan bahwa semua anaknya meninggal. Dosen mengoreksi pemahaman mahasiswa yang mengarah kepada makna tersebut. Yang dimaksud adalah bahwa kemampuan untuk melahirkan telah berhenti.
+
+Dalam penjelasan dosen, keadaan tersebut berkaitan dengan بلوغ سن اليأس, yaitu masa ketika menstruasi berhenti dan kemampuan reproduksi berakhir.
+
+Dosen kemudian sempat menjelaskan bahwa pembahasan mengenai سن اليأس dan proses biologis yang berkaitan dengannya memerlukan pembahasan tersendiri yang lebih panjang, sehingga bagian tersebut tidak diperinci dalam pertemuan ini.
+
+Inti ucapan Khawlah adalah: ia telah menghabiskan masa mudanya, telah memberikan tenaga dan kekuatannya kepada suami, telah melahirkan anak-anak, kemudian ketika usianya telah lanjut dan ia tidak lagi mampu memiliki anak, suaminya melakukan الظهار terhadapnya.
+
+Karena itu, keluhan Khawlah merupakan keluhan seorang perempuan yang merasa telah memberikan seluruh tenaga, masa muda, kesehatan, kehamilan, persalinan, pengasuhan, dan pelayanan kepada suaminya, tetapi kemudian diperlakukan dengan cara yang sangat menyakitkan.
+
+## Turunnya ayat Surah al-Mujādilah
+
+Setelah Khawlah menyampaikan pengaduannya, Nabi صلى الله عليه وسلم belum memberikan jawaban hukum yang final karena hukum الظهار belum turun pada waktu itu.
+
+‘Ā’isyah رضي الله عنها menceritakan bahwa Khawlah tetap berada di tempatnya. Nabi صلى الله عليه وسلم belum memiliki jawaban berupa hukum yang telah ditetapkan wahyu.
+
+Kemudian turun Jibril عليه السلام membawa ayat:
+
+قد سمع الله قول التي تجادلك في زوجها وتشتكي إلى الله والله يسمع تحاوركما
+
+dan ayat-ayat setelahnya yang menjelaskan hukum الظهار.
+
+Dosen menekankan bahwa salah satu lafaz yang menunjukkan dengan jelas hubungan antara peristiwa tersebut dan turunnya ayat adalah ungkapan ‘Ā’isyah:
+
+فما برحت حتى نزل جبريل بهذه الآيات
+
+“Tidaklah Khawlah beranjak sampai Jibril turun membawa ayat-ayat tersebut.”
+
+Inilah salah satu cara penting untuk mengenali bahwa suatu riwayat memang sedang menjelaskan سبب النزول.
+
+Dari peristiwa tersebut, bentuk سبب النزول yang berupa سؤال dapat dipahami: seorang sahabat datang membawa suatu persoalan, Nabi صلى الله عليه وسلم belum memberikan hukum final, lalu wahyu turun memberikan penjelasan.
+
+Surah yang memuat ayat tersebut adalah Surah المجادلة. Dalam materi disebut bahwa sebagian ulama juga mengaitkan penamaan surah tersebut dengan Khawlah bint Tha‘labah karena dialah perempuan yang datang mengadukan persoalan suaminya kepada Nabi صلى الله عليه وسلم.
+
+# Ringkasan hubungan tiga jenis أسباب النزول
+
+Setelah menjelaskan ketiga contoh, dosen mengulang kembali struktur utama pembahasan.
+
+سبب النزول adalah terjadinya suatu حادثة yang kemudian Al-Qur’an turun berkaitan dengannya. حادثة tersebut dapat berupa قول, فعل, atau سؤال dari orang-orang yang hidup pada masa التنزيل.
+
+Contoh قول adalah ucapan Abū Jahl ketika ia mengancam akan menginjak leher Nabi صلى الله عليه وسلم jika melihat beliau salat dan bersujud di dekat Ka‘bah. Peristiwa tersebut dikaitkan dengan turunnya ayat-ayat dari Surah al-‘Alaq, termasuk:
+
+أرأيت الذي ينهى عبدا إذا صلى.
+
+Contoh فعل adalah perbuatan أهل اليمن yang pergi berhaji tanpa membawa bekal dan menyebut diri mereka sebagai orang-orang yang bertawakal. Kemudian turun:
+
+وتزودوا فإن خير الزاد التقوى.
+
+Contoh سؤال adalah pertanyaan atau pengaduan Khawlah bint Tha‘labah mengenai الظهار. Kemudian turun:
+
+قد سمع الله قول التي تجادلك في زوجها وتشتكي إلى الله والله يسمع تحاوركما.
+
+Dengan demikian, mahasiswa diminta tidak hanya menghafalkan definisi, tetapi memahami pola hubungan antara حادثة dan ayat yang turun setelahnya.
+
+## Cara mengenali riwayat yang menunjukkan سبب النزول
+
+Dosen kemudian memberikan petunjuk praktis ketika mahasiswa membaca kitab tafsir atau hadis.
+
+Dalam riwayat أسباب النزول sering terdapat ungkapan seperti:
+
+فأنزل الله تعالى
+
+atau:
+
+فنزلت هذه الآية
+
+atau ungkapan lain yang secara jelas menghubungkan peristiwa dengan turunnya ayat.
+
+Karena itu, ketika membaca sebuah riwayat, mahasiswa harus memperhatikan bagian sebelum dan sesudah ungkapan tersebut.
+
+Bagian sebelum ungkapan seperti “فأنزل الله” berisi peristiwa atau kejadian yang menjadi سبب النزول, sedangkan bagian sesudahnya menyebut ayat atau Al-Qur’an yang turun berkaitan dengan kejadian tersebut.
+
+Namun pada akhir perkuliahan dosen mengingatkan bahwa pembahasan belum selesai. Masih ada persoalan yang harus dibahas dalam pertemuan berikutnya, yaitu apakah sebuah ayat harus turun langsung setelah peristiwa terjadi agar peristiwa tersebut dapat disebut سبب النزول, bagaimana jika terdapat jarak waktu yang panjang antara peristiwa dan turunnya ayat, serta bagaimana cara mengetahui سبب النزول dengan metode yang benar.
+
+Ketika mahasiswa ditanya apakah ayat harus turun tepat setelah kejadian agar kejadian tersebut disebut سبب النزول, jawaban yang diberikan adalah tidak. Tetapi ketika ditanyakan bagaimana status suatu peristiwa jika peristiwa tersebut telah terjadi jauh sebelum turunnya ayat, dosen juga menegaskan bahwa persoalan tersebut membutuhkan pembahasan lebih lanjut dan tidak langsung dianggap sebagai سبب النزول hanya berdasarkan kemiripan tema.
+
+Pembahasan mengenai bagaimana mengetahui سبب النزول dan jalan untuk memastikan suatu riwayat sebagai سبب النزول ditunda untuk pertemuan berikutnya.
+
+## Kesimpulan alur perkuliahan
+
+Secara keseluruhan, materi dimulai dari sejarah perkembangan tafsir. Pada tahap awal, penafsiran sangat erat dengan hadis, sunnah, dan riwayat dari Nabi, sahabat, serta tābi‘īn. Ibn Jarīr al-Ṭabarī disebut sebagai salah satu karya tafsir tertua yang sampai kepada kita secara lengkap.
+
+Kemudian ilmu-ilmu keislaman berkembang menjadi cabang-cabang yang lebih khusus. Para mufassir yang memiliki keahlian tertentu membawa keahlian tersebut ke dalam tafsir mereka. Abū Ḥayyān menonjolkan nahwu dan sharaf, al-Zamakhsharī menonjolkan البلاغة, al-Qurṭubī menonjolkan fikih, dan al-Rāzī banyak membahas علم الكلام dan المنطق.
+
+Di dalam tafsir-tafsir tersebut, berbagai persoalan yang sekarang disebut علوم القرآن sudah dibahas secara terpisah-pisah: أسباب النزول, المناسبات, الناسخ والمنسوخ, المحكم والمتشابه, جمع القرآن, العام والخاص, dan lain-lain.
+
+Pada tahap berikutnya, para ulama mulai memisahkan cabang-cabang tersebut dari kitab tafsir dan menulis karya khusus tentang masing-masing ilmu. Kemudian muncul tahap yang lebih komprehensif, ketika para ulama mengumpulkan berbagai cabang علوم القرآن ke dalam satu kitab. Di antara tokoh yang disebut adalah al-Zarkashī dengan البرهان, al-Suyūṭī dengan الاتقان, dan Muḥammad ‘Abd al-‘Aẓīm al-Zurqānī dengan مناهل العرفان في علوم القرآن.
+
+Setelah pengantar sejarah tersebut, perkuliahan masuk kepada tema pertama dari materi tahun itu, yaitu أسباب النزول.
+
+سبب النزول dijelaskan sebagai terjadinya suatu حادثة yang kemudian Al-Qur’an turun berkaitan dengan حادثة tersebut. حادثة itu dapat berupa قول, فعل, atau سؤال yang terjadi dari orang-orang yang hidup pada masa التنزيل.
+
+Contoh قول adalah perkataan Abū Jahl yang mengancam Nabi صلى الله عليه وسلم ketika beliau salat di dekat Ka‘bah. Contoh فعل adalah أهل اليمن yang pergi berhaji tanpa bekal dan menganggap tindakan tersebut sebagai tawakal. Contoh سؤال adalah pengaduan Khawlah bint Tha‘labah mengenai الظهار.
+
+Ketiga contoh tersebut sekaligus menunjukkan bahwa pembahasan أسباب النزول tidak cukup dipahami hanya dengan menghafalkan definisi. Mahasiswa harus mampu membaca sebuah riwayat, menemukan حادثة yang terjadi, menentukan apakah حادثة tersebut berupa قول, فعل, atau سؤال, kemudian mengenali ayat yang turun berkaitan dengannya.
+
+Pada akhir pertemuan, dosen menegaskan bahwa pembahasan berikutnya akan masuk kepada metode mengetahui سبب النزول serta cara menentukan apakah suatu riwayat benar-benar menunjukkan سبب النزول. Persoalan mengenai jarak waktu antara kejadian dan turunnya ayat juga akan dibahas lebih lanjut dalam pertemuan berikutnya.
+
+Dosen kemudian menutup perkuliahan dengan doa agar para mahasiswa memperoleh ilmu yang bermanfaat, keberhasilan, ketepatan dalam belajar, dan hasil yang baik dalam studi mereka.
