@@ -30,7 +30,13 @@
         {
           "name": "FALSAFAH AMMAH",
           "type": "folder",
-          "children": []
+          "children": [
+            {
+              "name": "1.txt",
+              "type": "file",
+              "path": "texts/LITERAL MUHADOROH/FALSAFAH AMMAH/1.txt"
+            }
+          ]
         },
         {
           "name": "FIKIH",
@@ -284,9 +290,20 @@
       ]
     },
     {
-      "name": "REKAMAN.link",
-      "type": "link",
-      "url": "https://bajulmesem.github.io/haha/"
+      "name": "REKAMAN",
+      "type": "folder",
+      "children": [
+        {
+          "name": "NOTEBOOK REKAMAN.link",
+          "type": "link",
+          "url": "https://notebook.google.com/notebook/0d4243ee-29f2-43e2-92e1-7683108e8c7b"
+        },
+        {
+          "name": "REKAMAN.link",
+          "type": "link",
+          "url": "https://bajulmesem.github.io/haha/"
+        }
+      ]
     }
   ]
 }
