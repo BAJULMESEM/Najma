@@ -52,7 +52,13 @@
         {
           "name": "HADITS TAHLILI",
           "type": "folder",
-          "children": []
+          "children": [
+            {
+              "name": "1.txt",
+              "type": "file",
+              "path": "texts/LITERAL MUHADOROH/HADITS TAHLILI/1.txt"
+            }
+          ]
         },
         {
           "name": "KHITOBAH",
