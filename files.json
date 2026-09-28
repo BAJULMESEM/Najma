@@ -58,24 +58,29 @@
           "type": "folder",
           "children": [
             {
-              "name": "mantiq (2).txt",
+              "name": "1.txt",
               "type": "file",
-              "path": "texts/LITERAL MUHADOROH/MANTIQ/mantiq (2).txt"
+              "path": "texts/LITERAL MUHADOROH/MANTIQ/1.txt"
             },
             {
-              "name": "mantiq (3).txt",
+              "name": "2.txt",
               "type": "file",
-              "path": "texts/LITERAL MUHADOROH/MANTIQ/mantiq (3).txt"
+              "path": "texts/LITERAL MUHADOROH/MANTIQ/2.txt"
             },
             {
-              "name": "mantiq (4).txt",
+              "name": "3.txt",
               "type": "file",
-              "path": "texts/LITERAL MUHADOROH/MANTIQ/mantiq (4).txt"
+              "path": "texts/LITERAL MUHADOROH/MANTIQ/3.txt"
             },
             {
-              "name": "mantiq.txt",
+              "name": "4.txt",
               "type": "file",
-              "path": "texts/LITERAL MUHADOROH/MANTIQ/mantiq.txt"
+              "path": "texts/LITERAL MUHADOROH/MANTIQ/4.txt"
+            },
+            {
+              "name": "5.txt",
+              "type": "file",
+              "path": "texts/LITERAL MUHADOROH/MANTIQ/5.txt"
             }
           ]
         },
@@ -92,16 +97,32 @@
         {
           "name": "SYUBUHAT HAULAL HADITS",
           "type": "folder",
-          "children": []
+          "children": [
+            {
+              "name": "1.txt",
+              "type": "file",
+              "path": "texts/LITERAL MUHADOROH/SYUBUHAT HAULAL HADITS/1.txt"
+            },
+            {
+              "name": "2.txt",
+              "type": "file",
+              "path": "texts/LITERAL MUHADOROH/SYUBUHAT HAULAL HADITS/2.txt"
+            }
+          ]
         },
         {
           "name": "TAFSIR TAHLILI",
           "type": "folder",
           "children": [
             {
-              "name": "tafsir1.txt",
+              "name": "1.txt",
               "type": "file",
-              "path": "texts/LITERAL MUHADOROH/TAFSIR TAHLILI/tafsir1.txt"
+              "path": "texts/LITERAL MUHADOROH/TAFSIR TAHLILI/1.txt"
+            },
+            {
+              "name": "2.txt",
+              "type": "file",
+              "path": "texts/LITERAL MUHADOROH/TAFSIR TAHLILI/2.txt"
             }
           ]
         },
@@ -110,16 +131,27 @@
           "type": "folder",
           "children": [
             {
-              "name": "tauhid.txt",
+              "name": "1.txt",
               "type": "file",
-              "path": "texts/LITERAL MUHADOROH/TAUHID/tauhid.txt"
+              "path": "texts/LITERAL MUHADOROH/TAUHID/1.txt"
             }
           ]
         },
         {
           "name": "ULUMUL QURAN",
           "type": "folder",
-          "children": []
+          "children": [
+            {
+              "name": "1.txt",
+              "type": "file",
+              "path": "texts/LITERAL MUHADOROH/ULUMUL QURAN/1.txt"
+            },
+            {
+              "name": "2.txt",
+              "type": "file",
+              "path": "texts/LITERAL MUHADOROH/ULUMUL QURAN/2.txt"
+            }
+          ]
         },
         {
           "name": "selasa 1.txt",
@@ -203,7 +235,13 @@
         {
           "name": "SYUBUHAT HAULAL HADITS",
           "type": "folder",
-          "children": []
+          "children": [
+            {
+              "name": "1.txt",
+              "type": "file",
+              "path": "texts/PELAJARAN/SYUBUHAT HAULAL HADITS/1.txt"
+            }
+          ]
         },
         {
           "name": "tafsirr",
