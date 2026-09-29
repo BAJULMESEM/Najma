@@ -1,0 +1,434 @@
+# Ilmu al-Qur’an: Ilmu Munāsabāt dan Hubungan Antar-Ayat
+
+## Pengantar: Posisi ‘Ulūm al-Qur’ān dalam Tafsir
+
+Pembahasan ini merupakan pertemuan kedua dalam mata kuliah ‘Ulūm al-Qur’ān. Pada pertemuan sebelumnya telah dijelaskan secara singkat mengenai ‘Ulūm al-Qur’ān dan beberapa hal penting yang berkaitan dengannya. Salah satu prinsip yang kembali ditekankan adalah bahwa para ulama memandang ‘Ulūm al-Qur’ān bagi tafsir seperti ‘Ulūm al-Hadīts bagi ilmu hadis. Sebagaimana orang yang berkecimpung dalam ilmu hadis perlu memahami ‘Ulūm al-Hadīts dan musthalah-nya, demikian pula orang yang menekuni tafsir perlu memperhatikan ‘Ulūm al-Qur’ān.
+
+Imam al-Suyuthi juga menekankan agar orang yang berkecimpung dalam tafsir memberikan perhatian terhadap ‘Ulūm al-Qur’ān sebagaimana ahli hadis memberikan perhatian terhadap ‘Ulūm al-Hadīts dan ilmu musthalah.
+
+Pada pertemuan ini pembahasannya diarahkan kepada salah satu bagian dari ‘Ulūm al-Qur’ān, yaitu Bāb al-Munāsabāt. Dosen menjelaskan bahwa pembahasan munāsabāt sebenarnya merupakan pembahasan yang mudah dan menarik apabila mahasiswa memperhatikannya dengan baik. Bahkan, memahami munāsabāt dapat membuat seseorang merasakan keindahan dan manisnya Al-Qur’an, karena melalui ilmu ini seseorang dapat melihat keindahan hubungan yang terdapat di antara ayat-ayat Al-Qur’an.
+
+## Pengertian Munāsabāt
+
+Munāsabāt membahas hubungan atau keterkaitan antara bagian-bagian Al-Qur’an. Hubungan tersebut dapat berupa hubungan antara satu kalimat dengan kalimat sebelumnya, antara satu ayat dengan ayat sebelumnya, atau bahkan antara satu surah dengan surah lainnya.
+
+Karena itu, ketika ditanyakan, “Apa munāsabah ayat ini dengan ayat sebelumnya?”, yang dimaksud adalah: apa hubungan atau kaitan yang menghubungkan ayat tersebut dengan ayat sebelumnya?
+
+Dosen kemudian membedakan penggunaan kata ‘alāqah dan ‘ilāqah. Dalam penjelasan beliau, العَلاقَة dengan fathah pada huruf ‘ain digunakan untuk sesuatu yang menjadi pengikat atau tempat menggantungkan sesuatu, sedangkan العِلَاقَة dipakai dalam pembahasan mengenai وجه الارتباط, yaitu sisi hubungan atau keterkaitan antara satu pembicaraan dengan pembicaraan lainnya.
+
+Dengan demikian, ilmu munāsabāt pada dasarnya adalah ilmu yang membahas وجه الارتباط, yaitu sisi hubungan antara bagian-bagian pembicaraan Al-Qur’an.
+
+Hubungan itu dapat berada pada beberapa tingkatan: hubungan antara kalimat dengan kalimat, ayat dengan ayat, maupun surah dengan surah.
+
+## Makna Munāsabah Secara Bahasa
+
+Sebelum masuk ke pengertian munāsabah secara istilah dalam ‘Ulūm al-Qur’ān, dosen terlebih dahulu menjelaskan makna kata tersebut secara bahasa. Hal ini dilakukan karena suatu istilah ilmiah biasanya diambil dari kata yang telah memiliki makna dalam bahasa Arab. Para ulama yang membuat istilah tersebut memahami terlebih dahulu makna bahasa, kemudian mengambil kata yang sesuai dan memberikan pengertian khusus secara istilah.
+
+Dalam pembahasan bahasa, Imam al-Jauhari atau al-Farabi dalam kitab al-Shihāh menjelaskan sejumlah bentuk kata yang berkaitan dengan akar kata tersebut. Di antaranya adalah النَّسَب dan النِّسْبَة serta kata-kata turunannya.
+
+النَّسَب berarti hubungan nasab atau kekerabatan. Nasab seseorang menunjukkan hubungan dirinya dengan orang tua, keluarga, dan leluhurnya. Adapun kata انتسب digunakan untuk menunjukkan hubungan atau keterikatan seseorang kepada pihak tertentu.
+
+Dari sini terlihat bahwa kata-kata yang berasal dari akar tersebut mengandung makna hubungan dan keterikatan. Ketika dikatakan فلان يناسب فلانًا, maksudnya adalah seseorang mempunyai hubungan atau kedekatan dengan orang lain, yaitu menjadi kerabatnya atau memiliki hubungan tertentu dengannya.
+
+Karena itu, apabila dikatakan bahwa antara dua pembicaraan tidak terdapat مناسَبة, maksudnya adalah tidak terdapat hubungan, kesesuaian, atau keterkaitan di antara keduanya. Sebaliknya, apabila terdapat مناسَبة, berarti terdapat hubungan atau kesesuaian yang menghubungkan keduanya.
+
+Dosen juga menjelaskan bahwa kata-kata seperti النسب, النسبة, الانتساب dan الأنساب menunjukkan adanya hubungan atau keterkaitan. Inilah alasan mengapa para ulama ilmu tertentu terlebih dahulu memperhatikan pengertian bahasa ketika menetapkan suatu istilah. Pengertian bahasa merupakan dasar yang kemudian digunakan untuk membentuk pengertian istilah.
+
+## Penjelasan Ibn Fāris dalam Maqāyīs al-Lughah
+
+Ibn Fāris dalam Maqāyīs al-Lughah juga menjelaskan akar kata yang berkaitan dengan munāsabah. Menurut penjelasan yang dikutip dalam materi, akar kata tersebut terdiri dari نون وسين وباء, yaitu ن-س-ب.
+
+Ibn Fāris menjelaskan bahwa akar tersebut merupakan satu kata yang memiliki makna اتصال شيء بشيء, yaitu keterhubungan atau tersambungnya sesuatu dengan sesuatu yang lain.
+
+Dari makna tersebut kemudian muncul kata النسب. Nasab disebut demikian karena menunjukkan adanya hubungan dan keterkaitan. Seseorang dinisbatkan kepada ayahnya, kemudian kepada kakeknya, dan seterusnya. Ada hubungan yang menyambungkan seseorang dengan orang-orang yang menjadi bagian dari nasabnya.
+
+Ibn Fāris juga menjelaskan kata النسيب. Dalam materi dijelaskan bahwa النسيب dapat digunakan untuk jalan yang lurus, karena bagian-bagiannya saling tersambung atau berhubungan.
+
+Jadi, berdasarkan penjelasan bahasa ini, salah satu makna dasar yang terkandung dalam akar ن-س-ب adalah اتصال, yaitu keterhubungan antara satu hal dengan hal lainnya.
+
+## Penjelasan Ibn Manzhūr dalam Lisān al-‘Arab
+
+Selanjutnya dijelaskan pula keterangan Ibn Manzhūr dalam Lisān al-‘Arab. Ia menyebutkan bahwa النسيب berkaitan dengan makna المناسب. Ketika dikatakan فلان يناسب فلانًا, maksudnya adalah bahwa orang tersebut memiliki hubungan atau kedekatan dengan orang lain.
+
+Ibn Manzhūr juga memberikan contoh penggunaan kata مناسبة untuk pembicaraan. Ketika dikatakan بين الكلام مناسبة, maksudnya terdapat مشاكلة di antara pembicaraan tersebut.
+
+مشاكلة berarti adanya keserupaan, kesesuaian, atau hubungan tertentu antara satu hal dengan hal lainnya.
+
+Sebagai contoh sederhana, dosen menggambarkan dua jam pelajaran yang sama-sama membahas علوم القرآن. Materinya sama-sama berada dalam bidang ‘Ulūm al-Qur’ān, walaupun dosen yang mengajarkannya berbeda. Kesamaan bidang tersebut menjadi salah satu bentuk hubungan atau munāsabah di antara keduanya.
+
+## Pengertian Munāsabah Menurut al-Zarkasyi
+
+Setelah menjelaskan makna bahasa dari para ulama bahasa, pembahasan kemudian diarahkan kepada pengertian munāsabah dalam ‘Ulūm al-Qur’ān.
+
+Imam al-Zarkasyi dalam al-Burhān menjelaskan bahwa:
+
+المناسبة في اللغة هي المقاربة
+
+Artinya, munāsabah secara bahasa adalah المقاربة, yaitu kedekatan.
+
+Al-Zarkasyi kemudian menjelaskan:
+
+وفلان يناسب فلانًا أي يقرب منه ويشاكله
+
+Maksudnya, ketika dikatakan seseorang يناسب orang lain, berarti ia dekat atau memiliki kesesuaian dengannya.
+
+Dari kata tersebut juga muncul makna النسيب, yaitu orang yang dekat atau mempunyai hubungan, seperti hubungan antara dua saudara, anak paman, dan hubungan kekerabatan lainnya.
+
+Dengan demikian, ketika dua hal disebut متناسبان, maksudnya adalah terdapat suatu رابط, suatu penghubung di antara keduanya. Dalam contoh kekerabatan, penghubung tersebut adalah القرابة, yaitu hubungan keluarga.
+
+Al-Zabidi, penulis Tāj al-‘Arūs, juga menjelaskan bahwa المناسبة berarti المشاكلة, yaitu kesesuaian atau keserupaan.
+
+Dalam al-Burhān juga dijelaskan bahwa munāsabah mengandung makna المشاكلة والمقاربة, yaitu kesesuaian dan kedekatan.
+
+Dari seluruh penjelasan bahasa tersebut dapat dipahami bahwa kata مناسبة mengandung beberapa makna yang saling berdekatan: الاتصال, المقاربة, المشاكلة, الارتباط, dan العلاقة. Semuanya mengarah kepada adanya hubungan antara satu hal dengan hal lainnya.
+
+## Munāsabah dalam Ayat-Ayat Al-Qur’an
+
+Setelah makna bahasa dipahami, pembahasan masuk kepada penerapannya dalam ayat Al-Qur’an.
+
+Ketika seseorang bertanya, “Apa munāsabah ayat ini dengan ayat sebelumnya?”, sebenarnya ia sedang bertanya:
+
+Apa رابط yang menghubungkan kedua ayat tersebut?
+
+Jadi, مرجع المناسبة في الآيات adalah الرابط بين الآيات, yaitu hubungan yang mengaitkan satu ayat dengan ayat lainnya.
+
+Hubungan tersebut dapat berbentuk berbagai macam. Salah satunya adalah hubungan berupa kelanjutan pembicaraan.
+
+Sebagai contoh, ayat:
+
+قَدْ أَفْلَحَ الْمُؤْمِنُونَ ۝ الَّذِينَ هُمْ فِي صَلَاتِهِمْ خَاشِعُونَ ۝ وَالَّذِينَ هُمْ عَنِ اللَّغْوِ مُعْرِضُونَ
+
+Ayat-ayat tersebut memiliki hubungan karena ayat-ayat setelahnya merupakan kelanjutan dari penjelasan mengenai sifat-sifat orang-orang mukmin.
+
+Jadi, ketika mencari munāsabah, yang dicari bukan sekadar apakah dua ayat berbicara tentang tema yang sama, tetapi apa hubungan yang mengikat pembicaraan tersebut.
+
+## Bentuk-Bentuk Hubungan dalam Munāsabah
+
+Dosen kemudian menjelaskan bahwa hubungan antarayat sangat banyak bentuknya. Hubungan tersebut dapat berupa hubungan عام dan خاص, hubungan عقلي, hubungan حسي, hubungan خيالي, تلازم ذهني, sebab dan akibat, علت dan معلول, نظيرين, atau ضدين.
+
+Karena itu, munāsabah tidak hanya mempunyai satu bentuk.
+
+### Hubungan Umum dan Khusus
+
+Salah satu bentuk hubungan adalah hubungan العام والخاص.
+
+العام adalah lafaz yang يستغرق الصالح له من غير حصر, yaitu lafaz yang mencakup seluruh individu yang layak masuk ke dalam maknanya tanpa pembatasan jumlah tertentu, berdasarkan وضع bahasa.
+
+Karena itu, ketika suatu lafaz digunakan untuk mencakup semua individu yang termasuk di dalamnya tanpa pembatasan, ia disebut عام.
+
+Dosen memberikan perhatian pada persoalan apakah semua bentuk jamak atau bentuk tertentu otomatis menjadi lafaz umum. Kata رجل, misalnya, bukan lafaz umum karena hanya menunjukkan satu individu. رجلان juga bukan lafaz umum karena menunjukkan dua orang tertentu. Bahkan bentuk seperti رجال dalam keadaan tertentu tidak otomatis menunjukkan istighrāq seluruh individu. Lafaz yang menunjukkan keumuman, misalnya ketika terdapat ال yang menunjukkan العموم, seperti الرجال, sehingga maknanya mencakup semua individu yang masuk dalam lafaz tersebut.
+
+Dosen menegaskan bahwa العام adalah lafaz yang mencakup seluruh individu yang layak masuk ke dalamnya tanpa pembatasan, sesuai dengan وضع bahasa.
+
+Sebaliknya, الخاص adalah lawan dari العام. Ia tidak mencakup seluruh individu yang mungkin masuk ke dalam suatu makna tanpa batas, melainkan menunjukkan sesuatu yang terbatas atau tertentu.
+
+Contohnya terdapat pada firman Allah:
+
+وَالْعَصْرِ ۝ إِنَّ الْإِنسَانَ لَفِي خُسْرٍ ۝ إِلَّا الَّذِينَ آمَنُوا
+
+Pada bagian إِنَّ الْإِنسَانَ لَفِي خُسْرٍ terdapat lafaz yang bersifat umum, kemudian datang إِلَّا الَّذِينَ آمَنُوا sebagai bentuk pengecualian yang mengkhususkan.
+
+Karena itu, hubungan antara kedua bagian tersebut dapat dilihat sebagai hubungan العام والخاص: bagian pertama bersifat umum, sedangkan bagian berikutnya bersifat khusus dan mengecualikan kelompok tertentu dari cakupan sebelumnya.
+
+### Hubungan Akli
+
+Bentuk hubungan berikutnya adalah hubungan عقلي.
+
+Yang dimaksud dengan hubungan عقلي adalah hubungan yang dapat ditemukan oleh manusia melalui pemikiran dan perenungan. Seseorang membaca dua ayat atau dua bagian pembicaraan, kemudian melalui pikirannya ia menemukan hubungan di antara keduanya.
+
+Jadi, hubungan tersebut berkaitan dengan الذهن والتفكير, yaitu proses pemahaman dan pemikiran.
+
+### Hubungan Hissi
+
+Hubungan juga dapat berupa hubungan حسي.
+
+Hissi berkaitan dengan hal-hal yang dapat ditangkap oleh pancaindra atau sesuatu yang bersifat محسوس.
+
+Dengan demikian, sebagian hubungan dapat ditemukan melalui hal yang dapat dirasakan atau ditangkap secara indrawi.
+
+### Hubungan Khayali
+
+Selain itu terdapat pula hubungan خيالي.
+
+Dalam penjelasan dosen, hubungan khayali adalah hubungan yang mungkin tidak mempunyai keberadaan nyata sebagai hubungan langsung di luar, tetapi dapat dibayangkan atau dihubungkan oleh seseorang melalui khayal atau gambaran mental.
+
+Dengan demikian, hubungan antarpembicaraan tidak selalu harus berupa hubungan yang secara langsung dapat ditemukan sebagai objek fisik di dunia luar.
+
+## Tāluzum Dzihni
+
+Salah satu bentuk hubungan yang kemudian dibahas lebih panjang adalah التلازم الذهني.
+
+Tāluzum dzihni berarti adanya keterkaitan dalam pikiran antara suatu makna dengan hal lain yang lazim muncul dalam pikiran ketika makna tersebut disebut.
+
+Definisi yang diberikan dalam materi adalah:
+
+ما يلزم من حصول المعنى الموضوع له في الذهن حصوله فيه
+
+Intinya, ketika suatu makna yang dimaksud hadir dalam pikiran, muncul pula hal lain yang secara mental berkaitan dengannya.
+
+Contohnya ketika disebut kata إنسان. Dalam pikiran seseorang dapat muncul berbagai sifat atau keadaan yang berkaitan dengan manusia: makan, minum, tidur, berbicara, berjalan, melihat, mendengar, dan sebagainya.
+
+Demikian pula ketika disebut جامعة, seseorang dapat membayangkan dosen, mahasiswa, ruang kuliah, administrasi, dan berbagai hal lain yang lazim terhubung dengan konsep universitas dalam pikirannya.
+
+Ketika disebut سيارة, seseorang dapat membayangkan roda, pengemudi, bahan bakar, dan berbagai komponen atau hal yang berkaitan dengan mobil.
+
+Hubungan semacam ini disebut تلازم ذهني karena keterkaitannya berada dalam ذهن, yaitu pikiran.
+
+Dosen menekankan bahwa hubungan mental tersebut tidak harus berarti bahwa semua hal yang terbayang itu pasti ada secara nyata dalam setiap keadaan.
+
+Misalnya, ketika disebut الإنسان, seseorang dapat membayangkan bahwa manusia tertawa. Akan tetapi, tidak berarti setiap manusia dalam kenyataan pasti sedang tertawa. Tertawa dapat menjadi sesuatu yang secara mental diasosiasikan dengan manusia, tetapi tidak mesti terjadi pada setiap manusia dalam realitas.
+
+Demikian pula ketika disebut سيارة, dalam pikiran terdapat roda dan pengemudi, tetapi hubungan mental tersebut tidak berarti bahwa setiap gambaran mental tersebut selalu hadir secara aktual dalam setiap keadaan.
+
+Karena itu, perlu dibedakan antara hubungan yang ada dalam ذهن dan keberadaan aktual di الخارج.
+
+Tāluzum dzihni merupakan hubungan erat dalam pikiran, tetapi keberadaannya di dalam pikiran tidak mengharuskan seluruh unsur tersebut selalu terwujud dalam kenyataan.
+
+Dosen juga menggunakan contoh mahasiswa dari berbagai negara yang datang ke Mesir dan belajar di al-Azhar. Ketika seseorang menyebut bahwa mereka adalah mahasiswa yang datang untuk belajar di Mesir, dalam pikiran dapat muncul keterkaitan dengan al-Azhar, studi, kelas, dan sebagainya. Hubungan mental semacam itu menjadi contoh bagaimana satu konsep dapat mengingatkan pikiran kepada konsep lain.
+
+Karena itu, التلازم الذهني merupakan salah satu alat penting untuk memahami hubungan antarkonsep dan menangkap makna yang tersirat dalam pembicaraan.
+
+## Hubungan Sebab dan Akibat
+
+Bentuk hubungan berikutnya adalah السبب والمسبب, yaitu sebab dan akibat.
+
+السبب adalah jalan atau sesuatu yang menjadi perantara untuk sampai kepada suatu hasil.
+
+Dosen memberikan contoh:
+
+الذين آمنوا وعملوا الصالحات أولئك هم خير البرية ۝ جزاؤهم عند ربهم جنات
+
+Keimanan dan amal saleh menjadi sebab, sedangkan masuk ke dalam kenikmatan yang disebutkan sebagai balasan merupakan hasil atau مسبب.
+
+Contoh lainnya adalah seseorang yang lapar kemudian makan. Makan menjadi sebab, sedangkan kenyang menjadi akibat atau مسبب.
+
+Demikian juga seseorang yang tidak mengetahui kemudian belajar. Belajar menjadi sebab yang mengantarkan kepada keadaan menjadi mengetahui.
+
+Jadi:
+
+السبب = الطريق الموصل إلى الشيء
+
+Sedangkan المسبب adalah النتيجة أو الأثر, yaitu hasil atau efek yang muncul sebagai akibat dari sebab tersebut.
+
+Dosen juga menjelaskan ungkapan bahwa Allah adalah مسبب الأسباب, yaitu pihak yang menciptakan sebab-sebab dan akibat-akibat tersebut.
+
+### Perbedaan Sebab dan Mسبب
+
+Ada beberapa perbedaan penting antara sebab dan musabbab.
+
+Pertama, apabila sebab tidak ada, maka hasil yang dimaksud tidak akan muncul melalui sebab tersebut. Dosen menjelaskan dengan contoh sederhana: orang yang lapar membutuhkan makan untuk mencapai keadaan kenyang. Jika sebab yang diperlukan tidak ada, hasil yang diharapkan melalui sebab tersebut juga tidak ada.
+
+Kedua, keberadaan sebab tidak selalu mengharuskan hasil terjadi.
+
+Jadi hubungan sebab dan akibat tidak berarti bahwa setiap kali sebab ditemukan, akibat pasti terjadi tanpa pengecualian.
+
+Contohnya seorang mahasiswa datang untuk belajar. Ia belajar, tetapi belum tentu memperoleh hasil atau kelulusan yang diharapkan. Sebabnya ada, tetapi hasilnya belum tentu terwujud.
+
+Dengan demikian:
+
+Jika السبب tidak ada, maka المسبب yang bergantung kepadanya tidak diperoleh melalui sebab tersebut.
+
+Namun jika السبب ada, المسبب dapat terjadi dan dapat pula tidak terjadi.
+
+Dosen menekankan bahwa hasil akhirnya tetap berada di bawah kehendak Allah.
+
+### Sebab Mendahului Akibat
+
+Perbedaan lainnya adalah bahwa sebab berada lebih dahulu daripada akibat, baik dari segi waktu maupun رتبة.
+
+Misalnya lapar lebih dahulu kemudian makan lalu kenyang. Dalam contoh tersebut, keadaan yang menjadi sebab mendahului keadaan yang menjadi hasil.
+
+Demikian pula dalam belajar dan memperoleh hasil, proses belajar ditempatkan lebih dahulu daripada hasil yang diharapkan.
+
+Karena itu, dalam hubungan السبب والمسبب terdapat urutan: sebab menjadi jalan menuju hasil, sedangkan hasil merupakan akibat yang diperoleh setelah sebab.
+
+## Contoh Api dan Nabi Ibrahim
+
+Dosen kemudian memberikan contoh hubungan sebab dan akibat melalui api.
+
+Secara tabi‘at, النار memiliki sifat الإحراق, yaitu membakar. Dengan demikian, secara normal api menjadi sebab bagi terbakar atau terbakarnya sesuatu.
+
+Namun ketika Nabi Ibrahim عليه السلام dilemparkan ke dalam api, beliau tidak terbakar.
+
+Dosen menjelaskan bahwa hal ini menunjukkan bahwa keberadaan sebab tidak secara mutlak mengharuskan akibat terjadi.
+
+Api ada, dan sifat membakar ada, tetapi Allah mencegah terjadinya akibat tersebut.
+
+Dosen juga menegaskan bahwa Nabi Ibrahim bukan satu-satunya contoh yang disebutkan dalam konteks orang yang masuk ke dalam api tetapi tidak terbakar; dalam penjelasan beliau disebutkan bahwa terdapat orang lain juga, dan mahasiswa yang ingin mengetahui hal tersebut diarahkan untuk melihat sejarah.
+
+Inti contoh ini adalah membedakan antara وجود السبب dan وجود المسبب. Sebab dapat ada, tetapi hasil yang secara tabi‘at biasanya mengikuti sebab tersebut dapat tidak terjadi.
+
+Karena itu, hubungan sebab dan akibat tidak boleh dipahami sebagai keniscayaan mutlak yang berdiri sendiri tanpa kehendak Allah.
+
+## Contoh Ayat tentang Sebab dan Akibat
+
+Dosen kemudian kembali kepada hubungan antarayat.
+
+Dalam Surah Fāthir terdapat pembahasan:
+
+يَا أَيُّهَا النَّاسُ إِنَّ وَعْدَ اللَّهِ حَقٌّ فَلَا تَغُرَّنَّكُمُ الْحَيَاةُ الدُّنْيَا وَلَا يَغُرَّنَّكُمْ بِاللَّهِ الْغَرُورُ
+
+Kemudian terdapat pembahasan tentang orang-orang kafir dan azab yang mereka peroleh.
+
+Dalam hubungan sebab dan akibat, kekufuran dapat diposisikan sebagai sebab dan azab sebagai akibat.
+
+Demikian pula dalam:
+
+وَالَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ لَهُمْ مَغْفِرَةٌ وَأَجْرٌ كَبِيرٌ
+
+Iman dan amal saleh merupakan sebab, sedangkan المغفرة dan الأجر الكبير merupakan hasil atau akibat yang disebutkan setelahnya.
+
+Dosen meminta mahasiswa untuk mampu mengidentifikasi sendiri mana السبب dan mana المسبب dalam ayat.
+
+## Tidak Selalu Satu Sebab untuk Satu Akibat
+
+Dalam pembahasan kelas juga muncul persoalan bahwa sebab dapat memiliki lebih dari satu bentuk dan hubungan sebab-akibat tidak selalu harus dipahami sebagai satu sebab tunggal yang berdiri sendiri.
+
+Dosen menegaskan kembali bahwa yang sedang dibahas adalah bentuk hubungan antarayat, bukan pembahasan lain yang keluar dari materi.
+
+Beliau juga memberikan contoh tentang طبيعة النار, yaitu kebiasaan api membakar, dan menjelaskan bahwa apabila Allah menghendaki, akibat yang biasanya mengikuti sebab tersebut dapat tidak terjadi.
+
+Dengan demikian, mahasiswa diarahkan untuk tidak mencampuradukkan kebiasaan atau hubungan sebab-akibat dengan keniscayaan mutlak.
+
+## ‘Illah dan Ma‘lūl
+
+Selain السبب والمسبب, hubungan antarayat dapat berupa العلة والمعلول.
+
+Dosen menjelaskan bahwa ‘illah mempunyai fungsi yang mirip dengan sebab, sedangkan ma‘lūl merupakan sesuatu yang dihasilkan atau muncul berdasarkan ‘illah tersebut.
+
+Contohnya adalah الخمر.
+
+Ketika ditanyakan mengapa khamar dihukumi haram, dalam penjelasan materi disebutkan bahwa العلة yang dikemukakan adalah الإسكار, yaitu sifat memabukkan.
+
+Dengan demikian, الخمر ditempatkan sebagai معلول dalam hubungan tersebut, sedangkan الإسكار sebagai علة.
+
+Jadi, dalam pembahasan munāsabah, hubungan antarayat dapat dibentuk oleh ‘illah dan ma‘lūl sebagaimana dapat pula dibentuk oleh sebab dan musabbab.
+
+## Hubungan antara Dua نظير
+
+Bentuk hubungan berikutnya adalah نظيرين.
+
+النظير adalah sesuatu yang memiliki kemiripan atau keserupaan dengan sesuatu yang lain.
+
+Karena itu, النظيران adalah dua hal yang mempunyai kesamaan dalam sifat tertentu.
+
+Dosen menghubungkan pembahasan ini dengan ungkapan dalam ilmu tajwid yang menyebut:
+
+واللفظ في نظيره كمثله
+
+Inti penggunaan نظير adalah adanya kesamaan atau kemiripan sehingga sesuatu dapat dibandingkan dengan sesuatu yang lain.
+
+Dosen memberikan pola contoh: seseorang yang belajar dari keberhasilan orang-orang sebelumnya. Jika orang-orang sebelumnya hadir, memahami pelajaran, belajar, dan akhirnya berhasil, maka seseorang dapat menggunakan keadaan mereka sebagai contoh dan mengatakan bahwa dirinya juga harus hadir dan belajar agar memperoleh hasil.
+
+Misalnya:
+
+من كان قبلكم حضروا وذاكروا ونجحوا فاحضروا وذاكروا تنجحوا
+
+Dalam pola tersebut terdapat hubungan تنظير, yaitu mempertemukan dua keadaan yang mempunyai kesamaan sifat. Orang-orang terdahulu menjadi نظير bagi orang-orang yang datang kemudian.
+
+Karena terdapat kesamaan dalam sifat, seseorang dapat menggunakan keadaan salah satunya sebagai petunjuk untuk memahami atau menilai keadaan lainnya.
+
+Karena itu, dosen menjelaskan bahwa النظيرين adalah dua hal yang sama-sama mempunyai sifat tertentu atau memiliki kemiripan, sehingga salah satunya dapat digunakan untuk memahami atau menunjukkan yang lain.
+
+## Istidlāl dengan Salah Satu dari Dua نظير
+
+Dosen kemudian menjelaskan bahwa di antara fungsi نظيرين adalah إمكانية الاستدلال بأحدهما على الآخر, yaitu menggunakan salah satu dari dua hal yang serupa sebagai petunjuk untuk memahami yang lainnya.
+
+Hubungan semacam ini berkaitan dengan apa yang dalam materi disebut قياس الدلالة.
+
+Contoh yang diberikan adalah hubungan antara السُّنَة والنوم dengan اليقظة.
+
+Dalam ayat:
+
+اللَّهُ لَا إِلَٰهَ إِلَّا هُوَ ۚ الْحَيُّ الْقَيُّومُ ۚ لَا تَأْخُذُهُ سِنَةٌ وَلَا نَوْمٌ
+
+السِّنة dijelaskan sebagai keadaan mengantuk atau awal tidur, sedangkan النوم adalah tidur.
+
+Ketika disebut bahwa Allah tidak terkena سِنة dan tidak pula نوم, hubungan antara السِّنة dan النوم dapat dipahami sebagai sesuatu yang berdekatan dan berkaitan dengan keadaan tidur.
+
+Dosen menjelaskan bahwa dari salah satunya dapat diperoleh petunjuk mengenai lawannya atau keadaan yang berlawanan, yaitu اليقظة.
+
+Jadi, نظيرين memungkinkan seseorang mengambil petunjuk dari salah satu keadaan untuk memahami keadaan lainnya berdasarkan hubungan dan keserupaan yang ada.
+
+## Hubungan Pertentangan: الضدين
+
+Selain نظيرين, hubungan antarayat dapat berupa الضدين, yaitu dua hal yang berlawanan.
+
+Dosen menjelaskan bahwa مؤمن dan كافر merupakan contoh dua hal yang berlawanan. Begitu pula صالح dan فاسد, طائع dan عاصي, atau keadaan-keadaan lain yang memiliki sifat berlawanan.
+
+Hubungan tersebut dapat ditemukan di antara ayat-ayat Al-Qur’an.
+
+Sebagai contoh, Allah menyebut:
+
+ذَٰلِكَ الْكِتَابُ لَا رَيْبَ فِيهِ ۛ هُدًى لِّلْمُتَّقِينَ
+
+Kemudian pembicaraan beralih kepada:
+
+إِنَّ الَّذِينَ كَفَرُوا سَوَاءٌ عَلَيْهِمْ
+
+Di sini terdapat مقابلة atau تضاد karena bagian pertama berbicara mengenai orang-orang bertakwa, sedangkan bagian berikutnya berbicara mengenai orang-orang kafir.
+
+Hubungan antara keduanya bukan نظيرين, sebab keduanya tidak sekadar memiliki kesamaan sifat. Sebaliknya, keduanya berada pada sisi yang berlawanan.
+
+Karena itu, mahasiswa harus mampu membedakan: jika dua hal memiliki kesamaan sifat, hubungan tersebut dapat disebut نظير; jika keduanya berlawanan, hubungan tersebut merupakan تضاد.
+
+## Perbedaan نظيرين dan ضدين
+
+Dosen kemudian menegaskan kembali perbedaannya.
+
+نظيرين adalah dua hal yang mempunyai kesamaan atau kemiripan dalam sifat tertentu. Salah satunya dapat dijadikan petunjuk bagi yang lain karena terdapat kesamaan.
+
+Adapun ضدين adalah dua hal yang berlawanan dan tidak dapat berkumpul dalam satu keadaan yang sama dalam pengertian yang sedang dibahas.
+
+Contohnya: مؤمن dan كافر. Seseorang tidak berada pada posisi yang sama sekaligus sebagai مؤمن dan كافر dalam pengertian kontradiktif yang sedang dijelaskan.
+
+Demikian pula putih dan hitam digunakan sebagai contoh sifat yang berlawanan.
+
+Dosen sempat meminta mahasiswa menjawab apakah dua ضد dapat berkumpul. Jawabannya adalah tidak dalam konteks pertentangan yang sedang dijelaskan.
+
+## Munāsabah sebagai Hubungan yang Sangat Luas
+
+Setelah berbagai bentuk tersebut dijelaskan, dosen kembali kepada definisi dasar munāsabah.
+
+Munāsabah pada dasarnya adalah وجه الارتباط بين الكلام بعضه ببعض, yaitu sisi hubungan yang menghubungkan satu bagian pembicaraan dengan bagian lainnya.
+
+Hubungan tersebut tidak terbatas pada satu bentuk.
+
+Ia dapat berupa:
+
+hubungan العام والخاص,
+hubungan عقلي,
+hubungan حسي,
+hubungan خيالي,
+التلازم الذهني,
+السبب والمسبب,
+العلة والمعلول,
+النظيرين,
+الضدين,
+dan bentuk hubungan lainnya.
+
+Dengan demikian, ketika seorang mufasir mencari munāsabah antara dua ayat, ia sedang berusaha menemukan الرابط yang menghubungkan keduanya. Hubungan tersebut dapat ditemukan melalui struktur makna, pemikiran, sebab-akibat, pertentangan, kesamaan, atau bentuk keterkaitan lainnya.
+
+## Arah Pembelajaran Berikutnya
+
+Pada akhir pembahasan, dosen menegaskan bahwa pada pertemuan berikutnya mahasiswa diharapkan telah mempunyai pemahaman terhadap beberapa istilah dasar yang digunakan untuk mengidentifikasi munāsabah, terutama العام والخاص, العلة والمعلول, السبب والمسبب, النظيرين, dan الضدين.
+
+Dosen juga memberikan gambaran mengenai bentuk evaluasi. Mahasiswa tidak semata-mata akan diminta mendefinisikan istilah. Sebaliknya, kemungkinan diberikan suatu contoh kemudian mahasiswa diminta استخراج, yaitu mengeluarkan atau menemukan hubungan yang terdapat di dalam contoh tersebut.
+
+Misalnya mahasiswa dapat diminta:
+
+استخرج السبب والمسبب
+
+atau diminta menemukan:
+
+الضدين
+
+atau:
+
+النظيرين
+
+Dengan demikian, yang ingin dilihat adalah apakah mahasiswa benar-benar memahami konsep dan mampu menerapkannya, bukan sekadar menghafal definisi.
+
+Pada bagian akhir, dosen kembali menekankan inti seluruh pembahasan: المناسبة dalam bahasa pada dasarnya berarti hubungan, keterkaitan, kedekatan, atau اتصال antara satu hal dengan hal lainnya. Dalam konteks ‘Ulūm al-Qur’ān, ilmu munāsabāt kemudian digunakan untuk menemukan hubungan tersebut di antara kalimat, ayat, maupun surah, sehingga struktur pembicaraan Al-Qur’an dapat dipahami dengan lebih mendalam dan keindahan susunan ayat-ayatnya dapat terlihat.
+
+Dosen menutup pembahasan dengan penegasan bahwa inti kata المناسبة adalah الارتباط والاتصال بين الأشياء, yaitu keterhubungan dan keterkaitan antara berbagai hal.

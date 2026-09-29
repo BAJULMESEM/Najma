@@ -1,0 +1,958 @@
+# شروط الصيغة في عقد البيع: الصيغة اللفظية والصيغة الفعلية
+
+بعد pembahasan sebelumnya, materi masuk kepada pembahasan شروط الصيغة اللفظية dalam عقد البيع. Yang dimaksud dengan الصيغة اللفظية adalah bentuk ijab dan kabul yang dilakukan melalui ucapan. Dalam jual beli, tidak cukup hanya adanya keinginan untuk melakukan transaksi, tetapi terdapat beberapa syarat yang harus terpenuhi dalam bentuk ijab dan kabul tersebut.
+
+## Syarat pertama: صيغة harus menggunakan bahasa yang dipahami kedua pihak
+
+Syarat pertama adalah أن تكون الصيغة بلغة مفهومة من طرفي العقد, yaitu صيغة harus menggunakan bahasa yang dipahami oleh kedua pihak yang melakukan akad.
+
+Bahasa Arab bukan merupakan syarat mutlak dalam akad jual beli. Akad tidak harus menggunakan bahasa Arab selama kedua pihak memahami bahasa yang digunakan. Akan tetapi, apabila salah satu pihak tidak mampu memahami bahasa selain bahasa Arab, maka dalam keadaan tersebut digunakan bahasa yang dapat dipahami oleh pihak tersebut. Intinya bukan bahasa tertentu, melainkan keterpahaman صيغة oleh kedua pihak.
+
+Selain persoalan bahasa, dalam jual beli juga tidak ditentukan lafaz tertentu yang secara mutlak harus digunakan. Semua lafaz yang menurut عرف masyarakat menunjukkan makna jual beli dapat digunakan untuk melakukan akad.
+
+Misalnya, penjual dapat mengatakan:
+
+بعتك
+
+“Aku menjual kepadamu.”
+
+Tetapi tidak harus menggunakan lafaz tersebut. Penjual juga dapat mengatakan:
+
+أعطيتك
+
+atau:
+
+ملكتك سلعتي بعشر جنيهات
+
+Selama ungkapan tersebut menurut kebiasaan masyarakat menunjukkan maksud menjual dan memindahkan kepemilikan dengan imbalan harga tertentu, maka akad dapat terbentuk. Pembeli kemudian dapat mengatakan:
+
+أخذتها
+
+“Aku mengambilnya.”
+
+Jadi, yang menjadi perhatian adalah apakah lafaz tersebut secara عرف menunjukkan adanya jual beli dan kerelaan kedua pihak.
+
+Dosen kemudian membandingkan akad jual beli dengan akad nikah. Dalam jual beli tidak terdapat tuntutan تعبدية pada lafaz sebagaimana dalam akad nikah. Karena itu, jual beli dapat dilakukan dengan berbagai lafaz yang menunjukkan makna jual beli dan kerelaan kedua pihak.
+
+Adapun dalam akad nikah, sebagaimana dijelaskan dalam materi, aspek تعبدية lebih diperhatikan sehingga tidak cukup menggunakan sembarang lafaz yang sekadar menunjukkan perpindahan kepemilikan. Akad nikah dilakukan dengan lafaz النكاح atau التزويج atau bentuk kata yang berasal dari keduanya.
+
+Jadi, dalam jual beli yang menjadi inti adalah adanya lafaz yang dipahami dan menunjukkan makna transaksi serta kerelaan kedua pihak.
+
+## Syarat kedua: ijab dan kabul menggunakan صيغة الماضي atau المضارع yang bermakna sekarang
+
+Syarat kedua adalah أن يكون الإيجاب والقبول بصيغة الماضي atau bahwa ijab dan kabul menggunakan bentuk lampau.
+
+Contohnya penjual mengatakan:
+
+بعت سلعتي بكذا
+
+“Aku menjual barangku dengan harga sekian.”
+
+Kata بعت adalah fi‘il māḍī. Kemudian pembeli mengatakan:
+
+قبلت
+
+“Aku menerima.”
+
+قبلت juga merupakan صيغة الماضي.
+
+Dengan demikian, bentuk الماضي dapat digunakan dalam ijab dan kabul.
+
+Namun, selain الماضي, akad juga dapat dilakukan dengan bentuk المضارع apabila المضارع tersebut dimaksudkan untuk keadaan sekarang, yaitu الحال.
+
+Dosen kemudian menjelaskan perbedaan antara المضارع الذي يراد به الحال dan المضارع الذي يراد به الاستقبال.
+
+Jika fi‘il المضارع disertai huruf س atau سوف, maka secara konteks menunjukkan masa yang akan datang. Misalnya:
+
+سأبيع
+
+“Aku akan menjual.”
+
+atau:
+
+سوف أبيع
+
+“Aku akan menjual.”
+
+Bentuk seperti ini menunjukkan المستقبل, bukan keadaan sekarang.
+
+Sebaliknya, apabila المضارع tidak disertai س atau سوف dan digunakan untuk menunjukkan tindakan yang sedang dilakukan atau hendak dilakukan saat itu, maka dapat menjadi صيغة yang menunjukkan الحال.
+
+Contohnya:
+
+أبيع سلعتي بكذا
+
+“Aku menjual barangku dengan harga sekian.”
+
+Kata أبيع berbentuk مضارع, tetapi yang dimaksud adalah tindakan jual beli yang dilakukan sekarang. Pembeli dapat menjawab:
+
+أقبل
+
+“Aku menerima.”
+
+Kata أقبل juga berbentuk مضارع yang dimaksudkan untuk الحال.
+
+Dengan demikian, صيغة المضارع yang menunjukkan الحال dapat digunakan dalam akad sebagaimana صيغة الماضي.
+
+### مضارع yang menunjukkan masa depan tidak membentuk akad
+
+Apabila المضارع digunakan untuk menunjukkan masa depan, maka akad tidak langsung terbentuk.
+
+Misalnya penjual mengatakan:
+
+سأبيع سلعتي بكذا
+
+“Aku akan menjual barangku dengan harga sekian.”
+
+Ini merupakan janji untuk melakukan jual beli pada masa yang akan datang, bukan ijab yang langsung membentuk akad.
+
+Demikian pula apabila pembeli mengatakan:
+
+سأقبل
+
+atau:
+
+سوف أقبل
+
+“Aku akan menerima.”
+
+Ungkapan tersebut menunjukkan tindakan pada masa depan sehingga tidak menjadi kabul yang langsung membentuk akad.
+
+Jadi, yang diterima adalah الماضي atau المضارع الذي أريد به الحال, bukan المضارع الذي أريد به الاستقبال.
+
+## Jual beli tidak terbentuk dengan صيغة الاستفهام
+
+Akad jual beli juga tidak terbentuk hanya dengan صيغة الاستفهام, yaitu bentuk pertanyaan.
+
+Misalnya seseorang bertanya:
+
+أتبيعني سيارتك هذه بكذا؟
+
+“Apakah engkau menjual mobilmu kepadaku dengan harga sekian?”
+
+Hamzah pada أتبيعني merupakan hamzah للاستفهام, yaitu huruf yang menunjukkan pertanyaan.
+
+Pertanyaan tersebut belum menjadi ijab jual beli. Karena itu, jual beli tidak terbentuk hanya dengan bentuk pertanyaan tersebut.
+
+## Jual beli dengan صيغة الأمر: perbedaan pendapat ulama
+
+Kemudian muncul persoalan mengenai صيغة الأمر.
+
+Misalnya seseorang mengatakan kepada penjual:
+
+بعني سلعتك بكذا
+
+“Jualkan barangmu kepadaku dengan harga sekian.”
+
+Ini merupakan bentuk perintah, yaitu بعني.
+
+Apabila pihak lain menjawab:
+
+قبلت
+
+“Aku menerima.”
+
+Apakah akad jual beli langsung sah?
+
+Dalam masalah ini terdapat perbedaan pendapat di antara ulama.
+
+### Pendapat pertama
+
+Pendapat pertama adalah pendapat الحنفية, satu riwayat dari الإمام أحمد, dan مقابل الأظهر عند الشافعية.
+
+Menurut pendapat ini, lafaz pertama yang berbentuk perintah tidak dianggap sebagai ijab jual beli. Karena itu, lafaz بعني tidak langsung dianggap sebagai ijab yang membentuk akad.
+
+Namun lafaz kedua, yaitu jawaban dari pihak lain, dapat dianggap sebagai إيجاب yang sah. Karena itu, masih diperlukan قبول baru setelahnya.
+
+Jadi, susunannya tidak dianggap:
+
+بعني = إيجاب
+قبلت = قبول
+
+melainkan lafaz pertama dibatalkan dari posisi ijab karena berbentuk perintah, sedangkan lafaz kedua diposisikan sebagai ijab baru yang masih memerlukan قبول.
+
+### Pendapat kedua
+
+Pendapat kedua adalah pendapat المالكية, الأظهر عند الشافعية, dan satu riwayat dari الإمام أحمد.
+
+Menurut pendapat ini, البيع dapat terbentuk dengan صيغة الأمر dan tidak membutuhkan قبول baru setelahnya.
+
+Dengan demikian:
+
+بعني سلعتك بكذا
+
+dapat dianggap sebagai ijاب, kemudian:
+
+قبلت
+
+menjadi قبول, sehingga akad jual beli terbentuk.
+
+Jadi, dalam persoalan صيغة الأمر terdapat dua pendapat yang harus dibedakan, dan sumber secara eksplisit menyebutkan masing-masing mazhab serta riwayat yang berkaitan dengannya.
+
+## Syarat ketiga: توافق الإيجاب والقبول
+
+Syarat ketiga adalah توافق الإيجاب والقبول, yaitu adanya kesesuaian antara ijab dan kabul.
+
+Maksudnya, pihak pembeli harus menerima seluruh barang yang ditawarkan dengan harga yang disebutkan oleh penjual.
+
+Misalnya penjual mengatakan:
+
+بعتك هذا التليفون بعشرة آلاف جنيه
+
+“Aku menjual telepon ini kepadamu seharga 10.000 جنيه.”
+
+Kemudian pembeli mengatakan:
+
+قبلت بخمسة آلاف
+
+“Aku menerimanya dengan harga 5.000.”
+
+Di sini tidak terdapat توافق antara ijab dan kabul karena harga yang disebutkan oleh pembeli berbeda dengan harga dalam ijab.
+
+Tingkat kesesuaian tidak hanya berkaitan dengan jumlah harga, tetapi juga dengan barang yang menjadi objek akad.
+
+Jika penjual menawarkan suatu telepon tertentu, kemudian pembeli menerima telepon yang berbeda, tidak terdapat توافق karena قبول diarahkan kepada barang yang berbeda dari barang yang menjadi objek ijab.
+
+Bahkan jika pembeli hanya menerima sebagian barang yang ditawarkan, توافق juga tidak tercapai. Syaratnya adalah pembeli menerima seluruh barang yang menjadi objek ijab dengan seluruh harga yang ditentukan.
+
+### Jika harga kabul lebih rendah
+
+Apabila penjual mengatakan:
+
+بعتك هذا التليفون بعشرة آلاف
+
+kemudian pembeli mengatakan:
+
+قبلت بثمانية آلاف
+
+maka tidak terdapat توافق karena pembeli menerima dengan harga lebih rendah daripada harga dalam ijab.
+
+### Jika harga kabul lebih tinggi
+
+Begitu pula apabila penjual mengatakan:
+
+بعتك هذا التليفون بعشرة آلاف
+
+sedangkan pembeli mengatakan:
+
+قبلت بمائة ألف
+
+maka pada dasarnya tidak terdapat توافق karena harga dalam قبول lebih tinggi daripada harga dalam إيجاب.
+
+Namun materi memberikan pengecualian apabila tambahan harga tersebut memberikan manfaat kepada الموجب, yaitu pihak yang mengeluarkan ijab. Dalam kondisi tersebut diperlukan رضا الموجب terhadap tambahan tersebut agar tidak dianggap masuk ke dalam hak atau keuntungan dirinya sesuatu yang tidak ia kehendaki.
+
+Jadi, prinsip dasarnya adalah harus ada kesesuaian antara barang dan harga dalam ijab dan kabul.
+
+### توافق dalam pembayaran tunai dan tempo
+
+Tوافق juga harus terjadi dalam persoalan حلول dan تأجيل.
+
+Jika penjual mengatakan:
+
+بعتك سلعتي بعشرة جنيهات حالّة
+
+maksudnya pembayaran dilakukan segera.
+
+Apabila pembeli menjawab bahwa ia menerima barang tersebut dengan harga yang sama secara tunai, maka terdapat توافق.
+
+Namun jika penjual menetapkan pembayaran tunai sedangkan pembeli menerima dengan pembayaran tempo, atau sebaliknya penjual menetapkan tempo sedangkan pembeli menerima dengan syarat pembayaran tunai, maka tidak terdapat توافق.
+
+Jadi, kedua pihak harus sepakat mengenai apakah pembayaran dilakukan حالًا atau مؤجلًا.
+
+## Syarat keempat: اتحاد مجلس العقد
+
+Syarat keempat adalah اتحاد مجلس العقد, yaitu ijab dan kabul terjadi dalam satu مجلس العقد dan tidak terdapat pemisah yang panjang antara keduanya.
+
+Fasal yang panjang dapat menunjukkan bahwa pihak yang menerima telah berpaling dari ijab.
+
+### Apa yang dimaksud مجلس العقد?
+
+مجلس العقد adalah tempat atau keadaan berlangsungnya proses akad, khususnya tempat terjadinya ijab.
+
+Misalnya pembeli mengatakan:
+
+اشتريت سلعتك بكذا
+
+kemudian penjual tidak memberikan jawaban, tetapi berdiri dan meninggalkan tempat tersebut. Setelah beberapa waktu ia kembali dan mengatakan:
+
+قبلت
+
+Akad tidak terbentuk.
+
+Mengapa?
+
+Karena ketika ia meninggalkan مجلس العقد, tindakan tersebut menunjukkan إعراضًا عن الإيجاب, yaitu berpaling dari ijab sebelumnya. Ketika kemudian ia kembali dan mengatakan قبلت, ucapan tersebut tidak lagi menjadi kabul terhadap ijab pertama. Ia dianggap sebagai إيجاب baru yang membutuhkan قبول baru.
+
+Contoh lainnya, penjual mengatakan:
+
+بعتك هذا التليفون بعشرة آلاف جنيه
+
+tetapi calon pembeli tidak menjawab dan pergi. Setelah beberapa waktu ia kembali dan mengatakan:
+
+قبلت.
+
+Akad tidak terbentuk berdasarkan ijab pertama karena مجلس العقد telah berakhir dan kepergian tersebut menunjukkan إعراضًا عن الإيجاب.
+
+### مجلس العقد tidak harus berupa tempat yang tetap
+
+Dosen kemudian menjelaskan bahwa مجلس العقد tidak berarti kedua orang harus duduk diam di satu ruangan.
+
+Jika penjual dan pembeli sedang berjalan bersama, mereka masih dapat melakukan akad selama keduanya masih bersama dan belum berpisah secara fisik.
+
+Demikian pula apabila mereka berada dalam mobil bersama, akad dapat dilakukan.
+
+Bahkan jika mereka berada di dalam pesawat bersama dan melakukan jual beli di sana, مجلس العقد masih dianggap berlangsung selama keduanya belum berpisah secara fisik.
+
+Jadi, ukuran pentingnya adalah استمرار الاجتماع وعدم التفرق بالأبدان.
+
+Apabila salah satu meninggalkan yang lain dan terjadi perpisahan fisik, maka مجلس العقد dianggap berakhir.
+
+### Pemisah antara ijab dan kabul
+
+Dosen menjelaskan bahwa kabul harus mengikuti ijab dan tidak boleh terdapat pemisah yang panjang yang menunjukkan berpaling dari ijab.
+
+Pemisah dapat berupa:
+
+قول, yaitu perkataan;
+فعل, yaitu tindakan;
+atau سكوت طويل, yaitu diam yang panjang.
+
+Namun tidak setiap pemisah otomatis menunjukkan إعراض.
+
+Misalnya setelah penjual berkata:
+
+بعتك سلعتي بكذا
+
+pembeli mengatakan kepada pekerjanya:
+
+يا فلان احضر لنا الورق والأقلام حتى نكتب العقد
+
+atau meminta:
+
+احضر لنا الشهود الذين يشهدون على العقد
+
+Perkataan tersebut memang merupakan كلام yang muncul di antara ijab dan kabul, tetapi tidak menunjukkan bahwa pembeli berpaling dari ijab. Justru perkataan itu menunjukkan bahwa ia ingin menyelesaikan dan menegaskan akad.
+
+Karena itu, pemisah semacam ini justru memperkuat إرادة القبول dan إرادة إتمام العقد.
+
+Jadi, yang menjadi ukuran bukan sekadar ada atau tidaknya pemisah, tetapi apakah pemisah tersebut dipahami sebagai إعراض عن الإيجاب atau justru sebagai bagian dari proses menyelesaikan akad.
+
+### سكوت طويل dan perbedaan pendapat ulama
+
+Jika pemisahnya berupa diam yang panjang, terdapat perbedaan pendapat.
+
+Pendapat pertama adalah mazhab الشافعية. Menurut mereka, panjangnya jarak antara ijab dan kabul karena diam dapat mengganggu keberlangsungan akad, karena diam tersebut menunjukkan atau memberi kesan إعراض عن الإيجاب.
+
+Jadi, apabila seseorang diam terlalu lama setelah menerima ijab, hal itu dianggap menunjukkan bahwa ia tidak lagi menghendaki akad.
+
+Pendapat kedua adalah pendapat جمهور العلماء.
+
+Menurut jumhur, diam yang panjang tidak otomatis menghilangkan keberlangsungan akad selama مجلس العقد masih berlangsung dan kedua pihak belum berpisah.
+
+Argumentasinya adalah bahwa ukuran مجلس العقد masih ada selama kedua pihak tetap berada dalam majelis. Seseorang mungkin belum langsung menjawab dan baru memberikan jawaban setelah beberapa waktu. Yang penting ia memberikan jawaban sebelum مجلس العقد berakhir dan sebelum kedua pihak berpisah.
+
+Dengan demikian, perbedaan pendapatnya adalah:
+
+الشافعية memandang سكوت طويل sebagai sesuatu yang merusak استمرار akad karena menunjukkan إعراض عن الإيجاب.
+
+Jumhur memandangnya tidak merusak selama مجلس العقد masih berlangsung dan kedua pihak belum berpisah.
+
+Dalam sesi tanya jawab kemudian ditegaskan bahwa ukuran “panjang” atau “pendek” suatu pemisah dikembalikan kepada عرف. Apa yang tidak memiliki batas tertentu dalam syariat atau bahasa dikembalikan kepada kebiasaan masyarakat. Jika عرف menganggap suatu jeda sebagai pemisah yang panjang, maka ia diperlakukan sebagai pemisah panjang; jika عرف tidak menganggapnya panjang, maka tidak demikian.
+
+## Syarat kelima: الموجب tetap pada ijabnya sampai terjadi kabul
+
+Syarat kelima adalah أن يظل الموجب على إيجابه حتى يقبل المشتري.
+
+Artinya, pihak yang mengeluarkan ijab harus tetap mempertahankan ijabnya sampai pihak lain menerimanya.
+
+Misalnya penjual mengatakan:
+
+بعتك هذه السلعة بكذا
+
+sebelum pembeli mengatakan قبلت, penjual berkata:
+
+لا أريد بيع هذه السلعة
+
+“Aku tidak ingin menjual barang ini.”
+
+Dalam keadaan tersebut jual beli tidak terbentuk karena الموجب telah menarik kembali ijabnya sebelum قبول terjadi.
+
+Hal ini karena akad membutuhkan bertemunya ijab dan kabul. Jika ijab sudah ditarik sebelum kabul, maka ketika pembeli kemudian mengatakan قبلت, kabul tersebut tidak lagi memiliki ijab yang dapat ditemuinya.
+
+Karena itu, kaidah yang ditekankan dalam materi adalah bahwa لكل إيجاب قبول ولكل قبول إيجاب, yaitu setiap ijab membutuhkan kabul dan setiap kabul harus bertemu dengan ijab.
+
+### Jika akad sudah terjadi lalu penjual berubah pikiran
+
+Situasinya berbeda jika ijab dan kabul sudah terjadi sehingga jual beli telah sah, kemudian penjual berubah pikiran dan ingin mengambil kembali barangnya.
+
+Jika kedua pihak sepakat mengembalikan barang dan harga, hal tersebut disebut إقالة.
+
+الإقالة adalah pengakhiran atau pembatalan akad dengan kerelaan kedua pihak, yaitu barang dikembalikan kepada pemilik semula dan harga dikembalikan kepada pembeli.
+
+Jadi, membatalkan akad setelah akad selesai berbeda dengan menarik ijab sebelum kabul.
+
+Sebelum kabul: akad belum terjadi dan الموجب masih dapat menarik ijabnya.
+
+Setelah ijab dan kabul selesai: akad sudah terjadi. Jika ingin membatalkannya dengan persetujuan kedua pihak, hal itu merupakan إقالة.
+
+Dalam sesi tanya jawab, dosen juga menegaskan bahwa pembayaran harga merupakan indikator penting telah berlangsungnya jual beli. Bahkan jika barang belum sempat diterima secara fisik, pembayaran harga dapat menjadi indikasi bahwa akad telah selesai, karena dalam praktik tertentu harga dibayarkan lebih dahulu sementara barang diserahkan kemudian.
+
+## Syarat keenam: استمرار أهلية المتعاقدين
+
+Syarat keenam adalah أن تبقى أهلية المتعاقدين حتى يتلاقى الإيجاب والقبول.
+
+Ahliah adalah keadaan yang memungkinkan seseorang melakukan akad secara sah. Dalam materi dijelaskan secara sederhana bahwa penjual dan pembeli harus berada dalam keadaan أهلية, yaitu بالغ, عاقل, dan مختار.
+
+Ahliah tersebut harus tetap ada sampai ijab dan kabul bertemu.
+
+Misalnya penjual mengatakan:
+
+بعتك سلعتي بكذا
+
+kemudian sebelum pembeli mengatakan قبلت, pembeli mengalami جنون.
+
+Dalam keadaan tersebut akad tidak terbentuk karena salah satu pihak kehilangan أهلية sebelum ijab dan kabul selesai.
+
+Jadi, bukan hanya أهلية harus ada ketika ijab diucapkan, tetapi أهلية harus tetap ada sampai proses ijab dan kabul selesai.
+
+## Syarat ketujuh: محل البيع tetap ada dan dalam keadaan semula
+
+Syarat ketujuh adalah أن يبقى محل البيع على حاله حتى يتصل الإيجاب والقبول.
+
+Maksudnya, barang yang menjadi objek jual beli harus tetap ada dan berada dalam keadaan yang memungkinkan akad sampai ijab dan kabul bertemu.
+
+Misalnya penjual mengatakan:
+
+بعتك هذه السلعة بكذا
+
+kemudian sebelum pembeli mengatakan قبلت, barang tersebut rusak atau musnah.
+
+Dalam keadaan tersebut jual beli tidak terbentuk.
+
+Apabila barang tersebut musnah sebelum akad selesai, maka kerusakan atau kebinasaan barang ditanggung oleh penjual, karena barang masih berada dalam kepemilikan dan kekuasaan penjual. Barang tersebut belum keluar dari tangannya.
+
+Jadi, sebelum akad sempurna, المبيع masih berada pada pemilik awalnya. Karena itu, jika barang musnah pada tahap tersebut, ia musnah atas tanggungan pemiliknya.
+
+### Jika barang sudah diserahkan kepada pembeli
+
+Dalam sesi tanya jawab, mahasiswa mengajukan keadaan yang berbeda: bagaimana jika penjual sudah menyerahkan barang kepada pembeli, pembeli sudah membayar, lalu barang tersebut rusak ketika masih berada dalam مجلس العقد?
+
+Dosen menjelaskan bahwa apabila barang sudah berada di tangan pembeli, maka barang tersebut berada dalam tanggungannya.
+
+Ini dipahami melalui مفهوم المخالفة dari keadaan sebelumnya.
+
+Jika barang masih berada di tangan penjual ketika rusak, maka penjual yang menanggungnya. Sebaliknya, apabila barang telah diserahkan dan berada di tangan pembeli, maka pembeli yang menanggung kerusakannya.
+
+Dosen kemudian menegaskan bahwa persoalan lain seperti seseorang mengetahui barang akan rusak atau mati tetapi tidak memberitahukannya kepada pembeli merupakan pembahasan lain, yaitu persoalan الغش. Hal itu tidak menjadi fokus pertanyaan pada bagian ini.
+
+## Syarat kedelapan: tidak seluruh akad dilakukan oleh satu pihak
+
+Syarat kedelapan berkaitan dengan pertanyaan apakah satu orang boleh sekaligus menjalankan posisi kedua pihak dalam akad jual beli.
+
+Misalnya satu orang menjadi penjual sekaligus pembeli, atau ia mewakili penjual sekaligus mewakili pembeli, atau ia menjadi أصيل bagi dirinya sendiri sekaligus وكيل atau ولي bagi pihak lain.
+
+Dalam persoalan ini terdapat perbedaan pendapat di antara ulama.
+
+### Pendapat pertama: tidak boleh satu orang menjadi kedua pihak
+
+Pendapat pertama adalah pendapat الحنفية, الشافعية, dan satu riwayat dari الإمام أحمد.
+
+Menurut mereka, tidak sah apabila ijab dan kabul dalam akad jual beli berasal dari satu orang yang sama.
+
+Alasan yang dikemukakan berkaitan dengan karakter jual beli sebagai salah satu عقود المعاوضات.
+
+Akad معاوضة adalah akad pertukaran, yaitu terdapat sesuatu yang diberikan sebagai مقابل terhadap sesuatu yang lain. Dalam jual beli terdapat barang dan harga.
+
+Masing-masing pihak memiliki kewajiban dan hak yang berbeda.
+
+Penjual berkewajiban menyerahkan barang dan memiliki hak untuk menerima harga.
+
+Pembeli berkewajiban membayar harga dan memiliki hak untuk menerima barang.
+
+Jadi, kewajiban dan hak الموجب berbeda dari kewajiban dan hak القابل.
+
+Menurut pendapat ini, tidak tepat jika satu orang sekaligus menjadi pihak yang memiliki seluruh hak dan kewajiban tersebut. Ia akan menjadi مطالب بالحق الذي له dan pada saat yang sama مطالب بالحق الذي عليه, yaitu sekaligus menjadi pihak yang menuntut haknya dan pihak yang dituntut memenuhi kewajibannya.
+
+Dengan kata lain, seseorang menjadi مطالب ومطالب pada saat yang sama.
+
+Atas dasar itu, pendapat pertama tidak membolehkan satu orang menjalankan kedua sisi akad jual beli.
+
+### Pendapat kedua: boleh dengan syarat tertentu
+
+Pendapat kedua adalah pendapat المالكية, الحنابلة, dan satu riwayat dari الإمام أحمد.
+
+Menurut mereka, seseorang dapat menjalankan kedua sisi akad apabila ia memiliki صفة yang sah untuk mewakili kedua pihak.
+
+Misalnya ia menjadi:
+
+ولي عن الطرفين,
+
+وكيل عن الطرفين,
+
+وليًا عن أحدهما وأصيلًا عن نفسه,
+
+atau
+
+وكيلًا عن أحدهما وأصيلًا عن نفسه.
+
+Contohnya, seorang wali dapat melakukan akad untuk dua pihak yang berada di bawah perwaliannya. Atau seseorang dapat menjadi pihak yang menjual untuk dirinya sendiri dan sekaligus menjadi wali bagi pihak lain.
+
+Dalam keadaan seperti itu, ucapan satu orang tersebut secara hukum mewakili dua posisi.
+
+Satu lafaznya dapat dipandang sebagai إيجاب karena ia bertindak sebagai أصيل untuk dirinya sendiri, sedangkan dari sisi lain menjadi قبول karena ia bertindak sebagai وكيل atau ولي bagi pihak lainnya.
+
+Jadi, satu ucapan secara hukum mengandung dua sisi berdasarkan sifat orang tersebut dalam akad.
+
+## Syarat khusus menurut المالكية
+
+Dalam materi dijelaskan bahwa المالكية memberikan dua syarat ketika seorang وكيل melakukan transaksi untuk dirinya sendiri.
+
+Syarat pertama adalah أن يأذن الموكل للوكيل أن يشتري لنفسه.
+
+Artinya, orang yang memberikan kuasa harus mengizinkan wakil untuk membeli barang tersebut untuk dirinya sendiri.
+
+Contohnya, seseorang berkata kepada wakil:
+
+Aku memberi kuasa kepadamu untuk menjual telepon ini dan aku mengizinkanmu apabila engkau ingin membelinya untuk dirimu sendiri.
+
+Jika izin tersebut diberikan, wakil dapat membeli barang itu untuk dirinya sendiri.
+
+Syarat kedua adalah أن يكون ذلك بعد تناهي الرغبات.
+
+Maksudnya, pembelian dilakukan setelah harga yang ditawarkan telah mencapai batas tertinggi atau setelah رغبات para pembeli telah berakhir.
+
+Contohnya, jika dalam penawaran harga tertinggi barang tersebut telah mencapai 10.000 جنيه, maka wakil dapat mengambilnya pada harga tersebut atau lebih tinggi.
+
+Tujuan syarat ini adalah memastikan bahwa wakil tidak merugikan الموكل. Harga yang digunakan harus mencapai harga tertinggi yang muncul dalam proses penawaran.
+
+## Tambahan syarat dari الحنابلة apabila tidak ada izin
+
+Materi kemudian menjelaskan bahwa الحنابلة menambahkan dua syarat dalam keadaan الموكل tidak memberikan izin kepada wakil untuk membeli barang tersebut bagi dirinya sendiri.
+
+Syarat pertama adalah أن يزيد عن ثمن السلعة في المزايدة أو المساومة.
+
+Artinya, wakil harus membeli dengan harga yang lebih tinggi daripada harga yang telah muncul dalam proses penawaran.
+
+Misalnya harga barang dalam المزايدة telah mencapai 10.000, maka ia harus membelinya dengan harga 11.000 atau lebih.
+
+Contoh lain, jika dalam المساومة harga telah mencapai 5.000, maka ia membelinya dengan harga 6.000.
+
+Syarat kedua adalah bahwa dalam proses المزايدة, wakil tidak menjadi orang yang melakukan penawaran atau النداء untuk barang tersebut. Orang lain yang melakukan penawaran atau memanggil harga.
+
+Kedua syarat ini berkaitan dengan keadaan ketika الموكل tidak memberikan izin kepada wakil untuk membeli bagi dirinya sendiri.
+
+Apabila الموكل memang telah memberikan izin, menurut penjelasan materi, الحنابلة tidak mensyaratkan kedua hal tersebut.
+
+Alasannya adalah bahwa علت المنع menurut mereka adalah kemungkinan الموكل tidak ridha terhadap tindakan wakil. Jika الموكل telah memberikan izin, kemungkinan ketidakridhaan tersebut sudah hilang.
+
+Dengan adanya izin, diketahui bahwa الموكل memang merelakan wakil membeli barang tersebut untuk dirinya sendiri atau untuk pihak lain.
+
+## Pendapat yang dianggap lebih kuat dalam materi
+
+Dalam materi, pendapat yang dianggap راجح adalah pendapat المالكية dan riwayat dari الحنابلة yang membolehkan satu orang menjalankan kedua sisi akad dengan syarat-syarat tertentu.
+
+Ada beberapa alasan yang disebutkan untuk penguatan pendapat tersebut.
+
+Pertama, disebutkan bahwa terdapat riwayat bahwa Nabi صلى الله عليه وسلم pernah menjadi wakil dalam عقد النكاح untuk kedua pihak. Jika akad nikah yang dinilai lebih penting dan lebih berat saja dapat dilakukan melalui perwakilan pada kedua pihak, maka jual beli lebih layak untuk dibolehkan dengan cara tersebut.
+
+Jadi, digunakan قياس على النكاح.
+
+Kedua, disebutkan adanya kasus seorang sahabat yang memiliki ولاية terhadap seorang perempuan. Ia meminta perempuan tersebut memberikan kewenangan kepadanya dalam urusan pernikahannya. Perempuan tersebut menyetujuinya, kemudian ia berkata:
+
+زوجتك نفسي
+
+dan akad tersebut dianggap sah dalam materi.
+
+Ketiga, tidak terdapat نص yang secara khusus melarang seseorang menjadi pihak yang melakukan kedua sisi akad jual beli.
+
+Dengan demikian, alasan penguatan pendapat tersebut adalah adanya contoh dalam akad nikah, adanya riwayat sahabat, dan tidak adanya teks yang melarang seseorang mengambil dua posisi dalam akad jual beli apabila ia memiliki kewenangan yang sah untuk melakukannya.
+
+# الصيغة الفعلية
+
+Setelah selesai membahas الصيغة اللفظية beserta delapan syaratnya, pembahasan beralih kepada الصيغة الفعلية.
+
+الصيغة الفعلية adalah صيغة akad yang dilakukan melalui perbuatan, bukan melalui ucapan.
+
+Dalam materi, bentuk utama yang disebut adalah الكتابة, الإشارة, dan المعاطاة.
+
+Karena ketiganya tidak bergantung pada ucapan verbal secara langsung, maka pembahasannya berbeda dari صيغة اللفظية.
+
+Pembahasan dimulai dengan انعقاد البيع بالكتابة.
+
+## Jual beli melalui tulisan
+
+Para ulama pada dasarnya membolehkan انعقاد البيع بالكتابة dalam pengertian umum.
+
+Misalnya pembeli mengirimkan surat kepada penjual yang berisi permintaan untuk membeli barang tertentu dengan harga tertentu. Penjual kemudian menerima.
+
+Atau sebaliknya, penjual mengirim surat kepada pembeli:
+
+بعت سلعتي بكذا
+
+kemudian pembeli menerima.
+
+Persoalan yang kemudian muncul adalah: di manakah مجلس العقد dalam transaksi melalui tulisan?
+
+Dosen menjelaskan bahwa مجلس العقد dalam akad melalui surat adalah مجلس فض الرسالة, yaitu waktu ketika surat tersebut dibuka dan dibaca.
+
+Dengan kata lain, tempat dan waktu ketika penerima membaca isi surat menjadi مجلس العقد dalam bentuk transaksi tersebut.
+
+## Perbedaan pendapat tentang jual beli melalui tulisan
+
+Apakah jual beli melalui tulisan boleh secara mutlak, atau hanya dalam keadaan tertentu?
+
+Dalam persoalan ini terdapat beberapa pendapat.
+
+### Pendapat pertama: boleh secara mutlak
+
+Pendapat pertama adalah pendapat المالكية dalam pendapat yang lebih kuat menurut mereka dan salah satu pendapat الشافعية.
+
+Menurut mereka, jual beli melalui tulisan boleh secara mutlak, baik kedua pihak sedang hadir maupun tidak hadir.
+
+Alasannya adalah bahwa penggunaan ucapan dalam صيغة akad bukan karena ucapan itu sendiri mempunyai keistimewaan khusus. Ucapan hanya menjadi sarana untuk menunjukkan رضا العاقد.
+
+Jika tujuan utama صيغة adalah menunjukkan kerelaan kedua pihak, maka segala sarana yang secara jelas menunjukkan kerelaan tersebut dapat digunakan.
+
+Tulisan juga menunjukkan kerelaan.
+
+Karena itu, tidak ada alasan untuk membatasi صيغة akad hanya pada perkataan.
+
+### Pendapat kedua: tulisan hanya dalam kondisi tertentu
+
+Pendapat kedua adalah pendapat الحنفية dan pendapat yang lebih kuat عند الشافعية.
+
+Menurut mereka, jual beli melalui tulisan tidak berlaku secara mutlak, tetapi hanya dalam keadaan tertentu.
+
+Di antaranya apabila terdapat عجز عن النطق atau ‘illah pada salah satu pihak, seperti:
+
+الخرس, yaitu bisu atau tidak mampu berbicara,
+
+atau الغياب, yaitu salah satu pihak tidak hadir dalam مجلس العقد.
+
+Jika salah satu pihak tidak hadir, tulisan dapat digunakan sebagai sarana untuk menyampaikan persetujuan atau penolakan.
+
+Namun apabila kedua pihak hadir dalam مجلس العقد dan sama-sama mampu berbicara, maka menurut pendapat ini akad tidak dilakukan melalui tulisan.
+
+Alasannya adalah bahwa الأصل في صيغة العقود أن تكون بالنطق, yaitu bentuk asal صيغة akad adalah ucapan.
+
+Tulisan dibolehkan sebagai bentuk alternatif ketika terdapat الضرورة.
+
+Jika kedua pihak hadir dan mampu berbicara, tidak terdapat kebutuhan atau keadaan darurat yang mengharuskan penggunaan tulisan.
+
+## Pendapat yang dianggap lebih kuat mengenai tulisan
+
+Dalam materi, pendapat yang dianggap راجح adalah pendapat المالكية dan ulama yang membolehkan tulisan secara mutlak.
+
+Alasannya, tidak ada dalil yang menunjukkan bahwa صيغة ucapan memiliki kekhususan mutlak dalam akad.
+
+Jika ucapan diterima karena ia menunjukkan رضا, maka tulisan juga dapat diterima karena menunjukkan رضا.
+
+Bahkan dalam materi dikatakan bahwa الكتابة dapat menjadi lebih kuat dalam menunjukkan رضا dibandingkan ucapan.
+
+Seseorang mungkin mengucapkan sesuatu kemudian mengatakan bahwa ia lupa pernah mengucapkannya atau menyangkal bahwa ia benar-benar menghendakinya.
+
+Namun tulisan lebih sulit untuk diingkari apabila tulisan tersebut dapat dipastikan berasal dari orang tersebut.
+
+Karena itu, menurut arah argumentasi materi, tulisan memiliki kekuatan dalam membuktikan adanya kerelaan.
+
+Dosen kemudian menghubungkannya dengan perkembangan hukum kontemporer. Menurut materi, hukum-hukum modern juga semakin mengakui bahwa tulisan mempunyai kekuatan yang lebih jelas dalam menunjukkan رضا, karena tulisan meninggalkan bukti yang lebih mudah ditelusuri daripada perkataan lisan.
+
+# Sarana komunikasi modern sebagai bentuk tulisan
+
+Pertanyaan berikutnya adalah bagaimana hukum telegram, telex, fax, internet, dan jual beli elektronik.
+
+Dalam materi dijelaskan bahwa sarana-sarana tersebut mengambil hukum الكتابة.
+
+Artinya, transaksi melalui:
+
+البرقيات,
+التلكس,
+الفاكس,
+internet,
+dan jual beli elektronik
+
+dapat digunakan untuk melakukan ijab dan kabul.
+
+Dalam transaksi elektronik, misalnya seseorang masuk ke sebuah aplikasi jual beli, melihat barang dan spesifikasinya, mengetahui harga, kemudian mengajukan permintaan pembelian.
+
+Pihak penjual kemudian memberikan jawaban bahwa barang tersebut akan dikirim pada hari tertentu, waktu tertentu, melalui kurir tertentu.
+
+Dengan demikian, ijab dan kabul dapat berlangsung melalui sarana komunikasi modern.
+
+Menurut materi, perkembangan semacam ini sudah menjadi عرف yang dikenal dalam transaksi masyarakat modern, khususnya di kalangan pedagang.
+
+# الخط المجرد عن الشهود
+
+Dosen kemudian membahas persoalan الخط المجرد عن الشهود, yaitu tulisan yang tidak disertai saksi.
+
+Misalnya ditemukan tulisan seseorang yang berisi wasiat:
+
+أوصي بثلث مالي للجهة الفلانية
+
+tetapi tidak ada saksi yang menyaksikan secara langsung bahwa orang tersebut menulisnya.
+
+Dalam masalah ini terdapat beberapa pendapat, salah satunya membolehkan menjalankan isi tulisan tersebut apabila dapat dipastikan bahwa tulisan itu benar-benar berasal dari orang yang bersangkutan.
+
+Dengan kata lain, apabila خط tersebut dapat diyakini sebagai خط pemiliknya, maka tulisan tersebut dapat dijadikan dasar.
+
+Dari sini kemudian transaksi melalui berbagai sarana komunikasi modern dianalogikan dengan الخط المجرد عن الشهود.
+
+Jika tulisan yang dapat dipastikan berasal dari seseorang dapat diberlakukan meskipun tidak ada saksi yang hadir ketika tulisan itu dibuat, maka sarana komunikasi modern yang menunjukkan adanya kehendak transaksi juga dapat digunakan.
+
+## Ulama menggunakan tulisan dalam periwayatan hadis
+
+Dalil berikutnya yang disebut dalam materi adalah bahwa para ulama telah menggunakan tulisan dalam رواية الحديث.
+
+Sebuah hadis dapat diketahui melalui tulisan seseorang yang terpercaya, misalnya tulisan yang menunjukkan:
+
+هذا الحديث بخط فلان عن فلان عن النبي صلى الله عليه وسلم
+
+Dalam keadaan tersebut tidak selalu terdapat saksi yang hadir ketika tulisan dibuat. Namun apabila tulisan tersebut dapat dipastikan berasal dari orang yang bersangkutan, ia dapat digunakan dalam periwayatan.
+
+Dosen menggunakan hal ini sebagai analogi bahwa tulisan memiliki nilai dalam menyampaikan kehendak dan informasi.
+
+## Prinsip bahwa tujuan صيغة adalah menunjukkan رضا
+
+Dalil berikutnya kembali kepada prinsip dasar bahwa ucapan bukan tujuan akhir dari صيغة.
+
+Ucapan digunakan karena menjadi sarana untuk menunjukkan رضا.
+
+Jika perbuatan, tulisan, atau sarana lain juga menunjukkan رضا, maka ia dapat menggantikan ucapan dalam konteks yang sesuai.
+
+Dengan demikian:
+
+القول
+
+bukan satu-satunya sarana.
+
+الكتابة
+
+juga dapat menunjukkan رضا.
+
+Begitu pula الفعل.
+
+Maka segala sesuatu yang secara عرف dapat menunjukkan kerelaan dan kehendak untuk melakukan akad dapat dipertimbangkan sebagai صيغة.
+
+## عرف masyarakat
+
+Dalil berikutnya adalah bahwa sesuatu yang telah menjadi kebiasaan masyarakat dan diterima oleh mereka, selama tidak bertentangan dengan نصوص الشريعة dan hukum syariat, dapat diberlakukan.
+
+Dosen menekankan bahwa perkembangan sarana transaksi terus berubah. Jika setiap bentuk transaksi baru harus menggunakan bentuk komunikasi lama, hal tersebut dapat menimbulkan kesulitan.
+
+Karena itu, selama sarana tersebut dikenal dan diterima oleh masyarakat serta tidak bertentangan dengan syariat, ia dapat digunakan untuk transaksi.
+
+## Kekhawatiran terhadap penipuan tulisan
+
+Mungkin muncul keberatan:
+
+Bagaimana jika tulisan atau transaksi elektronik dipalsukan?
+
+Dosen menjawab bahwa kemungkinan pemalsuan memang ada, tetapi kemungkinan tersebut dipandang sebagai kemungkinan yang sedikit dan jarang.
+
+Dalam kaidah yang digunakan dalam materi, hukum-hukum fikih dibangun berdasarkan الكثير الغالب, yaitu keadaan yang banyak dan dominan, bukan القليل النادر, yaitu keadaan yang sedikit dan jarang.
+
+Karena itu, kemungkinan pemalsuan yang jarang tidak menjadi alasan untuk membatalkan seluruh transaksi yang dilakukan melalui tulisan.
+
+Selain itu, dapat dibuat ضوابط yang mengurangi atau mencegah pemalsuan.
+
+Misalnya:
+
+كلمة سر,
+
+شفرة,
+
+كود,
+
+password,
+
+atau sistem keamanan lainnya.
+
+Dosen menghubungkan hal tersebut dengan penggunaan telepon dan aplikasi modern. Banyak orang mengamankan perangkat dan aplikasi penting dengan sidik jari atau password. Sistem tersebut mengurangi kemungkinan orang lain menggunakan identitas seseorang secara tidak sah.
+
+Dengan demikian, kekhawatiran terhadap pemalsuan dapat ditangani melalui mekanisme pengamanan, bukan dengan menolak seluruh bentuk transaksi tertulis.
+
+# التعاقد عن طريق الهاتف
+
+Pembahasan berikutnya adalah akad melalui telepon.
+
+Dosen menjelaskan bahwa komunikasi melalui telepon bahkan lebih kuat dalam menunjukkan رضا dibandingkan tulisan dalam aspek tertentu, karena telepon memungkinkan seseorang mendengar langsung suara pihak lain.
+
+Jika tulisan menunjukkan kerelaan, maka komunikasi suara juga menunjukkan kerelaan secara langsung.
+
+Misalnya seseorang menelepon pihak lain dan berkata:
+
+“Aku ingin membeli barang ini dengan harga sekian.”
+
+Pihak lain menjawab:
+
+نعم وأنا قبلت
+
+dan kemudian barang dikirimkan.
+
+Ini merupakan akad melalui قول karena transaksi berlangsung melalui percakapan.
+
+## Telepon disamakan dengan percakapan langsung
+
+Para fuqaha kontemporer, sebagaimana dijelaskan dalam materi, memperlakukan komunikasi melalui telepon seperti الكلام مشافهة.
+
+Telepon adalah alat yang mendekatkan suara orang yang jauh.
+
+Seseorang di Mesir dapat berbicara dengan orang di Amerika, Cina, atau negara lain dan mendengar suaranya pada saat yang sama.
+
+Karena itu, komunikasi melalui telepon diposisikan seperti percakapan langsung.
+
+Dosen memberikan analogi dengan orang buta yang dapat mendengar suara seseorang tetapi tidak dapat melihat orang tersebut.
+
+Orang buta tetap dapat menerima perkataan tersebut meskipun tidak melihat pembicaranya.
+
+Begitu pula seorang perempuan yang berbicara dari balik hijab: seseorang dapat mendengar suaranya tanpa melihatnya.
+
+Maka tidak melihat lawan bicara tidak otomatis menghilangkan status komunikasi lisan.
+
+Akad melalui telepon tetap merupakan تعاقد بالقول karena dilakukan melalui perkataan.
+
+## Kemungkinan meniru suara
+
+Ada pula kemungkinan seseorang meniru suara orang lain untuk melakukan transaksi.
+
+Dosen kembali menjawab dengan prinsip yang sama: kemungkinan tersebut dianggap قليل نادر, yaitu jarang dan sedikit, sehingga tidak menjadi dasar untuk membangun hukum umum.
+
+Hukum dibangun berdasarkan keadaan yang banyak dan dominan, bukan kemungkinan yang jarang.
+
+Selain itu, sarana komunikasi modern dapat diamankan dengan password, kode, dan berbagai sistem keamanan.
+
+# Contoh fatwa kontemporer: Bank Dubai Islam
+
+Dosen kemudian memberikan contoh فتوى معاصرة dari اللجنة الشرعية لبنك دبي الإسلامي, فتوى رقم 77.
+
+Pertanyaannya berkaitan dengan bank yang ingin membeli barang dengan spesifikasi tertentu dari suatu agen atau lembaga melalui جهاز الفاكس.
+
+Bank mengirimkan permintaan melalui fax, lalu pihak perusahaan atau lembaga memberikan jawaban melalui fax yang menyatakan penerimaan dan persetujuan.
+
+Pertanyaannya: apakah komunikasi melalui fax tersebut dapat dianggap sebagai ijab dan kabul?
+
+Jawaban yang dikutip dalam materi adalah bahwa para fuqaha membolehkan transaksi jual beli melalui tulisan dan sarana sejenis berdasarkan kaidah:
+
+الكتاب كالخطاب
+
+Artinya, tulisan diperlakukan seperti خطاب atau ucapan langsung.
+
+Dengan demikian, fax yang dikirim oleh bank kepada lembaga tersebut dianggap sebagai إيجاب, sedangkan jawaban lembaga melalui fax dianggap sebagai قبول.
+
+Akad jual beli pun dapat terbentuk.
+
+Hal tersebut semakin relevan karena pada zaman modern penggunaan fax dan sarana komunikasi telah menjadi عرف di kalangan pedagang.
+
+Kebolehan tersebut juga memberikan kemudahan, kelancaran, dan kecepatan dalam transaksi, sementara tidak terdapat larangan syar‘i terhadap penggunaannya.
+
+## Contoh transaksi melalui telepon dalam praktik
+
+Dosen memberikan contoh dari kehidupan nyata.
+
+Seorang temannya pergi ke toko emas dan membawa sejumlah emas. Ia menyerahkan emas tersebut kepada toko. Nilainya sekitar 8.500 جنيه sebagaimana angka yang disebutkan dalam materi. Pemilik toko tidak memiliki uang tunai saat itu, kemudian mengatakan bahwa ia akan mentransfer pembayaran melalui telepon.
+
+Pembayaran akhirnya dilakukan melalui الهاتف.
+
+Contoh tersebut menunjukkan bahwa transfer dan transaksi melalui telepon sudah menjadi kebiasaan masyarakat.
+
+Karena jual beli, pembayaran, ijab, dan kabul melalui sarana tersebut telah menjadi praktik yang dikenal, maka ia termasuk bentuk transaksi modern yang dibahas dalam materi.
+
+# Sesi tanya jawab
+
+Setelah materi utama selesai, dosen membuka sesi pertanyaan.
+
+### Pertanyaan tentang penjual yang berubah pikiran setelah akad
+
+Seorang mahasiswa menanyakan keadaan ketika penjual telah melakukan ijab dan pembeli telah menerima, tetapi setelah itu penjual mengatakan bahwa ia tidak lagi ingin menjual.
+
+Dosen menjelaskan bahwa jika ijab dan kabul telah sempurna, maka akad telah terjadi.
+
+Jika penjual kemudian ingin mengambil kembali barang dan mengembalikan harga, hal tersebut bukan lagi sekadar menarik ijab. Ia merupakan إقالة, yaitu pengakhiran atau pembatalan akad dengan kerelaan kedua pihak.
+
+Jadi, إقالة berbeda dari penarikan ijab sebelum قبول.
+
+Jika akad belum selesai, الموجب dapat menarik ijabnya.
+
+Jika akad sudah selesai, pembatalan membutuhkan bentuk yang sesuai, yaitu إقالة dengan persetujuan kedua pihak.
+
+Dosen juga menegaskan bahwa hal tersebut tetap berlaku meskipun barang belum secara fisik diterima oleh pembeli, karena pembayaran harga dapat menjadi indikator bahwa akad telah selesai.
+
+### Pertanyaan tentang jeda waktu antara ijab dan kabul
+
+Mahasiswa lain bertanya mengenai transaksi yang dilakukan oleh sekelompok orang yang perlu berkonsultasi terlebih dahulu dengan anggota kelompok lainnya.
+
+Misalnya distributor memberikan harga kepada mereka. Mereka mengatakan bahwa mereka perlu berdiskusi dengan anggota kelompok lainnya dan kemudian akan kembali memberikan jawaban.
+
+Dosen menjelaskan kembali bahwa dalam syarat akad tidak boleh ada فصل طويل yang menunjukkan terputusnya مجلس العقد.
+
+Ukuran panjang atau pendeknya pemisah dikembalikan kepada عرف.
+
+Apa yang dianggap masyarakat sebagai jeda panjang dan menunjukkan terputusnya proses akad, maka diperlakukan sebagai فصل طويل.
+
+Apa yang menurut عرف masih merupakan bagian dari proses akad, tidak otomatis dianggap sebagai pemutus akad.
+
+### Pertanyaan tentang barang yang rusak setelah diserahkan
+
+Pertanyaan berikutnya kembali kepada محل البيع.
+
+Jika barang masih berada di tangan penjual setelah ijab tetapi sebelum kabul, kemudian barang tersebut rusak, kerusakan ditanggung oleh penjual karena barang masih berada dalam kepemilikannya dan tangannya.
+
+Namun apabila akad sudah berlangsung, barang telah diserahkan kepada pembeli, dan kemudian barang tersebut rusak ketika berada di tangan pembeli, maka kerusakan ditanggung oleh pembeli.
+
+Dosen menjelaskan bahwa ini merupakan مفهوم المخالفة dari aturan sebelumnya.
+
+Jika barang berada di tangan pemilik, maka ia menanggung kerusakan.
+
+Jika sudah berada di tangan pembeli, maka pembeli yang menanggungnya.
+
+### Pertanyaan tentang tulisan melalui aplikasi
+
+Seorang mahasiswa bertanya apakah tulisan yang dimaksud dalam pembahasan الكتابة harus berupa tulisan tangan tertentu, atau dapat berupa pesan tertulis melalui aplikasi.
+
+Dosen menjelaskan bahwa yang dimaksud bukan sekadar bentuk خط اليد, tetapi segala bentuk tulisan yang digunakan untuk mengungkapkan keinginan melakukan jual beli.
+
+Misalnya seseorang mengirim pesan melalui aplikasi:
+
+“Aku ingin membeli barang tertentu darimu.”
+
+Kemudian pihak lain membalas secara tertulis bahwa ia menerima.
+
+Hal tersebut termasuk bentuk التعبير عن الرغبة في البيع والشراء melalui sarana aplikasi telepon.
+
+Jadi, pembahasan الكتابة mencakup bentuk komunikasi tertulis yang digunakan untuk menunjukkan ijab dan kabul.
+
+### Pertanyaan tentang pembelian dan penerimaan yang dilakukan kemudian
+
+Pada pertanyaan terakhir, mahasiswa menyinggung keadaan ketika seseorang mengucapkan ijab pada pagi hari dan pihak lainnya baru memberikan tindakan atau jawaban pada sore hari.
+
+Dosen mengingatkan bahwa persoalan الفصل الطويل sudah dibahas.
+
+Jika tindakan atau jawaban yang muncul pada waktu kemudian tidak lagi berada dalam مجلس العقد dan tidak ada hubungan dengan ijab sebelumnya, maka tindakan tersebut tidak otomatis menjadi قبول terhadap ijab pertama.
+
+Dalam contoh yang dijelaskan, apabila kemudian seseorang mengatakan kembali bahwa ia menjual barang tersebut, maka ucapan itu menjadi إيجاب جديد yang membutuhkan قبول baru.
+
+Namun apabila bentuk penerimaan tersebut dilakukan melalui tindakan yang menunjukkan رضا, maka perlu dilihat apakah tindakan itu merupakan فعل yang secara عرف menunjukkan kerelaan.
+
+Dosen kembali menegaskan prinsip penting:
+
+لا يشترط في الرضا أن يكون بالقول فقط
+
+Kerelaan tidak harus selalu diungkapkan melalui perkataan.
+
+Segala sesuatu yang menunjukkan رضا dapat menjadi dasar انعقاد العقد, baik berupa قول maupun فعل, selama memenuhi ketentuan yang berlaku.
+
+## Kesimpulan alur pembahasan
+
+Pembahasan dimulai dari الصيغة اللفظية, yaitu ijab dan kabul melalui ucapan. Untuk صيغة ini dijelaskan delapan syarat: bahasa harus dipahami kedua pihak; ijab dan kabul menggunakan الماضي atau المضارع yang dimaksudkan untuk الحال; terdapat توافق antara ijab dan kabul; terdapat اتحاد مجلس العقد dan tidak ada pemisah panjang yang menunjukkan إعراض; الموجب tetap pada ijab sampai kabul terjadi; أهلية kedua pihak tetap ada sampai ijab dan kabul bertemu; محل البيع tetap ada dalam keadaan yang memungkinkan akad; dan persoalan apakah satu orang boleh menjalankan kedua sisi akad dibahas dengan perbedaan pendapat antara الحنفية والشافعية di satu sisi dan المالكية والحنابلة dalam riwayat tertentu di sisi lain.
+
+Setelah itu pembahasan berpindah kepada الصيغة الفعلية, yaitu bentuk akad yang dilakukan melalui perbuatan. Di sini dibahas الكتابة, الإشارة, dan المعاطاة, meskipun materi yang disampaikan terutama menguraikan الكتابة.
+
+Dalam masalah الكتابة terdapat perbedaan pendapat. المالكية dalam pendapat yang lebih kuat dan salah satu pendapat الشافعية membolehkan akad melalui tulisan secara mutlak karena tujuan صيغة adalah menunjukkan رضا. Sedangkan الحنفية dan pendapat yang lebih kuat dari الشافعية mensyaratkan adanya keadaan tertentu seperti الغياب atau العجز عن النطق.
+
+Materi kemudian memilih pendapat yang membolehkan الكتابة secara lebih luas, dengan alasan bahwa tulisan menunjukkan رضا dan bahkan dalam beberapa keadaan lebih kuat sebagai bukti daripada ucapan.
+
+Dari sini pembahasan diperluas kepada sarana komunikasi modern seperti fax, telegram, telex, internet, dan jual beli elektronik. Sarana-sarana tersebut diperlakukan seperti الكتابة selama dapat menunjukkan adanya kehendak dan kerelaan.
+
+Selanjutnya dibahas التعاقد عن طريق الهاتف. Akad melalui telepon diperlakukan seperti الكلام مشافهة karena komunikasi berlangsung melalui suara secara langsung, meskipun kedua pihak tidak berada di tempat yang sama.
+
+Keseluruhan pembahasan bertumpu pada satu prinsip yang terus diulang dalam materi: tujuan utama صيغة adalah menunjukkan رضا kedua pihak. Karena itu, selama suatu perkataan, tulisan, atau perbuatan secara sah menunjukkan adanya kerelaan dan kehendak untuk melakukan akad, bentuk tersebut dapat menjadi sarana untuk mewujudkan عقد البيع sesuai dengan syarat-syarat yang telah dibahas.

@@ -46,6 +46,11 @@
               "name": "1.txt",
               "type": "file",
               "path": "texts/LITERAL MUHADOROH/FIKIH/1.txt"
+            },
+            {
+              "name": "2.txt",
+              "type": "file",
+              "path": "texts/LITERAL MUHADOROH/FIKIH/2.txt"
             }
           ]
         },
@@ -162,6 +167,16 @@
               "name": "2.txt",
               "type": "file",
               "path": "texts/LITERAL MUHADOROH/ULUMUL QURAN/2.txt"
+            },
+            {
+              "name": "3.txt",
+              "type": "file",
+              "path": "texts/LITERAL MUHADOROH/ULUMUL QURAN/3.txt"
+            },
+            {
+              "name": "4.txt",
+              "type": "file",
+              "path": "texts/LITERAL MUHADOROH/ULUMUL QURAN/4.txt"
             }
           ]
         },
@@ -195,6 +210,11 @@
               "name": "1.txt",
               "type": "file",
               "path": "texts/PELAJARAN/FIKIH/1.txt"
+            },
+            {
+              "name": "2.txt",
+              "type": "file",
+              "path": "texts/PELAJARAN/FIKIH/2.txt"
             }
           ]
         },
@@ -311,6 +331,16 @@
               "name": "2.txt",
               "type": "file",
               "path": "texts/PELAJARAN/ulumul quran/2.txt"
+            },
+            {
+              "name": "3.txt",
+              "type": "file",
+              "path": "texts/PELAJARAN/ulumul quran/3.txt"
+            },
+            {
+              "name": "4.txt",
+              "type": "file",
+              "path": "texts/PELAJARAN/ulumul quran/4.txt"
             }
           ]
         },
