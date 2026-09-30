@@ -1,0 +1,571 @@
+# الزكاة: تعريفها، مشروعيتها، شروط وجوبها، وأنصبتها وأحكامها
+
+## Pendahuluan
+
+Pembahasan dimulai dengan masuk ke **كتاب الزكاة** dalam materi hadis analitis. Sebelum masuk ke hadis pertama, terlebih dahulu dijelaskan pengertian الزكاة secara bahasa dan syariat, hikmah pensyariatannya, alasan mengapa ibadah ini dinamakan الزكاة dan juga الصدقة, keutamaan menunaikannya, orang yang wajib menunaikannya, serta waktu kewajibannya. Setelah pengantar tersebut, pembahasan beralih kepada hadis Abu سعيد الخدري رضي الله عنه:
+
+**«ليس فيما دون خمسة أوسق صدقة، ولا فيما دون خمس ذود صدقة، ولا فيما دون خمس أواق صدقة»**
+
+Hadis ini kemudian dijelaskan bagian demi bagian, mulai dari makna kata-katanya, macam-macam harta yang terkena zakat, nisab masing-masing, kadar yang dikeluarkan, hingga sejumlah perbedaan pendapat ulama.
+
+## Pengertian الزكاة secara bahasa
+
+Secara bahasa, الزكاة memiliki dua makna utama, yaitu **النماء** dan **التطهير**.
+
+Makna pertama adalah **النماء**, yang berarti pertumbuhan atau pertambahan. Dikatakan misalnya seseorang **نمّى ماله**, artinya ia berusaha menambah dan mengembangkan hartanya. Dari sini muncul sesuatu yang menarik. Ketika seseorang mengeluarkan sebagian hartanya untuk الزكاة, secara lahiriah hartanya terlihat berkurang. Akan tetapi, zakat justru dinamakan الزكاة karena pengeluaran tersebut menjadi sebab **النماء**, yaitu pertumbuhan dan keberkahan harta.
+
+Karena itu Nabi صلى الله عليه وسلم bersabda:
+
+**«ما نقص مال من صدقة»**
+
+Jangan mengira bahwa ketika seseorang mengeluarkan zakat atau sedekah berarti ia sekadar mengurangi harta pokoknya. Dalam penjelasan materi, pengeluaran tersebut justru menjadi sebab berkembangnya harta dan menjadi simpanan pahala bagi pelakunya di sisi Allah عز وجل.
+
+Hal ini kemudian diilustrasikan dengan sedekah yang sangat sedikit sekalipun, bahkan **شق تمرة**, setengah biji kurma. Sesuatu yang secara lahiriah sangat kecil dapat Allah تعالى tumbuhkan dan berkahi sehingga seorang muslim mendapatkan balasan yang sangat besar di akhirat. Jadi, **النماء** pada zakat bukan hanya dipahami sebagai pertambahan yang selalu terlihat secara langsung, tetapi juga sebagai pertumbuhan dan keberkahan yang terjadi melalui kehendak Allah تعالى.
+
+Makna kedua dari الزكاة secara bahasa adalah **التطهير**, yaitu penyucian. Dalil yang digunakan adalah firman Allah تعالى:
+
+**﴿خُذْ مِنْ أَمْوَالِهِمْ صَدَقَةً تُطَهِّرُهُمْ﴾**
+
+Zakat berfungsi membersihkan manusia dari dosa-dosa, yaitu membersihkan catatan amalnya dari berbagai dosa dan kemaksiatan. Dengan demikian, dua makna utama الزكاة adalah **النماء والتطهير**: harta berkembang dan pemiliknya memperoleh penyucian.
+
+## Pengertian الزكاة secara syariat dan penyebutannya sebagai الصدقة
+
+Secara syariat, الزكاة adalah sejumlah kadar harta yang wajib dikeluarkan kepada orang-orang yang berhak menerimanya dari harta yang telah mencapai **النصاب** dengan syarat-syarat tertentu.
+
+Jadi, zakat bukan sekadar memberikan harta kepada orang lain. Ia memiliki harta-harta tertentu, batas nisab tertentu, kadar tertentu, dan syarat-syarat tertentu yang menjadikan kewajiban tersebut berlaku.
+
+Zakat juga disebut **الصدقة**. Mengapa? Karena الزكاة menjadi bukti **الصدق** dalam iman seseorang. Ketika zakat wajib pada harta seseorang, kewajiban itu bisa menjadi perkara yang tidak diketahui oleh manusia lain. Banyak orang mungkin tidak mengetahui bahwa zakat sebenarnya telah wajib atas harta seseorang, bahkan mungkin tidak mengetahui bahwa ia benar-benar telah mengeluarkannya. Ketika ia tetap menunaikannya dengan kemauan sendiri, hal itu menunjukkan kejujurannya dalam iman.
+
+Makna tersebut selaras dengan sabda Nabi صلى الله عليه وسلم:
+
+**«والصدقة برهان»**
+
+Kata **برهان** berarti bukti atau argumentasi yang menunjukkan sesuatu. Sedekah menjadi **برهان** atas kebenaran iman orang yang mengeluarkannya.
+
+Dalam materi, hal ini dibandingkan dengan puasa. Orang lain mungkin tidak mengetahui apakah seseorang benar-benar berpuasa atau tidak, tetapi Allah تعالى mengetahuinya. Demikian pula zakat dapat menjadi ibadah yang hubungan utamanya langsung antara hamba dengan Rabb-nya. Ketika seseorang tetap mengeluarkannya, itu menunjukkan bahwa ia benar dalam keimanannya.
+
+## Hikmah pensyariatan الزكاة
+
+Salah satu hikmah utama disyariatkannya zakat adalah **مواساة الفقراء**, yaitu membantu dan meringankan keadaan orang-orang fakir. Harta diambil dari orang-orang yang memiliki kelapangan kemudian diberikan kepada mereka yang membutuhkan. Dengan begitu, zakat mewujudkan bentuk **التكافل** atau solidaritas di antara kaum muslimin.
+
+Hikmah berikutnya adalah **تطهير الأغنياء**. Orang kaya dibersihkan melalui zakat. Sebagaimana telah dijelaskan dalam makna bahasa, zakat berkaitan dengan **التطهير**, yaitu pembersihan dari dosa dan kemaksiatan serta penyucian diri.
+
+Jadi zakat memiliki dimensi sosial karena membantu orang miskin, sekaligus dimensi spiritual karena menyucikan orang yang menunaikannya.
+
+## موضوع الزكاة
+
+Ketika dalam suatu ilmu dibahas **موضوع العلم**, yang dimaksud adalah objek atau bidang yang menjadi pembahasan ilmu tersebut. Misalnya ilmu tauhid membahas perkara-perkara yang berkaitan dengan ذات الله عز وجل, sedangkan ilmu hadis membahas كلام النبي صلى الله عليه وسلم serta berbagai hal yang berhubungan dengan sanad, pemahaman, dan sebagainya.
+
+Adapun **موضوع الزكاة** adalah **الأموال النامية**, yaitu harta yang dapat berkembang dan bertambah.
+
+Dalam materi, harta-harta yang termasuk dalam pembahasan zakat tersebut diringkas menjadi tiga kelompok besar: **العين، والحرث، والماشية**.
+
+**العين** mencakup emas dan perak.
+
+**الحرث** mencakup hasil pertanian dan buah-buahan.
+
+**الماشية** mencakup **بهيمة الأنعام**, yaitu unta, sapi, dan kambing.
+
+Ketiga kelompok ini disebut harta yang **صالح للنماء**, yaitu memungkinkan bertambah dan berkembang. Emas dan perak dapat bertambah nilainya, tanaman dan buah-buahan tumbuh serta menghasilkan, sementara hewan ternak berkembang biak.
+
+## Hukum الزكاة dan kapan diwajibkan
+
+Zakat hukumnya **فرض** dan merupakan salah satu **ركن من أركان الإسلام**. Besarnya kedudukan zakat terlihat dari tindakan Abu بكر الصديق رضي الله عنه yang memerangi orang-orang yang menolak menunaikannya.
+
+Zakat diwajibkan di Madinah pada tahun kedua Hijrah. Dalam materi disebutkan bahwa ulama berbeda pendapat mengenai bulan tepatnya. Ada yang mengatakan رمضان tahun kedua Hijrah dan ada yang mengatakan شوال pada tahun tersebut.
+
+Penamaan zakat juga dikaitkan dengan kata **تزكية**. Allah تعالى berfirman:
+
+**﴿فَلَا تُزَكُّوا أَنْفُسَكُمْ﴾**
+
+Dalam penjelasan materi, **تزكية** di sini berarti memuji atau menyatakan kesucian diri. Seseorang yang menunaikan zakat disebut demikian karena zakat menjadi sebab ia memperoleh تزكية dari sisi Allah تعالى dan menjadi tanda kesehatan imannya. Di sisi lain, nama **الصدقة** menunjukkan **الصدق** orang yang mengeluarkannya.
+
+## Keutamaan menunaikan الزكاة
+
+Di antara keutamaan menunaikan zakat adalah adanya janji Allah تعالى berupa kedudukan tinggi di surga, termasuk **الفردوس**.
+
+Materi mengaitkannya dengan awal سورة المؤمنون:
+
+**﴿قَدْ أَفْلَحَ الْمُؤْمِنُونَ﴾**
+
+Kemudian disebutkan berbagai sifat orang-orang beriman hingga firman Allah تعالى:
+
+**﴿أُولَئِكَ هُمُ الْوَارِثُونَ ۝ الَّذِينَ يَرِثُونَ الْفِرْدَوْسَ﴾**
+
+Artinya, orang-orang yang memiliki sifat-sifat keimanan tersebut memperoleh janji yang tinggi, yaitu mewarisi الفردوس.
+
+Keutamaan berikutnya adalah bahwa seorang muslim melakukan perdagangan dengan Allah تعالى, yaitu perdagangan yang tidak mengalami kerugian. Allah تعالى berfirman:
+
+**﴿إِنَّ الَّذِينَ يَتْلُونَ كِتَابَ اللَّهِ وَأَقَامُوا الصَّلَاةَ وَأَنْفَقُوا مِمَّا رَزَقْنَاهُمْ سِرًّا وَعَلَانِيَةً يَرْجُونَ تِجَارَةً لَنْ تَبُورَ ۝ لِيُوَفِّيَهُمْ أُجُورَهُمْ وَيَزِيدَهُمْ مِنْ فَضْلِهِ إِنَّهُ غَفُورٌ شَكُورٌ﴾**
+
+Sedekah juga merupakan **برهان**, yakni bukti keimanan sebagaimana telah dijelaskan sebelumnya. Dalam materi diberikan gambaran bahwa di akhirat amal-amal seseorang dapat menjadi bukti atas keimanannya. Catatan amal yang memuat sedekah yang pernah ia keluarkan menjadi bukti tersebut.
+
+Selain itu, zakat disebut sebagai sebab untuk menjaga harta. Dalam materi dicantumkan sabda Nabi صلى الله عليه وسلم:
+
+**«حصنوا أموالكم بالزكاة»**
+
+Maksudnya, jagalah dan lindungilah harta kalian dengan zakat.
+
+## Siapa yang wajib mengeluarkan الزكاة?
+
+Pertama, الزكاة diwajibkan atas **المسلم**.
+
+Adapun orang kafir, apabila ia memberikan sedekah atau mengeluarkan hartanya, hal tersebut tidak dianggap sebagai pelaksanaan zakat Islam yang akan menggantikan kewajiban tersebut di akhirat.
+
+Untuk menjelaskan hal ini, materi menyebut pertanyaan عائشة رضي الله عنها kepada رسول الله صلى الله عليه وسلم mengenai عبد الله بن جدعان. Ia adalah orang yang banyak memberi makan dan mengeluarkan hartanya, tetapi ia berada dalam kekufuran. Ketika ditanyakan apakah perbuatannya bermanfaat baginya di akhirat, Nabi صلى الله عليه وسلم menjawab:
+
+**«لا، إنه لم يقل يومًا رب اغفر لي خطيئتي يوم الدين»**
+
+Kemudian dibahas syarat berikutnya, yaitu **البلوغ**. Anak kecil belum dibebani kewajiban-kewajiban syariat sebagaimana orang dewasa. Jika anak tersebut melakukan ibadah, ia tetap mendapatkan pahala, tetapi ibadah tersebut tidak menggantikan kewajiban setelah ia baligh.
+
+Contohnya adalah haji. Seorang perempuan mengangkat anak kecilnya kepada Nabi صلى الله عليه وسلم dan bertanya:
+
+**«ألهذا حج؟»**
+
+Beliau menjawab:
+
+**«نعم، ولك أجر»**
+
+Anak tersebut memperoleh pahala haji, dan ibunya juga memperoleh pahala, tetapi haji itu diposisikan sebagai ibadah sunnah bagi anak dan tidak menggugurkan kewajiban hajinya setelah mencapai baligh.
+
+Syarat lainnya adalah **الحرية**. Dalam penjelasan materi, seorang budak tidak dibebani zakat sebagaimana orang merdeka, karena apabila ia mempunyai harta sampai kadar tertentu, harta tersebut berkaitan dengan upayanya untuk membebaskan dirinya dari perbudakan.
+
+Syarat berikutnya adalah mencapai **النصاب**, yaitu batas minimal harta yang apabila telah dicapai maka zakat mulai wajib. Dalilnya adalah hadis:
+
+**«ليس فيما دون خمسة أوسق صدقة، ولا فيما دون خمس ذود صدقة، ولا فيما دون خمس أواق صدقة»**
+
+Selanjutnya adalah **حولان الحول**, yaitu berlalunya satu tahun pada harta yang memang disyaratkan demikian.
+
+Jika seseorang mempunyai harta yang telah mencapai nisab dan telah berjalan satu tahun, kemudian ia mempunyai utang yang harus dibayar sehingga setelah utang itu dikeluarkan hartanya turun di bawah nisab, maka menurut penjelasan yang diberikan dalam materi zakat tidak wajib atas jumlah yang tersisa tersebut.
+
+## Waktu wajib mengeluarkan الزكاة
+
+Dalam harta yang disyaratkan **حولان الحول**, zakat menjadi wajib setelah sempurnanya satu tahun.
+
+Adapun الزروع والثمار berbeda. Tidak perlu menunggu satu tahun. Zakatnya berkaitan dengan waktu panen, berdasarkan firman Allah تعالى:
+
+**﴿وَآتُوا حَقَّهُ يَوْمَ حَصَادِهِ﴾**
+
+Setelah penjelasan pendahuluan ini, masuklah pembahasan utama hadis pertama di bawah باب:
+
+**«ما تجب فيه الزكاة وكم مقدار ما يخرج»**
+
+Artinya, bab ini menjelaskan pada harta apa zakat diwajibkan dan berapa kadar yang harus dikeluarkan.
+
+# ترجمة راوي الحديث: أبو سعيد الخدري رضي الله عنه
+
+Sebelum membahas isi hadis, dosen terlebih dahulu membahas **ترجمة راوي الحديث**, karena mengenal perawi merupakan salah satu bagian penting dalam دراسة الحديث.
+
+Unsur-unsur **الترجمة** mencakup nama, nasab, julukan, kunyah, hal-hal yang menunjukkan keislamannya, keutamaan atau **مناقب**-nya dalam Islam, jumlah hadis yang diriwayatkannya, apakah ia termasuk **المكثرين** atau **المقلين**, siapa saja yang meriwayatkan darinya, serta kapan ia wafat.
+
+Perawi hadis ini adalah **أبو سعيد الخدري رضي الله عنه**. Nama lengkap yang disebut dalam materi adalah:
+
+**سعد بن مالك بن سنان بن ثعلبة بن عبيد بن الأبجر بن عوف بن الحارث بن الخزرج**
+
+Dosen menjelaskan bahwa mahasiswa tidak harus menghafal seluruh rangkaian nasab tersebut. Untuk memudahkan, cukup mengetahui beberapa bagian utamanya.
+
+Adapun **الخدري** adalah nisbah kepada **الخزرج**.
+
+Sedangkan **أبو سعيد** adalah **الكنية**-nya. Kunyah berbeda dengan **اللقب**. Kunyah bisa berupa penyebutan seseorang dengan nama anaknya atau bentuk lain, sedangkan لقب adalah nama yang seseorang dikenal dengannya sebagai bentuk pujian atau celaan.
+
+Abu سعيد الخدري terkenal dengan kunyahnya. Dalam riwayat hadis, orang lebih sering mengatakan **عن أبي سعيد الخدري** daripada menyebut nama lengkapnya. Dosen membandingkannya dengan Abu Hurairah رضي الله عنه yang juga sangat terkenal dengan kunyahnya, bahkan karena ketenarannya tersebut terjadi perbedaan riwayat mengenai nama aslinya.
+
+Di antara **مناقب** أبو سعيد الخدري adalah bahwa ia termasuk fuqaha Madinah. Ia pernah masih dianggap terlalu muda untuk ikut berperang. Ketika Rasulullah صلى الله عليه وسلم mengajak para sahabat untuk keluar menghadapi kaum musyrik, sejumlah sahabat muda datang, termasuk Abu سعيد الخدري dan عبد الله بن عمر رضي الله عنهما. Nabi صلى الله عليه وسلم melihat usia mereka dan menganggap mereka masih terlalu muda untuk peperangan.
+
+Ayah Abu سعيد, yaitu مالك, gugur dalam peperangan. Adapun perang pertama yang diikuti Abu سعيد bersama Rasulullah صلى الله عليه وسلم adalah غزوة الخندق. Setelah itu ia mengikuti peperangan-peperangan berikutnya. Dalam materi disebutkan bahwa ia mengikuti رسول الله صلى الله عليه وسلم dalam dua belas غزوة.
+
+Ia juga mengikuti **بيعة الرضوان**, yaitu baiat yang disebutkan dalam firman Allah تعالى:
+
+**﴿لَقَدْ رَضِيَ اللَّهُ عَنِ الْمُؤْمِنِينَ إِذْ يُبَايِعُونَكَ تَحْتَ الشَّجَرَةِ فَأَنْزَلَ السَّكِينَةَ عَلَيْهِمْ وَأَثَابَهُمْ فَتْحًا قَرِيبًا﴾**
+
+Abu سعيد الخدري juga termasuk sahabat yang dikenal sebagai **فقهاء المجتهدين**.
+
+Dosen lalu menjelaskan bahwa para sahabat yang dikenal sangat kuat dalam ilmu fikih banyak yang juga termasuk orang-orang yang banyak meriwayatkan hadis. **المكثرون** dalam periwayatan hadis dijelaskan sebagai orang-orang yang jumlah riwayatnya melampaui seribu hadis. Jumlah mereka relatif sedikit dibandingkan keseluruhan sahabat.
+
+Cukup banyak ulama memberikan perhatian pada fatwa sahabat. Bahkan sebagian ulama menghubungkan perkataan sahabat dengan hadis marfu‘, karena sahabat ketika memberikan fatwa atau berbicara mengenai suatu persoalan tidak selalu berbicara hanya berdasarkan pemikiran pribadi; bisa jadi hal tersebut berasal dari apa yang mereka dengar dan pahami dari Rasulullah صلى الله عليه وسلم.
+
+Jumlah hadis yang disebut dalam materi untuk Abu سعيد الخدري adalah **1170 hadis**.
+
+Kemudian disebutkan bahwa terdapat **43 hadis** yang diriwayatkan bersama oleh الإمام البخاري dan الإمام مسلم, sementara البخاري meriwayatkan secara tersendiri **16 hadis** dan مسلم secara tersendiri **52 hadis**. Dalam materi sendiri terdapat kekacauan pada penggabungan angka-angka tersebut, sehingga angka-angka itu dipertahankan sebagaimana disebutkan dalam penjelasan tanpa memperbaikinya dari luar materi.
+
+Untuk soal ujian, pertanyaan **«ترجم لراوي الحديث»** berarti mahasiswa diminta menerjemahkan atau menjelaskan biografi perawi hadis, yaitu perawi tertinggi dalam sanad yang biasanya adalah الصحابي.
+
+Soal tentang perawi juga dapat muncul dalam bentuk pilihan ganda atau benar-salah, misalnya jumlah hadis, usia atau tahun wafat, dan informasi lain mengenai perawi.
+
+# حديث أبي سعيد الخدري رضي الله عنه
+
+Hadis yang menjadi dasar pembahasan adalah:
+
+**«ليس فيما دون خمسة أوسق صدقة، ولا فيما دون خمس ذود صدقة، ولا فيما دون خمس أواق صدقة»**
+
+Hadis ini diletakkan dalam باب **«ما تجب فيه الزكاة وكم مقدار ما يخرج»**.
+
+Hadis tersebut mencakup tiga kelompok besar harta zakat.
+
+Pertama, **الزروع والثمار**, yang ditunjukkan dengan **خمسة أوسق**.
+
+Kedua, **بهيمة الأنعام**, khususnya الإبل, yang ditunjukkan dengan **خمس ذود**.
+
+Ketiga, **الذهب والفضة** atau النقدين, yang ditunjukkan dengan **خمس أواق** sebagaimana penjelasan materi.
+
+## Makna umum hadis
+
+Makna umum hadis adalah bahwa Allah تعالى menetapkan batas dan nisab tertentu bagi zakat. Apabila harta telah mencapai nisab tersebut, zakat menjadi wajib. Apabila belum mencapai nisab, maka zakat tidak wajib.
+
+Dosen menekankan hubungan hadis ini dengan fungsi السنة النبوية terhadap القرآن الكريم. Al-Qur'an telah memerintahkan zakat, misalnya:
+
+**﴿وَآتُوا الزَّكَاةَ﴾**
+
+Akan tetapi, rincian mengenai jenis harta yang terkena zakat, berapa nisab setiap jenis, dan berapa kadar yang harus dikeluarkan dijelaskan oleh السنة النبوية.
+
+Dengan demikian, السنة **تفصل ما أجمل في القرآن**: menjelaskan secara rinci perkara yang disebutkan secara global dalam Al-Qur'an.
+
+Zakat pada akhirnya merupakan **حق معلوم** yang diambil dari orang kaya dan dikembalikan kepada orang fakir dan pihak yang berhak, sehingga terwujud **التكافل بين المسلمين**.
+
+Pengulangan ungkapan Nabi صلى الله عليه وسلم:
+
+**«ليس فيما دون...»**
+
+menunjukkan bahwa jumlah yang berada di bawah batas tersebut tidak terkena zakat.
+
+# زكاة الزروع والثمار
+
+Bagian pertama hadis berbunyi:
+
+**«ليس فيما دون خمسة أوسق صدقة»**
+
+### Makna الوسق
+
+**الوسق** adalah satuan takaran, sedangkan bentuk jamaknya adalah **أوسق**.
+
+Satu وسق = **60 صاع**.
+
+Dalam materi dijelaskan bahwa satu صاع dihitung sekitar **2 كيلو و175 جرامًا**, berdasarkan gambaran bahwa الصاع adalah empat genggaman dengan kedua tangan pada ukuran tangan yang sedang.
+
+Lima أوسق berarti:
+
+5 × 60 صاع = **300 صاع**.
+
+Dengan ukuran 2 kilo 175 gram per صاع, maka lima أوسق kurang lebih menjadi sekitar **652 atau 653 kilogram**, sesuai pembulatan yang digunakan dalam penjelasan.
+
+Jadi, apabila hasil pertanian telah mencapai kadar tersebut, zakat berlaku. Apabila belum mencapai kadar tersebut, pada prinsip yang diterangkan oleh hadis zakat belum wajib.
+
+Namun muncul persoalan: bagaimana apabila nisab kurang sedikit saja? Apakah zakat tetap wajib atau gugur? Ini merupakan persoalan **خلافية** yang dibahas kemudian.
+
+### Jenis hasil pertanian yang terkena zakat
+
+Jumhur ulama membatasi zakat hasil pertanian kepada jenis tertentu, terutama sesuatu yang menjadi **قوتًا**, dapat ditakar, dan dapat disimpan. Dalam materi disebutkan beberapa contoh seperti gandum, الشعير, beras, dan jenis lain yang dapat menjadi bahan makanan pokok serta disimpan.
+
+Adapun **الحنفية** mewajibkan zakat pada setiap sesuatu yang keluar dari bumi.
+
+Untuk sayur dan buah tertentu seperti tomat, mentimun, dan jeruk, dalam materi dijelaskan adanya pendapat bahwa tidak ada zakat atasnya apabila tidak diniatkan sebagai barang dagangan. Jika seseorang menanamnya untuk konsumsi atau pemanfaatan biasa, tidak terkena zakat berdasarkan pendapat tersebut.
+
+Akan tetapi, jika sejak awal dimaksudkan untuk diperjualbelikan, maka masuk dalam pembahasan **عروض التجارة**. Apabila mencapai nisabnya, zakat dikeluarkan sebagai zakat perdagangan.
+
+### Syarat zakat الزروع والثمار
+
+Selain syarat-syarat umum seperti Islam dan syarat-syarat lain yang telah dibahas sebelumnya, terdapat syarat yang terkait khusus dengan الزروع والثمار.
+
+Pertama, harus mencapai **النصاب**, yaitu lima أوسق atau sekitar 652–653 kilogram sesuai ukuran yang dipakai dalam materi.
+
+Kedua, hasil tersebut harus termasuk jenis yang terkena zakat sesuai perincian pendapat ulama yang telah disebutkan.
+
+Ketiga, zakatnya tidak menunggu satu tahun. Zakat الزروع والثمار diberikan ketika panen, berdasarkan:
+
+**﴿وَآتُوا حَقَّهُ يَوْمَ حَصَادِهِ﴾**
+
+### Kadar zakat الزروع والثمار
+
+Kadar zakat ditentukan berdasarkan cara memperoleh air untuk pertanian.
+
+Jika tanaman disiram menggunakan **ماء السماء**, yaitu air hujan, tanpa beban pengairan yang besar dari pihak pemilik, maka kadar zakatnya adalah **العشر**, yaitu sepersepuluh.
+
+Jika tanaman disiram dengan alat dan pemiliknya mengeluarkan tenaga serta biaya untuk mendapatkan air, maka kadar zakatnya adalah **نصف العشر**, yaitu setengah dari sepersepuluh.
+
+Jadi perbedaan kadar tersebut dikaitkan dengan adanya beban dan usaha dalam pengairan.
+
+# زكاة بهيمة الأنعام
+
+Bagian kedua hadis adalah:
+
+**«ولا فيما دون خمس ذود صدقة»**
+
+**بهيمة الأنعام** yang dibahas adalah:
+
+**الإبل والبقر والغنم**
+
+Masing-masing mempunyai nisab dan kadar zakat yang berbeda.
+
+## Zakat sapi
+
+Nisab sapi dijelaskan melalui hadis:
+
+**«ليس فيما دون الثلاثين من البقر صدقة»**
+
+Dosen juga menyebut hadis pengutusan معاذ بن جبل رضي الله عنه ke Yaman. Nabi صلى الله عليه وسلم mengajarinya bahwa ada sedekah yang diambil dari orang-orang kaya dan dikembalikan kepada orang-orang miskin mereka, kemudian beliau menjelaskan batas-batas zakat tersebut.
+
+Jika sapi mencapai **30 ekor**, maka zakatnya adalah **تبيع** atau **تبيعة**.
+
+**التبيع** adalah sapi yang telah berumur satu tahun. Ia dinamakan تبيع karena mengikuti.
+
+Jika sapi mencapai **40 ekor**, maka zakatnya adalah **مسنة**.
+
+**المسنة** adalah hewan yang telah berumur dua tahun, dan disebut مسنة karena gigi-giginya telah sempurna menurut penjelasan yang diberikan.
+
+## Zakat unta
+
+Bagian الحديث yang terkait dengan unta adalah:
+
+**«ليس فيما دون خمس ذود صدقة»**
+
+**الذود** berasal dari جنس الإبل.
+
+Dosen menjelaskan adanya perbedaan mengenai apa yang dimaksud dengan ذود dari sisi jumlah. Disebutkan bahwa kebanyakan ulama menggunakannya untuk الإبل الإناث, dan jumlahnya dijelaskan dengan beberapa pendapat. Ada yang mengatakan dari dua sampai sembilan, dan ada yang mengatakan dari tiga sampai sepuluh.
+
+Jika jumlah unta kurang dari lima, tidak ada zakat.
+
+Jika mencapai lima, zakatnya adalah satu شاة. Setiap tambahan lima ekor berikutnya menambah satu شاة.
+
+Dengan demikian:
+
+Pada 5 ekor, satu شاة.
+
+Pada 10 ekor, dua شياه.
+
+Pada 15 ekor, tiga شياه.
+
+Pada 20 ekor, empat شياه.
+
+Kemudian ketika mencapai **25 ekor**, kadar zakat beralih dari kambing kepada unta itu sendiri.
+
+Dari **25 sampai 35**: satu **بنت مخاض**, yaitu unta betina yang telah genap satu tahun dan masuk tahun kedua.
+
+Dari **36 sampai 45**: satu **بنت لبون**, yaitu yang telah genap dua tahun dan masuk tahun ketiga.
+
+Dari **46 sampai 60**: satu **حقة**, yaitu yang telah genap tiga tahun dan masuk tahun keempat.
+
+Dari **61 sampai 75**: satu **جذعة**, yaitu yang telah genap empat tahun dan masuk tahun kelima.
+
+Dalam bentuk kaidah umum yang disebutkan di akhir pembahasan: setiap **40** ekor unta terdapat **بنت لبون**, dan setiap **50** ekor terdapat **حقة**.
+
+## Zakat kambing
+
+Nisab kambing adalah **40** ekor.
+
+Jika kurang dari 40, tidak ada zakat.
+
+Dari **40 sampai 120**, zakatnya satu شاة, dan dalam materi disebutkan usia minimalnya satu tahun.
+
+Dari **121 sampai 200**, zakatnya dua شاتين.
+
+Setelah itu, setiap 100 ekor kambing terkena satu شاة.
+
+# Syarat الزكاة pada hewan ternak
+
+Selain syarat-syarat umum, ada beberapa syarat khusus untuk **بهيمة الأنعام**.
+
+Pertama, mencapai **النصاب**. Nisabnya adalah lima ekor unta, tiga puluh ekor sapi, dan empat puluh ekor kambing.
+
+Kedua, **حولان الحول**, yaitu berlalu satu tahun Hijriah atas kepemilikan hewan tersebut.
+
+Ketiga, hewan itu harus **سائمة**.
+
+**السائمة** adalah hewan yang memperoleh makanan dari rerumputan atau tumbuhan di tanah, sehingga pemiliknya tidak menanggung beban besar untuk memberi makan dan minumnya.
+
+Sebaliknya, hewan yang tidak bersifat سائمة, yaitu hewan yang pemiliknya harus secara rutin menanggung pakan dan memberi makan dengan biaya serta usaha sendiri, dalam penjelasan materi tidak dikenai zakat atas dasar pendapat yang sedang dijelaskan.
+
+Keempat, hewan itu harus **غير عاملة**, yaitu bukan hewan pekerja yang digunakan untuk kepentingan seperti membajak, pertanian, pengangkutan, dan pekerjaan lainnya.
+
+Ini adalah pendapat **جمهور العلماء**: zakat berlaku pada hewan yang سائمة dan غير عاملة.
+
+Adapun **المالكية** tidak membedakan seperti jumhur dalam masalah ini; mereka mengatakan zakat berlaku pada hewan السائمة maupun العاملة.
+
+# زكاة الذهب والفضة
+
+Bagian ketiga hadis berbunyi:
+
+**«ولا فيما دون خمس أواق صدقة»**
+
+**الأوقية** adalah satuan yang dalam materi dikaitkan dengan الفضة. Satu أوقية sama dengan **40 درهمًا**.
+
+Karena lima أوقية berarti:
+
+5 × 40 = **200 درهمًا**.
+
+Dalam perhitungan yang dipakai dalam materi, satu درهم = sekitar **3 gram dan 12 bagian**, sehingga 200 dirham menjadi sekitar **624 gram**.
+
+Dalam bagian lain disebutkan adanya angka lain, yaitu sekitar **595 gram**, tetapi angka yang digunakan dosen dalam penjelasan utama adalah **624 gram**. Perbedaan angka ini dipertahankan sebagaimana disebutkan dalam materi.
+
+Kadar zakat emas dan perak yang disebutkan adalah **ربع العشر**, yaitu **2,5%**.
+
+Untuk الذهب, nisabnya disebut **20 مثقال** atau **20 دينار**. Dalam penjelasan, satu مثقال diperkirakan sekitar 4 gram lebih sedikit atau sekitar 4,25 gram, sehingga 20 مثقال dihitung kurang lebih **85 gram** emas. Pada bagian akhir materi angka yang digunakan adalah sekitar **85 gram emas kadar 21**.
+
+Dengan demikian, apabila emas telah mencapai nisab, zakatnya adalah **ربع العشر**.
+
+# Syarat zakat الذهب والفضة dan masalah perhiasan
+
+Syarat utama yang disebutkan adalah mencapai nisab dan **حولان الحول**.
+
+Kemudian dibahas masalah **حلي المرأة**, yaitu perhiasan emas atau perak yang digunakan perempuan.
+
+Dalam materi disebutkan pendapat **الإمام مالك والإمام الشافعي والإمام أحمد بن حنبل** bahwa jika harta tersebut memang dipersiapkan untuk perhiasan dan penggunaan, maka tidak ada zakat pada kondisi tersebut. Namun jika diperuntukkan untuk perdagangan atau bentuk penggunaan yang menjadikannya masuk ke tujuan komersial, maka zakat berlaku menurut perincian yang diberikan.
+
+Sementara itu, **الحنفية** mewajibkan zakat pada perhiasan tersebut sebagaimana dijelaskan dalam materi.
+
+# عروض التجارة
+
+Selain jenis-jenis harta yang disebutkan secara eksplisit dalam hadis, dosen memperkenalkan pembahasan **عروض التجارة**, yaitu barang-barang dan komoditas yang dipakai untuk berdagang.
+
+Cara menghitungnya dimulai dengan menentukan kapan **حولان الحول** atas harta perdagangan tersebut selesai.
+
+Setelah satu tahun sempurna, barang dagangan tersebut dilakukan **تقويم**, yaitu dihitung berapa nilai keseluruhannya.
+
+Apabila pemilik mempunyai piutang pada orang lain, harta tersebut dimasukkan ke dalam perhitungan.
+
+Apabila ia mempunyai utang, utang tersebut dikurangkan.
+
+Setelah itu dilihat apakah jumlah yang tersisa mencapai nisab atau tidak. Jika mencapai nisab, zakat wajib dikeluarkan.
+
+# Penjelasan beberapa istilah dalam hadis
+
+## الأواقي
+
+**الأواقي** adalah bentuk jamak dari **أوقية**. Dalam penjelasan materi, satu أوقية sama dengan 40 dirham.
+
+## الدرهم
+
+Pembahasan juga menyentuh ukuran dirham dan jenis-jenis dirham pada masa terdahulu.
+
+Disebutkan istilah **درهم الكيل**, dan dalam materi ukuran yang disebut adalah 50 حبة untuk timbangannya.
+
+Sebelum masa standardisasi, telah terdapat berbagai macam dirham. Sebagian mempunyai bentuk atau ukiran yang berasal dari sistem Persia dan sebagian lagi dari Romawi.
+
+Disebutkan pula **البغلية**, yang satu dirhamnya dinyatakan bernilai delapan دوانق, dan **الطبرية** atau **العطف**, yang satu dirhamnya dinyatakan bernilai empat دوانق.
+
+Jenis-jenis dirham tersebut telah ada sejak zaman Nabi صلى الله عليه وسلم dan berlanjut sampai masa عبد الملك بن مروان. Kemudian عبد الملك بن مروان membuat dirham baru yang diberi ciri dan tulisan Islam, sehingga berbeda dari bentuk-bentuk dirham Persia dan Romawi sebelumnya.
+
+## الوسق
+
+**الوسق** adalah bentuk mufrad dari أوسق.
+
+Secara bahasa, dalam materi dijelaskan bahwa makna الوسق adalah **ضم الشيء إلى الشيء**, yaitu menggabungkan atau menghimpun sesuatu dengan sesuatu yang lain.
+
+Dalil yang disebut adalah firman Allah تعالى:
+
+**﴿وَاللَّيْلِ وَمَا وَسَقَ﴾**
+
+yang dijelaskan dengan makna: apa yang dikumpulkan dan dihimpun.
+
+Dari makna tersebut juga digunakan bentuk-bentuk seperti **وسقت** untuk sesuatu yang berkumpul, dan **استوسقت** untuk sesuatu yang menjadi berkumpul atau menyatu.
+
+# Masalah apabila nisab berkurang sedikit
+
+Salah satu permasalahan yang dibahas adalah: apabila nisab zakat telah ditentukan dengan ukuran tertentu, lalu harta tersebut turun sedikit di bawah nisab, apakah zakat tetap wajib?
+
+Ini adalah masalah **خلافية**.
+
+Menurut **الإمام أبي حنيفة**, apabila harta turun di bawah nisab, zakat tidak lagi wajib. Jadi berkurangnya nisab, walaupun sedikit, berpengaruh terhadap kewajiban.
+
+Sedangkan **الإمام مالك** memberikan rincian bahwa apabila kekurangan tersebut sangat sedikit, zakat tidak gugur.
+
+Setelah itu para ulama المالكية sendiri berbeda dalam menentukan apa yang dimaksud dengan «قليل» atau «يسير».
+
+Sebagian menjelaskannya sebagai sesuatu yang **لا يتشاح فيه الناس**, yaitu kekurangan yang sangat kecil sehingga tidak menjadi sesuatu yang biasanya dipermasalahkan atau diperebutkan.
+
+Pendapat lain menafsirkannya sebagai selisih yang terjadi karena perbedaan alat timbang. Misalnya terdapat perbedaan satu gram atau kadar kecil lain akibat perbedaan ketelitian timbangan.
+
+Jadi, pokok perbedaannya bukan pada penetapan bahwa nisab memiliki ukuran tertentu, melainkan pada apakah kekurangan yang sangat sedikit dari ukuran tersebut menyebabkan kewajiban zakat gugur atau tidak.
+
+# Apakah emas dan perak digabung untuk menyempurnakan nisab?
+
+Dibahas pula masalah seseorang yang memiliki emas tetapi belum mencapai nisab dan memiliki perak yang juga belum mencapai nisab. Jika keduanya digabung, keseluruhannya mencapai nisab.
+
+Apakah kedua harta tersebut dapat digabungkan?
+
+Ini juga merupakan **مسألة خلافية**.
+
+Sebagian ulama membolehkan **ضم الذهب إلى الفضة**, yaitu menggabungkan dua jenis tersebut dalam perhitungan, sehingga apabila keseluruhannya mencapai nisab maka zakat dikeluarkan.
+
+Sebagian yang lain tidak membolehkan penggabungan. Menurut pendekatan ini, emas dan perak masing-masing dipandang sebagai jenis yang berdiri sendiri sehingga masing-masing harus dilihat apakah telah mencapai nisab atau belum.
+
+Karena itu, dalam pembahasan ditegaskan bahwa setiap jenis harta pada dasarnya memiliki nisabnya sendiri, meskipun terdapat perbedaan pendapat mengenai kemungkinan menggabungkan emas dan perak.
+
+# Apa yang dapat diambil dari hadis?
+
+Salah satu cara menjawab soal **ما يستفاد من الحديث** adalah menyebutkan sesuatu yang benar-benar keluar dari kandungan hadis, bukan sekadar memasukkan informasi yang jauh dari isi hadis.
+
+Di antara hal terpenting yang dapat diambil adalah bahwa hadis menjelaskan jenis-jenis harta yang terkena zakat dan menjelaskan kadar nisabnya.
+
+Hadis juga menunjukkan peran **السنة النبوية** dalam menjelaskan Al-Qur'an. Al-Qur'an datang dengan perintah zakat secara global, sedangkan السنة memberikan rincian mengenai jenis harta, nisab, dan kadar yang harus dikeluarkan.
+
+Karena itu, hadis ini menjadi salah satu bukti bahwa السنة **تفصل ما أجمل في القرآن**، وتقيد وتبين وتوضح.
+
+Dari sini juga dibahas bantahan terhadap gagasan bahwa seseorang dapat mencukupkan diri dengan Al-Qur'an tanpa membutuhkan السنة.
+
+Jika seseorang mengatakan bahwa ia hanya membutuhkan Al-Qur'an, bagaimana ia akan mengetahui jenis-jenis harta yang wajib dizakati, berapa nisab masing-masing, dan berapa jumlah yang harus dikeluarkan? Perintah zakat memang ada dalam Al-Qur'an, seperti:
+
+**﴿وَآتُوا الزَّكَاةَ﴾**
+
+tetapi rincian teknisnya dijelaskan oleh Nabi صلى الله عليه وسلم.
+
+Hal serupa berlaku pada الصلاة. Al-Qur'an memerintahkan:
+
+**﴿أَقِيمُوا الصَّلَاةَ﴾**
+
+tetapi jumlah salat dalam sehari, jumlah rakaat setiap salat, serta berbagai rincian pelaksanaannya dijelaskan melalui السنة.
+
+Karena itu, menurut penjelasan dosen, orang yang mengaku cukup dengan Al-Qur'an saja tidak akan mendapatkan rincian praktis bagaimana melaksanakan banyak kewajiban agama, termasuk zakat.
+
+Di antara manfaat hadis lainnya adalah apa yang disebut sebagai ijma' tentang adanya syarat **حولان الحول** pada الماشية dan النقدين, sedangkan **المعشرات**, yaitu الزروع والثمار, tidak menunggu satu tahun dan zakatnya berkaitan dengan waktu panen.
+
+Hadis juga menjelaskan nisab-nisab yang telah ditetapkan untuk berbagai macam harta.
+
+Dari pengulangan:
+
+**«ليس فيما دون...»**
+
+dapat diambil kaidah:
+
+**«لا زكاة في شيء لا يبلغ النصاب»**
+
+yaitu tidak ada zakat pada sesuatu yang belum mencapai nisab.
+
+# Catatan akhir pembahasan
+
+Di akhir pelajaran, dosen mengulang kembali seluruh tema yang telah dibahas. Pelajaran dimulai dari definisi الزكاة secara bahasa, yaitu **النماء والتطهير**, lalu pengertian secara syariat.
+
+Kemudian dijelaskan alasan mengapa dinamakan الزكاة, mengapa juga disebut **الصدقة**, dan hubungan keduanya dengan makna **الصدق** serta hadis:
+
+**«والصدقة برهان»**
+
+Setelah itu dibahas kapan zakat diwajibkan, yaitu di Madinah pada tahun kedua Hijrah, dengan adanya perbedaan pendapat mengenai bulan pastinya.
+
+Berikutnya dijelaskan keutamaan zakat, seperti janji الفردوس, perdagangan dengan Allah تعالى, keberadaan الصدقة sebagai برهان, dan fungsi zakat sebagai sarana untuk menjaga harta.
+
+Kemudian dibahas siapa yang wajib zakat, termasuk المسلم، البالغ، الحر، dan syarat-syarat lainnya, lalu waktu pengeluarannya. Untuk sebagian harta berlaku **حولان الحول**, sedangkan الزروع والثمار dibayarkan saat panen berdasarkan:
+
+**﴿وَآتُوا حَقَّهُ يَوْمَ حَصَادِهِ﴾**
+
+Setelah itu masuk pada ترجمة أبي سعيد الخدري رضي الله عنه: nama, nasab, kunyah, nisbah, keutamaan, keikutsertaannya dalam berbagai peperangan, بيعة الرضوان, kedudukannya sebagai salah seorang fuqaha sahabat, serta jumlah hadis yang disebut dalam materi.
+
+Kemudian dibahas hadis:
+
+**«ليس فيما دون خمسة أوسق صدقة، ولا فيما دون خمس ذود صدقة، ولا فيما دون خمس أواق صدقة»**
+
+Hadis ini dijelaskan sebagai hadis yang mencakup tiga bagian besar: الزروع والثمار، وبهيمة الأنعام، والذهب والفضة.
+
+Pada الزروع والثمار dijelaskan **الوسق**، **الصاع**، nisab sekitar 652–653 kilogram, perbedaan pendapat mengenai jenis hasil pertanian yang terkena zakat, serta perbedaan kadar antara **العشر** dan **نصف العشر** berdasarkan cara pengairan.
+
+Pada بهيمة الأنعام dijelaskan nisab dan kadar zakat untuk البقر والإبل والغنم serta syarat-syarat khusus seperti **السوم** dan **العمل**, dengan perbedaan antara jumhur dan المالكية mengenai hewan yang bekerja.
+
+Pada الذهب والفضة dijelaskan **الأوقية**، **الدرهم**، nisab perak yang dalam materi dipakai angka 624 gram, angka lain yang disebut sekitar 595 gram, serta nisab emas sekitar 85 gram berdasarkan perhitungan yang diberikan dalam pelajaran, dengan zakat sebesar **ربع العشر**.
+
+Kemudian dibahas pula **حلي المرأة**, عروض التجارة, sejarah beberapa bentuk الدراهم, makna الوسق dalam bahasa, masalah kekurangan nisab sedikit, dan masalah menggabungkan emas dan perak dalam menyempurnakan nisab.
+
+Di akhir, dosen mengingatkan mahasiswa agar memperhatikan **هامش الكتاب**, karena banyak rincian, arti kata, dan sebagian pendapat ulama mengenai hadis terdapat di bagian catatan kaki buku dan dapat termasuk dalam materi yang harus dipelajari.
+
+Pada penjelasan terakhir, dosen kembali menekankan bahwa nisab emas yang digunakan dalam pembelajaran adalah sekitar 85 gram emas kadar 21, sedangkan nisab perak yang digunakan adalah 624 gram, dan mahasiswa jangan mencampur satuan **الدرهم** untuk perak dengan **الدينار** atau **المثقال** untuk emas.
+
+Pembahasan kemudian ditutup dengan:
+
+**«سبحانك اللهم وبحمدك، لا إله إلا أنت»**

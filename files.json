@@ -35,6 +35,11 @@
               "name": "1.txt",
               "type": "file",
               "path": "texts/LITERAL MUHADOROH/FALSAFAH AMMAH/1.txt"
+            },
+            {
+              "name": "2.txt",
+              "type": "file",
+              "path": "texts/LITERAL MUHADOROH/FALSAFAH AMMAH/2.txt"
             }
           ]
         },
@@ -62,13 +67,24 @@
               "name": "1.txt",
               "type": "file",
               "path": "texts/LITERAL MUHADOROH/HADITS TAHLILI/1.txt"
+            },
+            {
+              "name": "2.txt",
+              "type": "file",
+              "path": "texts/LITERAL MUHADOROH/HADITS TAHLILI/2.txt"
             }
           ]
         },
         {
           "name": "KHITOBAH",
           "type": "folder",
-          "children": []
+          "children": [
+            {
+              "name": "1.txt",
+              "type": "file",
+              "path": "texts/LITERAL MUHADOROH/KHITOBAH/1.txt"
+            }
+          ]
         },
         {
           "name": "MANTIQ",
@@ -199,6 +215,11 @@
               "name": "1.txt",
               "type": "file",
               "path": "texts/PELAJARAN/FALSAFAH AMMAH/1.txt"
+            },
+            {
+              "name": "2.txt",
+              "type": "file",
+              "path": "texts/PELAJARAN/FALSAFAH AMMAH/2.txt"
             }
           ]
         },
@@ -226,13 +247,24 @@
               "name": "1.txt",
               "type": "file",
               "path": "texts/PELAJARAN/hadits tahlili/1.txt"
+            },
+            {
+              "name": "2.txt",
+              "type": "file",
+              "path": "texts/PELAJARAN/hadits tahlili/2.txt"
             }
           ]
         },
         {
           "name": "KHITOBAH",
           "type": "folder",
-          "children": []
+          "children": [
+            {
+              "name": "1.txt",
+              "type": "file",
+              "path": "texts/PELAJARAN/KHITOBAH/1.txt"
+            }
+          ]
         },
         {
           "name": "maantiq",
