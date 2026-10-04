@@ -83,6 +83,11 @@
               "name": "1.txt",
               "type": "file",
               "path": "texts/LITERAL MUHADOROH/KHITOBAH/1.txt"
+            },
+            {
+              "name": "2.txt",
+              "type": "file",
+              "path": "texts/LITERAL MUHADOROH/KHITOBAH/2.txt"
             }
           ]
         },
@@ -114,6 +119,11 @@
               "name": "5.txt",
               "type": "file",
               "path": "texts/LITERAL MUHADOROH/MANTIQ/5.txt"
+            },
+            {
+              "name": "6.txt",
+              "type": "file",
+              "path": "texts/LITERAL MUHADOROH/MANTIQ/6.txt"
             }
           ]
         },
@@ -167,6 +177,11 @@
               "name": "1.txt",
               "type": "file",
               "path": "texts/LITERAL MUHADOROH/TAUHID/1.txt"
+            },
+            {
+              "name": "2.txt",
+              "type": "file",
+              "path": "texts/LITERAL MUHADOROH/TAUHID/2.txt"
             }
           ]
         },
@@ -263,6 +278,11 @@
               "name": "1.txt",
               "type": "file",
               "path": "texts/PELAJARAN/KHITOBAH/1.txt"
+            },
+            {
+              "name": "2.txt",
+              "type": "file",
+              "path": "texts/PELAJARAN/KHITOBAH/2.txt"
             }
           ]
         },
@@ -294,6 +314,11 @@
               "name": "5.txt",
               "type": "file",
               "path": "texts/PELAJARAN/maantiq/5.txt"
+            },
+            {
+              "name": "6.txt",
+              "type": "file",
+              "path": "texts/PELAJARAN/maantiq/6.txt"
             }
           ]
         },
@@ -347,6 +372,11 @@
               "name": "1.txt",
               "type": "file",
               "path": "texts/PELAJARAN/tauhid/1.txt"
+            },
+            {
+              "name": "2.txt",
+              "type": "file",
+              "path": "texts/PELAJARAN/tauhid/2.txt"
             }
           ]
         },

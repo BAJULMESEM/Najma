@@ -1,0 +1,1057 @@
+# القضية الحملية: تقسيمها باعتبار وجود أفراد الموضوع، والعدول والتحصيل، ثم الاستغراق
+
+## Konteks pembahasan
+
+Pembahasan ini melanjutkan pelajaran tentang **أقسام القضايا** dalam علم المنطق, khususnya **القضية الحملية**. Pada pertemuan sebelumnya telah dibahas pembagian القضية الحملية dengan mempertimbangkan **أفراد الموضوع**, sehingga disebutkan beberapa macam seperti **الشخصية، المهملة، الطبيعية، والمحـصورة**.
+
+القضية الشخصية adalah قضـية yang موضوع-nya bersifat جزئي atau tertentu secara jelas, sehingga disebut شخصية karena موضوع-nya **متشخص**. Ia juga disebut **مخصوصة** karena digunakan pada قضية yang موضوع-nya menunjuk pada suatu الذات tertentu. Adapun القضية الطبيعية adalah قضية yang موضوع-nya berupa **الطبيعة الكلية** dan hukum tidak diarahkan kepada افراد الطبيعة, melainkan kepada الطبيعة itu sendiri. Contohnya:
+
+**الإنسان نوع الحيوان**
+
+dan
+
+**الحيوان جنس**
+
+Dalam contoh seperti ini, الحكم tidak diarahkan kepada individu-individu الإنسان seperti زيد، عمرو، محمد dan seterusnya, tetapi kepada مفهوم atau طبيعة الإنسان itu sendiri.
+
+Jika الموضوع bersifat کلی dan الحكم diarahkan kepada individu-individunya, maka kita memasuki pembahasan **القضية المحصورة**. المحصورات الأربع adalah:
+
+**الكلية الموجبة، والكلية السالبة، والجزئية الموجبة، والجزئية السالبة.**
+
+الكلية الموجبة dapat ditandai dengan kata-kata seperti **كل، جميع، كافة، عامة**.
+
+الكلية السالبة ditandai dengan ungkapan seperti **لا شيء، لا واحد، لا فرد** dan bentuk lain yang menunjukkan penafian secara menyeluruh. Dosen mengingatkan kaidah:
+
+**كل نكرة سبقت بنفي، أو كل نكرة وقعت في سياق النفي، تعم.**
+
+Adapun الجزئية الموجبة menggunakan kata-kata seperti **بعض، جزء، معظم، قليل، من كثير من** dan semisalnya.
+
+Sedangkan الجزئية السالبة menggunakan bentuk seperti **ليس بعض، ليس كل** dan bentuk penafian yang menunjukkan sebagian.
+
+Adapun apabila **البيان** tentang jumlah individu tidak disebutkan, maka قضية tersebut disebut **مهملة**, dan المهملة berada dalam kekuatan الجزئية atau **في قوة الجزئية**.
+
+Setelah mengingat pembagian sebelumnya tersebut, pembahasan kali ini berpindah kepada dua تقسيم جديد للقضية الحملية. Pertama, القضية dilihat dari segi apakah **أفراد الموضوع** موجودة atau tidak. Kedua, القضية dilihat dari segi **العدول والتحصيل**. Setelah dua pembagian tersebut selesai, masih ada beberapa تنبيهات penting yang menjadi penutup pembahasan القضية الحملية, di antaranya tentang **الاستغراق**.
+
+# أولًا: تقسيم القضية الحملية باعتبار وجود أفراد الموضوع
+
+Pembagian pertama pada pertemuan ini adalah:
+
+**تقسيم القضية الحملية باعتبار وجود أفراد الموضوع في الخارج أو لا.**
+
+Maksudnya, ketika kita mempunyai قضية حملية, kita bertanya: apakah individu-individu yang menjadi موضوع الحكم itu benar-benar ada di luar, hanya diperkirakan akan ada, atau hanya ada dalam pikiran?
+
+Dasar pembahasannya berasal dari prinsip:
+
+**لا يحكم على شيء معدوم**
+
+Artinya, kita tidak memberikan hukum kepada sesuatu yang sama sekali tidak mempunyai cara keberadaan yang memungkinkan ia menjadi موضوع الحكم.
+
+Dalam القضية الحملية, kita mempunyai **محكوم عليه** dan **محكوم به**. Jika kita menetapkan المحمول atas الموضوع, maka موضوع yang menjadi **محكوم عليه** harus mempunyai bentuk keberadaan tertentu.
+
+Keberadaannya dapat berupa keberadaan nyata di luar, keberadaan yang diperkirakan atau dimungkinkan, ataupun keberadaan di dalam الذهن.
+
+Dari sini muncul tiga macam القضية:
+
+**القضية الحقيقية، والقضية الخارجية، والقضية الذهنية.**
+
+## القضية الحقيقية
+
+القضية الحقيقية adalah قضية yang الحكم-nya diarahkan kepada individu الموضوع yang **موجودة أو مقدرة الوجود**. Jadi الحكم tidak hanya berlaku pada individu yang benar-benar sudah ada sekarang, tetapi juga mencakup individu-individu yang diperkirakan atau mungkin ada.
+
+Contohnya:
+
+**كل إنسان حيوان**
+
+Ketika dikatakan **كل إنسان حيوان**, kita tidak hanya berbicara tentang manusia yang sudah hidup sekarang. Semua manusia yang sudah ada termasuk dalam hukum tersebut, dan manusia yang akan ada atau diperkirakan ada juga termasuk.
+
+Maka الحكم di sini mencakup:
+
+**الموجود فعلا والمقدر الوجود.**
+
+Contoh lain yang digunakan dalam kelas adalah:
+
+**كل أزهري سني**
+
+atau dalam bentuk contoh bercanda dosen:
+
+**كل أزهري شافعي**
+
+Dosen mengatakan bahwa ia sendiri seorang Syafi'i sehingga secara bercanda ia mengaku متعصبًا لمذهبه dan kemudian mengatakan bahwa sekitar 90% orang mungkin Syafi'i. Ini hanyalah contoh kelas untuk menunjukkan bagaimana hukum dapat diarahkan kepada suatu طبيعة yang mencakup individu yang ada dan yang diperkirakan ada, bukan pernyataan yang harus dianggap sebagai klaim faktual.
+
+Jadi ciri utama القضية الحقيقية adalah bahwa الحكم tidak terbatas pada **الموجود فعلا**, tetapi juga mencakup **المقدر الوجود**.
+
+Contoh yang lebih jelas adalah:
+
+**كل عنقاء طائر**
+
+العنقاء digunakan sebagai contoh sesuatu yang tidak benar-benar ditemukan sebagai individu aktual, tetapi keberadaannya dianggap ممكنة atau مقدرة dalam konteks pembahasan.
+
+Jika kita berkata **كل عنقاء طائر**, الحكم tetap dapat dipahami sebagai قضية حقيقية karena kita berbicara tentang seluruh individu yang mungkin termasuk dalam مفهوم العنقاء, walaupun individu aktualnya tidak ditemukan.
+
+Dengan demikian, القضية الحقيقية dapat mencakup dua keadaan sekaligus: individu yang benar-benar ada dan individu yang **مقدر الوجود**.
+
+## القضية الخارجية
+
+Berbeda dengan القضية الحقيقية, dalam **القضية الخارجية** الحكم hanya diarahkan kepada individu-individu yang benar-benar موجودة في الخارج.
+
+Contohnya:
+
+**طلابي حاضرون**
+
+Jika seorang dosen mempunyai 100 mahasiswa dan mengatakan:
+
+**طلابي حاضرون**
+
+maka الحكم diarahkan kepada mahasiswa yang benar-benar menjadi طلابnya dan yang benar-benar ada pada saat pembicaraan.
+
+Demikian juga:
+
+**أبنائي أزهريون**
+
+Jika yang dimaksud adalah anak-anak dosen yang memang ada dan dikenal secara nyata, maka الحكم diarahkan kepada أفراد موجودين في الخارج.
+
+Begitu pula jika seorang dosen mengatakan:
+
+**طلابي ناجحون**
+
+maka yang dimaksud bukan semua kemungkinan mahasiswa, melainkan mahasiswa tertentu yang memang menjadi طلابnya.
+
+Jadi القضية الخارجية hanya mengenai **الأفراد الموجودة فعلا في الخارج**.
+
+Perbedaan utama dengan القضية الحقيقية adalah bahwa القضية الحقيقية mencakup الموجود والمقدر, sedangkan الخارجية hanya mencakup الموجود فعلا.
+
+## القضية الذهنية
+
+Adapun **القضية الذهنية** adalah قضية yang موضوع-nya tidak mempunyai أفراد موجودين في الخارج dan juga bukan افراد مقدرة الوجود di luar, tetapi konsep atau individu tersebut mempunyai keberadaan di dalam ذهن ketika kita membicarakannya.
+
+Contoh yang digunakan adalah:
+
+**شريك الباري معدوم**
+
+atau:
+
+**شريك الباري ليس ببصير**
+
+**شريك الباري** tidak memiliki وجود خارجي. Bahkan bukan pula sesuatu yang مقدر الوجود dalam arti bisa diwujudkan di luar. Ia dianggap ممتنع الوجود.
+
+Lalu bagaimana kita bisa membuat قضية tentang sesuatu yang tidak ada?
+
+Jawabannya adalah karena مفهوم **شريك الباري** tetap dapat hadir dalam الذهن. Kita dapat membayangkannya sebagai موضوع pembicaraan, walaupun tidak memiliki وجود خارجي.
+
+Jadi keberadaannya dalam konteks قضية adalah **وجود ذهني**.
+
+Dengan demikian, pembagian berdasarkan وجود أفراد الموضوع menghasilkan tiga macam:
+
+**الحقيقية، والخارجية، والذهنية.**
+
+الحقيقية berkaitan dengan الموجود والمقدر.
+
+الخارجية berkaitan dengan الموجود فعلا.
+
+الذهنية berkaitan dengan apa yang hanya mempunyai وجود في الذهن.
+
+# الفرق بين الموضوع الموجود والمقدّر والممتنع
+
+Dosen kemudian memperjelas bahwa mahasiswa harus membedakan tiga keadaan.
+
+Ada موضوع yang بالفعل موجود.
+
+Ada موضوع yang belum ada tetapi **مقدر الوجود**, yaitu dapat diperkirakan atau dimungkinkan ada.
+
+Ada موضوع yang tidak ada dan tidak mungkin ada, seperti **شريك الباري**.
+
+Namun حتى الموضوع الممتنع الوجود dapat menjadi موضوع للحكم karena مفهومه hadir dalam الذهن. Di sinilah kemudian muncul istilah **الوجود في الزمن الأول** dan **الوجود في الزمن الثاني** dalam pembahasan المنطق.
+
+## الوجود في الزمن الأول
+
+Yang dimaksud **الوجود في الزمن الأول** dalam penjelasan dosen bukan selalu berarti benda benar-benar pernah ada di luar selama sesaat. Kadang yang dimaksud hanyalah bahwa الموضوع telah hadir dalam ذهن pada saat الحكم.
+
+Misalnya kita mengatakan:
+
+**شريك الباري معدوم**
+
+شريك الباري tidak pernah mempunyai وجود خارجي, tetapi sebelum kita dapat meniadakan keberadaannya, kita terlebih dahulu menghadirkan مفهوم شريك الباري dalam ذهن.
+
+Jadi ia memiliki keberadaan dengan pengertian bahwa konsepnya telah **مرّ على الذهن** pada saat الحكم.
+
+Dosen kemudian menggunakan gambaran ekstrem mengenai sesuatu yang lahir lalu langsung mati untuk mendekatkan konsep keberadaan sesaat. Misalnya seseorang lahir, sempat mempunyai وجود sesaat, kemudian meninggal. Dalam istilah pembahasan ini ia mempunyai keberadaan pada **الزمن الأول** dan kemudian tidak berlanjut.
+
+Namun dosen menegaskan bahwa contoh ini hanya untuk mendekatkan pemahaman. Pembahasan hakikat الزمن dan الجواهر الفردة merupakan persoalan filosofis yang lebih dalam dan bukan pokok yang perlu diperdebatkan dalam contoh tersebut.
+
+## الوجود في الزمن الثاني
+
+Adapun **الوجود في الزمن الثاني** berkaitan dengan keberadaan yang berlanjut atau keadaan yang memungkinkan **ثبوت المحمول للموضوع**.
+
+Misalnya:
+
+**كل إنسان حيوان**
+
+Dalam قضية ini, tidak cukup hanya konsep الإنسان hadir dalam pikiran. Untuk menjadi قضية موجبة yang benar, harus ada تحقق bagi فرد الإنسان dan benar bahwa konsep الحيوان ثابت له.
+
+Dosen beberapa kali menjelaskan bahwa istilah "الزمن الأول" dan "الزمن الثاني" digunakan untuk membedakan antara sekadar hadirnya الموضوع ketika الحكم dilakukan dan ثبوت المحمول له.
+
+Pada salah satu bagian sumber, penjelasan kemudian menyebut **الزمن الثالث** ketika menerangkan keberadaan yang berlanjut. Penomoran ini tampak tidak konsisten dalam transkripsi, karena di bagian lain pembahasan hanya menggunakan **الزمن الأول والثاني**. Yang dapat dipastikan dari uraian adalah adanya perbedaan antara وجود الموضوع saat الحكم dilakukan dan وجود yang diperlukan agar المحمول benar-benar ثابت للموضوع.
+
+# الفرق بين القضية الموجبة والسالبة من جهة الوجود
+
+Dosen kemudian memberikan **تحقيق لطيف** tentang hubungan القضية الموجبة dan السالبة dengan وجود الموضوع.
+
+Pada القضية الموجبة, misalnya:
+
+**كل إنسان فان**
+
+kita menetapkan **الفناء** atas الإنسان. Karena ada اثبات للمحمول على الموضوع, maka القضية الموجبة membutuhkan dua hal dalam pengertian yang telah dijelaskan:
+
+Pertama, موضوع harus dapat menjadi محكوم عليه, sehingga ia harus hadir dalam الذهن saat الحكم.
+
+Kedua, untuk benar-benar menjadi قضية موجبة yang صادقة, harus ada ثبوت للمحمول للموضوع sesuai dengan jenis keberadaan yang dibicarakan: nyata, مقدر, atau ذهني.
+
+Sedangkan pada القضية السالبة, misalnya:
+
+**شريك الباري ليس ببصير**
+
+kita tidak menetapkan بصير بودن kepada شريك الباري. Kita justru menghapus النسبة antara الموضوع والمحمول.
+
+Karena itu, cukup أن يكون الموضوع متصورًا في الذهن ketika الحكم dilakukan.
+
+Inilah yang kemudian dirumuskan dosen bahwa القضية الموجبة dan السالبة sama-sama membutuhkan keberadaan dalam **الزمن الأول**, yaitu keberadaan yang memungkinkan الحكم dilakukan. Tetapi القضية الموجبة mempunyai tambahan kebutuhan akan **ثبوت المحمول للموضوع**, sedangkan السالبة tidak.
+
+Jadi secara ringkas, sebagaimana dijelaskan dalam materi:
+
+القضية الموجبة تقتضي **صحة الحكم** dan **ثبوت المحمول للموضوع**.
+
+القضية السالبة cukup menuntut **صحة الحكم** atau keberadaan الموضوع pada saat الحكم.
+
+Dosen mengaitkan penjelasan ini dengan prinsip:
+
+**السلب حكم**
+
+Karena السلب sendiri merupakan sebuah حکم, maka agar kita dapat menafikan sesuatu, kita setidaknya harus dapat memahami dan menghadirkan sesuatu yang menjadi محكوم عليه.
+
+# Kedua: تقسيم القضية باعتبار العدول والتحصيل
+
+Setelah pembahasan وجود أفراد الموضوع selesai, dosen berpindah ke pembagian kedua, yaitu:
+
+**تقسيم القضية باعتبار العدول والتحصيل.**
+
+Dasar pembahasan ini adalah **حرف السلب**.
+
+Pada asalnya, fungsi حرف السلب adalah **رفع النسبة** antara الموضوع dan المحمول.
+
+Misalnya:
+
+**زيد قائم**
+
+Jika ingin meniadakan قيام dari زيد, kita mengatakan:
+
+**زيد ليس بقائم**
+
+Dalam kalimat ini حرف السلب menjalankan fungsi asalnya, yaitu رفع النسبة بين زيد والقيام.
+
+Karena itu, apabila حرف السلب tetap digunakan untuk fungsi asalnya, القضية disebut **محصّلة**.
+
+Namun terkadang حرف السلب tidak lagi digunakan sekadar untuk meniadakan النسبة. Ia dipindahkan dan dijadikan bagian dari الموضوع atau bagian dari المحمول.
+
+Jika demikian, حرف السلب telah **عُدِلَ به عن أصله**, sehingga القضية disebut **معدولة**.
+
+# Apa yang dimaksud بالمعدولة?
+
+Misalnya kata yang pada asalnya terdiri dari kata dan حرف السلب, kemudian ditulis sebagai satu kesatuan dan diperlakukan sebagai bagian dari الموضوع atau المحمول.
+
+Dosen menggunakan analogi tulisan bahasa asing. Dalam bahasa Inggris, misalnya, jika dua kata maka ada jarak:
+
+**two words**
+
+tetapi jika satu kata maka ditulis tanpa spasi:
+
+**no space**
+
+Demikian pula dalam contoh Arab seperti:
+
+**اللامؤدب**
+
+Jika **لا** menyatu dengan **مؤدب** hingga menjadi satu konsep, حرف السلب tidak lagi sekadar berfungsi sebagai alat untuk meniadakan hubungan. Ia menjadi bagian dari مفهوم الموضوع.
+
+Karena itu, القضية yang menggunakan حرف السلب seperti ini disebut **معدولة**.
+
+# Tiga jenis القضية المعدولة
+
+Karena unsur yang menjadi tempat masuknya حرف السلب dapat berbeda, maka القضية المعدولة terbagi menjadi tiga.
+
+Pertama:
+
+**معدولة الموضوع**
+
+yaitu حرف السلب menjadi bagian dari الموضوع.
+
+Kedua:
+
+**معدولة المحمول**
+
+yaitu حرف السلب menjadi bagian dari المحمول.
+
+Ketiga:
+
+**معدولة الطرفين**
+
+yaitu حرف السلب menjadi bagian dari keduanya.
+
+Jika حرف السلب tidak dijadikan bagian dari الموضوع atau المحمول dan tetap menjalankan fungsi aslinya sebagai رفع النسبة, maka القضية disebut **محصّلة**.
+
+Jika المحصّلة berupa affirmative, ia disebut **موجبة محصّلة**.
+
+Jika المحصّلة berupa negative, dalam istilah yang digunakan dalam materi disebut **البسيطة**.
+
+Jadi **البسيطة** adalah السالبة المحصّلة, yaitu قضية negatif yang حرف السلب-nya masih berada pada fungsi asalnya.
+
+# المعدولة dapat berupa موجبة atau سالبة
+
+Dosen menegaskan bahwa المعدولة tidak selalu berarti موجبة saja.
+
+Mعدولة dapat berupa:
+
+**موجبة**
+
+atau:
+
+**سالبة**
+
+Dengan demikian, dari tiga macam tempat masuknya حرف السلب—موضوع، محمول، طرفين—masing-masing dapat berupa موجبة atau سالبة.
+
+Hasilnya ada enam macam المعدولات:
+
+معدولة الموضوع الموجبة، معدولة الموضوع السالبة، معدولة المحمول الموجبة، معدولة المحمول السالبة، معدولة الطرفين الموجبة، dan معدولة الطرفين السالبة.
+
+Jika ditambah dengan المحصلة الموجبة dan المحصلة السالبة/البسيطة, seluruh kemungkinan yang dibahas menjadi delapan macam.
+
+# Contoh penting: الفرق بين السالبة المحصّلة والموجبة المعدولة
+
+Inilah salah satu bagian yang dianggap penting karena sering terjadi **التباس**.
+
+Misalnya:
+
+**زيد لا كاتب**
+
+Kalimat ini bisa dipahami dengan dua cara jika tidak ada ketentuan tambahan.
+
+Pertama, ia dapat berarti:
+
+"Zaid bukan seorang penulis."
+
+Di sini yang dilakukan adalah menafikan **الكتابة** dari زيد. Ini adalah **سالبة محصّلة** atau **بسيطة**.
+
+Kedua, **لا كاتب** dapat dipandang sebagai satu مفهوم, yaitu "non-penulis", lalu konsep tersebut dijadikan محمول atas زيد. Maka:
+
+**زيد لا كاتب**
+
+menjadi **موجبة معدولة المحمول**.
+
+Artinya bukan sekadar "meniadakan الكتابة dari Zaid", tetapi menetapkan sifat **اللاكاتبية** kepada Zaid.
+
+Ini adalah perbedaan yang sangat halus.
+
+Secara makna:
+
+Pada **السالبة المحصلة**, kita mengatakan:
+
+"الكتابة tidak ثابت untuk Zaid."
+
+Pada **الموجبة المعدولة**, kita mengatakan:
+
+"عدم الكتابة ثابت لزيد."
+
+Jadi yang satu adalah **سلب المحمول عن الموضوع**, sedangkan yang lain adalah **الحكم بعدم المحمول على الموضوع**.
+
+Dosen memberikan contoh semacam:
+
+**الحجر لا حساس**
+
+Ini bisa dimaknai sebagai "batu tidak memiliki sifat حساس", yakni meniadakan الحساسية dari الحجر. Tetapi jika **لا حساس** diperlakukan sebagai satu konsep, maka ia menjadi sifat yang ditetapkan kepada الحجر.
+
+Inilah الفرق المعنوي antara keduanya.
+
+# الفرق اللفظي بين السالبة والبـمعدولة
+
+Selain perbedaan makna, para منطقيون menggunakan perbedaan secara لفظي untuk membantu menghindari kebingungan.
+
+Dalam اصطلاح yang disebut dalam materi:
+
+**ليس** digunakan untuk السلب.
+
+Sedangkan **لا** atau **غير** digunakan dalam الإيجاب العدولي.
+
+Maka misalnya:
+
+**زيد ليس بكاتب**
+
+digunakan sebagai قضية سالبة.
+
+Sedangkan:
+
+**زيد غير كاتب**
+
+digunakan sebagai قضية موجبة معدولة.
+
+Dengan cara ini, secara istilah perbedaan makna menjadi lebih mudah dibedakan.
+
+Dosen juga menjelaskan bahwa apabila القضية mempunyai **الرابطة** secara eksplisit sehingga menjadi قضية ثلاثية, posisi الرابطة terhadap حرف السلب dapat menjadi indikator.
+
+Jika الرابطة mendahului حرف السلب, seperti:
+
+**زيد هو ليس بكاتب**
+
+maka القضية dianggap **معدولة**.
+
+Jika حرف السلب mendahului الرابطة, seperti:
+
+**زيد ليس هو بكاتب**
+
+maka القضية dianggap **سالبة**.
+
+Dalam المصادر المختصرة, القضية yang tidak menyebut الرابطة secara eksplisit disebut **ثنائية**, sedangkan yang menyebutnya disebut **ثلاثية**.
+
+Dosen tidak ingin memperluas pembahasan ini terlalu jauh agar mahasiswa tidak masuk ke detail yang lebih rumit dari yang dibutuhkan dalam المقرر.
+
+# الموجبة والسالبة: الإيجاب هو إيقاع النسبة والسلب انتزاعها
+
+Dosen kemudian memberikan satu prinsip mendasar:
+
+**الإيجاب هو إيقاع النسبة**
+
+sedangkan:
+
+**السلب هو انتزاع النسبة**
+
+Contohnya:
+
+**زيد كاتب**
+
+di sini kita melakukan **إيقاع النسبة** antara زيد dan الكتابة.
+
+Sedangkan:
+
+**زيد ليس بكاتب**
+
+kita melakukan **انتزاع النسبة** antara keduanya.
+
+Karena itu، ukuran apakah القضية موجبة atau سالبة bukanlah sekadar ada atau tidaknya حرف السلب dalam kalimat.
+
+Yang menjadi معيار adalah:
+
+Apakah النسبة **واقعة ثابتة**?
+
+atau apakah النسبة **مرفوعة ومنزوعة**?
+
+Inilah sebabnya sebuah القضية dapat mengandung dua حرف سلب tetapi tetap menjadi موجبة.
+
+Contoh yang diberikan dosen:
+
+**كل ما ليس بحي فهو لا عالم**
+
+Dalam القضية ini terdapat أكثر من حرف سلب: **ليس** dan **لا**.
+
+Namun القضية secara keseluruhan adalah **موجبة** karena الحكم dilakukan dengan إثبات **اللاعلم** kepada ما ليس بحي.
+
+Jadi adanya حرف سلب secara lahiriah tidak otomatis menjadikan القضية سالبة.
+
+Sebaliknya, sebuah القضية dapat tidak menampilkan حرف السلب secara langsung dalam bentuk tertentu tetapi secara makna merupakan سلب.
+
+Karena itu yang diperhatikan adalah **وظيفة حرف السلب**, yaitu apakah ia رفع النسبة atau telah menjadi جزءًا من الموضوع أو المحمول.
+
+# الفرق بين حرف السلب في أصله وحرف السلب المعدول به
+
+Secara asal, حرف السلب digunakan untuk:
+
+**رفع النسبة**
+
+Jika keluar dari fungsi tersebut dan menjadi bagian dari الموضوع atau المحمول, maka disebut **عدول**.
+
+Karena itu ada dua keadaan:
+
+**المحصلة**: حرف السلب tetap berada pada وضعه الأصلي.
+
+**المعدولة**: حرف السلب telah mengalami **عدول عن الأصل** dan menjadi جزءًا من الموضوع أو المحمول.
+
+# تنبيه مهم: لماذا تسمى السالبة قضية حملية؟
+
+Dosen kemudian mengajukan pertanyaan:
+
+Jika kita mengatakan:
+
+**زيد قائم**
+
+kita memang melakukan حمل, yaitu menetapkan قيام kepada زيد.
+
+Tetapi jika kita mengatakan:
+
+**زيد ليس بقائم**
+
+kita justru menghilangkan قيام dari زيد.
+
+Lalu mengapa القضية السالبة tetap disebut:
+
+**قضية حملية**?
+
+Jawabannya, menurut materi, ada dua pendekatan.
+
+Pertama, penggunaan istilah tersebut adalah karena **التوسع والمجاز**, yaitu القضية السالبة diberi nama yang sama dengan القضية الموجبة karena keduanya termasuk dalam kategori yang sama.
+
+Hal yang sama berlaku pada **المتصلة السالبة** dan **المنفصلة السالبة**. Walaupun kita meniadakan الاتصال أو الانفصال, ia tetap dinamakan متصلة atau منفصلة.
+
+Kedua, السلب tidak dapat dipahami tanpa terlebih dahulu تصور الإيجاب. Agar kita dapat mengatakan "زيد ليس بقائم", kita harus terlebih dahulu memahami atau membayangkan "زيد قائم", kemudian kita meniadakan النسبة tersebut.
+
+Jadi السلب secara konseptual bersandar pada تصور الإيجاب.
+
+Karena itu القضية السالبة tetap disebut حملية باعتبار الأصل.
+
+# تنبيه: ذات الموضوع والمحمول ووصفهما
+
+Dosen kemudian memberikan beberapa **تنبيهات مهمة** yang katanya sangat membantu untuk memahami pembahasan berikutnya, bahkan berguna untuk memahami **الموجهات** yang belum dibahas dalam المقرر.
+
+Dalam كل من الموضوع والمحمول ada dua sisi:
+
+**الذات** dan **الوصف**.
+
+الذات berarti **الأفراد**.
+
+الوصف berarti **المفهوم**.
+
+Misalnya dalam:
+
+**الطلاب حاضرون**
+
+Kata **الطلاب** mempunyai مفهوم tertentu, dan mempunyai أفراد seperti محمد، أحمد، زيد، علي.
+
+Jadi pada الموضوع ada:
+
+**مفهوم الطلاب**
+
+dan:
+
+**أفراد الطلاب**
+
+Demikian pula المحمول **حاضر** memiliki مفهوم **الحضور** dan أفراد orang-orang yang masuk dalam وصف حاضر.
+
+Jadi secara keseluruhan baik الموضوع maupun المحمول masing-masing dapat dilihat dari dua sisi:
+
+**الذات = الأفراد**
+
+**الوصف = المفهوم**
+
+Dosen menjelaskan bahwa memahami perbedaan ini akan sangat membantu ketika nanti seseorang membaca pembahasan **الموجهات** dan konsep-konsep lain yang lebih rumit.
+
+# Empat kemungkinan hubungan ذات dan وصف
+
+Secara mental ada empat kemungkinan ketika mempertimbangkan apakah yang digunakan dalam حمل adalah الذات atau الوصف.
+
+Pertama, menghubungkan **ذات المحمول** kepada **ذات الموضوع**.
+
+Ini tidak menjadi الحمل المنطقي yang dimaksud. Misalnya seperti menetapkan individu Muhammad kepada kumpulan mahasiswa sebagai individu.
+
+Kedua, menghubungkan **وصف المحمول** kepada **وصف الموضوع**.
+
+Ini juga bukan bentuk الحمل yang dimaksud karena sebuah مفهوم tidak dibebankan kepada مفهوم seperti itu dalam konteks pembahasan ini.
+
+Ketiga, menghubungkan **ذات المحمول** kepada **وصف الموضوع**.
+
+Ini juga bukan bentuk yang tepat.
+
+Keempat, dan inilah yang dikehendaki dalam الحمل المنطقي, adalah:
+
+**الحكم بمفهوم المحمول على أفراد الموضوع**
+
+Artinya, kita menetapkan **وصف أو مفهوم المحمول** kepada **أفراد الموضوع**.
+
+Contohnya:
+
+**كل طالب فاهم**
+
+Yang menjadi 대상 الحكم adalah أفراد الطلاب, sementara yang ditetapkan kepada mereka adalah مفهوم الفهم.
+
+Contoh:
+
+**الطلاب حاضرون**
+
+Kita tidak menetapkan "orang-orang tertentu yang merupakan حاضر" sebagai individu kepada "orang-orang tertentu yang merupakan طالب". Yang kita lakukan adalah menetapkan **مفهوم الحضور** kepada **أفراد الطلاب**.
+
+Begitu pula:
+
+**زيد قائم**
+
+Kita menetapkan مفهوم القيام kepada فرد معين, yaitu زيد.
+
+Jadi rumus sederhananya:
+
+**مفهوم المحمول ← على ← أفراد الموضوع**
+
+Inilah yang dimaksud حمل dalam pembahasan tersebut.
+
+# رمز الموضوع والمحمول عند المناطقة
+
+Ketika membaca kitab-kitab المنطق, mahasiswa akan sering menemukan bentuk simbolis seperti:
+
+**كل ج ب**
+
+atau:
+
+**كل ب ج**
+
+Huruf-huruf tersebut bukan berarti kata tertentu, melainkan رمز.
+
+**ج** digunakan sebagai رمز للموضوع.
+
+**ب** digunakan sebagai رمز للمحمول.
+
+Misalnya **كل ج ب** berarti "setiap موضوع mempunyai المحمول tersebut."
+
+Tujuan pertama penggunaan رمز adalah **الاختصار**.
+
+Daripada menulis seluruh contoh:
+
+"كل طالب يفهم المنطق"
+
+mereka cukup menulis:
+
+**كل ج ب**
+
+Tujuan kedua adalah **دفع توهم الانحصار**.
+
+Jika dosen selalu menggunakan contoh yang sama, mahasiswa bisa saja mengira bahwa kaidah hanya berlaku pada مثال tersebut.
+
+Misalnya seorang guru selalu menulis:
+
+**جاء زيد**
+
+dan kemudian mengajarkan bahwa **زيد فاعل**.
+
+Seorang siswa yang terlalu terpaku pada contoh bisa salah memahami dan mengira bahwa setiap فاعل harus زيد karena setiap contoh yang dilihatnya selalu memakai زيد.
+
+Dengan menggunakan رمز, perhatian diarahkan kepada **struktur القضية**, bukan kepada isi contoh tertentu.
+
+Dosen juga memberi contoh lain dari علم الحدود. Jika تعريف الإنسان dengan:
+
+**الحيوان الناطق**
+
+sering diulang, seseorang bisa keliru mengira bahwa الحد التام hanya berlaku untuk definisi tersebut. Penggunaan رمز mencegah anggapan bahwa aturan tersebut terbatas pada contoh tertentu.
+
+# Mengapa digunakan ج dan ب?
+
+Dosen memberikan tambahan yang sebenarnya bukan bagian yang harus diperdalam dalam امتحان, tetapi disampaikan sebagai manfaat.
+
+Mengapa dipilih **ج** dan **ب**?
+
+Huruf **ألف** tidak dianggap memiliki bentuk yang stabil dalam semua konteks tulisan, dan **تاء** mempunyai bentuk yang mirip dengan **باء**. Sementara **جيم** lebih jelas berbeda.
+
+Dalam penjelasan dosen, **ب** dan **ج** merupakan dua huruf awal yang memiliki ciri visual yang membedakannya secara jelas dalam rangkaian huruf hijaiyah.
+
+Dosen menyebut bahwa alasan penggunaan tersebut hanya menjadi tambahan dalam كتب المطولات dan bukan poin utama yang perlu dipermasalahkan.
+
+# تقسيم القضية الحقيقية والخارجية والذهنية secara lebih rinci
+
+Setelah تنبيهات tersebut, dosen kembali ke inti.
+
+Jika kita mengatakan:
+
+**كل ج ب**
+
+maka الحكم dilakukan atas أفراد ج melalui مفهوم ب.
+
+Dalam القضية الخارجية، semua individu yang dimaksud harus benar-benar موجودة في الخارج.
+
+Contoh:
+
+**طلابي حاضرون**
+
+Yang dimaksud adalah mahasiswa yang benar-benar ada sebagai طلاب pada saat الحكم.
+
+Dalam القضية الحقيقية، الحكم diarahkan kepada individu yang benar-benar ada dan individu yang **مقدر الوجود**.
+
+Contoh:
+
+**كل إنسان حيوان**
+
+Semua manusia yang sudah ada termasuk, dan manusia yang kelak atau kemungkinan ada juga termasuk.
+
+Karena itu القضية الحقيقية dapat mempunyai contoh yang hanya terdiri dari individu yang مقدرة seperti:
+
+**كل عنقاء طائر**
+
+dan dapat pula mempunyai gabungan antara yang aktual dan yang diperkirakan seperti:
+
+**كل إنسان حيوان**
+
+Sedangkan القضية الخارجية tidak mencakup individu yang hanya مقدر.
+
+Adapun القضية الذهنية hanya berkaitan dengan individu yang mempunyai keberadaan dalam ذهن.
+
+Contohnya:
+
+**شريك الباري معدوم**
+
+Di sini شريك الباري bukan فرد خارجي dan bukan pula فرد مقدر الوجود, karena وجوده ممتنع. Namun konsepnya موجود في الذهن dan dapat menjadi موضوع الحكم.
+
+Dosen menyebut bahwa sebagian kitab seperti yang dinisbatkan kepada **الإمام قطب الدين الرازي** dan pembahasan **شرح الشمسية** mempunyai rincian dalam persoalan ini. Disebutkan pula bahwa ada ulama yang membuat pembagian hanya menjadi اثنين, yaitu **الخارجية والحقيقية**, sedangkan di sini dibedakan menjadi ثلاثة بإدخال الذهنية berdasarkan cara memahami الوجود الذهني للموضوع المعدوم.
+
+# الموجبة تحتاج إلى وجود الموضوع، والسالبة تحتاج إلى تصوره
+
+Kemudian dosen kembali kepada التحقيق yang lebih detail.
+
+القضية الموجبة membutuhkan keberadaan الموضوع agar المحمول benar-benar dapat ditetapkan atasnya.
+
+Misalnya:
+
+**كل إنسان فان**
+
+Ada مفهوم الإنسان dalam ذهن, ada أفراد yang dapat menjadi موضوع, kemudian **الفناء** benar-benar ثابت لهم.
+
+Sedangkan القضية السالبة cukup bahwa الموضوع dapat dipahami ketika الحكم terjadi.
+
+Misalnya:
+
+**شريك الباري ليس ببصير**
+
+Kita tidak sedang mengatakan bahwa شريك الباري benar-benar ada dan kemudian meniadakan بصير عنه. Yang kita lakukan adalah menghadirkan konsepnya dalam pikiran agar penafian dapat dilakukan.
+
+Maka القضية الموجبة dan السالبة sama-sama membutuhkan **وجود ذهني حال الحكم**, tetapi hanya الموجبة yang kemudian membutuhkan **ثبوت المحمول للموضوع**.
+
+Dosen menekankan:
+
+Jika الموضوع موجود خارجًا, maka sesuai.
+
+Jika الموضوع مقدر الوجود, maka القضية الحقيقية dapat mencakupnya.
+
+Jika الموضوع ممتنع الوجود, maka paling tidak مفهومه harus ada dalam ذهن.
+
+# تقسيم آخر: الاستغراق
+
+Setelah berbagai penjelasan mengenai وجود الموضوع dan العدول والتحصيل selesai, dosen kemudian memberikan تنبيه terakhir tentang **الاستغراق**.
+
+**الاستغراق** berarti:
+
+**شمول الحكم للأفراد**
+
+Artinya, apakah الحكم mencakup seluruh individu suatu طرف atau hanya sebagian.
+
+Dalam القضية terdapat dua طرف: الموضوع dan المحمول.
+
+Maka secara teoritis ada empat kemungkinan:
+
+Pertama, استغراق الموضوع saja.
+
+Kedua, استغراق المحمول saja.
+
+Ketiga, استغراق kedua-duanya.
+
+Keempat, tidak terjadi استغراق pada salah satu pun.
+
+Inilah dasar pembahasan استغراق pada **المحصورات الأربع**.
+
+# الاستغراق في الكلية الموجبة
+
+Contohnya:
+
+**كل إنسان فان**
+
+Dalam القضية الكلية الموجبة, الحكم mencakup seluruh أفراد الموضوع.
+
+Jadi **الإنسان** مستغرق.
+
+Namun **الفاني** tidak مستغرق.
+
+Mengapa?
+
+Karena kita tidak mengatakan bahwa semua yang termasuk مفهوم الفناء adalah manusia. Kita hanya mengatakan bahwa setiap manusia adalah fana.
+
+Dengan demikian:
+
+**الكلية الموجبة تستغرق الموضوع دون المحمول.**
+
+# الاستغراق في الكلية السالبة
+
+Contohnya:
+
+**لا واحد من الإنسان بحجر**
+
+atau bentuk seperti:
+
+**لا شيء من الإنسان بحجر**
+
+Di sini seluruh أفراد الإنسان dinafikan dari seluruh cakupan مفهوم الحجر dalam الحكم.
+
+Karena السلب menyeluruh terhadap kedua طرف, maka:
+
+**الكلية السالبة تستغرق الموضوع والمحمول معًا.**
+
+Dosen menyebut bahwa apabila kedua طرف berada dalam سياق النفي, maka keduanya tercakup dalam الحكم السالب.
+
+# الاستغراق في الجزئية الموجبة
+
+Contohnya:
+
+**بعض الفاكهة تفاح**
+
+atau contoh semisal:
+
+**بعض القمح نبات**
+
+Di sini kita hanya berbicara tentang sebagian من أفراد الموضوع, bukan seluruhnya.
+
+Kita juga tidak mengatakan bahwa seluruh المحمول berlaku terhadap seluruh kemungkinan objeknya.
+
+Maka tidak ada طرف yang مستغرق.
+
+Dengan demikian:
+
+**الجزئية الموجبة لا تستغرق الموضوع ولا المحمول.**
+
+# الاستغراق في الجزئية السالبة
+
+Contohnya:
+
+**بعض الطلاب ليسوا بمتعلّمين**
+
+atau bentuk yang digunakan dalam sumber:
+
+**بعض الطلاب ليس بفـ...**
+
+Dalam القضية ini, kata **بعض** menunjukkan bahwa kita hanya membahas sebagian mahasiswa. Jadi الموضوع tidak مستغرق.
+
+Namun ketika kita mengatakan **ليس بمتعلم**, penafian diarahkan kepada مفهوم **المتعلم**, sehingga المحمول menjadi مستغرق.
+
+Dengan demikian:
+
+**الجزئية السالبة تستغرق المحمول دون الموضوع.**
+
+# خلاصة أحكام الاستغراق في المحصورات الأربع
+
+Dari pembahasan tersebut, empat المحصورات mempunyai hukum:
+
+**الكلية الموجبة**: تستغرق الموضوع دون المحمول.
+
+**الكلية السالبة**: تستغرق الموضوع والمحمول.
+
+**الجزئية الموجبة**: لا تستغرق شيئًا.
+
+**الجزئية السالبة**: تستغرق المحمول دون الموضوع.
+
+Dosen menekankan agar mahasiswa menghafal empat aturan ini karena aturan tersebut akan dibutuhkan dalam pembahasan **القياس** nanti.
+
+# Mengapa الاستغراق penting untuk القياس?
+
+Dosen mengatakan bahwa mahasiswa akan memerlukan pembahasan استغراق ketika masuk ke bab **القياس**.
+
+Sebab dalam قياس, mahasiswa harus mengetahui apakah sebuah batas atau طرف dalam المقدمة mencakup seluruh individu atau hanya sebagian.
+
+Karena itu pembahasan ini bukan tambahan yang tidak berguna, tetapi menjadi dasar untuk memahami bagaimana istilah dan حدود bekerja dalam argumentasi منطقي.
+
+# Kembali kepada masalah "ليس" dan "لا" dalam الكتابة
+
+Menjelang akhir, dosen kembali menjelaskan satu persoalan praktis yang sering membuat mahasiswa bingung ketika membaca kalimat seperti:
+
+**زيد لا كاتب**
+
+Bagaimana mengetahui apakah ini **سالبة محصّلة** atau **موجبة معدولة المحمول**?
+
+Jika yang dimaksud adalah:
+
+**زيد ليس بكاتب**
+
+maka itu adalah **سالبة محصّلة**.
+
+Jika yang dimaksud adalah:
+
+**زيد لا كاتب**
+
+dengan **لا كاتب** dianggap satu مفهوم, maka itu **موجبة معدولة المحمول**.
+
+Untuk membantu membedakan, para منطقيون menggunakan اصطلاح:
+
+**ليس** للسلب.
+
+**لا أو غير** للإيجاب العدولي.
+
+Karena itu:
+
+**زيد ليس بكاتب**
+
+adalah سلب.
+
+Sedangkan:
+
+**زيد غير كاتب**
+
+adalah إيجاب عدولي.
+
+Dosen memberikan analogi penulisan sebagaimana ketika mempelajari bahasa Inggris. Jika sesuatu dianggap satu kata, tidak ada space. Jika dua kata, ada jarak.
+
+Demikian pula dalam pembahasan ini, secara tulisan posisi dan bentuk حرف السلب dapat membantu mengetahui apakah ia berdiri sebagai أداة سلب atau menjadi جزءًا من المحمول.
+
+Namun dosen mengingatkan bahwa ini merupakan **اصطلاح** المناطقة. Ia dapat digunakan dalam jawaban ujian jika diperlukan, tetapi tidak perlu memaksa diri memasuki seluruh perincian الفلاسفة والمنطقيين yang sangat panjang.
+
+# الاستغراق dan مثال الحمد لله
+
+Dosen kemudian memberikan tambahan menarik untuk menjelaskan الاستغراق secara umum.
+
+Ia menyebut contoh:
+
+**الحمد لله**
+
+dan menjelaskan bahwa **أل** pada kata tertentu bisa mempunyai beberapa kemungkinan makna, antara lain للعهد، للجنس، أو للاستغراق.
+
+Dalam konteks tertentu, **أل** dapat menunjukkan شمول seluruh أفراد jenis.
+
+Namun dosen tidak ingin memperluas pembahasan tersebut pada saat itu, dan menyebut bahwa persoalan ini memiliki rincian yang terdapat dalam kitab seperti **تحفة المريد على جوهرة التوحيد**.
+
+Tujuan penyebutan contoh tersebut hanya untuk menunjukkan bahwa konsep **الاستغراق** tidak terbatas pada باب القضايا saja, tetapi juga berkaitan dengan fungsi kata dan أدوات التعريف dalam ilmu lain.
+
+# Keseluruhan struktur pelajaran
+
+Dengan demikian, pelajaran ini mempunyai dua bagian utama.
+
+Bagian pertama adalah:
+
+**تقسيم القضية الحملية باعتبار وجود أفراد الموضوع**
+
+yang menghasilkan:
+
+**الحقيقية، والخارجية، والذهنية.**
+
+القضية الحقيقية mencakup الحكم atas الموجود والمقدر الوجود.
+
+القضية الخارجية khusus untuk الموجود في الخارج.
+
+القضية الذهنية berkaitan dengan apa yang hanya mempunyai وجود في الذهن.
+
+Bagian kedua adalah:
+
+**تقسيم القضية باعتبار العدول والتحصيل**
+
+Di sini dibedakan antara:
+
+**المحصلة**
+
+dan:
+
+**المعدولة**
+
+المحصلة adalah القضية yang حرف السلب-nya masih menjalankan fungsi asal, yaitu رفع النسبة.
+
+المعدولة adalah قضية yang حرف السلب-nya menjadi جزءًا من الموضوع أو المحمول.
+
+المعدولة dapat berupa:
+
+**معدولة الموضوع**
+
+**معدولة المحمول**
+
+**معدولة الطرفين**
+
+dan masing-masing dapat berupa موجبة atau سالبة.
+
+Sedangkan المحصلة dapat berupa:
+
+**موجبة محصّلة**
+
+atau:
+
+**سالبة محصّلة وهي البسيطة.**
+
+# Catatan tentang perbedaan السالبة المحصّلة والمعدولة الموجبة
+
+Karena ini menjadi salah satu titik paling mudah menimbulkan kebingungan, dosen mengulangnya dengan beberapa cara.
+
+Jika kita mengatakan:
+
+**زيد ليس بكاتب**
+
+berarti kita **نَفَيْنَا الكتابة عن زيد**.
+
+Jika kita mengatakan:
+
+**زيد غير كاتب**
+
+atau menjadikan **لا كاتب** sebagai satu مفهوم, kita telah **أثبتنا عدم الكتابة لزيد**.
+
+Yang pertama adalah:
+
+**رفع المحمول عن الموضوع**
+
+Yang kedua adalah:
+
+**الحكم بعدم المحمول على الموضوع**
+
+Perbedaan ini bukan sekadar permainan kata, tetapi memengaruhi نوع القضية.
+
+Yang pertama adalah **سالبة محصّلة**.
+
+Yang kedua adalah **موجبة معدولة المحمول**.
+
+# Mengapa sumber menyebut النسبة sebagai الرابط?
+
+Dosen juga mengingatkan bahwa dalam القضية الحملية yang disebut **ثلاثية**, hubungan antara الموضوع dan المحمول dapat dinyatakan melalui **الرابطة**.
+
+Akan tetapi, dalam banyak kasus الرابطة tidak disebutkan secara eksplisit dalam bahasa.
+
+Ketika الرابطة disebutkan, kita harus memperhatikan posisi حرف السلب terhadapnya.
+
+Contohnya:
+
+**زيد هو ليس بكاتب**
+
+menurut اصطلاح yang dijelaskan, menjadi معدولة.
+
+Sedangkan:
+
+**زيد ليس هو بكاتب**
+
+menjadi سالبة.
+
+Ini adalah perbedaan لفظي yang digunakan oleh sebagian منطقيون untuk menghindari الالتباس.
+
+Dosen mengingatkan bahwa beberapa detail dalam pembahasan ini berasal dari kitab-kitab yang lebih panjang seperti **شرح الرسالة الشمسيّة** dan حواشيها, dan tidak seluruhnya menjadi bagian dari yang harus dihafalkan untuk ujian.
+
+# Penutup pembahasan القضية الحملية
+
+Dengan selesainya pembahasan ini, menurut dosen pembahasan utama mengenai **القضية الحملية** telah selesai.
+
+Mahasiswa telah mempelajari القضية الحملية dari berbagai اعتبار.
+
+Pembagian sebelumnya adalah pembagian berdasarkan bentuk dan jumlah الحكم terhadap أفراد الموضوع, yaitu **الشخصية، المهملة، الطبيعية، والمحـصورة**.
+
+Pada pertemuan ini ditambahkan pembagian berdasarkan وجود أفراد الموضوع, yaitu:
+
+**حقيقية، خارجية، ذهنية.**
+
+Kemudian pembagian berdasarkan **العدول والتحصيل**, yaitu:
+
+**معدولة ومحصلّة** beserta semua rinciannya.
+
+Setelah itu ditambahkan beberapa **تنبيهات** penting mengenai:
+
+**ذات الموضوع والمحمول ووصفهما، استعمال الرموز عند المناطقة، الوجود في الزمن الأول والثاني، الفرق بين الإيجاب والسلب، مفهوم العدول، والالتباس بين السالبة المحصلة والموجبة المعدولة، وأحكام الاستغراق.**
+
+Dosen menutup dengan menegaskan empat hukum utama **الاستغراق**:
+
+**الكلية الموجبة تستغرق الموضوع دون المحمول.**
+
+**الكلية السالبة تستغرق الموضوع والمحمول.**
+
+**الجزئية الموجبة لا تستغرق شيئًا.**
+
+**الجزئية السالبة تستغرق المحمول دون الموضوع.**
+
+Ia juga menyebut bahwa terdapat pembagian lain pada القضايا الحملية berdasarkan **الجهة**, yaitu **الموجهات**. Namun materi tersebut tidak dibahas karena memang tidak menjadi bagian dari kitab yang digunakan dalam المقرر. Dosen bahkan bersyukur bagian الموجهات tidak ada dalam kitab karena pembahasannya jauh lebih rumit.
+
+Dengan demikian, materi pada file ini menutup pembahasan القضية الحملية dengan dua fokus utama: **وجود أفراد الموضوع** dan **العدول والتحصيل**, lalu ditutup dengan **الاستغراق** sebagai dasar yang nantinya berguna dalam pembahasan القياس.
+
+Pada bagian akhir dosen menegaskan bahwa beberapa tambahan yang diberikan—khususnya mengenai زمن الأول والثاني, تفاصيل العدول، الفرق اللفظي والمعنوي، dan beberapa pembahasan فلسفي tentang طبيعة الوجود—lebih dalam daripada yang mungkin ditanyakan dalam ujian. Ia tetap menyampaikannya sebagai bentuk الوفاء بحق الشرح dan agar mahasiswa memperoleh pemahaman yang lebih utuh.
+
+Perkuliahan kemudian ditutup dengan shalawat:
+
+**«وصل اللهم وسلم وبارك على سيدنا محمد وعلى آله وصحبه أجمعين»**
+
+dan salam penutup:
+
+**«والسلام عليكم ورحمة الله وبركاته»**.
+
+Catatan penting mengenai transkripsi: pada beberapa bagian sumber terdapat ungkapan yang terpotong atau urutan istilah yang tidak sepenuhnya konsisten, terutama dalam penyebutan **الزمن الثاني/الثالث** dan beberapa simbol pembagian القضايا. Dalam rekonstruksi ini, substansi penjelasan dipertahankan sebagaimana muncul dalam sumber, sementara bagian yang jelas merupakan ketidakkonsistenan transkripsi tidak dipaksakan untuk "diperbaiki" dengan teori dari luar.
