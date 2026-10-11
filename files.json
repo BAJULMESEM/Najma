@@ -176,6 +176,11 @@
               "name": "3.txt",
               "type": "file",
               "path": "texts/LITERAL MUHADOROH/SYUBUHAT HAULAL HADITS/3.txt"
+            },
+            {
+              "name": "4.txt",
+              "type": "file",
+              "path": "texts/LITERAL MUHADOROH/SYUBUHAT HAULAL HADITS/4.txt"
             }
           ]
         },
@@ -208,6 +213,11 @@
               "name": "2.txt",
               "type": "file",
               "path": "texts/LITERAL MUHADOROH/TAUHID/2.txt"
+            },
+            {
+              "name": "3.txt",
+              "type": "file",
+              "path": "texts/LITERAL MUHADOROH/TAUHID/3.txt"
             }
           ]
         },
@@ -407,6 +417,11 @@
               "name": "3.txt",
               "type": "file",
               "path": "texts/PELAJARAN/SYUBUHAT HAULAL HADITS/3.txt"
+            },
+            {
+              "name": "4.txt",
+              "type": "file",
+              "path": "texts/PELAJARAN/SYUBUHAT HAULAL HADITS/4.txt"
             }
           ]
         },
@@ -439,6 +454,11 @@
               "name": "2.txt",
               "type": "file",
               "path": "texts/PELAJARAN/tauhid/2.txt"
+            },
+            {
+              "name": "3.txt",
+              "type": "file",
+              "path": "texts/PELAJARAN/tauhid/3.txt"
             }
           ]
         },
