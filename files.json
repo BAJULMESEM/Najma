@@ -40,6 +40,16 @@
               "name": "2.txt",
               "type": "file",
               "path": "texts/LITERAL MUHADOROH/FALSAFAH AMMAH/2.txt"
+            },
+            {
+              "name": "3.txt",
+              "type": "file",
+              "path": "texts/LITERAL MUHADOROH/FALSAFAH AMMAH/3.txt"
+            },
+            {
+              "name": "4.txt",
+              "type": "file",
+              "path": "texts/LITERAL MUHADOROH/FALSAFAH AMMAH/4.txt"
             }
           ]
         },
@@ -56,6 +66,11 @@
               "name": "2.txt",
               "type": "file",
               "path": "texts/LITERAL MUHADOROH/FIKIH/2.txt"
+            },
+            {
+              "name": "3.txt",
+              "type": "file",
+              "path": "texts/LITERAL MUHADOROH/FIKIH/3.txt"
             }
           ]
         },
@@ -130,7 +145,13 @@
         {
           "name": "NUDZUM ISLAMIYAH",
           "type": "folder",
-          "children": []
+          "children": [
+            {
+              "name": "1.txt",
+              "type": "file",
+              "path": "texts/LITERAL MUHADOROH/NUDZUM ISLAMIYAH/1.txt"
+            }
+          ]
         },
         {
           "name": "QURAN KAREEM",
@@ -150,6 +171,11 @@
               "name": "2.txt",
               "type": "file",
               "path": "texts/LITERAL MUHADOROH/SYUBUHAT HAULAL HADITS/2.txt"
+            },
+            {
+              "name": "3.txt",
+              "type": "file",
+              "path": "texts/LITERAL MUHADOROH/SYUBUHAT HAULAL HADITS/3.txt"
             }
           ]
         },
@@ -208,6 +234,16 @@
               "name": "4.txt",
               "type": "file",
               "path": "texts/LITERAL MUHADOROH/ULUMUL QURAN/4.txt"
+            },
+            {
+              "name": "5.txt",
+              "type": "file",
+              "path": "texts/LITERAL MUHADOROH/ULUMUL QURAN/5.txt"
+            },
+            {
+              "name": "6.txt",
+              "type": "file",
+              "path": "texts/LITERAL MUHADOROH/ULUMUL QURAN/6.txt"
             }
           ]
         },
@@ -235,6 +271,16 @@
               "name": "2.txt",
               "type": "file",
               "path": "texts/PELAJARAN/FALSAFAH AMMAH/2.txt"
+            },
+            {
+              "name": "3.txt",
+              "type": "file",
+              "path": "texts/PELAJARAN/FALSAFAH AMMAH/3.txt"
+            },
+            {
+              "name": "4.txt",
+              "type": "file",
+              "path": "texts/PELAJARAN/FALSAFAH AMMAH/4.txt"
             }
           ]
         },
@@ -251,6 +297,11 @@
               "name": "2.txt",
               "type": "file",
               "path": "texts/PELAJARAN/FIKIH/2.txt"
+            },
+            {
+              "name": "3.txt",
+              "type": "file",
+              "path": "texts/PELAJARAN/FIKIH/3.txt"
             }
           ]
         },
@@ -325,7 +376,13 @@
         {
           "name": "NUDZUM ISLAMIYAH",
           "type": "folder",
-          "children": []
+          "children": [
+            {
+              "name": "1.txt",
+              "type": "file",
+              "path": "texts/PELAJARAN/NUDZUM ISLAMIYAH/1.txt"
+            }
+          ]
         },
         {
           "name": "QURAN KAREEM",
@@ -345,6 +402,11 @@
               "name": "2.txt",
               "type": "file",
               "path": "texts/PELAJARAN/SYUBUHAT HAULAL HADITS/2.txt"
+            },
+            {
+              "name": "3.txt",
+              "type": "file",
+              "path": "texts/PELAJARAN/SYUBUHAT HAULAL HADITS/3.txt"
             }
           ]
         },
@@ -403,6 +465,16 @@
               "name": "4.txt",
               "type": "file",
               "path": "texts/PELAJARAN/ulumul quran/4.txt"
+            },
+            {
+              "name": "5.txt",
+              "type": "file",
+              "path": "texts/PELAJARAN/ulumul quran/5.txt"
+            },
+            {
+              "name": "6.txt",
+              "type": "file",
+              "path": "texts/PELAJARAN/ulumul quran/6.txt"
             }
           ]
         },
