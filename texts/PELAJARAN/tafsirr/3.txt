@@ -1,0 +1,961 @@
+# TAFSIR SURAH AL-A'RAF: PENJELASAN TAFSIR IBN 'ATHIYYAH, KAIDAH BAHASA DAN BALAGHAH, QIRA'AT SYADZDAH, HUKUM POLIGAMI, I'JAZ AL-QUR'AN, DAN TAFSIR AYAT 4–6
+
+## BAGIAN I. PENGANTAR PEMBELAJARAN TAFSIR IBN 'ATHIYYAH
+
+### 1. Pentingnya mengenal kitab tafsir dan para pengarangnya
+
+Pada awal perkuliahan, dosen mengingatkan mahasiswa bahwa mereka perlu mempersiapkan diri untuk melanjutkan pendidikan ke jenjang yang lebih tinggi. Ia menyinggung ujian lisan yang harus dihadapi mahasiswa pascasarjana, termasuk mereka yang berada pada tingkat pertama dan kedua. Dosen berharap mahasiswa kelak dapat melanjutkan studi hingga jenjang magister dan doktoral.
+
+Dalam konteks itu, dosen menyebut bahwa mahasiswa akan mempelajari tafsir Ibn 'Athiyyah. Ketika ditanya tentang nama kitab tafsir karya Ibn 'Athiyyah, mahasiswa menjawab **المحرر الوجيز**. Nama inilah yang harus mereka ingat.
+
+Dosen menekankan bahwa mahasiswa, khususnya yang mempelajari ilmu tafsir di Fakultas Ushuluddin, harus mengenal judul kitab tafsir dan nama para pengarangnya. Pengetahuan ini bukan sekadar untuk menjawab pertanyaan ujian, melainkan berguna ketika mahasiswa menghadapi suatu masalah ilmiah atau persoalan tafsir dan perlu mencari pembahasannya dalam kitab yang tepat.
+
+Ia menyebut beberapa kitab tafsir yang perlu dikenal, antara lain *Al-Kasysyaf* karya al-Zamakhsyari, tafsir Abu Hayyan, tafsir al-Alusi, tafsir Ibn 'Athiyyah, tafsir al-Thabari, tafsir Ibn Katsir, serta tafsir yang dinisbatkan kepada Abu al-Su'ud. Dalam transkrip, nama terakhir terdengar sebagai ungkapan yang tidak sepenuhnya jelas, tetapi dosen memang menyebut seorang pengarang tafsir yang namanya berkaitan dengan Abu al-Su'ud.
+
+Dosen menyarankan agar mahasiswa mengetahui nama kitab, nama pengarang, dan keberadaan karya-karya tersebut agar mereka dapat mencarinya di perpustakaan atau melalui **المكتبة الشاملة**, yaitu perpustakaan digital yang disebutnya sebagai sarana untuk menemukan kitab-kitab yang diperlukan.
+
+Dengan demikian, penguasaan ilmu tafsir tidak cukup hanya dengan mengingat isi pelajaran. Mahasiswa juga harus mengetahui sumber-sumber ilmiah yang dapat digunakan untuk meneliti persoalan lebih lanjut.
+
+### 2. Membaca kitab turats dengan cermat
+
+Dosen kemudian mengarahkan mahasiswa kepada bagian kitab yang sedang dipelajari, sekitar halaman 25. Ia mengingatkan bahwa kitab-kitab turats kadang menggunakan bahasa dan susunan penjelasan yang sulit, sehingga mahasiswa harus membacanya dengan cermat.
+
+Menurutnya, pengajar biasanya memilih kitab turats untuk dipelajari di kelas, kemudian menerangkan isinya agar mahasiswa dapat memahami ungkapan-ungkapan yang digunakan pengarang. Karena itu, ketika membaca tafsir Ibn 'Athiyyah, mahasiswa harus memperhatikan bukan hanya arti ayat, melainkan juga cara pengarang menjelaskan struktur bahasa, maksud kalimat, persoalan balaghah, dan hubungan antarayat.
+
+Pembahasan kemudian dimulai dari firman Allah dalam Surah al-A'raf:
+
+**﴿كِتَابٌ أُنْزِلَ إِلَيْكَ فَلَا يَكُنْ فِي صَدْرِكَ حَرَجٌ مِنْهُ لِتُنْذِرَ بِهِ وَذِكْرَىٰ لِلْمُؤْمِنِينَ﴾**
+
+Artinya secara umum: sebuah kitab diturunkan kepadamu, maka janganlah ada kesempitan dalam dadamu karenanya, agar engkau memberi peringatan dengannya dan menjadi pengingat bagi orang-orang yang beriman.
+
+Dosen menggunakan ayat ini untuk menjelaskan beberapa persoalan sekaligus, yakni makna kata **الحرج**, siapa yang menjadi sasaran larangan pada frasa **فَلَا يَكُنْ فِي صَدْرِكَ حَرَجٌ مِنْهُ**, fungsi kalimat sisipan dalam balaghah, tujuan peringatan dan pengingatan, serta penentuan siapa yang diperintahkan mengikuti wahyu dalam ayat berikutnya.
+
+# BAGIAN II. MAKNA KATA الحرج DALAM AYAT
+
+## 3. Hرج sebagai kesempitan, kegelisahan, dan kesedihan
+
+Dosen menanyakan makna kata **الحرج** dalam firman Allah:
+
+**﴿فَلَا يَكُنْ فِي صَدْرِكَ حَرَجٌ مِنْهُ﴾**
+
+Para mahasiswa mengemukakan beberapa kemungkinan makna, seperti kesempitan, kegelisahan, kesedihan, dan rasa tidak nyaman.
+
+Dosen menerima bahwa kata tersebut dapat dijelaskan dengan makna yang berkaitan dengan kesempitan atau kegelisahan. Dalam konteks ayat, maksudnya adalah agar Nabi Muhammad صلى الله عليه وسلم tidak merasa sempit, sedih, gelisah, atau terbebani oleh wahyu yang diturunkan kepadanya.
+
+Ia kemudian mempertanyakan apakah kata الحرج dapat ditafsirkan sebagai keraguan terhadap Al-Qur'an. Dosen menjawab bahwa meskipun keraguan disebut dalam sebagian penjelasan makna kata tersebut, makna itu tidak tepat digunakan untuk menafsirkan ayat ini menurut penjelasan yang ia sampaikan.
+
+Alasannya, Nabi Muhammad صلى الله عليه وسلم tidak meragukan kebenaran Al-Qur'an dan tidak meragukan turunnya wahyu kepadanya. Karena itu, menafsirkan الحرج dalam ayat ini sebagai keraguan Nabi terhadap Al-Qur'an tidak sesuai dengan maksud yang hendak ditegaskan dosen.
+
+Makna yang dipilih adalah kesempitan dada, kegelisahan, kesedihan, atau kekhawatiran ketika menghadapi penolakan manusia terhadap wahyu. Nabi diperintahkan agar tidak merasa tertekan oleh tugas menyampaikan Al-Qur'an, meskipun menghadapi orang-orang yang mendustakan, menentang, atau mengganggunya.
+
+Dengan demikian, penafsiran kata harus memperhatikan konteks ayat dan keadaan orang yang diajak bicara. Tidak semua kemungkinan makna leksikal suatu kata dapat diterapkan pada setiap konteks.
+
+## 4. Kepada siapa kata ganti dalam إليك ditujukan?
+
+Dosen mengajukan pertanyaan mengenai kata ganti dalam firman Allah:
+
+**﴿كِتَابٌ أُنْزِلَ إِلَيْكَ﴾**
+
+Kata **إليك** berarti “kepadamu”. Dosen menjelaskan bahwa yang dimaksud ialah Nabi Muhammad صلى الله عليه وسلم.
+
+Hal ini terlihat dari konteks ayat yang secara langsung berbicara kepada Nabi. Kitab yang dimaksud adalah Al-Qur'an yang diturunkan kepadanya untuk menjadi sarana memberi peringatan kepada manusia dan sebagai pengingat bagi orang-orang beriman.
+
+Penentuan pihak yang dituju oleh kata ganti ini penting karena membantu menjelaskan siapa yang dimaksud dalam frasa sesudahnya, yaitu **فَلَا يَكُنْ فِي صَدْرِكَ حَرَجٌ مِنْهُ**.
+
+Dosen kemudian beralih dari pembahasan makna kata menuju persoalan balaghah dan struktur kalimat. Ia menjelaskan bahwa bentuk lahiriah kalimat tidak selalu sama dengan sasaran makna yang sebenarnya dimaksudkan.
+
+# BAGIAN III. PENJELASAN BALAGHAH PADA FRASA فَلَا يَكُنْ فِي صَدْرِكَ حَرَجٌ مِنْهُ
+
+## 5. Mengapa larangan diarahkan kepada الحرج, padahal yang dituju sebenarnya Nabi?
+
+Dosen menjelaskan bahwa secara lahiriah, kalimat:
+
+**﴿فَلَا يَكُنْ فِي صَدْرِكَ حَرَجٌ مِنْهُ﴾**
+
+seolah-olah merupakan larangan yang diarahkan kepada الحرج itu sendiri, yaitu agar kesempitan atau kegelisahan tidak berada di dalam dada Nabi.
+
+Namun, menurut penjelasan dosen, rasa gelisah bukanlah sesuatu yang dapat menerima perintah atau larangan sebagaimana manusia yang mempunyai kesadaran, kehendak, dan kemampuan untuk melakukan atau meninggalkan suatu tindakan.
+
+Perintah dan larangan pada dasarnya ditujukan kepada pihak yang dapat memahami serta melaksanakan atau meninggalkan sesuatu. Karena itu, sasaran sebenarnya dari larangan tersebut adalah Nabi Muhammad صلى الله عليه وسلم, bukan rasa gelisah sebagai keadaan batin yang abstrak.
+
+Maksudnya adalah: janganlah engkau merasa sempit atau gelisah, wahai Rasulullah. Janganlah dadamu terbebani oleh wahyu dan tugas menyampaikannya.
+
+Dosen mencontohkan bahwa pengarang tafsir menjelaskan maknanya sebagai larangan kepada Nabi agar tidak mengalami kesempitan dada. Dengan demikian, bentuk kalimat diarahkan kepada keadaan الحرج, tetapi maksudnya adalah melarang Nabi mengalami keadaan tersebut.
+
+## 6. Mengapa ungkapan itu tidak langsung berbunyi فلا يحرج صدرك?
+
+Dosen menyebut bahwa secara lahiriah seseorang mungkin mengira lebih tepat apabila ungkapannya berbunyi:
+
+**فَلَا يَحْرَجْ صَدْرُكَ**
+
+atau langsung menyatakan agar dada Nabi tidak merasa sempit.
+
+Namun, ayat menggunakan ungkapan **فَلَا يَكُنْ فِي صَدْرِكَ حَرَجٌ مِنْهُ**. Dosen menjelaskan bahwa pemilihan bentuk kalimat tersebut memiliki tujuan balaghah.
+
+Larangan diarahkan kepada الحرج agar tidak timbul kesan bahwa Nabi Muhammad صلى الله عليه وسلم mungkin mengalami kegelisahan atau keraguan yang bertentangan dengan kedudukannya sebagai Rasul yang menerima wahyu.
+
+Dengan kata lain, redaksi tersebut dipandang sebagai salah satu cara untuk menjaga dan menegaskan kedudukan Nabi. Kalimat itu bukan dimaksudkan untuk menyatakan bahwa Nabi benar-benar meragukan wahyu, melainkan agar ia tidak merasa tertekan ketika menjalankan tugas yang diberikan kepadanya.
+
+Dosen menjelaskan bahwa terdapat beberapa sisi penekanan dalam ungkapan tersebut. Ia kemudian menerangkan fungsi kalimat sisipan dan menghubungkannya dengan konsep **الجملة الاعتراضية**.
+
+## 7. الجملة الاعتراضية: kalimat sisipan dalam balaghah
+
+Menurut penjelasan dosen, **الجملة الاعتراضية** adalah kalimat yang muncul di tengah suatu susunan kalimat atau ayat untuk tujuan balaghah tertentu, tanpa menjadi bagian langsung dari hubungan utama antara bagian sebelum dan sesudahnya.
+
+Dalam konteks ayat yang dibahas, dosen menilai frasa:
+
+**﴿فَلَا يَكُنْ فِي صَدْرِكَ حَرَجٌ مِنْهُ﴾**
+
+sebagai **جملة اعتراضية**.
+
+Ia memberikan contoh bentuk susunan yang secara makna dapat dipahami tanpa bagian sisipan tersebut. Jika susunannya hanya berbunyi:
+
+**كِتَابٌ أُنْزِلَ إِلَيْكَ لِتُنْذِرَ بِهِ**
+
+maka rangkaian itu sudah dapat dipahami sebagai pernyataan bahwa sebuah kitab diturunkan kepada Nabi untuk memberikan peringatan dengannya.
+
+Akan tetapi, di antara kedua bagian tersebut Allah menyisipkan kalimat:
+
+**فَلَا يَكُنْ فِي صَدْرِكَ حَرَجٌ مِنْهُ**
+
+Menurut dosen, kalimat tersebut mempunyai tujuan balaghah tersendiri, yakni **التنزيه**, yaitu menegaskan kesucian atau keluhuran pihak yang sedang dibicarakan dari sesuatu yang tidak layak dinisbatkan kepadanya.
+
+Dalam konteks ayat, dosen menjelaskan bahwa tujuan itu berkaitan dengan pemeliharaan kedudukan Nabi Muhammad صلى الله عليه وسلم.
+
+## 8. Contoh الجملة الاعتراضية dalam ayat lain
+
+Untuk menjelaskan fungsi kalimat sisipan, dosen mengutip firman Allah:
+
+**﴿وَيَجْعَلُونَ لِلَّهِ الْبَنَاتِ سُبْحَانَهُ وَلَهُمْ مَا يَشْتَهُونَ﴾**
+
+Ia menjelaskan bahwa rangkaian **وَيَجْعَلُونَ لِلَّهِ الْبَنَاتِ** dan **وَلَهُمْ مَا يَشْتَهُونَ** mempunyai hubungan makna yang dapat dipahami. Di antara keduanya terdapat kata:
+
+**سُبْحَانَهُ**
+
+Menurut penjelasan dosen, kata tersebut menjadi bentuk penyucian Allah dari anggapan yang tidak layak bagi-Nya. Kata itu hadir sebagai sisipan yang memiliki tujuan balaghah, bukan sekadar unsur yang tidak bermakna.
+
+Dosen menggunakan contoh ini untuk menunjukkan bahwa kalimat sisipan dalam Al-Qur'an dapat memberikan fungsi yang penting, misalnya untuk mengagungkan Allah dan menegaskan kesucian-Nya.
+
+Dalam ayat yang sedang dibahas, **فَلَا يَكُنْ فِي صَدْرِكَ حَرَجٌ مِنْهُ** juga dipahami sebagai kalimat sisipan dengan tujuan balaghah, yakni menegaskan kedudukan Nabi dan menghindari kesan yang tidak pantas mengenai keadaan batinnya ketika menerima wahyu.
+
+Dengan demikian, mahasiswa harus mampu mengenali bahwa suatu kalimat dapat hadir di tengah ayat untuk tujuan retoris tertentu. Ketika ditanya jenis kalimatnya, jawaban yang diajarkan dosen adalah **جملة اعتراضية**.
+
+# BAGIAN IV. TUJUAN INZAR DAN DZIKRA
+
+## 9. Makna لتنذر به وذكرى للمؤمنين
+
+Setelah menjelaskan kalimat sisipan, dosen kembali kepada lanjutan ayat:
+
+**﴿لِتُنْذِرَ بِهِ وَذِكْرَىٰ لِلْمُؤْمِنِينَ﴾**
+
+Ia menjelaskan bahwa Al-Qur'an diturunkan kepada Nabi Muhammad صلى الله عليه وسلم agar digunakan untuk memberikan peringatan dan pengingatan.
+
+Kata **لِتُنْذِرَ** berkaitan dengan **الإنذار**, yaitu memberikan peringatan mengenai akibat buruk yang dapat menimpa orang yang menolak kebenaran atau melakukan pelanggaran.
+
+Sementara itu, **ذِكْرَىٰ** berkaitan dengan pengingatan, nasihat, dan peringatan yang memberikan manfaat bagi orang yang mau menerima pelajaran.
+
+Dosen menjelaskan bahwa sasaran utama الإنذار dalam konteks ayat adalah orang-orang kafir, kaum musyrik, serta orang-orang yang melakukan kemaksiatan. Akan tetapi, peringatan tidak hanya terbatas kepada orang yang belum beriman, sebab orang beriman yang melakukan kemaksiatan juga dapat menjadi pihak yang perlu diingatkan.
+
+Ia kemudian menghubungkan fungsi peringatan dengan firman Allah:
+
+**﴿يَا أَيُّهَا النَّبِيُّ إِنَّا أَرْسَلْنَاكَ شَاهِدًا وَمُبَشِّرًا وَنَذِيرًا ۝ وَدَاعِيًا إِلَى اللَّهِ بِإِذْنِهِ وَسِرَاجًا مُنِيرًا﴾**
+
+Dosen menggunakan ayat ini untuk menunjukkan bahwa Rasul mempunyai tugas sebagai pemberi peringatan, pembawa kabar gembira, saksi, dan penyeru kepada Allah.
+
+## 10. Perbedaan fungsi الإنذار dan الذكرى
+
+Menurut penjelasan dosen, **الإنذار** terutama berkaitan dengan peringatan terhadap orang yang menolak atau melanggar, sedangkan **الذكرى** terutama berkaitan dengan pengingatan bagi orang beriman.
+
+Ia mengaitkannya dengan firman Allah:
+
+**﴿وَذَكِّرْ فَإِنَّ الذِّكْرَىٰ تَنْفَعُ الْمُؤْمِنِينَ﴾**
+
+Artinya, berilah peringatan karena pengingatan itu bermanfaat bagi orang-orang yang beriman.
+
+Dengan demikian, Al-Qur'an mempunyai fungsi yang mencakup kedua kelompok tersebut. Orang yang mendustakan kebenaran perlu diperingatkan mengenai akibat penolakannya, sedangkan orang yang beriman perlu terus diingatkan agar tetap mengikuti petunjuk Allah.
+
+Dosen menekankan bahwa fungsi ayat tidak terbatas pada satu kelompok saja. Peringatan dapat ditujukan kepada orang kafir dan orang yang bermaksiat, sedangkan pengingatan secara khusus ditekankan bagi orang beriman.
+
+Pembahasan ini kemudian mengantarkan mahasiswa kepada ayat berikutnya, yang memerintahkan manusia mengikuti wahyu yang diturunkan dari Allah dan tidak mengikuti pihak lain sebagai pelindung atau penguasa selain-Nya.
+
+# BAGIAN V. TAFSIR FIRMAN ALLAH اتَّبِعُوا مَا أُنْزِلَ إِلَيْكُمْ مِنْ رَبِّكُمْ
+
+## 11. Kepada siapa perintah اتبعوا ditujukan?
+
+Dosen kemudian membahas firman Allah:
+
+**﴿اتَّبِعُوا مَا أُنْزِلَ إِلَيْكُمْ مِنْ رَبِّكُمْ وَلَا تَتَّبِعُوا مِنْ دُونِهِ أَوْلِيَاءَ﴾**
+
+Artinya secara umum, ikutilah apa yang diturunkan kepada kalian dari Tuhan kalian dan janganlah mengikuti pelindung-pelindung selain-Nya.
+
+Persoalan pertama adalah siapa yang menjadi sasaran kata **اتبعوا**.
+
+Dalam perkuliahan, dosen menjelaskan bahwa para penafsir berbeda pendapat. Sebagian memandang bahwa perintah tersebut ditujukan kepada orang-orang kafir, sebagian memandangnya ditujukan kepada orang-orang beriman, dan sebagian lainnya menilai bahwa perintah itu ditujukan kepada seluruh manusia.
+
+Ada pihak yang menafsirkan sasaran ayat berdasarkan konteks ayat-ayat sesudahnya. Karena ayat berbicara mengenai hukuman dan nasib umat yang menolak perintah Allah, mereka memahami bahwa perintah mengikuti wahyu secara khusus diarahkan kepada orang kafir.
+
+Namun, dosen menilai bahwa penafsiran berdasarkan ayat sesudahnya saja belum cukup. Ia mengingatkan bahwa ayat sebelumnya memuat frasa **وَذِكْرَىٰ لِلْمُؤْمِنِينَ**, yaitu bahwa wahyu juga menjadi pengingat bagi orang beriman.
+
+Karena itu, penafsiran harus memperhatikan ayat sebelumnya dan sesudahnya sekaligus. Jika hanya melihat ayat sesudahnya, seseorang mungkin menyimpulkan bahwa sasaran perintah hanyalah orang kafir. Akan tetapi, jika ayat sebelumnya juga diperhatikan, jelas bahwa orang beriman turut menjadi penerima pengingatan melalui wahyu.
+
+Dosen menyampaikan bahwa pandangan yang lebih kuat menurut penjelasan yang ia pilih adalah bahwa perintah tersebut mencakup manusia secara umum, baik orang beriman maupun orang kafir.
+
+Alasannya, orang kafir diperintahkan mengikuti wahyu yang disampaikan Rasulullah صلى الله عليه وسلم, sedangkan orang beriman juga diperintahkan untuk mengikuti wahyu tersebut.
+
+## 12. Penjelasan Ibn 'Athiyyah tentang sasaran perintah
+
+Dosen kemudian mengutip penjelasan Ibn 'Athiyyah. Ia menerangkan bahwa ketika pengarang tafsir menulis **قال القاضي أبو محمد**, yang dimaksud adalah Ibn 'Athiyyah sendiri.
+
+Dalam pembahasan kitab tafsir, Ibn 'Athiyyah menggunakan sebutan **القاضي أبو محمد** untuk merujuk kepada dirinya. Dosen menegaskan agar mahasiswa mengenali kebiasaan tersebut, sebab pembaca kitab harus mampu mengetahui siapa yang sedang dirujuk oleh ungkapan pengarang.
+
+Menurut penjelasan yang dibacakan dosen, Ibn 'Athiyyah memandang bahwa perintah **اتبعوا** secara zahir merupakan perintah yang ditujukan kepada seluruh manusia.
+
+Dosen kemudian menjelaskan hubungan antara ayat:
+
+**﴿لِتُنْذِرَ بِهِ﴾**
+
+dan ayat:
+
+**﴿اتَّبِعُوا مَا أُنْزِلَ إِلَيْكُمْ مِنْ رَبِّكُمْ﴾**
+
+Pada bagian pertama, Allah berbicara kepada Nabi Muhammad صلى الله عليه وسلم dengan memerintahkannya memberi peringatan menggunakan Al-Qur'an. Pada bagian berikutnya, perintah mengikuti wahyu disampaikan dalam bentuk jamak, sehingga sasaran perintah mencakup orang-orang yang menerima peringatan tersebut.
+
+Dosen menjelaskan bahwa apa yang diperingatkan oleh Rasulullah صلى الله عليه وسلم juga merupakan peringatan bagi umatnya. Karena itu, meskipun Nabi menjadi pihak yang secara langsung menerima perintah untuk menyampaikan wahyu, manusia yang menjadi penerima risalah juga berkewajiban mengikuti petunjuk tersebut.
+
+Dengan demikian, perubahan bentuk sapaan dari Nabi sebagai satu orang kepada manusia dalam bentuk jamak tidak berarti kedua bagian ayat terpisah tanpa hubungan. Keduanya berkaitan melalui fungsi risalah: Nabi menyampaikan peringatan, lalu manusia diperintahkan mengikuti apa yang disampaikan kepadanya.
+
+## 13. Allah terkadang berbicara kepada Nabi dengan maksud yang mencakup umatnya
+
+Dosen memperluas penjelasan ini dengan contoh firman Allah:
+
+**﴿يَا أَيُّهَا النَّبِيُّ اتَّقِ اللَّهَ﴾**
+
+Artinya, wahai Nabi, bertakwalah kepada Allah.
+
+Ia bertanya kepada mahasiswa apakah Nabi Muhammad صلى الله عليه وسلم tidak bertakwa sehingga perlu diperintahkan untuk bertakwa.
+
+Menurut penjelasan dosen, Nabi صلى الله عليه وسلم tidak pernah kehilangan ketakwaannya. Karena itu, perintah tersebut tidak harus dipahami sebagai perintah baru yang mengandaikan bahwa sebelumnya beliau tidak bertakwa.
+
+Dosen menjelaskan bahwa terkadang Allah menyampaikan perintah kepada Nabi, tetapi maksudnya juga mencakup umat Nabi. Dalam ungkapan penjelasannya, Allah seolah-olah mengingatkan umat Nabi melalui sapaan kepada Nabi itu sendiri.
+
+Ia menggunakan pola serupa untuk memahami ayat:
+
+**﴿يَا أَيُّهَا النَّبِيُّ إِذَا طَلَّقْتُمُ النِّسَاءَ﴾**
+
+Artinya, wahai Nabi, apabila kalian menceraikan perempuan-perempuan.
+
+Dosen menggarisbawahi bahwa pada bagian tersebut sapaan dimulai dengan ungkapan tunggal **يَا أَيُّهَا النَّبِيُّ**, tetapi kata kerja dan pronomina berikutnya menggunakan bentuk jamak **طَلَّقْتُمُ**.
+
+Contoh tersebut dipakai untuk menunjukkan bahwa sebuah ayat dapat memulai dengan sapaan kepada Nabi, tetapi kandungan perintahnya juga ditujukan kepada umat beliau.
+
+Dosen menjelaskan bahwa memahami pola sapaan semacam ini penting agar mahasiswa tidak menganggap setiap perintah yang ditujukan kepada Nabi menunjukkan bahwa beliau sebelumnya tidak memiliki sifat yang diperintahkan.
+
+## 14. Perintah bertakwa sebagai استمرار, bukan perintah yang mengandaikan ketidaktakwaan sebelumnya
+
+Dosen kemudian menjelaskan bahwa perintah kepada Nabi agar bertakwa dapat dipahami sebagai perintah untuk tetap bertakwa, terus-menerus menjaganya, dan mempertahankan ketaatan.
+
+Dalam ungkapan dosen, maksudnya ialah:
+
+**دُمْ وَوَاظِبْ وَاسْتَمِرَّ عَلَى تَقْوَى اللَّهِ تَعَالَى**
+
+Artinya, tetaplah, biasakanlah, dan teruslah berada dalam ketakwaan kepada Allah.
+
+Menurut penjelasan ini, perintah tersebut tidak menunjukkan bahwa Nabi baru mulai bertakwa setelah menerima perintah itu. Sebaliknya, perintah tersebut mendorong kesinambungan suatu keadaan yang telah ada.
+
+Dosen mengatakan bahwa frasa perintah itu dapat dipahami sebagai **أمر استئناف**, yaitu perintah baru yang berdiri sendiri dalam konteks pembicaraan, bukan selalu jawaban atas suatu kesalahan tertentu yang telah dilakukan Nabi.
+
+Ia menggunakan penjelasan ini untuk menegaskan bahwa perintah bertakwa kepada Nabi tidak berarti Nabi sebelumnya tidak bertakwa.
+
+## 15. Pembicaraan tentang talak Hafshah dalam rekaman
+
+Dosen mengajukan pertanyaan apakah terdapat hadis sahih yang menyatakan bahwa Nabi Muhammad صلى الله عليه وسلم menceraikan istri-istrinya.
+
+Ia menyatakan bahwa dalam Sunnah tidak terdapat hadis sahih yang membuktikan bahwa Nabi menceraikan istri-istrinya sebagaimana yang sedang dibicarakan. Ia secara khusus menyebut riwayat yang menyatakan bahwa Nabi menceraikan Hafshah, putri Umar bin al-Khaththab, dan mengatakan bahwa riwayat tersebut dinilai lemah.
+
+Dosen juga menyebut ayat:
+
+**﴿عَسَىٰ رَبُّهُ إِنْ طَلَّقَكُنَّ أَنْ يُبْدِلَهُ أَزْوَاجًا خَيْرًا مِنْكُنَّ مُسْلِمَاتٍ مُؤْمِنَاتٍ قَانِتَاتٍ عَابِدَاتٍ سَائِحَاتٍ ثَيِّبَاتٍ وَأَبْكَارًا﴾**
+
+Ia menjelaskan bahwa para ulama tafsir membicarakan ungkapan **عَسَىٰ** dalam Al-Qur'an. Dalam perkuliahan ini, dosen menyebut klaim bahwa seluruh ungkapan *'asā* dalam Al-Qur'an terwujud, kecuali ayat mengenai kemungkinan Nabi menceraikan istri-istrinya.
+
+Menurut penjelasan dosen, tidak ada riwayat sahih yang menetapkan bahwa Nabi benar-benar menceraikan istri-istrinya sebagaimana yang dimaksud dalam persoalan tersebut. Riwayat mengenai perceraian Hafshah dinilainya lemah.
+
+Pernyataan ini merupakan penjelasan dan penilaian dosen dalam rekaman, bukan hasil verifikasi hadis yang dilakukan dalam rekonstruksi materi ini.
+
+# BAGIAN VI. MAKNA أَوْلِيَاء DAN RUJUKAN KATA GANTI دونه
+
+## 16. Siapa yang dimaksud dengan أولياء?
+
+Dosen kemudian menjelaskan kata **أَوْلِيَاء** dalam firman Allah:
+
+**﴿وَلَا تَتَّبِعُوا مِنْ دُونِهِ أَوْلِيَاءَ﴾**
+
+Dalam penjelasan dosen, kata *awliyā’* di sini mencakup berhala, pihak-pihak yang dijadikan pelindung atau sesembahan selain Allah, para pengikut atau pemimpin yang diikuti dalam kebatilan, serta pihak-pihak lain yang disembah selain Allah.
+
+Ia juga menyebut **الكهان** dan **الأحبار**, yaitu kelompok yang dalam konteks penjelasannya dikaitkan dengan orang-orang yang memiliki kedudukan keagamaan atau memberikan petunjuk yang diikuti manusia. Dosen turut menyebut para penyembah benda-benda langit, yaitu orang-orang yang mengarahkan penyembahan kepada benda langit selain Allah.
+
+Inti penjelasannya adalah bahwa perintah tersebut melarang manusia meninggalkan petunjuk yang diturunkan Allah lalu mengikuti pihak lain yang dijadikan pelindung, pengarah, atau sesembahan selain-Nya.
+
+## 17. Kepada apa kata ganti dalam من دونه kembali?
+
+Dosen kemudian membahas persoalan kebahasaan yang berkaitan dengan rujukan kata ganti dalam frasa:
+
+**﴿مِنْ دُونِهِ﴾**
+
+Ia menjelaskan bahwa terdapat perbedaan pendapat mengenai kata yang menjadi rujukan kata ganti **ـه** pada kata **دونه**.
+
+Sebagian ulama memandang bahwa kata ganti itu kembali kepada **رَبِّكُمْ**, yakni Allah sebagai Tuhan yang disebut dalam frasa sebelumnya:
+
+**﴿مَا أُنْزِلَ إِلَيْكُمْ مِنْ رَبِّكُمْ﴾**
+
+Sebagian lainnya memandang bahwa kata ganti tersebut kembali kepada **الكتاب**, yakni kitab yang disebut pada awal pembahasan.
+
+Dosen kemudian mengajarkan kaidah umum yang digunakan dalam menentukan rujukan kata ganti, yaitu bahwa kata ganti pada dasarnya dikembalikan kepada kata yang paling dekat sebelumnya, selama tidak ada petunjuk yang menghalangi pemahaman tersebut.
+
+Dalam bahasa dosen:
+
+**الأولى أن يعود الضمير إلى أقرب مذكور**
+
+Artinya, yang lebih utama ialah mengembalikan kata ganti kepada kata yang disebut paling dekat sebelumnya.
+
+Berdasarkan kaidah tersebut, ia menilai bahwa rujukan kata ganti dalam frasa **مِنْ دُونِهِ** lebih tepat dikembalikan kepada **رَبِّكُمْ**, yaitu Allah, karena itulah kata yang paling dekat dalam susunan tersebut.
+
+Namun, dosen tidak menyembunyikan adanya perbedaan pendapat. Ia menjelaskan bahwa sebagian ulama mengembalikan kata ganti tersebut kepada kitab, sedangkan yang lain mengembalikannya kepada Tuhan.
+
+Setelah menerangkan perbedaan tersebut, dosen menyampaikan pilihannya berdasarkan kaidah kedekatan rujukan kata ganti.
+
+## 18. Makna اتبعوا ما أنزل إليكم: apakah hanya Al-Qur'an atau termasuk Sunnah?
+
+Dosen kemudian mengajukan pertanyaan mengenai apa yang dimaksud dengan **مَا أُنْزِلَ إِلَيْكُمْ**, yaitu sesuatu yang diturunkan kepada manusia dari Tuhan mereka.
+
+Apakah yang dimaksud hanya Al-Qur'an, atau Al-Qur'an bersama Sunnah Nabi Muhammad صلى الله عليه وسلم?
+
+Menurut penjelasan dosen, yang dimaksud mencakup Al-Qur'an dan Sunnah. Ia menegaskan bahwa Sunnah juga merupakan wahyu, meskipun cara turunnya tidak harus sama dengan cara turunnya Al-Qur'an sebagai kitab yang dibacakan.
+
+Ia menghubungkan pendapat itu dengan firman Allah:
+
+**﴿وَمَا يَنْطِقُ عَنِ الْهَوَىٰ ۝ إِنْ هُوَ إِلَّا وَحْيٌ يُوحَىٰ﴾**
+
+Ayat tersebut digunakan dosen untuk menjelaskan bahwa apa yang disampaikan Rasulullah صلى الله عليه وسلم dalam konteks risalah bukan sekadar berasal dari hawa nafsu, tetapi berkaitan dengan wahyu Allah.
+
+Ia juga mengutip firman Allah:
+
+**﴿وَأَنْزَلْنَا إِلَيْكَ الذِّكْرَ لِتُبَيِّنَ لِلنَّاسِ مَا نُزِّلَ إِلَيْهِمْ﴾**
+
+Menurut penjelasan dosen, ayat ini menunjukkan fungsi Rasul dalam menerangkan apa yang diturunkan kepada manusia.
+
+Dosen juga menyebut firman Allah:
+
+**﴿وَمَا آتَاكُمُ الرَّسُولُ فَخُذُوهُ وَمَا نَهَاكُمْ عَنْهُ فَانْتَهُوا﴾**
+
+Ayat tersebut menjadi bagian dari argumentasinya bahwa manusia diperintahkan menerima apa yang dibawa Rasul dan meninggalkan apa yang dilarangnya.
+
+Berdasarkan dalil-dalil tersebut, dosen menjelaskan bahwa mengikuti apa yang diturunkan dari Allah tidak dapat dibatasi hanya pada Al-Qur'an dengan mengesampingkan Sunnah.
+
+# BAGIAN VII. BANTAHAN TERHADAP PANDANGAN YANG MENOLAK SUNNAH
+
+## 19. Fungsi Sunnah dalam menjelaskan Al-Qur'an
+
+Dosen kemudian mengkritik pandangan kelompok yang disebut **القرآنيون**, yaitu orang-orang yang menganggap Al-Qur'an saja sudah cukup dan Sunnah Nabi tidak diperlukan sebagai sumber petunjuk.
+
+Ia bertanya bagaimana mereka menjelaskan secara terperinci kewajiban salat dan ibadah lainnya jika mereka hanya menerima Al-Qur'an tanpa Sunnah.
+
+Sebagai contoh, dosen bertanya dari mana diketahui bahwa salat Zuhur terdiri atas empat rakaat, bagaimana tata cara pelaksanaan salat, bagaimana waktu-waktu salat ditentukan secara terperinci, serta bagaimana tata cara ibadah haji dilaksanakan.
+
+Ia juga menyebut puasa Ramadan, terutama ketentuan mulai berpuasa sejak fajar dan berbuka setelah matahari terbenam. Menurut penjelasannya, rincian praktik semacam itu tidak dapat diperoleh hanya dari ayat-ayat yang dibacakan tanpa penjelasan Sunnah.
+
+Dosen menegaskan bahwa Al-Qur'an banyak memberikan perintah dalam bentuk umum atau ringkas. Sunnah kemudian menjelaskan dan merinci ketentuan yang disebutkan dalam Al-Qur'an.
+
+Dalam penjelasannya, fungsi Sunnah mencakup menerangkan ketentuan yang masih **مجمل**, menjelaskan makna ayat, memberikan perincian, mengkhususkan ketentuan umum, dan memberikan batasan terhadap ketentuan yang disampaikan secara mutlak.
+
+Dengan demikian, menurut dosen, memahami Al-Qur'an memerlukan penjelasan Rasulullah صلى الله عليه وسلم. Sunnah bukan sumber yang boleh dipisahkan begitu saja dari Al-Qur'an, sebab Sunnah berfungsi menerangkan bagaimana wahyu itu dipahami dan dilaksanakan.
+
+## 20. Al-Qur'an dan Sunnah berasal dari sumber wahyu yang sama
+
+Dosen merangkum argumentasinya melalui gagasan bahwa Al-Qur'an dan Sunnah berkaitan dengan wahyu, dan karena itu keduanya harus dipahami dalam hubungan yang saling melengkapi.
+
+Ia menggunakan istilah bahwa Al-Qur'an dan Sunnah keluar dari **مشكاة واحدة**, yaitu satu sumber atau pancaran yang sama dalam konteks asal petunjuknya.
+
+Yang dimaksud dalam penjelasan itu adalah bahwa Sunnah Rasulullah صلى الله عليه وسلم bukan sesuatu yang boleh diabaikan ketika menafsirkan Al-Qur'an.
+
+Dosen juga mengutip:
+
+**﴿وَمَا يَنْطِقُ عَنِ الْهَوَىٰ إِنْ هُوَ إِلَّا وَحْيٌ يُوحَىٰ﴾**
+
+dan:
+
+**﴿وَأَنْزَلْنَا إِلَيْكَ الذِّكْرَ لِتُبَيِّنَ لِلنَّاسِ مَا نُزِّلَ إِلَيْهِمْ﴾**
+
+Dalam argumentasinya, ayat-ayat ini menunjukkan bahwa Nabi mempunyai tugas menjelaskan apa yang diturunkan kepada manusia. Oleh karena itu, mengikuti wahyu meliputi mengikuti Al-Qur'an dan memperhatikan Sunnah yang menjelaskan maksud Al-Qur'an.
+
+Dosen juga menyampaikan bahwa penafsiran Ibn 'Athiyyah mengenai perintah **اتبعوا** dapat dipahami sebagai perintah mengikuti ajaran Islam dan Al-Qur'an. Kemudian ia menghubungkan hal itu dengan Sunnah Rasul, yang menjadi penjelasan tentang bagaimana ajaran Islam tersebut dilaksanakan.
+
+# BAGIAN VIII. QIRA'AT SYADZDAH DAN PENGGUNAANNYA DALAM TAFSIR
+
+## 21. Bacaan yang dinisbatkan kepada tafsir: اتبعوا ملة رسول
+
+Dalam pembahasan mengenai firman Allah **اتبعوا ما أنزل إليكم**, dosen menyebut adanya bacaan yang berbeda dengan redaksi yang umum dikenal.
+
+Ia menyinggung ungkapan yang berbunyi **اتبعوا ملة رسول** atau bacaan yang mengandung makna mengikuti agama Rasul. Dalam rekaman, penjelasan tentang bentuk persis bacaan tersebut tidak terdengar secara sempurna, tetapi dosen menyebutnya sebagai **قراءة شاذة**, yaitu bacaan syadz atau bacaan yang tidak termasuk bacaan Al-Qur'an yang diterima berdasarkan persyaratan yang dijelaskan dalam kuliah.
+
+Dosen kemudian mengajukan pertanyaan: apakah qira'at syadz boleh diterima, mengapa tidak diterima sebagai bacaan Al-Qur'an yang sah, dan apakah qira'at tersebut masih mempunyai manfaat dalam penafsiran?
+
+Ia menjelaskan bahwa bacaan yang diterima sebagai qira'at Al-Qur'an harus memenuhi tiga syarat utama.
+
+## 22. Tiga syarat qira'at yang diterima
+
+Menurut penjelasan dosen, qira'at yang diterima harus memenuhi syarat-syarat berikut.
+
+Pertama, **صحة السند**, yaitu sanadnya sahih dan tersambung kepada Rasulullah صلى الله عليه وسلم. Dalam uraian dosen, bacaan tersebut harus diriwayatkan melalui jalur yang kuat, dengan banyak perawi yang menyampaikannya dari generasi ke generasi, sampai kepada Nabi.
+
+Kedua, **موافقة الرسم العثماني**, yaitu sesuai dengan rasm atau bentuk tulisan mushaf Utsmani. Bacaan yang tidak sesuai dengan rasm tersebut tidak memenuhi persyaratan penerimaan yang dijelaskan dosen.
+
+Ketiga, **موافقة وجه من وجوه اللغة العربية**, yaitu sesuai dengan salah satu kemungkinan yang sah dalam bahasa Arab. Dosen menekankan bahwa bacaan tidak harus mengikuti hanya satu bentuk bahasa tertentu; cukup terdapat satu bentuk penggunaan bahasa Arab yang dapat diterima untuk menjelaskan bacaan itu.
+
+Dosen kemudian membacakan sebuah ungkapan nazam mengenai kaidah penerimaan qira'at. Redaksi yang terdengar dalam rekaman berbunyi kira-kira:
+
+**«فَكُلُّ مَا وَافَقَ وَجْهَ نَحْوٍ، وَكَانَ لِلرَّسْمِ احْتِمَالًا يَحْوِي، وَصَحَّ إِسْنَادًا، هُوَ الْقُرْآنُ»**
+
+Redaksi tersebut tidak terdengar seluruhnya dengan sempurna dalam transkrip, sehingga bentuk persis nazamnya tidak dapat dipastikan. Namun, dosen menggunakan ungkapan itu untuk mengingatkan tiga unsur yang telah ia jelaskan, yakni kesesuaian dengan bahasa Arab, kesesuaian dengan rasm, dan sahnya sanad.
+
+Dalam pembahasan yang disampaikan, bacaan yang tidak memenuhi persyaratan tersebut disebut sebagai qira'at syadz.
+
+## 23. Mengapa qira'at syadz tidak diterima sebagai bacaan Al-Qur'an?
+
+Dosen menjelaskan bahwa suatu bacaan tidak dapat diterima sebagai qira'at Al-Qur'an yang sah jika tidak memenuhi syarat-syarat tersebut.
+
+Ia menyebut masalah periwayatan yang tidak mencapai tingkat yang diperlukan, ketidaksesuaian dengan rasm Utsmani, dan persoalan lain yang berkaitan dengan penerimaan bacaan.
+
+Dalam konteks pelajaran, dosen menekankan bahwa qira'at yang sahih harus mempunyai sanad yang memadai sampai kepada Nabi, sesuai dengan rasm mushaf Utsmani, dan sesuai dengan kaidah bahasa Arab.
+
+Dengan demikian, suatu bacaan tidak cukup hanya karena maknanya tampak baik atau karena seseorang menemukannya dalam riwayat tertentu. Bacaan tersebut harus diperiksa berdasarkan persyaratan penerimaan qira'at.
+
+Dosen menggunakan pembahasan ini untuk menjelaskan mengapa qira'at syadz dibedakan dari bacaan yang diterima sebagai Al-Qur'an.
+
+## 24. Apakah qira'at syadz sama sekali tidak berguna?
+
+Walaupun qira'at syadz tidak diterima sebagai bacaan Al-Qur'an berdasarkan syarat-syarat yang dibahas, dosen menegaskan bahwa qira'at tersebut masih dapat mempunyai manfaat dalam penafsiran.
+
+Ia menjelaskan bahwa para ulama terkadang menyebut qira'at syadz dalam kitab tafsir untuk membantu menjelaskan makna suatu ayat. Bacaan tersebut dapat memberikan petunjuk tentang bagaimana sebagian generasi awal memahami atau menafsirkan kata-kata dalam ayat.
+
+Dosen menyebut Aisyah رضي الله عنها dan Abdullah bin Mas'ud sebagai tokoh yang berkaitan dengan keberadaan bacaan yang dicatat dalam mushaf atau riwayat mereka. Dalam penjelasannya, bacaan-bacaan tersebut digunakan untuk memperjelas makna ayat.
+
+Karena itu, perbedaan harus dipahami antara menerima suatu bacaan sebagai bagian dari qira'at Al-Qur'an yang sah dan memanfaatkan sebuah riwayat bacaan sebagai alat bantu tafsir.
+
+Menurut dosen, tidak diterimanya suatu qira'at sebagai bacaan Al-Qur'an yang memenuhi syarat tidak berarti bahwa keterangan tersebut tidak boleh disebut sama sekali dalam pembahasan makna. Qira'at syadz dapat dibicarakan oleh para ulama ketika menjelaskan makna tertentu, selama statusnya tidak dicampuradukkan dengan qira'at yang diterima.
+
+# BAGIAN IX. CONTOH QIRA'AT SYADZ DALAM PENAFSIRAN AYAT POLIGAMI
+
+## 25. Firman Allah tentang keadilan terhadap para istri
+
+Dosen kemudian mengutip firman Allah dalam Surah al-Nisa':
+
+**﴿وَلَنْ تَسْتَطِيعُوا أَنْ تَعْدِلُوا بَيْنَ النِّسَاءِ وَلَوْ حَرَصْتُمْ فَلَا تَمِيلُوا كُلَّ الْمَيْلِ فَتَذَرُوهَا كَالْمُعَلَّقَةِ﴾**
+
+Artinya secara umum, manusia tidak akan mampu berlaku adil sepenuhnya di antara para istri meskipun sangat menginginkannya; karena itu, janganlah terlalu condong kepada salah seorang hingga membiarkan yang lain seperti perempuan yang tergantung.
+
+Dosen menjelaskan bahwa terdapat bacaan yang dinisbatkan kepada Aisyah رضي الله عنها dengan tambahan ungkapan:
+
+**﴿فَتَذَرُوهَا كَالْمَسْجُونَةِ﴾**
+
+Dalam rekaman, bacaan tersebut dibicarakan sebagai bentuk qira'at syadz yang digunakan untuk menjelaskan makna **كَالْمُعَلَّقَةِ**.
+
+Kata **المعلَّقة** dalam ayat dipahami sebagai perempuan yang ditinggalkan dalam keadaan tergantung: ia tidak memperoleh kehidupan perkawinan secara wajar, tetapi juga tidak diceraikan sehingga dapat menikah dengan orang lain.
+
+Dosen menjelaskan bahwa kata tersebut dapat dipahami dengan bantuan ungkapan **المسجونة**, yaitu seperti perempuan yang terkurung atau tertahan. Penggunaan kata itu menjadi gambaran bahwa perempuan tidak memperoleh haknya sebagai istri secara layak, tetapi pada saat yang sama tidak dilepaskan untuk melanjutkan kehidupan dengan pasangan lain.
+
+## 26. Ilustrasi perempuan yang tidak dilepaskan dan tidak diperlakukan sebagai istri
+
+Untuk memudahkan pemahaman, dosen menggunakan istilah percakapan sehari-hari yang menggambarkan keadaan seorang perempuan yang tidak benar-benar menjadi istri dalam praktik, tetapi juga tidak diceraikan.
+
+Dalam ilustrasinya, seorang laki-laki dapat mengatakan bahwa ia akan membiarkan perempuan itu begitu saja. Ia tidak memperlakukannya dengan baik sebagai istri, tetapi tidak pula memberikan kebebasan kepadanya untuk menikah dengan laki-laki lain.
+
+Dosen menghubungkan keadaan tersebut dengan makna **كَالْمُعَلَّقَةِ** dalam ayat. Seorang perempuan tidak seharusnya dibiarkan dalam keadaan semacam itu hingga kehilangan hak-haknya.
+
+Ia menjelaskan bahwa yang dilarang bukan hanya tindakan yang tampak sebagai kekerasan fisik, tetapi juga perlakuan yang membuat istri kehilangan hak perkawinan tanpa mendapatkan penyelesaian yang adil.
+
+Dalam penjelasan dosen, suami yang meninggalkan istrinya tanpa memberikan hak hubungan perkawinan, tidak memenuhi kewajiban terhadapnya, dan tidak menceraikannya dapat menjadikan perempuan itu berada dalam keadaan tergantung.
+
+Dosen menggunakan qira'at yang disebut dalam rekaman untuk menunjukkan bagaimana suatu riwayat bacaan dapat membantu penafsir menerangkan makna kata dalam ayat. Sekali lagi, ia membedakan kegunaan penafsiran dari penerimaan bacaan sebagai qira'at Al-Qur'an yang memenuhi syarat.
+
+# BAGIAN X. BAGAIMANA MEMPERTEMUKAN AYAT TENTANG KEADILAN DAN POLIGAMI?
+
+## 27. Persoalan hubungan antara dua ayat
+
+Setelah menjelaskan makna perempuan yang tergantung, dosen mengajukan pertanyaan mengenai hubungan antara dua ayat.
+
+Ayat pertama berbunyi:
+
+**﴿وَلَنْ تَسْتَطِيعُوا أَنْ تَعْدِلُوا بَيْنَ النِّسَاءِ وَلَوْ حَرَصْتُمْ فَلَا تَمِيلُوا كُلَّ الْمَيْلِ فَتَذَرُوهَا كَالْمُعَلَّقَةِ﴾**
+
+Ayat kedua berbunyi:
+
+**﴿وَإِنْ خِفْتُمْ أَلَّا تُقْسِطُوا فِي الْيَتَامَىٰ فَانْكِحُوا مَا طَابَ لَكُمْ مِنَ النِّسَاءِ مَثْنَىٰ وَثُلَاثَ وَرُبَاعَ﴾**
+
+Ayat kedua berbicara tentang menikahi perempuan sebanyak dua, tiga, atau empat, dengan didahului keterangan mengenai kekhawatiran tidak berbuat adil terhadap anak-anak yatim.
+
+Dosen meminta mahasiswa menjelaskan bagaimana kedua ayat itu dipahami bersama. Secara sepintas, ayat pertama mengatakan bahwa manusia tidak akan mampu berlaku adil sepenuhnya di antara para istri, sedangkan ayat kedua memberikan kebolehan menikahi lebih dari satu istri.
+
+Persoalan yang perlu dijelaskan adalah: apabila keadilan sepenuhnya tidak dapat dicapai, bagaimana ketentuan kebolehan poligami dalam ayat yang lain dipahami?
+
+Dosen kemudian mengarahkan jawaban kepada pembedaan antara bentuk keadilan yang dapat dilaksanakan manusia dan kecenderungan batin yang tidak sepenuhnya berada dalam kendalinya.
+
+## 28. Perbedaan antara keadilan lahiriah dan kecenderungan hati
+
+Menurut penjelasan dosen, manusia dapat berusaha adil dalam hal-hal yang dapat diatur dan dilakukannya.
+
+Misalnya, suami dapat berusaha memberikan nafkah dengan jumlah yang seimbang, menyediakan pakaian, tempat tinggal, serta memperlakukan para istri dengan adil dalam hak-hak yang dapat dipenuhi.
+
+Dosen memberikan contoh seorang suami yang memberi nafkah seratus kepada satu istri dan seratus kepada istri yang lain. Ia dapat pula berusaha memberikan pakaian dan fasilitas yang sepadan, serta memenuhi kebutuhan rumah tangga masing-masing.
+
+Dalam aspek-aspek tersebut, dosen menyatakan bahwa keadilan dapat diusahakan. Apabila seorang suami tidak memenuhi keadilan yang mampu ia laksanakan, ia dapat dimintai pertanggungjawaban atas kelalaiannya.
+
+Akan tetapi, menurut penjelasan dosen, kecenderungan cinta dalam hati tidak sepenuhnya dapat diperintah sesuai keinginan manusia. Seseorang tidak mempunyai kendali penuh untuk membuat perasaan cintanya sama persis terhadap setiap orang.
+
+Karena itu, dosen menjelaskan bahwa ayat:
+
+**﴿وَلَنْ تَسْتَطِيعُوا أَنْ تَعْدِلُوا بَيْنَ النِّسَاءِ وَلَوْ حَرَصْتُمْ﴾**
+
+tidak dipahaminya sebagai larangan mutlak terhadap poligami. Menurut penjelasannya, ayat tersebut berbicara mengenai bentuk keadilan yang tidak dapat diwujudkan sepenuhnya, terutama dari sisi kecenderungan hati.
+
+Meskipun demikian, manusia diperintahkan untuk tidak membiarkan kecenderungan tersebut menyebabkan ketidakadilan dalam perkara yang berada dalam kendalinya.
+
+## 29. Tidak boleh condong sepenuhnya kepada salah satu istri
+
+Dosen kemudian menekankan lanjutan ayat:
+
+**﴿فَلَا تَمِيلُوا كُلَّ الْمَيْلِ فَتَذَرُوهَا كَالْمُعَلَّقَةِ﴾**
+
+Menurut penjelasannya, seseorang mungkin tidak mampu menyamakan cinta dalam hati kepada seluruh istrinya. Namun, ia tidak boleh menggunakan perbedaan perasaan itu sebagai alasan untuk memberikan seluruh hak dan perhatiannya kepada satu istri lalu mengabaikan istri yang lain.
+
+Larangan tersebut diarahkan kepada keadaan ketika kecenderungan batin mengakibatkan tindakan nyata yang tidak adil, seperti tidak memberikan nafkah, tidak memenuhi hak istri, atau meninggalkannya dalam keadaan tergantung.
+
+Dosen menghubungkan hal ini dengan kewajiban **اتقوا الله ما استطعتم**, yaitu bertakwalah kepada Allah semampu kalian. Ia menjelaskan bahwa manusia harus berusaha berlaku adil sejauh kemampuannya dan tidak sengaja melanggar kewajiban yang berada dalam kendalinya.
+
+Dosen juga mengutip makna sebuah hadis mengenai orang yang mempunyai dua istri tetapi condong kepada salah satunya. Dalam penjelasannya, orang itu diancam datang pada hari kiamat dalam keadaan salah satu sisinya miring. Ia menggunakan gambaran tersebut untuk menegaskan beratnya tanggung jawab ketika seseorang memiliki lebih dari satu istri tetapi tidak memenuhi kewajiban secara adil.
+
+Dosen juga menyebut doa Nabi Muhammad صلى الله عليه وسلم yang berkaitan dengan pembagian hak di antara istri-istrinya:
+
+**«اللَّهُمَّ هَذَا قَسْمِي فِيمَا أَمْلِكُ، فَلَا تَلُمْنِي فِيمَا لَا أَمْلِكُ»**
+
+Dalam penjelasan dosen, doa tersebut menunjukkan pembedaan antara hal yang dapat diatur manusia dan hal yang tidak sepenuhnya dapat dikendalikan, yakni kecenderungan cinta dalam hati.
+
+# BAGIAN XI. DISKUSI DOSEN DAN MAHASISWA MENGENAI POLIGAMI
+
+## 30. Pertanyaan tentang apakah perkawinan pada dasarnya monogami atau poligami
+
+Setelah menjelaskan ayat tentang keadilan, dosen mengajukan pertanyaan kepada mahasiswa: apakah hukum asal perkawinan adalah menikahi satu istri atau menikahi lebih dari satu istri?
+
+Pertanyaan tersebut kemudian berkembang menjadi diskusi. Dosen meminta mahasiswa memberikan pendapat mereka mengenai mengapa poligami di sebagian masyarakat Arab terlihat sulit diterima secara sosial, padahal ketentuan poligami dibicarakan dalam Al-Qur'an.
+
+Beberapa mahasiswa menyebut bahwa tingginya biaya hidup dapat menjadi alasan seseorang enggan memiliki lebih dari satu istri. Selain itu, ada ketakutan terhadap konflik dalam rumah tangga, kecemburuan istri pertama, persoalan pembagian harta, dan kemungkinan terjadinya masalah dengan anak-anak.
+
+Seorang mahasiswa juga menyampaikan pandangan bahwa dalam sebagian masyarakat, perempuan dinilai memiliki pengaruh besar terhadap laki-laki, sehingga laki-laki khawatir menghadapi konflik apabila menikah lagi. Dosen merespons pendapat itu dengan menyatakan persetujuan terhadap gambaran yang dikemukakan mahasiswa tersebut.
+
+Dosen juga mengatakan bahwa kondisi sosial pada masa sekarang tidak selalu sama dengan gambaran yang ditemukan dalam sebagian kitab sejarah. Ia menggunakan perbandingan tersebut untuk menjelaskan bahwa penerimaan masyarakat terhadap poligami dapat dipengaruhi keadaan sosial dan kebiasaan.
+
+Diskusi ini tidak hanya membahas hukum formal poligami, tetapi juga faktor sosial yang memengaruhi cara masyarakat memandang perkawinan.
+
+## 31. Mahasiswa menyebut faktor ekonomi dan ketakutan terhadap konflik rumah tangga
+
+Dalam diskusi, mahasiswa menyebut faktor biaya hidup sebagai salah satu alasan yang dianggap paling jelas. Dosen menanggapi bahwa kesulitan ekonomi dapat memengaruhi keputusan seseorang untuk menikah lebih dari satu kali.
+
+Selain itu, sebagian mahasiswa menyebut kekhawatiran terhadap istri pertama dan anak-anak. Seseorang mungkin merasa bahwa menikah lagi dapat memicu perselisihan, merusak hubungan keluarga, atau mengakibatkan anak-anak kurang mendapatkan perhatian dan haknya.
+
+Dosen mengakui bahwa alasan-alasan tersebut merupakan hal yang dibicarakan dalam masyarakat. Ia juga mengemukakan pandangan bahwa poligami apabila dilakukan tanpa perhitungan dan tanpa kemampuan mengatur keluarga dapat menjadi sebab rusaknya rumah tangga.
+
+Dalam diskusi tersebut, dosen tidak menyimpulkan bahwa setiap orang harus melakukan poligami. Sebaliknya, ia meminta mahasiswa meneliti persoalan apakah monogami atau poligami merupakan hukum asal, dengan memperhatikan dalil dan sebab turunnya ayat.
+
+## 32. Riwayat yang dikemukakan dosen mengenai pernikahan sebagai sebab kemudahan ekonomi
+
+Dosen menyebut suatu ungkapan yang dinisbatkan kepada Nabi صلى الله عليه وسلم dengan makna bahwa menikahi perempuan dapat mendatangkan kekayaan atau kemudahan rezeki.
+
+Dalam rekaman, ungkapan tersebut disebut dengan redaksi yang terdengar seperti:
+
+**«تَزَوَّجُوا النِّسَاءَ يَأْتِينَكُمْ بِالْمَالِ»**
+
+Dosen menggunakan ungkapan itu untuk menanggapi pandangan bahwa poligami atau perkawinan pasti mengakibatkan kemiskinan.
+
+Namun, rekaman tidak menguraikan sumber riwayat tersebut atau penilaian terhadap kesahihannya. Karena itu, ungkapan tersebut perlu dipahami sebagai sesuatu yang disebut oleh dosen dalam diskusi, bukan sebagai hadis yang telah diverifikasi dalam rekonstruksi ini.
+
+Inti diskusinya adalah bahwa alasan ekonomi tidak bisa diperlakukan sebagai satu-satunya faktor yang menentukan pandangan mengenai poligami. Dosen tetap mengarahkan persoalan kepada pertanyaan lebih mendasar tentang dalil, hukum asal perkawinan, dan sebab turunnya ayat.
+
+## 33. Poligami pada masa Nabi dan tujuan-tujuannya menurut penjelasan dosen
+
+Dosen kemudian mengangkat pertanyaan mengenai tujuan pernikahan Nabi Muhammad صلى الله عليه وسلم dengan beberapa istri.
+
+Ia menolak penyederhanaan bahwa pernikahan Nabi hanya didorong keinginan pribadi terhadap perempuan. Menurut argumentasi dosen, pernikahan Nabi mempunyai berbagai tujuan sosial, politik, ekonomi, dan keagamaan.
+
+Ia menyebut pernikahan Nabi dengan Hafshah dan Mariyah al-Qibthiyyah sebagai contoh yang dibicarakan dalam kelas. Dalam penjelasan dosen, pernikahan tersebut dikaitkan dengan upaya mempererat hubungan antara kelompok-kelompok masyarakat yang berbeda.
+
+Dosen menyampaikan bahwa perkawinan dalam konteks kepemimpinan Nabi tidak dapat selalu dipahami hanya sebagai hubungan pribadi. Nabi juga memimpin masyarakat dan berusaha memperluas penyebaran Islam. Karena itu, menurutnya, sebagian pernikahan dapat mempunyai fungsi sosial dan kepentingan yang berkaitan dengan hubungan antarkelompok.
+
+Sebagai contoh, ia menghubungkan pernikahan Nabi dengan Mariyah al-Qibthiyyah dengan hubungan antara masyarakat Arab dan Mesir. Penjelasan rinci mengenai hubungan tersebut tidak diuraikan lebih lanjut dalam transkrip, sehingga yang dapat dipastikan adalah bahwa dosen menggunakan contoh itu untuk menggambarkan tujuan sosial atau hubungan antarmasyarakat.
+
+Dosen juga menyebut tujuan keagamaan dan berbagai kemaslahatan lain sebagai faktor yang dapat berkaitan dengan pernikahan pada masa Nabi.
+
+## 34. Bantahan terhadap tuduhan bahwa Nabi hanya mengejar perempuan
+
+Dosen membicarakan tuduhan yang dinisbatkan kepada pihak yang menentang Islam, yaitu anggapan bahwa Nabi Muhammad صلى الله عليه وسلم adalah seorang yang selalu mengejar perempuan.
+
+Dosen menyebut anggapan itu sebagai syubhat dan mengingatkan mahasiswa untuk menjawabnya dengan mempertimbangkan konteks kehidupan Nabi.
+
+Menurut penjelasan dosen, Nabi merupakan pemimpin masyarakat yang mempunyai berbagai tanggung jawab. Pernikahannya tidak boleh langsung disimpulkan hanya berdasarkan satu alasan pribadi, sebab terdapat konteks sosial, politik, ekonomi, dan keagamaan yang perlu diperhatikan.
+
+Dosen menjelaskan bahwa sebagian pernikahan dapat berkaitan dengan upaya memperkuat hubungan dengan kelompok lain, membantu perempuan yang kehilangan suami, serta menjaga kebutuhan sosial masyarakat yang sedang mengalami perubahan akibat peperangan.
+
+Dengan demikian, menurut argumentasi dosen, menafsirkan semua pernikahan Nabi sebagai tindakan yang semata-mata didorong oleh keinginan seksual merupakan penyederhanaan yang tidak mempertimbangkan seluruh konteks yang dibicarakan.
+
+## 35. Perempuan yang kehilangan suami akibat peperangan
+
+Dosen juga menjelaskan bahwa pada masa peperangan, sebagian laki-laki meninggal dunia dalam pertempuran. Akibatnya, terdapat perempuan yang kehilangan suami dan keluarga yang kehilangan orang yang biasanya menanggung kebutuhan ekonomi rumah tangga.
+
+Ia kemudian mengajukan pertanyaan mengenai siapa yang akan menanggung kebutuhan mereka, menyediakan tempat tinggal, dan membantu mengurus anak-anak jika suami mereka telah meninggal.
+
+Dosen menggunakan keadaan ini untuk menjelaskan salah satu kemungkinan kemaslahatan poligami dalam masyarakat, yaitu menyediakan jalan perkawinan bagi perempuan yang kehilangan suami dan membutuhkan dukungan keluarga.
+
+Dalam diskusi tersebut, ia menyebut angka sekitar dua belas juta perempuan di Mesir yang digambarkannya sebagai perempuan yang belum menikah atau telah bercerai. Ia menggunakan angka itu sebagai ilustrasi mengenai jumlah perempuan yang, menurut penjelasannya, tidak sedang berada dalam perkawinan.
+
+Angka tersebut merupakan klaim yang disampaikan dosen dalam perkuliahan. Rekaman tidak memberikan tahun data, sumber statistik, atau kriteria penghitungan yang memungkinkan angka itu diperiksa lebih lanjut. Karena itu, angka tersebut dipertahankan sebagai bagian dari contoh yang diucapkan dosen, bukan sebagai statistik yang telah diverifikasi.
+
+Dosen menggunakan gambaran itu untuk membuka pertanyaan mengenai apakah poligami dapat dipahami sebagai salah satu jalan untuk menghadapi persoalan sosial tertentu. Akan tetapi, ia tidak menyatakan bahwa angka tersebut dengan sendirinya membuktikan bahwa semua laki-laki harus menikah lebih dari satu kali.
+
+# BAGIAN XII. PENDAPAT DOSEN MENGENAI HUKUM ASAL PERKAWINAN
+
+## 36. Monogami sebagai hukum asal menurut pendapat yang dipilih dosen
+
+Setelah diskusi mengenai berbagai alasan sosial, dosen kembali bertanya apakah hukum asal perkawinan adalah poligami atau monogami.
+
+Dalam bagian ini, dosen menyatakan kecenderungannya kepada pendapat bahwa hukum asal perkawinan adalah satu istri, sedangkan poligami diperbolehkan untuk tujuan dan alasan tertentu.
+
+Ia mengatakan bahwa dirinya sependapat dengan pandangan bahwa hukum asalnya adalah **الانفراد**, yakni menikahi satu istri, sementara poligami dilakukan dengan mempertimbangkan alasan dan keadaan tertentu.
+
+Dosen mengingatkan bahwa pembolehan poligami dalam Al-Qur'an tidak otomatis berarti bahwa setiap laki-laki harus menikahi lebih dari satu istri. Menurutnya, dalil yang membolehkan poligami harus dibaca bersama konteks ayat dan sebab turunnya.
+
+Ia juga menegaskan bahwa melakukan poligami tanpa memperhatikan kemampuan mengurus keluarga dapat mengakibatkan kerusakan rumah tangga, membuat istri pertama mengalami penderitaan, dan menyebabkan anak-anak kehilangan perhatian serta hak mereka.
+
+Dengan demikian, dalam penjelasan dosen, pembolehan poligami harus dibedakan dari kewajiban untuk melakukannya. Dosen tidak menjadikan poligami sebagai kewajiban umum bagi setiap laki-laki.
+
+## 37. Penjelasan mengenai sebab turunnya ayat وان خفتم ألا تقسطوا في اليتامى
+
+Dosen kemudian menjelaskan sebab turunnya ayat:
+
+**﴿وَإِنْ خِفْتُمْ أَلَّا تُقْسِطُوا فِي الْيَتَامَىٰ فَانْكِحُوا مَا طَابَ لَكُمْ مِنَ النِّسَاءِ مَثْنَىٰ وَثُلَاثَ وَرُبَاعَ﴾**
+
+Menurut keterangan yang disampaikan dosen, ayat tersebut berkaitan dengan persoalan menikahi perempuan yatim.
+
+Ia menjelaskan bahwa dalam keadaan tertentu seorang laki-laki berada dalam posisi mengurus seorang anak yatim perempuan. Menurut gambaran dalam kuliah, ada orang yang memanfaatkan keadaan tersebut untuk menikahi perempuan yatim bukan demi kebaikan atau perlindungannya, melainkan untuk menguasai atau mengambil harta warisannya.
+
+Dosen menjelaskan bahwa ayat tersebut memberikan peringatan apabila orang yang mengurus anak yatim khawatir tidak mampu berlaku adil terhadapnya. Dalam keadaan demikian, ia diperintahkan untuk meninggalkan jalan yang berpotensi mengakibatkan ketidakadilan dan menikahi perempuan lain yang diperbolehkan baginya.
+
+Dengan demikian, menurut penjelasan dosen, latar ayat tersebut harus diperhatikan. Ayat itu tidak hanya berbicara mengenai jumlah istri yang diperbolehkan, tetapi juga mengenai persoalan keadilan terhadap anak yatim perempuan yang berada dalam pengawasan seseorang.
+
+Ia menggunakan sebab turun tersebut untuk mengingatkan mahasiswa bahwa konteks ayat dapat membantu menentukan bagaimana kandungan hukumnya dipahami.
+
+## 38. Makna kata تقسطوا dalam ayat
+
+Dosen juga membahas kata **تُقْسِطُوا** dalam firman Allah:
+
+**﴿وَإِنْ خِفْتُمْ أَلَّا تُقْسِطُوا فِي الْيَتَامَىٰ﴾**
+
+Menurut penjelasannya, kata tersebut dibicarakan sebagai kata yang berkaitan dengan makna keadilan dan ketidakadilan. Dalam konteks ayat, maksudnya adalah kekhawatiran tidak berlaku adil atau tidak menunaikan hak anak yatim.
+
+Dosen menekankan bahwa redaksi ayat perlu dipahami berdasarkan konteks penggunaannya. Apabila seseorang tidak memperhatikan persoalan yang sedang dibicarakan, ia dapat membaca perintah poligami seolah-olah hanya berkaitan dengan jumlah istri, lalu mengabaikan persoalan ketidakadilan yang menjadi latar ayat.
+
+Karena itu, dosen menggunakan penjelasan mengenai kata **تقسطوا** untuk menunjukkan hubungan antara bahasa, konteks ayat, dan pemahaman hukum.
+
+## 39. Bagaimana sebab turun ayat memengaruhi pembahasan hukum poligami?
+
+Menurut penjelasan dosen, pengetahuan tentang sebab turun ayat dapat membantu mahasiswa memahami mengapa kebolehan poligami disebut dalam konteks peringatan terhadap ketidakadilan terhadap anak yatim.
+
+Ia menjelaskan bahwa orang yang mengurus anak yatim perempuan tetapi khawatir tidak berlaku adil hendaknya tidak mengambil jalan yang merugikan anak yatim tersebut. Ayat kemudian mengarahkan kepada perkawinan dengan perempuan lain yang diperbolehkan.
+
+Dosen menggunakan latar tersebut sebagai salah satu alasan untuk mempertanyakan anggapan bahwa poligami otomatis merupakan hukum asal yang harus dilakukan oleh setiap laki-laki.
+
+Dalam pandangannya, kebolehan poligami harus dipahami bersama kebutuhan untuk berlaku adil, kemampuan menunaikan hak, dan konteks ayat yang berbicara mengenai anak yatim.
+
+Ia juga menggunakan contoh kehidupan Nabi Muhammad صلى الله عليه وسلم yang menikah dengan Khadijah dan hidup bersamanya dalam perkawinan monogami selama masa tersebut. Dosen menyebut bahwa jika poligami merupakan sesuatu yang harus dilakukan dalam segala keadaan, kehidupan Nabi bersama Khadijah dapat dipertimbangkan sebagai bagian dari diskusi mengenai persoalan itu.
+
+Ia juga menyebut Nabi Adam dan Hawa sebagai ilustrasi lain dalam argumennya. Kedua contoh tersebut digunakan dosen sebagai pendukung pandangan bahwa monogami dapat menjadi hukum asal, sedangkan poligami berkaitan dengan alasan atau keadaan tertentu.
+
+Dosen tidak menjelaskan seluruh perbedaan pendapat fikih secara rinci dalam rekaman ini. Yang dapat dipastikan adalah bahwa ia mengemukakan dan cenderung memilih pandangan bahwa monogami merupakan hukum asal, sementara poligami merupakan kebolehan yang dapat digunakan apabila terdapat alasan dan kemampuan yang sesuai.
+
+# BAGIAN XIII. SYARAT PRAKTIS POLIGAMI MENURUT PENJELASAN DOSEN
+
+## 40. Kemampuan mengelola rumah tangga dan menjaga hak istri
+
+Dosen kemudian menjelaskan bahwa seseorang yang memilih poligami harus mampu mengelola rumah tangga dengan benar. Ia menekankan bahwa poligami bukan sekadar tindakan menikahi lebih dari satu perempuan, tetapi juga tanggung jawab yang berkaitan dengan kebutuhan dan hak para istri serta anak-anak.
+
+Dalam pandangannya, apabila seseorang tidak mampu mengatur rumah tangga, tidak dapat memenuhi kebutuhan istri-istrinya, atau menyebabkan anak-anak terlantar, poligami dapat berubah menjadi sebab kehancuran keluarga.
+
+Dosen menjelaskan bahwa apabila seseorang dapat menjalankan tanggung jawab keluarga secara baik, memenuhi kebutuhan tempat tinggal, menjaga hak para istri, dan tidak menelantarkan anak-anak, keadaan tersebut berbeda dari poligami yang dilakukan tanpa perhitungan.
+
+Ia menegaskan bahwa tujuan pembahasan bukan untuk menganjurkan semua orang menikah lebih dari satu kali, melainkan mengingatkan bahwa kebolehan poligami tidak terlepas dari tanggung jawab.
+
+## 41. Setiap istri mempunyai tempat tinggal yang terpisah
+
+Dalam penjelasannya, dosen menekankan bahwa setiap istri seharusnya memperoleh rumah atau tempat tinggal sendiri. Ia tidak menyetujui pemahaman yang mengharuskan beberapa istri tinggal bersama dalam satu rumah hanya dengan menempati kamar yang berbeda.
+
+Ia menjadikan tempat tinggal para istri Nabi sebagai contoh. Menurut penjelasannya, Nabi Muhammad صلى الله عليه وسلم mempunyai kamar-kamar atau tempat tinggal tersendiri bagi para istrinya, seperti Aisyah, Shafiyyah, dan Ummu Salamah.
+
+Dosen menggunakan contoh tersebut untuk menunjukkan bahwa pemenuhan hak istri tidak hanya berkaitan dengan nafkah, tetapi juga tempat tinggal dan pengaturan kehidupan rumah tangga.
+
+Dalam rekaman, dosen menggambarkan bahwa seseorang yang menikahi beberapa perempuan harus mempertimbangkan kebutuhan tempat tinggal mereka secara terpisah. Hal ini merupakan bagian dari pandangan praktis yang ia sampaikan mengenai tanggung jawab poligami.
+
+## 42. Pertanyaan apakah laki-laki berdosa apabila tetap monogami
+
+Dalam diskusi berikutnya, seorang mahasiswa mengajukan pertanyaan yang berkaitan dengan banyaknya perempuan yang belum menikah dan kemungkinan meningkatnya kemaksiatan ketika kesempatan menikah terbatas.
+
+Pertanyaan mahasiswa pada intinya adalah apakah seorang laki-laki yang hanya menikahi satu perempuan berdosa apabila ia mempunyai kemampuan menikahi lebih dari satu, sementara terdapat banyak perempuan yang belum menikah.
+
+Diskusi ini berkembang menjadi pertanyaan apakah poligami dapat mengurangi perbuatan zina atau kemaksiatan dalam masyarakat.
+
+Dosen meminta mahasiswa menjelaskan pertanyaannya kembali agar jelas. Dalam percakapan tersebut, muncul gagasan bahwa apabila lebih banyak laki-laki menikahi perempuan yang belum menikah, jumlah perempuan yang tidak memiliki pasangan mungkin berkurang, dan hal itu bisa memengaruhi keadaan sosial tertentu.
+
+Dosen mengakui bahwa kemungkinan tersebut dapat menjadi bahan pertimbangan, tetapi percakapan berakhir tanpa memberikan keputusan fikih yang lengkap mengenai apakah seorang laki-laki berdosa karena tetap memilih monogami.
+
+Karena itu, bagian ini perlu dipahami sebagai pertanyaan diskusi yang belum mendapatkan jawaban hukum final dalam rekaman, bukan sebagai keputusan dosen bahwa poligami wajib bagi setiap laki-laki.
+
+# BAGIAN XIV. PENUTUP AYAT: قَلِيلًا مَا تَذَكَّرُونَ
+
+## 43. Makna sedikitnya orang yang mengambil pelajaran
+
+Setelah diskusi mengenai poligami, dosen kembali kepada penjelasan ayat yang sebelumnya dibahas, khususnya ungkapan:
+
+**﴿قَلِيلًا مَا تَذَكَّرُونَ﴾**
+
+Artinya, sedikit sekali kalian mengambil pelajaran atau mengingat peringatan.
+
+Dosen bertanya mengapa Al-Qur'an menggunakan ungkapan mengenai sedikitnya orang yang mengambil pelajaran. Ia kemudian menghubungkannya dengan keadaan orang-orang yang mengikuti para nabi.
+
+Dalam penjelasan dosen, orang yang mengikuti para nabi secara sungguh-sungguh sering kali berjumlah sedikit jika dibandingkan dengan keseluruhan masyarakat yang menolak atau tidak mengikuti petunjuk mereka.
+
+Ia mengutip firman Allah:
+
+**﴿وَمَا آمَنَ مَعَهُ إِلَّا قَلِيلٌ﴾**
+
+Ayat tersebut digunakan sebagai ilustrasi bahwa jumlah orang yang mengikuti kebenaran tidak selalu banyak.
+
+Dosen menegaskan bahwa ungkapan **قَلِيلًا مَا تَذَكَّرُونَ** berkaitan dengan peringatan kepada orang-orang yang tidak mengambil pelajaran dari nasib umat terdahulu dan tidak memperhatikan petunjuk yang telah disampaikan kepada mereka.
+
+Ia juga menghubungkannya dengan pertanggungjawaban di akhirat. Al-Qur'an mengingatkan manusia agar memperhatikan akibat perbuatan mereka dan tidak mengulangi kesalahan yang telah dilakukan oleh umat-umat sebelumnya.
+
+## 44. Fungsi retoris perubahan arah pembicaraan
+
+Dosen kemudian menyebut pembahasan balaghah yang berkaitan dengan perubahan atau pengalihan arah pembicaraan, yang ia sebut sebagai **الالتفات**.
+
+Dalam penjelasannya, pengalihan arah pembicaraan dapat menegaskan buruknya keadaan orang-orang yang tidak mengikuti perintah dan larangan Allah. Ketika mereka tidak mengambil pelajaran, Al-Qur'an dapat beralih dari sapaan langsung kepada mereka menuju pembicaraan mengenai keadaan mereka atau tentang mereka kepada pihak lain.
+
+Dosen menjelaskan bahwa perubahan tersebut mempunyai tujuan retoris. Salah satu tujuannya adalah menunjukkan bahwa mereka tidak layak menerima kehormatan dari bentuk sapaan tertentu karena mereka tidak mematuhi perintah dan larangan Allah.
+
+Selain itu, pengalihan tersebut dapat digunakan untuk menceritakan keadaan dan tindakan mereka kepada pihak lain sebagai bentuk peringatan.
+
+Dalam rekaman, rincian hubungan antara setiap bagian ayat dan istilah balaghah yang digunakan tidak seluruhnya terdengar jelas. Namun, dosen menekankan bahwa bentuk bahasa Al-Qur'an mengandung tujuan retoris dan tidak boleh dipahami hanya sebagai perubahan kata tanpa fungsi.
+
+# BAGIAN XV. MACAM-MACAM إعجاز AL-QUR'AN
+
+## 45. I'jaz tasyri'i, i'jaz ghaibi, dan i'jaz bayani
+
+Pada penghujung pembahasan, dosen menjelaskan bahwa kemukjizatan Al-Qur'an dapat dibicarakan dalam beberapa bentuk. Ia menyebut tiga jenis, yaitu **الإعجاز التشريعي**, **الإعجاز الغيبي**, dan **الإعجاز البياني**.
+
+**الإعجاز التشريعي** berkaitan dengan kemukjizatan dalam aturan dan syariat yang dibawa Al-Qur'an. Dalam konteks pembahasan, jenis ini disebut ketika dosen menjelaskan adanya ketentuan dan aturan yang memberikan bimbingan bagi manusia.
+
+**الإعجاز الغيبي** berkaitan dengan berita mengenai perkara yang belum terjadi, kemudian berita itu terbukti terjadi sebagaimana diberitakan.
+
+**الإعجاز البياني** berkaitan dengan kemukjizatan dari segi penyampaian dan bentuk bahasa Al-Qur'an.
+
+Dosen menaruh perhatian khusus pada الإعجاز الغيبي dan memberikan beberapa contoh dari ayat-ayat yang telah dibahas sebelumnya.
+
+## 46. Contoh الإعجاز الغيبي: perkataan orang-orang mengenai perubahan kiblat
+
+Dosen kembali mengutip firman Allah:
+
+**﴿سَيَقُولُ السُّفَهَاءُ مِنَ النَّاسِ مَا وَلَّاهُمْ عَنْ قِبْلَتِهِمُ الَّتِي كَانُوا عَلَيْهَا﴾**
+
+Ayat tersebut terlebih dahulu memberitakan bahwa orang-orang tertentu akan mengatakan sesuatu mengenai perubahan kiblat.
+
+Dosen bertanya apakah mereka akhirnya benar-benar mengucapkan perkataan yang disebutkan dalam ayat.
+
+Mahasiswa menjawab bahwa hal itu terjadi. Dosen kemudian menggunakan contoh tersebut sebagai ilustrasi berita Al-Qur'an mengenai suatu kejadian yang baru berlangsung sesudah ayat diturunkan.
+
+Menurut penjelasan dosen, berita yang mendahului kejadian dan kemudian terbukti terjadi merupakan salah satu contoh **الإعجاز الغيبي**.
+
+## 47. Contoh الإعجاز الغيبي: kaum Muslim memasuki Masjidilharam
+
+Dosen kemudian menyebut firman Allah:
+
+**﴿لَتَدْخُلُنَّ الْمَسْجِدَ الْحَرَامَ إِنْ شَاءَ اللَّهُ آمِنِينَ مُحَلِّقِينَ رُءُوسَكُمْ وَمُقَصِّرِينَ﴾**
+
+Ia bertanya apakah kaum Muslim akhirnya memasuki Masjidilharam sebagaimana diberitakan ayat tersebut.
+
+Dalam penjelasan dosen, mereka benar-benar memasuki Masjidilharam. Karena itu, ayat tersebut menjadi contoh berita mengenai sesuatu yang akan terjadi dan kemudian terwujud.
+
+Dosen menempatkan contoh ini dalam kategori الإعجاز الغيبي, yaitu kemukjizatan Al-Qur'an dari segi berita gaib yang terbukti terjadi.
+
+## 48. Contoh الإعجاز الغيبي: kemenangan bangsa Romawi
+
+Contoh berikutnya adalah firman Allah:
+
+**﴿الم ۝ غُلِبَتِ الرُّومُ ۝ فِي أَدْنَى الْأَرْضِ وَهُمْ مِنْ بَعْدِ غَلَبِهِمْ سَيَغْلِبُونَ﴾**
+
+Dosen menekankan bahwa ayat tersebut memberitakan bahwa bangsa Romawi akan memperoleh kemenangan kembali setelah sebelumnya mengalami kekalahan.
+
+Ia kemudian bertanya apakah kemenangan itu benar-benar terjadi. Jawaban yang diberikan adalah bahwa kemenangan tersebut kemudian terjadi sebagaimana diberitakan dalam ayat.
+
+Dengan demikian, menurut penjelasan dosen, ketiga contoh ini menunjukkan bagaimana Al-Qur'an memberitakan sesuatu sebelum kejadian tersebut berlangsung.
+
+Ia menggunakan contoh-contoh tersebut untuk memperlihatkan bahwa pembahasan tafsir tidak hanya berkaitan dengan makna kata atau hukum, tetapi juga dengan tujuan dan aspek kemukjizatan yang terkandung dalam ayat.
+
+# BAGIAN XVI. PENJELASAN AYAT BERIKUTNYA: وَكَمْ مِنْ قَرْيَةٍ أَهْلَكْنَاهَا
+
+## 49. Peralihan kepada ayat-ayat tentang kehancuran umat terdahulu
+
+Setelah menyelesaikan penjelasan halaman yang sedang dipelajari, dosen mengakhiri bagian tersebut dan menyebut bahwa pembahasan berikutnya akan dimulai dari firman Allah:
+
+**﴿وَكَمْ مِنْ قَرْيَةٍ أَهْلَكْنَاهَا فَجَاءَهَا بَأْسُنَا بَيَاتًا أَوْ هُمْ قَائِلُونَ ۝ فَمَا كَانَ دَعْوَاهُمْ إِذْ جَاءَهُمْ بَأْسُنَا إِلَّا أَنْ قَالُوا إِنَّا كُنَّا ظَالِمِينَ ۝ فَلَنَسْأَلَنَّ الَّذِينَ أُرْسِلَ إِلَيْهِمْ وَلَنَسْأَلَنَّ الْمُرْسَلِينَ ۝ فَلَنَقُصَّنَّ عَلَيْهِمْ بِعِلْمٍ وَمَا كُنَّا غَائِبِينَ﴾**
+
+Artinya secara umum, betapa banyak negeri yang telah dibinasakan Allah, lalu azab-Nya datang pada malam hari atau ketika penduduknya sedang beristirahat pada siang hari. Ketika azab datang, pengakuan mereka hanyalah bahwa mereka telah berbuat zalim. Allah kemudian akan menanyai orang-orang yang telah dikirimi para rasul dan juga para rasul, serta menceritakan kepada mereka dengan pengetahuan, sebab Allah tidak pernah tidak hadir atau luput dari apa yang mereka lakukan.
+
+Dosen menggunakan ayat-ayat ini untuk menguji pemahaman mahasiswa terhadap kosakata Al-Qur'an, penentuan makna berdasarkan konteks, dan fungsi huruf dalam susunan kalimat.
+
+## 50. Makna أهلكناها dan بأسنا
+
+Dosen bertanya mengenai makna **أَهْلَكْنَاهَا** dan **بَأْسَنَا**.
+
+Dalam konteks ayat, kata **أهلكناها** berkaitan dengan pembinasaan negeri atau penduduknya. Adapun **بأسنا** berkaitan dengan azab atau hukuman Allah yang datang kepada mereka.
+
+Dosen menggunakan pertanyaan ini untuk mengingatkan bahwa mahasiswa harus dapat memahami kosakata Al-Qur'an sesuai konteks. Suatu kata terkadang mempunyai beberapa makna, tetapi makna yang dipilih harus sesuai dengan rangkaian ayat yang sedang dijelaskan.
+
+Dalam rekaman, jawaban para mahasiswa terhadap pertanyaan mengenai makna kedua kata tersebut tidak dikembangkan secara terperinci. Dosen lebih banyak mengarahkan perhatian kepada dua ungkapan lain, yaitu **بَيَاتًا** dan **قَائِلُونَ**.
+
+## 51. Makna بَيَاتًا dan قَائِلُونَ
+
+Dosen bertanya apakah kata **قَائِلُونَ** berasal dari makna berbicara atau mengacu pada waktu tidur siang.
+
+Para mahasiswa menjawab bahwa yang dimaksud adalah waktu istirahat siang. Dosen kemudian menegaskan bahwa dalam ayat tersebut, **بَيَاتًا** berarti pada malam hari, sedangkan **قَائِلُونَ** merujuk kepada orang-orang yang sedang melakukan istirahat atau tidur siang.
+
+Dalam penjelasan dosen, waktu **القيلولة** adalah waktu istirahat pada siang hari, yang digambarkannya berlangsung antara waktu Zuhur dan Asar.
+
+Ia mengingatkan bahwa mahasiswa tidak boleh menafsirkan **قائلون** dalam ayat ini sebagai orang-orang yang sedang mengatakan sesuatu. Meskipun bentuk katanya berhubungan dengan kata yang dapat digunakan untuk makna berbicara, konteks ayat menunjukkan bahwa yang dimaksud adalah keadaan penduduk yang sedang beristirahat ketika azab datang.
+
+Contoh ini digunakan untuk memperkenalkan **غريب القرآن**, yakni kosakata Al-Qur'an yang memerlukan perhatian khusus karena maknanya tidak selalu langsung dipahami oleh pembaca.
+
+## 52. Contoh lain penggunaan kata menurut makna kontekstual
+
+Dosen juga menyebut firman Allah:
+
+**﴿وَأَذِّنْ فِي النَّاسِ بِالْحَجِّ يَأْتُوكَ رِجَالًا﴾**
+
+Ia bertanya apakah kata **رِجَالًا** berarti laki-laki dalam konteks ayat itu, atau mempunyai makna lain.
+
+Dalam penjelasan yang disampaikan, kata tersebut dimaksudkan untuk menggambarkan orang-orang yang datang dengan berjalan kaki.
+
+Contoh ini dipakai dosen untuk memperkuat pelajaran bahwa kata Al-Qur'an perlu ditafsirkan sesuai penggunaannya dalam kalimat. Makna yang lazim bagi suatu kata tidak selalu menjadi makna yang tepat dalam setiap konteks.
+
+Karena itu, mahasiswa harus memperhatikan tradisi penggunaan bahasa Arab dan konteks ayat ketika menjelaskan kosakata Al-Qur'an.
+
+## 53. Makna فما كان دعواهم إذ جاءهم بأسنا إلا أن قالوا إنا كنا ظالمين
+
+Dosen berikutnya membahas firman Allah:
+
+**﴿فَمَا كَانَ دَعْوَاهُمْ إِذْ جَاءَهُمْ بَأْسُنَا إِلَّا أَنْ قَالُوا إِنَّا كُنَّا ظَالِمِينَ﴾**
+
+Ia menjelaskan bahwa ketika azab Allah datang kepada mereka, mereka tidak dapat memberikan tanggapan selain mengakui bahwa mereka telah berbuat zalim.
+
+Pengakuan **إِنَّا كُنَّا ظَالِمِينَ** berarti bahwa mereka mengakui keadaan mereka sendiri sebagai orang-orang yang telah melakukan kezaliman.
+
+Dosen menggunakan ayat ini untuk menunjukkan akibat dari penolakan terhadap peringatan Allah. Sebelumnya, para rasul membawa petunjuk dan memberikan peringatan, tetapi ketika penduduk negeri menolak petunjuk tersebut, mereka akhirnya mengakui kesalahan mereka saat azab datang.
+
+Dengan demikian, ayat tersebut berkaitan dengan pembahasan sebelumnya mengenai fungsi الإنذار. Peringatan diberikan sebelum hukuman datang, tetapi orang yang tidak mengambil pelajaran dapat menghadapi akibat dari perbuatannya.
+
+# BAGIAN XVII. MAKNA فلنسألن DAN فلنقصن عليهم بعلم
+
+## 54. Makna فلنسألن: Allah akan menanyai manusia dan para rasul
+
+Dosen kemudian membahas firman Allah:
+
+**﴿فَلَنَسْأَلَنَّ الَّذِينَ أُرْسِلَ إِلَيْهِمْ وَلَنَسْأَلَنَّ الْمُرْسَلِينَ﴾**
+
+Ayat tersebut menyatakan bahwa Allah akan menanyai orang-orang yang kepada mereka para rasul telah diutus, dan Allah juga akan menanyai para rasul.
+
+Dosen menekankan bahwa ayat ini mencakup dua pihak: penerima risalah dan orang-orang yang diutus untuk menyampaikannya.
+
+Mereka yang menerima risalah akan dimintai pertanggungjawaban mengenai sikap mereka terhadap petunjuk yang telah disampaikan. Adapun para rasul juga akan ditanyai mengenai tugas mereka dalam menyampaikan risalah.
+
+Dalam rekaman, dosen mengarahkan mahasiswa untuk memahami makna pertanyaan tersebut dalam konteks hari pertanggungjawaban. Bagian ini belum dikembangkan menjadi uraian panjang mengenai seluruh bentuk pertanyaan yang akan diajukan, tetapi menegaskan bahwa manusia dan para rasul sama-sama termasuk dalam konteks ayat.
+
+## 55. Makna فلنقصن عليهم بعلم
+
+Dosen kemudian mengajukan pertanyaan mengenai firman Allah:
+
+**﴿فَلَنَقُصَّنَّ عَلَيْهِمْ بِعِلْمٍ﴾**
+
+Ia bertanya apa makna **فلنقصن** dalam konteks ini. Mahasiswa menjawab bahwa maksudnya adalah menceritakan atau menyampaikan kembali sesuatu kepada mereka.
+
+Dosen menjelaskan bahwa kata tersebut berarti Allah akan menceritakan atau mengungkapkan kepada mereka apa yang telah terjadi berdasarkan pengetahuan-Nya.
+
+Ia kemudian memusatkan perhatian kepada huruf **الباء** dalam ungkapan **بِعِلْمٍ**. Mahasiswa diminta menentukan apakah huruf ba' itu menunjukkan sebab atau hubungan makna yang lain.
+
+Jawaban yang ditekankan dosen adalah bahwa ba' di sini merupakan **باء المصاحبة**, yaitu ba' yang menunjukkan kebersertaan atau bahwa sesuatu berlangsung bersama sesuatu yang lain.
+
+Dengan demikian, maknanya bukan bahwa Allah menceritakan kepada mereka sesuatu yang menjadi sebab pengetahuan-Nya. Maksudnya adalah bahwa Allah menceritakan kepada mereka dengan disertai pengetahuan.
+
+Dosen menjelaskan bahwa Allah tidak menanyai mereka karena tidak mengetahui apa yang telah mereka lakukan. Pertanyaan dan penceritaan tersebut berlangsung bersama pengetahuan Allah mengenai perbuatan mereka.
+
+Karena itu, huruf ba' dalam frasa **بِعِلْمٍ** dijelaskan sebagai باء المصاحبة, bukan باء السببية.
+
+## 56. Makna وما كنا غائبين
+
+Dosen juga menyebut bagian akhir ayat:
+
+**﴿وَمَا كُنَّا غَائِبِينَ﴾**
+
+Artinya, Allah tidak pernah absen atau tidak hadir dari apa yang dilakukan manusia.
+
+Dalam hubungan dengan ayat sebelumnya, frasa tersebut menegaskan bahwa Allah mengetahui apa yang telah dilakukan manusia dan tidak memerlukan informasi baru untuk mengetahui perbuatan mereka.
+
+Dosen menggunakan ayat ini untuk memperjelas bahwa pengadilan atau pertanggungjawaban pada hari kiamat tidak didasarkan pada ketidaktahuan Allah. Sebaliknya, Allah mengetahui perbuatan manusia, dan penceritaan yang disebutkan dalam ayat berlangsung dengan ilmu-Nya.
+
+Dengan demikian, penjelasan mengenai **باء المصاحبة** berkaitan langsung dengan makna ayat secara keseluruhan: Allah akan menyampaikan apa yang telah terjadi dengan pengetahuan, bukan bertanya karena tidak mengetahui apa yang telah dilakukan.
+
+# BAGIAN XVIII. PENJELASAN TAMBAHAN TENTANG UNGKAPAN قال القاضي أبو محمد
+
+## 57. Mengapa Ibn 'Athiyyah menyebut dirinya القاضي أبو محمد?
+
+Pada akhir sesi, seorang mahasiswa kembali bertanya tentang ungkapan **قال القاضي أبو محمد** yang ditemukan dalam kitab tafsir.
+
+Dosen menjelaskan bahwa ungkapan tersebut merujuk kepada Ibn 'Athiyyah sendiri. Ketika pengarang menuliskan kalimat itu, ia sedang menyampaikan pendapat atau penjelasannya sendiri, bukan sedang mengutip orang lain yang bernama Abu Muhammad.
+
+Dosen menegaskan bahwa mahasiswa harus mengenali kebiasaan penulisan dalam kitab turats. Jika mereka tidak mengetahui siapa yang dimaksud dengan suatu sebutan, mereka dapat salah memahami hubungan antara pengarang, kutipan, dan pendapat yang sedang dibahas.
+
+Ia juga menyebut bahwa ungkapan semacam ini dapat ditemukan dalam kitab tafsir lain, termasuk tafsir al-Baidhawi, yang di dalamnya terdapat penyebutan dengan gelar yang berkaitan dengan al-Qadhi.
+
+Dosen memberikan ilustrasi sederhana mengenai seorang ayah yang menyebut dirinya melalui nama atau julukan tertentu ketika berbicara tentang dirinya. Dalam contoh itu, nama atau sebutan yang muncul dalam kalimat tidak selalu merujuk kepada orang lain; bisa saja sebutan tersebut merupakan cara pengarang menyebut dirinya sendiri.
+
+Dengan demikian, setiap kali mahasiswa menemukan ungkapan **قال القاضي أبو محمد** dalam tafsir Ibn 'Athiyyah, mereka harus mengingat bahwa sebutan itu merujuk kepada Ibn 'Athiyyah.
+
+Dosen kemudian menutup perkuliahan dengan doa agar Allah mengampuni dosa-dosa mereka, memberikan ilmu yang bermanfaat, serta menjadikan ilmu yang telah dipelajari berguna bagi kehidupan mereka.
+
+# KESIMPULAN KESELURUHAN MATERI
+
+Pembahasan perkuliahan ini dimulai dengan pengenalan kitab tafsir Ibn 'Athiyyah, yaitu **المحرر الوجيز**, serta penegasan bahwa mahasiswa ilmu tafsir harus mengenal kitab-kitab tafsir dan para pengarangnya. Pengetahuan tersebut dibutuhkan untuk mencari sumber ilmiah ketika menghadapi masalah tafsir dan mengembangkan penelitian.
+
+Pembahasan kemudian masuk kepada firman Allah **﴿كِتَابٌ أُنْزِلَ إِلَيْكَ فَلَا يَكُنْ فِي صَدْرِكَ حَرَجٌ مِنْهُ﴾**. Dosen menjelaskan bahwa **الحرج** dalam konteks ini bermakna kesempitan, kegelisahan, atau kesedihan, bukan keraguan Nabi terhadap Al-Qur'an. Ia menerangkan bahwa secara lahiriah larangan seolah-olah ditujukan kepada الحرج, tetapi maksud sebenarnya adalah kepada Nabi Muhammad صلى الله عليه وسلم agar tidak merasa tertekan dalam menjalankan tugas menyampaikan wahyu.
+
+Frasa tersebut dijelaskan sebagai **جملة اعتراضية**, yakni kalimat sisipan yang mempunyai tujuan balaghah, terutama untuk menegaskan kesucian dan keluhuran Nabi. Dosen membandingkannya dengan ungkapan **سبحانه** dalam ayat mengenai orang-orang yang menisbatkan anak perempuan kepada Allah. Ia juga menjelaskan **الإنذار** sebagai fungsi peringatan, khususnya kepada orang kafir dan pelaku kemaksiatan, serta **الذكرى** sebagai pengingatan yang bermanfaat bagi orang-orang beriman.
+
+Dalam penafsiran ayat **﴿اتَّبِعُوا مَا أُنْزِلَ إِلَيْكُمْ مِنْ رَبِّكُمْ﴾**, dosen membahas siapa yang menjadi sasaran perintah tersebut. Sebagian penafsiran mengarah kepada orang kafir, sebagian kepada orang beriman, dan pendapat yang dipilih dosen mencakup seluruh manusia. Ia menghubungkannya dengan penjelasan Ibn 'Athiyyah dan kaidah bahwa kata ganti **دونه** lebih utama dikembalikan kepada kata terdekat sebelumnya, meskipun ia mengakui terdapat pendapat yang mengembalikannya kepada kitab.
+
+Dosen juga menegaskan bahwa yang dimaksud dengan mengikuti wahyu mencakup Al-Qur'an dan Sunnah. Sunnah menjelaskan ayat-ayat Al-Qur'an yang masih umum, memberikan perincian, menerangkan tata cara ibadah, dan menjelaskan bagaimana hukum dilaksanakan. Karena itu, menurut penjelasan dosen, pandangan yang menolak Sunnah dan hanya menerima Al-Qur'an tidak dapat menjelaskan seluruh rincian pelaksanaan ibadah, seperti jumlah rakaat salat, waktu-waktu salat, dan tata cara haji.
+
+Pembahasan berikutnya menyentuh qira'at syadz. Dosen menjelaskan tiga syarat qira'at yang diterima: sanad yang sahih, kesesuaian dengan rasm Utsmani, dan kesesuaian dengan salah satu bentuk bahasa Arab yang diterima. Qira'at syadz tidak diterima sebagai bacaan Al-Qur'an yang memenuhi syarat tersebut, tetapi dapat digunakan oleh ulama untuk membantu menjelaskan makna ayat. Contohnya adalah bacaan yang dinisbatkan kepada Aisyah mengenai **كَالْمُعَلَّقَةِ**, yang digunakan untuk menerangkan keadaan perempuan yang tidak diperlakukan secara layak sebagai istri tetapi tidak pula diceraikan.
+
+Dari pembahasan tersebut, dosen beralih kepada ayat mengenai keadilan antara para istri dan kebolehan poligami. Ia membedakan keadilan yang dapat diusahakan, seperti nafkah, pakaian, tempat tinggal, dan pemenuhan hak, dari kecenderungan cinta dalam hati yang tidak sepenuhnya berada dalam kendali manusia. Menurutnya, ketidakmampuan menyamakan kecenderungan hati tidak membenarkan seorang suami mengabaikan hak istri lainnya.
+
+Dalam diskusi mengenai apakah hukum asal perkawinan adalah poligami atau monogami, dosen menyampaikan kecenderungannya kepada pandangan bahwa monogami merupakan hukum asal, sedangkan poligami dapat dilakukan atas alasan tertentu dan dengan kemampuan memenuhi tanggung jawab. Ia menjelaskan sebab turunnya ayat poligami dalam konteks kekhawatiran tidak berbuat adil kepada anak yatim perempuan, serta menghubungkan pembahasan tersebut dengan perlindungan hak dan pencegahan ketidakadilan. Ia juga membahas berbagai tujuan sosial, politik, ekonomi, dan keagamaan yang menurutnya berkaitan dengan pernikahan Nabi. Sejumlah angka dan klaim sosial yang disampaikan dalam diskusi dipertahankan sebagai ucapan dosen karena rekaman tidak menyediakan sumber untuk memverifikasinya.
+
+Pembahasan berikutnya menguraikan makna **قَلِيلًا مَا تَذَكَّرُونَ**, yaitu sedikitnya orang yang mengambil pelajaran, serta fungsi retoris **الالتفات**. Dosen kemudian menjelaskan beberapa jenis kemukjizatan Al-Qur'an, yaitu الإعجاز التشريعي, الإعجاز الغيبي, dan الإعجاز البياني. Ia menekankan الإعجاز الغيبي melalui contoh pemberitaan mengenai komentar orang-orang ketika kiblat berubah, masuknya kaum Muslim ke Masjidilharam, dan kemenangan bangsa Romawi setelah kekalahan mereka.
+
+Pada akhir perkuliahan, dosen memperkenalkan ayat berikutnya, **﴿وَكَمْ مِنْ قَرْيَةٍ أَهْلَكْنَاهَا﴾**. Ia menjelaskan makna kosakata seperti **بَيَاتًا** dan **قَائِلُونَ**, yang dalam konteks ayat berarti malam hari dan waktu istirahat siang. Ia juga menerangkan makna **فلنقصن عليهم بعلم** dan menjelaskan bahwa huruf ba' dalam **بعلم** adalah **باء المصاحبة**, yang menunjukkan bahwa penceritaan berlangsung disertai pengetahuan Allah, bukan karena Allah tidak mengetahui apa yang dilakukan manusia.
+
+Terakhir, dosen menegaskan bahwa ungkapan **قال القاضي أبو محمد** dalam tafsir Ibn 'Athiyyah merujuk kepada pengarang kitab itu sendiri. Pelajaran ini memperlihatkan bahwa membaca tafsir memerlukan gabungan penguasaan bahasa Arab, balaghah, pemahaman konteks ayat, pengetahuan qira'at, penguasaan dalil, serta kemampuan menghubungkan penjelasan kebahasaan dengan hukum dan tujuan ayat.

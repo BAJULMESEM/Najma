@@ -1,0 +1,625 @@
+# ILMU MANTIQ: JENIS-JENIS PENALARAN, QIYAS, ISTIQRA', ANALOGI, DAN PERSEGI OPOSISI PROPOSISI
+
+## I. Posisi pembahasan dalam ilmu mantiq
+
+### 1. Hubungan antara التصورات, التصديقات, dan tujuan mempelajari mantiq
+
+Pada awal rekaman, dosen sedang melanjutkan penjelasan tentang susunan materi ilmu mantiq. Bagian awal yang terdengar merupakan lanjutan pembahasan sebelumnya, sehingga kalimat pertamanya tidak utuh. Meskipun demikian, arah penjelasannya cukup jelas: pembelajaran mantiq mencakup dua bidang besar, yaitu **التصورات** dan **التصديقات**, masing-masing dengan pembahasan pendahuluan dan tujuan yang ingin dicapai.
+
+Pembahasan **التصورات** berkaitan dengan kata-kata, petunjuk makna atau **الدلالة**, konsep universal dan partikular, serta **الكليات الخمس** atau lima universal. Pembahasan tersebut mengarah kepada tujuan yang disebut dosen sebagai **التعريف**, yakni definisi. Dengan mempelajari konsep dan hubungan makna, seseorang dapat memahami bagaimana suatu objek atau pengertian dijelaskan melalui definisi.
+
+Sementara itu, pembahasan **التصديقات** berkaitan dengan **القضايا**, yaitu proposisi atau pernyataan yang dapat dinilai benar atau salah. Dari proposisi-proposisi tersebut, seseorang dapat melakukan penalaran untuk memperoleh pengetahuan lebih lanjut. Karena itu, materi التصديقات mencakup berbagai jenis **الاستدلال**, yaitu penalaran atau proses menarik kesimpulan.
+
+Dosen menjelaskan bahwa penalaran tersebut dibedakan menjadi penalaran langsung dan tidak langsung. Penalaran langsung mencakup pembahasan **العكس** dan **تقابل القضايا**, sedangkan penalaran tidak langsung berkaitan dengan **القياس**.
+
+Susunan ini mengantarkan mahasiswa kepada tujuan utama yang ditekankan dosen, yaitu mempelajari qiyas. Ia berkali-kali menegaskan bahwa tujuan tertinggi dan terpenting dalam mempelajari mantiq adalah memahami **القياس**, sebab melalui qiyas seseorang dapat memperoleh pengetahuan yang sebelumnya belum diketahui berdasarkan pengetahuan yang sudah dimilikinya.
+
+### 2. Pengertian umum الاستدلال
+
+Dosen menjelaskan bahwa **الاستدلال** adalah proses mengetahui atau menetapkan suatu proposisi berdasarkan proposisi lain atau berdasarkan beberapa proposisi. Dalam penjelasan kuliah, proses ini dapat berkaitan dengan penetapan kebenaran ataupun ketidakbenaran sebuah proposisi melalui proposisi yang menjadi landasannya.
+
+Untuk memudahkan pemahaman, dosen membedakan proposisi asal dan hasil penalaran. Proposisi yang digunakan sebagai landasan disebut **الأصل**, sedangkan proposisi yang dihasilkan melalui proses penalaran disebut **النتيجة**.
+
+Dengan demikian, dalam suatu proses penalaran terdapat sesuatu yang menjadi dasar dan sesuatu yang diperoleh berdasarkan dasar tersebut. Perbedaan antara penalaran langsung dan tidak langsung terutama berkaitan dengan jumlah proposisi yang digunakan untuk menghasilkan kesimpulan.
+
+Jika suatu proposisi dapat menghasilkan kesimpulan secara langsung dari dirinya sendiri, bentuk tersebut termasuk **الاستدلال المباشر**. Namun, jika kesimpulan baru diperoleh melalui hubungan beberapa proposisi atau premis, bentuk itu termasuk **الاستدلال غير المباشر**.
+
+Dosen menekankan bahwa mahasiswa harus memahami perbedaan tersebut sebelum melanjutkan kepada jenis-jenis penalaran yang lebih terperinci.
+
+## II. الاستدلال المباشر: penalaran langsung
+
+### 3. Pengertian penalaran langsung
+
+**الاستدلال المباشر** adalah penalaran yang menghasilkan suatu kesimpulan secara langsung berdasarkan satu proposisi asal. Dalam jenis penalaran ini, seseorang tidak memerlukan beberapa premis yang dirangkaikan seperti dalam qiyas, melainkan menggunakan satu proposisi untuk mengetahui hubungan atau status proposisi lain.
+
+Dosen mencontohkan bahwa apabila seseorang telah mengetahui satu proposisi, ia dapat menarik kesimpulan lain berdasarkan hubungan yang terdapat di antara keduanya. Proposisi awal menjadi dasar, sedangkan proposisi lain merupakan hasil penalaran.
+
+Salah satu ilustrasi yang terdengar dalam rekaman berkaitan dengan pernyataan bahwa seseorang, yaitu Syekh Ali, sedang berada di Mesir. Dosen mencoba menunjukkan bahwa seseorang dapat menarik kesimpulan langsung dari suatu pernyataan. Akan tetapi, lanjutan contoh tersebut tidak terdengar secara jelas dan hubungan persis antara pernyataan asal dengan kesimpulannya tidak dapat dipastikan dari transkrip. Karena itu, contoh tersebut tidak dapat direkonstruksi secara lebih terperinci tanpa menebak.
+
+Dosen juga menyebut pernyataan mengenai hubungan antara ayah dan anak serta perbandingan antara sesuatu yang lebih besar dan lebih kecil. Redaksi contoh ini pun tidak sepenuhnya jelas. Bagian yang dapat dipastikan adalah bahwa dosen sedang memberikan ilustrasi mengenai penarikan kesimpulan langsung dari suatu proposisi.
+
+Menurut penjelasannya, dua bentuk penalaran langsung yang akan dibahas adalah **العكس** dan **تقابل القضايا**.
+
+### 4. العكس sebagai salah satu bentuk penalaran langsung
+
+Dosen menyebut **العكس** sebagai salah satu jenis penalaran langsung. Dalam pembagian yang sedang diajarkan, proses ini bertolak dari satu proposisi dan menghasilkan proposisi lain berdasarkan hubungan langsung di antara keduanya.
+
+Dosen menekankan bahwa asal dan hasil pada bentuk ini masing-masing berupa satu proposisi. Artinya, penalaran tersebut tidak disusun dengan cara menggabungkan dua atau tiga premis sebagaimana dalam qiyas.
+
+Pada bagian rekaman ini, penjelasan khusus mengenai aturan-aturan teknis العكس tidak dikembangkan secara lengkap. Dosen terutama menekankan letaknya dalam pembagian umum penalaran: ia termasuk **الاستدلال المباشر**, berbeda dari القياس yang termasuk penalaran tidak langsung.
+
+Karena itu, mahasiswa perlu membedakan bahwa istilah العكس dalam pembahasan ini merupakan salah satu bentuk penalaran yang memiliki aturan tersendiri, sementara pembahasan yang sedang dikembangkan dosen selanjutnya adalah تقابل القضايا.
+
+### 5. تقابل القضايا sebagai bentuk kedua penalaran langsung
+
+Bentuk kedua ialah **تقابل القضايا**, yaitu hubungan pertentangan atau oposisi di antara proposisi-proposisi.
+
+Dalam bentuk penalaran ini, seseorang mengetahui status suatu proposisi, kemudian dapat menentukan status proposisi lain yang mempunyai hubungan logis tertentu dengannya.
+
+Dosen menjelaskan bahwa ketika seseorang mengemukakan suatu proposisi, proposisi itu dapat memiliki hubungan dengan beberapa jenis proposisi lain. Hubungan tersebut memungkinkan seseorang menarik kesimpulan mengenai kebenaran atau ketidakbenarannya tanpa menyusun qiyas yang terdiri atas beberapa premis.
+
+Karena itu, العكس dan تقابل القضايا sama-sama termasuk penalaran langsung, tetapi keduanya merupakan pembahasan yang berbeda.
+
+Dosen mengingatkan bahwa hubungan antarkalimat seperti ini bukan sekadar istilah teoritis. Manusia menggunakannya dalam kehidupan sehari-hari ketika menarik kesimpulan, menilai apakah dua pernyataan dapat diterima bersama, atau menunjukkan adanya ketidaksesuaian antara dua pernyataan.
+
+Ia bahkan menegaskan bahwa ilmu mantiq dapat digunakan untuk menelaah argumen yang terdapat dalam pembahasan Al-Qur'an dan untuk menjawab argumen pihak-pihak yang mengingkari agama. Karena itu, mahasiswa perlu memahami bentuk-bentuk penalaran dengan baik agar dapat menilai suatu argumen, bukan sekadar menghafal istilah.
+
+## III. الاستدلال غير المباشر dan القياس
+
+### 6. Pengertian penalaran tidak langsung
+
+Berbeda dari penalaran langsung, **الاستدلال غير المباشر** adalah penalaran yang menghasilkan suatu kesimpulan berdasarkan beberapa proposisi atau premis.
+
+Dalam bentuk ini, kesimpulan tidak diambil hanya dari satu proposisi secara langsung. Seseorang perlu menggabungkan beberapa informasi, memperhatikan hubungan di antara informasi tersebut, kemudian memperoleh kesimpulan yang mengikuti hubungan logisnya.
+
+Dosen menyebut jenis penalaran ini dengan istilah **القياس**.
+
+Ia mengajukan pertanyaan kepada mahasiswa tentang nama penalaran yang menghasilkan suatu proposisi dari beberapa proposisi. Jawabannya adalah القياس. Dosen kemudian menegaskan bahwa qiyas merupakan tujuan yang sangat penting dalam mempelajari ilmu mantiq.
+
+Alasannya, melalui qiyas seseorang dapat mengetahui **المجهول من المعلوم**, yaitu memperoleh sesuatu yang belum diketahui berdasarkan sesuatu yang sudah diketahui.
+
+Ungkapan tersebut menjadi inti penjelasan dosen mengenai kegunaan qiyas. Manusia tidak selalu dapat mengetahui setiap perkara secara langsung. Namun, ketika sejumlah informasi telah diketahui dan hubungan logisnya dipahami, seseorang dapat memperoleh pengetahuan baru yang belum diketahui sebelumnya.
+
+### 7. Hubungan qiyas dengan definisi ilmu mantiq yang telah dipelajari
+
+Dosen mengingatkan mahasiswa mengenai definisi ilmu mantiq yang telah dipelajari dalam pertemuan sebelumnya. Ia meminta mahasiswa mengingat bahwa konsep-konsep yang telah dipahami dapat menjadi jalan untuk memperoleh pengetahuan lain.
+
+Pada pembahasan التصورات, seseorang menggunakan pengertian-pengertian yang telah diketahui untuk sampai kepada pengertian yang belum diketahui melalui proses definisi.
+
+Pada pembahasan التصديقات, seseorang menggunakan proposisi-proposisi yang diketahui untuk mencapai suatu kesimpulan yang belum diketahui melalui penalaran.
+
+Dengan demikian, qiyas berkaitan dengan proses memperoleh pengetahuan baru berdasarkan premis-premis yang telah diketahui. Kesimpulan yang dihasilkan tidak harus merupakan salah satu premis yang diulang, tetapi diperoleh melalui hubungan di antara beberapa premis tersebut.
+
+Inilah alasan dosen menempatkan qiyas sebagai salah satu tujuan utama kajian logika.
+
+### 8. Contoh qiyas: hubungan antara besi, logam, dan pemuaian
+
+Dosen memberikan contoh:
+
+«كُلُّ حَدِيدٍ مَعْدِنٌ، وَكُلُّ مَعْدِنٍ يَتَمَدَّدُ بِالْحَرَارَةِ، فَكُلُّ حَدِيدٍ يَتَمَدَّدُ بِالْحَرَارَةِ».
+
+Artinya, setiap besi adalah logam, setiap logam memuai karena panas, sehingga setiap besi memuai karena panas.
+
+Dalam contoh ini, pernyataan bahwa setiap besi adalah logam merupakan premis pertama. Pernyataan bahwa setiap logam memuai karena panas merupakan premis kedua. Dari hubungan kedua premis tersebut, diperoleh kesimpulan bahwa setiap besi memuai karena panas.
+
+Kesimpulan itu tidak diambil hanya dari premis pertama. Pernyataan bahwa besi adalah logam saja belum cukup untuk menghasilkan kesimpulan tentang pemuaian. Kesimpulan baru dapat diperoleh setelah premis pertama dihubungkan dengan premis kedua.
+
+Demikian pula, premis kedua saja belum memberikan kesimpulan khusus mengenai besi. Kesimpulan tentang besi muncul setelah kedua premis dirangkaikan.
+
+Contoh ini menunjukkan perbedaan utama antara qiyas dan penalaran langsung. Dalam qiyas, kesimpulan diperoleh melalui gabungan beberapa premis, sedangkan penalaran langsung bertolak dari satu proposisi.
+
+## IV. Tiga arah penalaran berdasarkan hubungan universal dan partikular
+
+### 9. Pembagian penalaran dari sudut hubungan antara keseluruhan dan bagian
+
+Setelah menjelaskan perbedaan antara penalaran langsung dan tidak langsung, dosen memperkenalkan pembagian penalaran lain. Pembagian ini dilihat berdasarkan hubungan antara pernyataan universal dan partikular.
+
+Dalam penjelasan dosen, terdapat tiga arah yang perlu dibedakan. Pertama, penalaran dari yang universal menuju yang partikular. Kedua, penalaran dari yang partikular menuju yang universal. Ketiga, penalaran dari satu hal partikular menuju hal partikular yang lain.
+
+Dosen menjelaskan bahwa ketiga bentuk tersebut berhubungan dengan beberapa istilah penting dalam kajian logika, tetapi tidak semuanya memiliki kedudukan yang sama dalam materi yang sedang dipelajari. Ia membedakan qiyas yang menjadi fokus mantiq klasik, istiqra' yang dikaitkan dengan perkembangan ilmu-ilmu eksperimental, dan analogi yang dikenal pula dalam pembahasan para ahli fikih.
+
+### 10. Penalaran dari universal ke partikular: القياس
+
+Bentuk pertama bergerak dari proposisi universal menuju kesimpulan yang lebih khusus.
+
+Contohnya adalah qiyas mengenai besi dan logam yang telah dijelaskan. Pernyataan bahwa seluruh logam memuai karena panas merupakan proposisi umum, sedangkan besi merupakan salah satu bagian yang termasuk dalam kategori logam. Dengan menghubungkan kedua premis, seseorang memperoleh kesimpulan khusus mengenai besi.
+
+Dosen menyebut bentuk ini sebagai القياس. Dalam konteks tersebut, penalaran bergerak dari ketentuan umum menuju kasus tertentu yang termasuk di dalamnya.
+
+Menurut penjelasan dosen, bentuk ini merupakan salah satu pembahasan utama mantiq klasik. Ia kembali menegaskan bahwa dalam ilmu mantiq yang sedang mereka pelajari, perhatian utama diarahkan kepada qiyas karena melalui bentuk penalaran tersebut seseorang dapat mencapai pengetahuan mengenai hal yang belum diketahui.
+
+### 11. Penalaran dari partikular ke universal: الاستقراء
+
+Bentuk kedua adalah **الاستقراء**, yaitu penalaran yang bergerak dari pengamatan terhadap kasus-kasus tertentu menuju suatu kesimpulan umum.
+
+Dosen menjelaskan bahwa istiqra' dilakukan dengan mengamati sejumlah kasus yang terbatas, kemudian merumuskan suatu kesimpulan yang diterapkan bukan hanya kepada kasus-kasus yang telah diamati, tetapi juga kepada kasus lain yang dianggap termasuk dalam cakupan aturan umum tersebut.
+
+Dengan demikian, seseorang tidak harus memeriksa setiap kasus yang ada untuk mencoba merumuskan suatu hukum umum. Ia dapat memulai dari sejumlah contoh, menemukan pola yang berulang, kemudian membentuk kesimpulan yang lebih luas.
+
+Dosen mengatakan bahwa bentuk penalaran ini sangat penting dalam perkembangan ilmu pengetahuan modern, terutama ilmu-ilmu eksperimental yang bergantung pada pengamatan dan percobaan.
+
+### 12. Contoh istiqra': obat dan penyembuhan sakit kepala
+
+Dosen memberikan contoh mengenai obat yang diperkirakan dapat meredakan sakit kepala. Dalam rekaman, ia menyebut obat seperti aspirin dan Panadol sebagai ilustrasi.
+
+Seseorang dapat mengamati sejumlah orang yang mengalami sakit kepala dan menggunakan obat tertentu. Apabila dari beberapa pengamatan ia melihat bahwa sakit kepala mereka berkurang setelah memakai obat tersebut, ia mungkin menarik kesimpulan bahwa obat itu mempunyai kemampuan untuk membantu meredakan sakit kepala.
+
+Kesimpulan tersebut dibangun melalui serangkaian kasus yang diamati. Seseorang memeriksa beberapa kejadian, kemudian merumuskan suatu dugaan atau kesimpulan umum mengenai hubungan antara obat dan gejala yang diamatinya.
+
+Dosen menggunakan contoh tersebut untuk menjelaskan cara penalaran istiqra' bekerja. Kesimpulan umum diperoleh dengan mengamati kasus-kasus partikular, bukan semata-mata melalui penerapan suatu proposisi universal yang telah tersedia.
+
+Contoh ini merupakan ilustrasi dosen mengenai pola penalaran. Rekaman tidak menjelaskan jenis penelitian, ukuran sampel, dosis, ataupun rincian lain mengenai obat-obatan yang disebut.
+
+### 13. Contoh istiqra': akibat menyentuh aliran listrik
+
+Contoh berikutnya berkaitan dengan bahaya listrik. Dosen menggambarkan tiga orang yang menyentuh aliran listrik pada tingkat tertentu. Ketiganya kemudian meninggal dunia.
+
+Berdasarkan kasus-kasus itu, seseorang dapat mencoba menarik kesimpulan umum bahwa menyentuh aliran listrik pada tingkat tertentu dapat menyebabkan kematian.
+
+Dosen kemudian bertanya apakah kesimpulan tersebut diperoleh setelah memeriksa seluruh kasus yang mungkin terjadi atau hanya berdasarkan beberapa kasus.
+
+Jawabannya adalah bahwa kesimpulan tersebut dibangun berdasarkan beberapa kasus yang diamati. Karena tidak seluruh kasus telah diperiksa, proses ini disebut **الاستقراء الناقص**, yaitu induksi tidak sempurna.
+
+Contoh tersebut menunjukkan bahwa manusia dapat merumuskan aturan yang lebih umum berdasarkan pengamatan terhadap sebagian kejadian. Kesimpulan semacam itu dapat digunakan sebagai dasar pengetahuan, tetapi tidak diperoleh dengan cara memeriksa setiap kasus secara menyeluruh.
+
+Dosen kemudian menghubungkan istiqra' dengan metode pengamatan dan percobaan yang banyak digunakan dalam ilmu-ilmu eksperimental.
+
+## V. الاستقراء الناقص dan الاستقراء التام
+
+### 14. Pengertian induksi tidak sempurna
+
+**الاستقراء الناقص** adalah proses penalaran yang menghasilkan suatu kesimpulan umum berdasarkan pemeriksaan terhadap sebagian kasus yang termasuk dalam suatu kategori.
+
+Dalam bentuk ini, seseorang tidak mengamati seluruh individu atau kasus yang berada di dalam kategori tersebut. Ia hanya mengamati sejumlah contoh, kemudian merumuskan suatu aturan yang diperkirakan mencakup kasus-kasus lain.
+
+Dosen menekankan bahwa bentuk induksi inilah yang berperan penting dalam perkembangan ilmu pengetahuan. Melalui pengamatan dan percobaan, manusia dapat memperoleh informasi baru dan merumuskan hukum umum berdasarkan pola yang ditemukan dalam berbagai kejadian.
+
+Ia menghubungkannya dengan perkembangan peradaban dan kemajuan dunia modern. Menurut penjelasannya, banyak kemajuan yang dicapai manusia bertumpu pada pengamatan, percobaan, dan pemanfaatan pengetahuan mengenai berbagai fenomena di alam.
+
+Dosen menyebut istiqra' sebagai salah satu bentuk logika modern yang penting untuk memahami bagaimana manusia memperoleh pengetahuan melalui pengalaman.
+
+### 15. Pengertian induksi sempurna
+
+Bentuk kedua adalah **الاستقراء التام**, yaitu penalaran yang dilakukan dengan memeriksa seluruh kasus dalam kategori yang sedang diteliti.
+
+Untuk menggambarkannya, dosen memberikan contoh mahasiswa tingkat dua. Ia mengatakan bahwa apabila ia mengenal seluruh mahasiswa tingkat dua dan mengetahui bahwa semuanya memiliki tingkat kemampuan yang baik, ia dapat menyatakan bahwa seluruh mahasiswa tingkat dua tersebut memiliki tingkat kemampuan yang baik.
+
+Dalam contoh itu, dosen tidak menyimpulkan keadaan seluruh mahasiswa hanya berdasarkan beberapa orang. Ia mengklaim telah mengetahui keadaan seluruh anggota kelompok yang dimaksud.
+
+Dosen kemudian membedakan kesimpulan yang diperoleh dari seluruh individu dengan kesimpulan yang diperoleh dari sebagian individu. Jika seluruh anggota diperiksa, penalaran tersebut disebut istiqra' sempurna. Jika hanya sebagian anggota yang diperiksa, penalaran itu disebut istiqra' tidak sempurna.
+
+Dalam rekaman, dosen menyatakan bahwa istiqra' sempurna tidak memberikan kontribusi yang sama bagi perkembangan ilmu seperti istiqra' tidak sempurna, sebab kesimpulannya diperoleh setelah seluruh kasus yang menjadi objek penelitian telah diketahui.
+
+Pernyataan tersebut dipertahankan sebagaimana disampaikan dosen dalam perkuliahan. Materi ini tidak memberikan penjelasan tambahan untuk menyelaraskannya dengan pembahasan logika dari sumber lain.
+
+### 16. Hubungan istiqra' dengan pengamatan dan eksperimen
+
+Dosen menegaskan bahwa istiqra' tidak sempurna sangat penting dalam penelitian ilmiah karena memungkinkan manusia menarik kesimpulan umum dari pengamatan terhadap sebagian kejadian.
+
+Para peneliti melakukan pengamatan, mengulang percobaan, memperhatikan hasil, lalu membangun penjelasan atau aturan yang dapat digunakan untuk memahami kejadian lain.
+
+Dosen menggunakan gagasan ini untuk menjelaskan bagaimana ilmu pengetahuan eksperimental berkembang. Tidak setiap hukum ilmiah diperoleh dengan memeriksa semua kemungkinan kejadian. Sebagian kesimpulan berasal dari pengamatan terhadap sampel atau kasus tertentu yang digunakan untuk memahami pola yang lebih luas.
+
+Karena itu, ia menyebut istiqra' sebagai salah satu bentuk penalaran yang sangat penting dalam ilmu modern dan dalam perkembangan peradaban.
+
+Namun, dalam materi yang diberikan, penjelasan mengenai kepastian kesimpulan induktif dan batas-batas penerapannya tidak dibahas secara terperinci. Titik tekan dosen adalah perbedaan antara pemeriksaan seluruh kasus dan pemeriksaan sebagian kasus, serta pentingnya induksi tidak sempurna dalam ilmu eksperimental.
+
+## VI. Penalaran dari partikular ke partikular: قياس التمثيل
+
+### 17. Pengertian قياس التمثيل
+
+Bentuk ketiga adalah penalaran dari satu kasus partikular menuju kasus partikular lain. Dosen menyebut bentuk tersebut sebagai **قياس التمثيل**.
+
+Dalam jenis penalaran ini, seseorang memperhatikan satu objek atau kasus tertentu, kemudian menggunakan kesamaan yang terdapat pada objek tersebut dengan objek lain untuk menarik kesimpulan mengenai objek yang kedua.
+
+Berbeda dari qiyas yang berangkat dari ketentuan universal, قياس التمثيل menggunakan suatu kasus sebagai contoh bagi kasus lain. Seseorang melihat keadaan suatu objek, kemudian menilai bahwa objek lain yang memiliki kesamaan tertentu mungkin mempunyai keadaan yang serupa.
+
+Dosen menjelaskan bahwa bentuk penalaran ini juga dikenal dalam pembahasan fikih. Dalam bahasa para ahli fikih, ia disebut **قياس**, yaitu analogi dalam penetapan hukum.
+
+Karena itu, mahasiswa harus memahami bahwa kata qiyas dapat muncul dalam pembahasan logika maupun fikih. Dalam pembahasan logika yang sedang dijelaskan, قياس التمثيل merupakan satu jenis penalaran berdasarkan kemiripan antara kasus-kasus partikular.
+
+### 18. Contoh analogi: Bumi dan planet lain dalam tata surya
+
+Dosen memberikan contoh mengenai Bumi dan benda-benda langit lain dalam tata surya.
+
+Ia memulai dari pernyataan bahwa Bumi memperoleh cahayanya dari Matahari. Bumi merupakan salah satu planet dalam tata surya.
+
+Kemudian ia mengambil planet lain, seperti Venus atau Merkurius, yang juga termasuk planet dalam tata surya. Berdasarkan kemiripan kategorinya dengan Bumi, ia mencoba menarik kesimpulan bahwa planet lain tersebut juga memperoleh cahaya dari Matahari.
+
+Dalam contoh yang digunakan dosen, penalaran bergerak dari satu kasus partikular menuju kasus partikular lainnya. Bumi menjadi contoh pertama yang dijadikan dasar untuk menarik kesimpulan mengenai planet lain.
+
+Dosen menyebut pola ini sebagai **قياس التمثيل** dan menegaskan bahwa istilah tersebut digunakan pula dalam pembahasan ahli fikih.
+
+Rincian nama planet dalam rekaman tidak seluruhnya terdengar jelas, tetapi Bumi, Matahari, Venus, dan Merkurius disebut dalam rangkaian penjelasan. Contoh tersebut dipertahankan sebagai ilustrasi dosen mengenai penalaran analogis, tanpa menambahkan uraian astronomis di luar materi.
+
+## VII. Mengapa qiyas tetap menjadi fokus utama mantiq?
+
+### 19. Perbedaan tiga bentuk penalaran
+
+Setelah menjelaskan ketiga arah penalaran, dosen merangkum perbedaannya.
+
+Penalaran dari universal menuju partikular disebut **القياس** dalam pembagian yang sedang dipelajari. Contohnya adalah kesimpulan tentang besi berdasarkan proposisi umum mengenai logam.
+
+Penalaran dari partikular menuju universal disebut **الاستقراء**. Contohnya adalah pengamatan terhadap sejumlah orang yang mengalami akibat serupa, lalu merumuskan suatu aturan umum.
+
+Penalaran dari partikular menuju partikular lain disebut **قياس التمثيل**, yaitu menggunakan satu kasus untuk menarik kesimpulan mengenai kasus lain yang dianggap memiliki kemiripan.
+
+Dosen menjelaskan bahwa ketiga bentuk tersebut tidak boleh dicampuradukkan. Masing-masing mempunyai arah penalaran dan kedudukan berbeda.
+
+Ia menegaskan bahwa dalam mantiq klasik, qiyas merupakan pokok perhatian yang sangat penting. Sementara itu, istiqra' yang mengandalkan pengamatan dan percobaan mendapatkan peran besar dalam pembahasan logika modern.
+
+Dosen juga menyebut bahwa mahasiswa yang masuk ke jurusan akidah pada tingkat berikutnya akan mempelajari topik tersebut secara lebih luas dalam mata kuliah logika modern. Menurutnya, bidang itu merupakan materi yang menarik dan membantu mahasiswa memahami proses penalaran ilmiah.
+
+### 20. Mengapa العكس dan تقابل القضايا tetap dipelajari?
+
+Walaupun qiyas merupakan fokus utama, dosen menjelaskan bahwa العكس dan تقابل القضايا tetap penting karena keduanya membantu seseorang melakukan penalaran dan menilai keabsahan hubungan di antara proposisi.
+
+Penalaran langsung memungkinkan seseorang memeriksa hubungan antarkalimat tanpa harus selalu merangkai beberapa premis. Dalam pembahasan selanjutnya, pengetahuan mengenai hubungan antarkalimat juga dapat digunakan untuk menilai bentuk penalaran yang lebih luas.
+
+Karena itu, mahasiswa tidak boleh menganggap pembahasan العكس dan تقابل القضايا sebagai materi yang tidak berkaitan dengan qiyas. Keduanya menjadi bagian dari kemampuan dasar dalam memahami hubungan logis di antara proposisi.
+
+Dosen menjelaskan bahwa pembagian jenis penalaran disusun agar mahasiswa mengetahui jenis-jenis hubungan yang tersedia, memahami fungsi masing-masing, dan mengetahui bentuk penalaran mana yang diperlukan untuk suatu masalah.
+
+## VIII. Premis dan kebutuhan terhadap dalil
+
+### 21. Apakah qiyas dapat dilakukan tanpa proposisi atau premis?
+
+Seorang mahasiswa kemudian bertanya apakah seseorang dapat sampai kepada qiyas atau hujah tanpa menggunakan proposisi.
+
+Dosen menjelaskan bahwa seseorang tidak dapat membangun qiyas sebagaimana yang sedang dipelajari tanpa premis-premis yang menjadi dasar kesimpulannya.
+
+Ia meminta mahasiswa memperhatikan contoh mengenai besi dan pemuaian. Untuk memperoleh kesimpulan bahwa besi memuai karena panas, diperlukan pernyataan bahwa besi termasuk logam dan bahwa logam memuai karena panas.
+
+Dengan demikian, qiyas bukan proses menyatakan suatu kesimpulan tanpa dasar. Ia merupakan hubungan yang dibangun antara premis-premis dan kesimpulan.
+
+Mahasiswa perlu memahami bahwa dalam penalaran, kesimpulan berasal dari premis yang menjadi landasannya. Apabila premis tidak tersedia, atau hubungan di antara premis tidak dijelaskan, kesimpulan belum dibangun dengan cara yang diperagakan dalam contoh qiyas.
+
+### 22. Contoh pembuktian kenabian Nabi Muhammad صلى الله عليه وسلم
+
+Dosen kemudian menggunakan persoalan kenabian Nabi Muhammad صلى الله عليه وسلم sebagai contoh penerapan penalaran.
+
+Ia mengemukakan proposisi:
+
+**مُحَمَّدٌ رَسُولُ اللَّهِ**
+
+Artinya, Muhammad adalah utusan Allah.
+
+Dosen bertanya apakah pernyataan itu merupakan sesuatu yang tidak memerlukan penjelasan bagi semua orang. Ia menjelaskan bahwa meskipun bagi umat Islam pernyataan tersebut merupakan keyakinan yang diterima, terdapat orang-orang yang tidak mengakuinya dan memperdebatkan kebenarannya.
+
+Karena ada pihak yang menyangkalnya, pernyataan tersebut perlu dibahas melalui argumen bagi orang yang belum menerimanya sebagai sesuatu yang jelas dengan sendirinya.
+
+Dosen menghubungkan persoalan itu dengan perbedaan antara sesuatu yang dianggap langsung diketahui dan sesuatu yang memerlukan pembuktian. Jika sebuah proposisi diperselisihkan, seseorang perlu menjelaskan dasar yang digunakan untuk menetapkannya.
+
+### 23. Menyusun argumen tentang kerasulan
+
+Dalam penjelasan dosen, argumen mengenai kerasulan Nabi Muhammad صلى الله عليه وسلم dapat disusun melalui beberapa premis.
+
+Pertama, Nabi Muhammad صلى الله عليه وسلم menyatakan bahwa dirinya adalah utusan Allah.
+
+Kedua, klaim bahwa beliau menyampaikan risalah tersebut diketahui melalui periwayatan yang luas atau **التواتر**. Dalam uraian dosen, berita mengenai munculnya seseorang bernama Muhammad di Jazirah Arab dan pernyataannya sebagai Rasul Allah disampaikan melalui jalur berita yang disebut mutawatir.
+
+Ketiga, dosen memasukkan prinsip bahwa orang yang mengaku sebagai rasul dan didukung oleh mukjizat dari Allah merupakan rasul yang benar. Ia menjelaskan bahwa mukjizat berfungsi sebagai tanda yang mendukung klaim kerasulan.
+
+Dari premis-premis tersebut, kesimpulan yang diharapkan adalah bahwa Nabi Muhammad صلى الله عليه وسلم merupakan Rasul Allah.
+
+Dosen kemudian mengingatkan bahwa setiap premis perlu dipahami statusnya. Sebagian premis mungkin memerlukan pembuktian tersendiri, sedangkan sebagian lainnya dapat diketahui melalui jalur berita yang dianggap pasti atau melalui dasar yang diterima sebagai pengetahuan yang tidak memerlukan pembuktian tambahan dalam konteks tertentu.
+
+Contohnya, untuk menetapkan bahwa Nabi Muhammad صلى الله عليه وسلم benar-benar pernah mengaku sebagai utusan Allah, dosen menunjuk kepada berita yang disampaikan secara mutawatir. Adapun pembahasan mengenai mukjizat yang mendukung klaim tersebut berkaitan dengan materi lain yang akan dibahas pada bagian khusus tentang mukjizat.
+
+Dengan demikian, contoh ini menunjukkan bahwa argumen mengenai suatu perkara dapat disusun melalui premis-premis yang mendukung kesimpulan, dan bahwa sebagian premis dapat menjadi objek pembuktian tersendiri.
+
+## IX. Memasuki pembahasan تقابل القضايا
+
+### 24. Pengertian القضايا المحصورة atau القضايا المسورة
+
+Setelah membahas dasar penalaran, dosen beralih kepada **تقابل القضايا**. Ia mengingatkan bahwa pembahasan ini telah berkaitan dengan proposisi-proposisi yang sebelumnya dikenal mahasiswa sebagai **القضايا المحصورة** atau **القضايا المسورة**.
+
+Dalam materi ini, yang dimaksud adalah proposisi yang mempunyai penanda kuantitas, sehingga dapat dibedakan menjadi universal dan partikular. Proposisi tersebut dapat berbentuk afirmatif atau negatif.
+
+Dosen menyebut bahwa ada empat jenis proposisi yang menjadi dasar pembahasan persegi oposisi:
+
+**القضية الكلية الموجبة**, yaitu proposisi universal afirmatif;
+
+**القضية الكلية السالبة**, yaitu proposisi universal negatif;
+
+**القضية الجزئية الموجبة**, yaitu proposisi partikular afirmatif;
+
+dan **القضية الجزئية السالبة**, yaitu proposisi partikular negatif.
+
+Empat jenis inilah yang disusun dalam bentuk yang disebut **مربع تقابل القضايا**, yakni persegi oposisi proposisi.
+
+### 25. Penggunaan simbol dalam ilmu mantiq
+
+Dosen menjelaskan bahwa ahli mantiq menggunakan simbol untuk mempermudah pembahasan dan menghindari pengulangan kata-kata panjang.
+
+Dalam materi ini, huruf **ك** digunakan untuk menunjukkan proposisi kulliyyah atau universal, sedangkan **ج** menunjukkan proposisi juz'iyyah atau partikular.
+
+Huruf **م** menunjukkan proposisi afirmatif atau **موجبة**, sedangkan **س** menunjukkan proposisi negatif atau **سالبة**.
+
+Dengan demikian, empat simbol yang digunakan dalam pembahasan tersebut adalah:
+
+**ك م** untuk القضية الكلية الموجبة, yaitu universal afirmatif.
+
+**ك س** untuk القضية الكلية السالبة, yaitu universal negatif.
+
+**ج م** untuk القضية الجزئية الموجبة, yaitu partikular afirmatif.
+
+**ج س** untuk القضية الجزئية السالبة, yaitu partikular negatif.
+
+Dosen menegaskan bahwa penggunaan simbol merupakan bagian dari sifat abstrak ilmu mantiq. Alih-alih mengulangi nama lengkap setiap proposisi, mahasiswa dapat menggunakan simbol yang mewakili jenisnya.
+
+Dengan cara ini, hubungan di antara proposisi lebih mudah digambarkan dan dianalisis.
+
+### 26. Proposisi lain yang belum menjadi fokus pembahasan
+
+Dosen juga menyebut dua jenis proposisi lain, yaitu **القضية الشخصية** dan **القضية المهملة**.
+
+Akan tetapi, ia menjelaskan bahwa pembahasan lebih lanjut mengenai kedua jenis tersebut akan dilakukan bersama Dr. Awwad. Karena itu, dalam bagian perkuliahan ini, fokus hanya diarahkan kepada empat proposisi yang mempunyai penanda kuantitas, yaitu universal afirmatif, universal negatif, partikular afirmatif, dan partikular negatif.
+
+Pembedaan tersebut menunjukkan bahwa pembahasan tentang persegi oposisi pada pertemuan ini dibatasi pada empat jenis proposisi tersebut, bukan seluruh jenis proposisi yang dikenal dalam ilmu mantiq.
+
+## X. Menyusun مربع تقابل القضايا
+
+### 27. Posisi empat proposisi dalam persegi oposisi
+
+Dosen menjelaskan bahwa empat proposisi tadi harus diletakkan dalam susunan tertentu agar hubungan di antara mereka dapat dipahami.
+
+Dalam gambar yang diajarkan, posisi di kanan atas ditempati oleh proposisi universal afirmatif, yaitu **ك م**. Posisi di kiri atas ditempati oleh proposisi universal negatif, yaitu **ك س**.
+
+Pada bagian bawah, sebelah kanan ditempati oleh proposisi partikular afirmatif, yaitu **ج م**, sedangkan sebelah kiri ditempati oleh proposisi partikular negatif, yaitu **ج س**.
+
+Susunan ini merupakan dasar bagi pembahasan hubungan di antara keempat proposisi. Dosen menekankan bahwa mahasiswa harus memperhatikan posisi masing-masing simbol dalam persegi, sebab hubungan logis yang dibahas ditentukan berdasarkan pasangan proposisi yang bersangkutan.
+
+Apabila posisi proposisi dalam gambar tertukar, mahasiswa dapat keliru menentukan jenis hubungan yang terjadi di antara keduanya.
+
+### 28. Empat jenis hubungan dalam تقابل القضايا
+
+Menurut dosen, setiap proposisi dalam persegi tersebut mempunyai hubungan dengan tiga proposisi lain. Hubungan-hubungan inilah yang dibahas dalam **تقابل القضايا**.
+
+Ia menyebut empat jenis hubungan:
+
+**التناقض**, yaitu kontradiksi;
+
+**التضاد**, yaitu pertentangan atau kontrari;
+
+**الدخول تحت التضاد**, yaitu hubungan subkontrari;
+
+dan **التداخل**, yaitu hubungan yang dibicarakan antara proposisi universal dan partikular yang sejenis.
+
+Dosen kemudian menjelaskan pasangan proposisi yang berhubungan dalam masing-masing jenis tersebut.
+
+Hubungan التناقض terjadi antara proposisi universal afirmatif dan partikular negatif, serta antara universal negatif dan partikular afirmatif.
+
+Hubungan التضاد terjadi antara proposisi universal afirmatif dan universal negatif.
+
+Hubungan الدخول تحت التضاد terjadi antara proposisi partikular afirmatif dan partikular negatif.
+
+Adapun التداخل terjadi antara universal afirmatif dan partikular afirmatif, serta antara universal negatif dan partikular negatif.
+
+Dosen menegaskan bahwa mahasiswa harus menghafal posisi dan pasangan ini. Setiap proposisi mempunyai hubungan dengan tiga proposisi lain, tetapi tidak semua hubungan itu mempunyai hukum yang sama.
+
+Pada pertemuan ini, dosen memusatkan pembahasan lebih jauh kepada التناقض karena dianggap sangat penting untuk penalaran langsung dan untuk menilai keabsahan argumen.
+
+## XI. التناقض: pengertian dan hukum dua proposisi yang kontradiktif
+
+### 29. Pasangan proposisi yang mengalami التناقض
+
+Dosen menjelaskan bahwa **التناقض** terjadi di antara dua pasangan proposisi.
+
+Pasangan pertama adalah proposisi universal afirmatif (**ك م**) dengan proposisi partikular negatif (**ج س**).
+
+Pasangan kedua adalah proposisi universal negatif (**ك س**) dengan proposisi partikular afirmatif (**ج م**).
+
+Dengan demikian, hubungan kontradiksi tidak terjadi secara sembarang di antara dua proposisi yang maknanya berbeda. Hubungan itu ditentukan oleh bentuk proposisi dan pasangan yang telah disusun dalam persegi oposisi.
+
+Dosen meminta mahasiswa memahami pasangan tersebut dengan baik karena hubungan kontradiksi dapat digunakan untuk menentukan apakah dua pernyataan dapat benar bersama-sama atau salah bersama-sama.
+
+### 30. Hukum التناقض: لا يجتمعان ولا يرتفعان
+
+Dosen menjelaskan hukum utama dua proposisi yang kontradiktif melalui ungkapan:
+
+**«لَا يَجْتَمِعَانِ وَلَا يَرْتَفِعَانِ»**
+
+Artinya, keduanya tidak dapat berkumpul dan tidak dapat sama-sama tidak berlaku.
+
+Dalam penjelasan dosen, maksudnya adalah bahwa dua proposisi yang berkontradiksi tidak mungkin sama-sama benar dan tidak mungkin sama-sama salah.
+
+Apabila salah satu proposisi benar, proposisi yang berkontradiksi dengannya harus salah. Sebaliknya, apabila salah satu proposisi salah, proposisi yang menjadi kontradiksinya harus benar.
+
+Dengan kata lain, kedua proposisi tersebut berlawanan dalam hal afirmasi dan negasi dengan cara yang membuat kebenaran salah satunya mengharuskan ketidakbenaran yang lain.
+
+Dosen menjelaskan hukum ini berulang kali agar mahasiswa tidak mencampuradukkan التناقض dengan hubungan proposisi lain seperti التضاد. Hubungan kontradiksi mempunyai hukum khusus: kedua proposisi tidak dapat benar bersama-sama dan juga tidak dapat salah bersama-sama.
+
+### 31. Contoh pertama: semua mahasiswa hadir dan sebagian mahasiswa tidak hadir
+
+Dosen menggunakan contoh:
+
+**كُلُّ الطُّلَّابِ حَاضِرُونَ.**
+
+Artinya, semua mahasiswa hadir.
+
+Proposisi ini merupakan proposisi universal afirmatif (**قضية كلية موجبة**), karena pernyataan itu menyatakan bahwa seluruh mahasiswa hadir.
+
+Pasangannya yang kontradiktif adalah:
+
+**بَعْضُ الطُّلَّابِ لَيْسُوا حَاضِرِينَ.**
+
+Artinya, sebagian mahasiswa tidak hadir.
+
+Proposisi kedua merupakan proposisi partikular negatif (**قضية جزئية سالبة**), karena pernyataan tersebut menyatakan bahwa ada sebagian mahasiswa yang tidak hadir.
+
+Dosen menjelaskan bahwa kedua pernyataan tersebut tidak mungkin sama-sama benar. Apabila semua mahasiswa hadir, maka pernyataan bahwa sebagian mahasiswa tidak hadir adalah salah.
+
+Sebaliknya, apabila benar bahwa ada sebagian mahasiswa yang tidak hadir, proposisi bahwa semua mahasiswa hadir menjadi salah.
+
+Dosen kembali menerangkan bahwa hukum ini tidak hanya menyatakan bahwa dua proposisi itu berbeda. Perbedaannya sedemikian rupa sehingga kebenaran salah satu mengharuskan kesalahan yang lain.
+
+Karena itu, pasangan:
+
+**كُلُّ الطُّلَّابِ حَاضِرُونَ**
+
+dan
+
+**بَعْضُ الطُّلَّابِ لَيْسُوا حَاضِرِينَ**
+
+merupakan contoh التناقض yang digunakan dosen dalam pelajaran.
+
+### 32. Contoh kedua: tidak seorang pun hadir dan sebagian mahasiswa hadir
+
+Pasangan kontradiksi yang kedua adalah proposisi universal negatif dengan proposisi partikular afirmatif.
+
+Contoh yang digunakan dosen bermakna:
+
+«لَا وَاحِدَ مِنَ الطُّلَّابِ حَاضِرٌ».
+
+Artinya, tidak seorang pun dari mahasiswa hadir.
+
+Proposisi tersebut merupakan universal negatif, sebab penyangkalannya mencakup seluruh kelompok mahasiswa.
+
+Pasangan kontradiktifnya adalah pernyataan:
+
+**بَعْضُ الطُّلَّابِ حَاضِرُونَ.**
+
+Artinya, sebagian mahasiswa hadir.
+
+Proposisi pertama menyatakan bahwa tidak ada satu pun mahasiswa yang hadir, sedangkan proposisi kedua menyatakan bahwa setidaknya ada sebagian mahasiswa yang hadir.
+
+Apabila pernyataan bahwa tidak seorang pun hadir benar, pernyataan bahwa sebagian mahasiswa hadir menjadi salah.
+
+Sebaliknya, jika benar bahwa sebagian mahasiswa hadir, pernyataan bahwa tidak seorang pun hadir menjadi salah.
+
+Dengan demikian, kedua pasangan yang dibahas mempunyai pola yang sama dalam hukum kontradiksi. Pada pasangan pertama, universal afirmatif berkontradiksi dengan partikular negatif. Pada pasangan kedua, universal negatif berkontradiksi dengan partikular afirmatif.
+
+### 33. Mengapa التناقض penting dalam penalaran?
+
+Dosen menyatakan bahwa pengetahuan tentang kontradiksi sangat penting untuk melakukan penalaran langsung. Ketika seseorang mengetahui status satu proposisi, ia dapat menentukan status proposisi yang benar-benar berkontradiksi dengannya.
+
+Pengetahuan ini juga diperlukan dalam pembahasan qiyas dan dalam menilai argumen. Apabila suatu argumen mengandalkan pernyataan yang benar-benar bertentangan satu sama lain, hubungan tersebut dapat diperiksa dengan menggunakan hukum التناقض.
+
+Namun, dosen mengingatkan bahwa tidak setiap dua kalimat yang tampak berbeda atau membicarakan sesuatu yang sama merupakan kontradiksi. Untuk menentukan apakah dua proposisi sungguh-sungguh berkontradiksi, mahasiswa perlu memastikan bahwa syarat-syarat kontradiksi terpenuhi.
+
+Ia kemudian menggunakan persoalan mengenai ayat-ayat Al-Qur'an sebagai ilustrasi pentingnya syarat tersebut.
+
+## XII. Contoh tuduhan kontradiksi terhadap Al-Qur'an
+
+### 34. Dua ayat yang dipersoalkan oleh pihak yang mengajukan keberatan
+
+Dosen mengatakan bahwa sebagian orientalis atau pihak yang menentang agama terkadang mengklaim bahwa Al-Qur'an memuat kontradiksi.
+
+Ia memberikan contoh dua ayat. Ayat pertama berbunyi:
+
+**﴿وَقِفُوهُمْ إِنَّهُمْ مَسْئُولُونَ﴾**
+
+Ayat ini dikutip dalam konteks pernyataan bahwa manusia akan diminta memberikan pertanggungjawaban.
+
+Kemudian dosen menyebut ayat lain:
+
+**﴿فَيَوْمَئِذٍ لَا يُسْأَلُ عَنْ ذَنْبِهِ إِنْسٌ وَلَا جَانٌّ﴾**
+
+Dalam rekaman, redaksi ayat kedua dikemukakan dengan makna bahwa pada hari itu manusia atau jin tidak ditanya mengenai dosa mereka.
+
+Pihak yang mengajukan keberatan kemudian mempertanyakan bagaimana satu ayat menyebut adanya pertanyaan, sedangkan ayat yang lain menyebut bahwa manusia tidak ditanya. Mereka menggunakan kedua ayat tersebut untuk mengklaim adanya kontradiksi.
+
+Dosen menyampaikan contoh ini bukan untuk langsung menyelesaikan penafsiran kedua ayat, melainkan untuk menunjukkan pentingnya memahami terlebih dahulu apa yang dimaksud dengan kontradiksi secara logis.
+
+### 35. Mengapa penilaian kontradiksi memerlukan syarat-syarat tertentu?
+
+Dosen menegaskan bahwa mahasiswa tidak boleh langsung menyatakan suatu teks bertentangan hanya karena menemukan dua kalimat dengan ungkapan yang secara sepintas terlihat berbeda.
+
+Untuk menentukan apakah dua proposisi benar-benar berkontradiksi, harus diperiksa **شروط صحة التناقض**, yaitu syarat-syarat sahnya hubungan kontradiksi.
+
+Ia menjelaskan bahwa hukum التناقض yang telah dipelajari berlaku pada dua proposisi yang benar-benar menjadi pasangan kontradiktif. Apabila dua proposisi yang dibandingkan tidak memenuhi syarat tersebut, hubungan yang tampak berbeda itu belum cukup untuk menetapkan adanya kontradiksi secara logis.
+
+Karena itu, sebelum menilai suatu argumen, peneliti harus memastikan bahwa hubungan di antara dua proposisi tersebut memang merupakan التناقض, bukan jenis hubungan lain atau dua pernyataan yang masih memerlukan penjelasan lebih lanjut.
+
+Dalam rekaman, dosen menyebut bahwa syarat-syarat kontradiksi akan dijelaskan kemudian. Daftar lengkap syarat tersebut tidak disampaikan dalam bagian perkuliahan ini. Oleh sebab itu, penjelasan mengenai syarat-syarat teknisnya tidak dapat ditambahkan secara pasti dari materi yang tersedia.
+
+Poin yang ditegaskan dosen adalah bahwa tuduhan kontradiksi harus diperiksa menggunakan kaidah logika yang benar, bukan hanya berdasarkan kemiripan topik atau perbedaan redaksi secara sepintas.
+
+## XIII. Empat jenis hubungan dalam persegi oposisi dan fokus pembelajaran saat ini
+
+### 36. التناقض sebagai hubungan yang dibahas secara terperinci
+
+Setelah memperkenalkan persegi oposisi, dosen kembali meminta mahasiswa menyebutkan empat jenis hubungan di antara proposisi-proposisi yang ada.
+
+Hubungan pertama adalah **التناقض**. Dalam pembahasan ini, dosen menjelaskan pasangan proposisinya serta hukum bahwa keduanya tidak dapat sama-sama benar dan tidak dapat sama-sama salah.
+
+Hubungan kedua adalah **التضاد**, yang terjadi antara proposisi universal afirmatif dan universal negatif.
+
+Hubungan ketiga adalah **الدخول تحت التضاد**, yang terjadi antara proposisi partikular afirmatif dan partikular negatif.
+
+Hubungan keempat adalah **التداخل**, yang terjadi antara proposisi universal dan partikular yang sejenis, yakni universal afirmatif dengan partikular afirmatif serta universal negatif dengan partikular negatif.
+
+Dosen menyebut seluruh hubungan tersebut agar mahasiswa memahami struktur persegi oposisi secara menyeluruh. Akan tetapi, penjelasan rinci mengenai hukum hubungan selain التناقض belum dikembangkan dalam bagian pelajaran ini.
+
+Ia menjelaskan bahwa pada pertemuan tersebut, fokusnya adalah التناقض karena penalaran ini sangat penting untuk digunakan pada pembahasan selanjutnya, termasuk ketika menentukan hubungan antarkalimat dan memeriksa kebenaran suatu argumen.
+
+### 37. Penjelasan mahasiswa mengenai مربع تقابل القضايا
+
+Pada bagian berikutnya, dosen meminta seorang mahasiswa menjelaskan kembali materi yang telah disampaikan.
+
+Mahasiswa tersebut mengulang definisi penalaran sebagai proses mengambil kesimpulan berdasarkan satu atau beberapa proposisi. Ia membedakan penalaran langsung dengan penalaran tidak langsung. Penalaran langsung meliputi العكس dan تقابل القضايا, sedangkan penalaran tidak langsung merupakan القياس.
+
+Mahasiswa kemudian menyampaikan tiga arah penalaran yang telah dipelajari: dari universal menuju partikular, dari partikular menuju universal, dan dari partikular menuju partikular lainnya. Ia menghubungkannya dengan القياس, الاستقراء, dan قياس التمثيل.
+
+Setelah itu, mahasiswa beralih kepada empat proposisi dalam persegi oposisi, yaitu universal afirmatif, universal negatif, partikular afirmatif, dan partikular negatif.
+
+Ia menjelaskan simbol yang digunakan untuk masing-masing proposisi dan hubungan di antara keempatnya. Dosen mengarahkan mahasiswa untuk memperhatikan hubungan antara universal afirmatif dan universal negatif, partikular afirmatif dan partikular negatif, serta pasangan-pasangan yang berhubungan melalui التناقض dan التداخل.
+
+Mahasiswa kemudian menjelaskan bahwa hubungan التناقض mempunyai hukum khusus: kedua proposisi tidak dapat sama-sama benar dan tidak dapat sama-sama salah. Dosen meminta agar penjelasan tidak berhenti pada penyebutan nama hubungan, tetapi juga menerangkan bagaimana hukum itu bekerja melalui contoh.
+
+### 38. Mengapa simbol dan susunan proposisi harus diperhatikan?
+
+Dosen menjelaskan bahwa penggunaan simbol dan persegi bukan sekadar hiasan atau cara menulis yang berbeda. Simbol membantu mahasiswa mengetahui jenis proposisi tanpa harus mengulangi nama lengkapnya setiap kali.
+
+Penempatan proposisi dalam persegi juga memungkinkan mahasiswa melihat pasangan yang mempunyai hubungan khusus. Jika mahasiswa keliru dalam menentukan proposisi yang saling berkontradiksi, ia dapat menarik kesimpulan yang salah mengenai kebenaran atau ketidakbenaran suatu pernyataan.
+
+Karena itu, dosen meminta mahasiswa mengingat letak keempat proposisi dan pasangan hubungan yang telah dipelajari. Ia menekankan bahwa pemahaman tersebut akan dibutuhkan pada pembahasan lain dalam ilmu mantiq.
+
+## XIV. Rumusan akhir mengenai التناقض
+
+### 39. Definisi kontradiksi sebagaimana dirumuskan pada akhir perkuliahan
+
+Pada bagian akhir, definisi التناقض kembali ditegaskan melalui rumusan:
+
+**«اخْتِلَافُ قَضِيَّتَيْنِ بِالْإِيجَابِ وَالسَّلْبِ، بِحَيْثُ يَلْزَمُ مِنْ هَذَا الِاخْتِلَافِ صِدْقُ إِحْدَاهُمَا وَكَذِبُ الْأُخْرَى»**
+
+Artinya, kontradiksi adalah perbedaan antara dua proposisi dari segi afirmasi dan negasi, sehingga perbedaan itu mengharuskan satu proposisi benar dan proposisi lainnya salah.
+
+Rumusan ini melengkapi penjelasan sebelumnya mengenai **لا يجتمعان ولا يرتفعان**.
+
+Dengan kata lain, kontradiksi bukan hanya menunjukkan bahwa dua pernyataan mempunyai redaksi atau bentuk berbeda. Hubungan tersebut menyebabkan salah satu pernyataan harus benar dan yang lain harus salah.
+
+Dosen kembali memakai contoh semua mahasiswa hadir dan sebagian mahasiswa tidak hadir. Jika seluruh mahasiswa hadir, pernyataan bahwa sebagian mahasiswa tidak hadir menjadi salah. Apabila sebagian mahasiswa memang tidak hadir, pernyataan bahwa seluruh mahasiswa hadir menjadi salah.
+
+Contoh lain adalah pernyataan bahwa tidak seorang pun mahasiswa hadir dan pernyataan bahwa sebagian mahasiswa hadir. Jika pernyataan pertama benar, pernyataan kedua salah. Sebaliknya, jika pernyataan kedua benar, pernyataan pertama salah.
+
+Dosen menekankan bahwa itulah hukum kontradiksi yang harus diingat mahasiswa: dua proposisi yang benar-benar berkontradiksi tidak mungkin sama-sama benar dan tidak mungkin sama-sama salah.
+
+### 40. Batas pembahasan pada pertemuan ini
+
+Dosen mengakhiri pelajaran dengan memastikan bahwa mahasiswa memahami definisi serta contoh التناقض. Ia sempat bertanya apakah masih terdapat bagian yang belum jelas atau apakah ada mahasiswa yang ingin menambahkan penjelasan.
+
+Berdasarkan keseluruhan materi, pembelajaran pada pertemuan ini mencakup pengantar mengenai berbagai jenis penalaran, penekanan terhadap qiyas, pengenalan istiqra' dan analogi, penjelasan bahwa qiyas membutuhkan premis, lalu pengenalan persegi oposisi dan hukum kontradiksi.
+
+Meskipun empat jenis hubungan dalam persegi oposisi telah diperkenalkan, pembahasan terperinci pada pertemuan ini baru difokuskan kepada التناقض. Syarat lengkap untuk menetapkan kontradiksi juga belum dijelaskan seluruhnya, melainkan disebut sebagai materi yang akan dibahas lebih lanjut.
+
+# KESIMPULAN KESELURUHAN MATERI
+
+Materi dimulai dari kedudukan **التصورات** dan **التصديقات** dalam ilmu mantiq. Pembahasan التصورات mencakup kata, petunjuk makna, konsep universal dan partikular, serta الكليات الخمس yang mengarah kepada definisi. Pembahasan التصديقات berkaitan dengan proposisi dan cara memperoleh kesimpulan melalui berbagai jenis penalaran.
+
+Penalaran dibedakan menjadi **الاستدلال المباشر**, yakni penalaran langsung berdasarkan satu proposisi, dan **الاستدلال غير المباشر**, yakni penalaran yang memperoleh kesimpulan melalui beberapa premis. Penalaran langsung mencakup العكس dan تقابل القضايا, sedangkan penalaran tidak langsung mencakup القياس.
+
+Dosen menegaskan bahwa tujuan terpenting mempelajari mantiq adalah memahami qiyas, sebab dengannya seseorang dapat memperoleh **المجهول من المعلوم**, yaitu mengetahui hal yang belum diketahui berdasarkan hal yang telah diketahui. Contohnya adalah kesimpulan bahwa besi memuai karena panas berdasarkan premis bahwa besi merupakan logam dan seluruh logam memuai karena panas.
+
+Materi kemudian membedakan tiga arah penalaran berdasarkan hubungan universal dan partikular. Penalaran dari universal menuju partikular disebut القياس. Penalaran dari partikular menuju universal disebut الاستقراء, yang dibagi menjadi الاستقراء الناقص dan الاستقراء التام. Menurut penjelasan dosen, istiqra' tidak sempurna sangat penting bagi perkembangan ilmu modern karena memungkinkan peneliti merumuskan hukum umum melalui pengamatan dan eksperimen terhadap sebagian kasus. Adapun penalaran dari partikular menuju partikular disebut قياس التمثيل, yaitu analogi yang juga dikenal dalam pembahasan fikih.
+
+Dosen menunjukkan bahwa qiyas membutuhkan premis-premis. Hal ini diperagakan melalui contoh pembuktian kerasulan Nabi Muhammad صلى الله عليه وسلم, yang disusun melalui pernyataan mengenai klaim risalah, berita mutawatir mengenai klaim tersebut, dan mukjizat yang mendukungnya. Contoh ini menekankan bahwa suatu kesimpulan yang diperselisihkan memerlukan alasan dan dasar yang dapat dijelaskan.
+
+Bagian berikutnya membahas **تقابل القضايا** melalui empat proposisi: universal afirmatif (**ك م**), universal negatif (**ك س**), partikular afirmatif (**ج م**), dan partikular negatif (**ج س**). Keempatnya disusun dalam مربع تقابل القضايا dan memiliki empat jenis hubungan, yaitu التناقض, التضاد, الدخول تحت التضاد, dan التداخل.
+
+Fokus utama pertemuan ini adalah التناقض. Dua proposisi yang berkontradiksi tidak dapat sama-sama benar dan tidak dapat sama-sama salah. Pasangan pertamanya adalah universal afirmatif dengan partikular negatif; pasangan kedua adalah universal negatif dengan partikular afirmatif. Contoh yang digunakan adalah “semua mahasiswa hadir” yang berkontradiksi dengan “sebagian mahasiswa tidak hadir”, serta “tidak seorang pun mahasiswa hadir” yang berkontradiksi dengan “sebagian mahasiswa hadir”.
+
+Dosen menjelaskan bahwa konsep kontradiksi penting untuk menganalisis argumen, termasuk tuduhan bahwa Al-Qur'an mengandung pertentangan. Ia mengutip dua ayat yang sekilas membicarakan pertanyaan pada hari kiamat dengan redaksi berbeda, lalu menegaskan bahwa tuduhan kontradiksi harus diperiksa menggunakan **شروط صحة التناقض**. Daftar lengkap syarat tersebut belum dijelaskan dalam rekaman ini, sehingga pembahasannya masih menjadi materi lanjutan.
+
+Secara keseluruhan, pelajaran ini menekankan bahwa ilmu mantiq bukan hanya kumpulan istilah, melainkan sarana memahami hubungan di antara proposisi, menyusun premis, menghasilkan kesimpulan, dan memeriksa apakah suatu argumen benar-benar mengikuti dasar yang digunakan. Mahasiswa diminta memahami struktur penalaran, membedakan jenis-jenisnya, menghafal pasangan proposisi dalam persegi oposisi, serta mampu menjelaskan hukum kontradiksi dengan contoh yang tepat.

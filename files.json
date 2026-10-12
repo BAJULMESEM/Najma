@@ -50,6 +50,11 @@
               "name": "4.txt",
               "type": "file",
               "path": "texts/LITERAL MUHADOROH/FALSAFAH AMMAH/4.txt"
+            },
+            {
+              "name": "5.txt",
+              "type": "file",
+              "path": "texts/LITERAL MUHADOROH/FALSAFAH AMMAH/5.txt"
             }
           ]
         },
@@ -103,6 +108,11 @@
               "name": "2.txt",
               "type": "file",
               "path": "texts/LITERAL MUHADOROH/KHITOBAH/2.txt"
+            },
+            {
+              "name": "3.txt",
+              "type": "file",
+              "path": "texts/LITERAL MUHADOROH/KHITOBAH/3.txt"
             }
           ]
         },
@@ -139,6 +149,16 @@
               "name": "6.txt",
               "type": "file",
               "path": "texts/LITERAL MUHADOROH/MANTIQ/6.txt"
+            },
+            {
+              "name": "7.txt",
+              "type": "file",
+              "path": "texts/LITERAL MUHADOROH/MANTIQ/7.txt"
+            },
+            {
+              "name": "8.txt",
+              "type": "file",
+              "path": "texts/LITERAL MUHADOROH/MANTIQ/8.txt"
             }
           ]
         },
@@ -181,6 +201,11 @@
               "name": "4.txt",
               "type": "file",
               "path": "texts/LITERAL MUHADOROH/SYUBUHAT HAULAL HADITS/4.txt"
+            },
+            {
+              "name": "5.txt",
+              "type": "file",
+              "path": "texts/LITERAL MUHADOROH/SYUBUHAT HAULAL HADITS/5.txt"
             }
           ]
         },
@@ -197,6 +222,11 @@
               "name": "2.txt",
               "type": "file",
               "path": "texts/LITERAL MUHADOROH/TAFSIR TAHLILI/2.txt"
+            },
+            {
+              "name": "3.txt",
+              "type": "file",
+              "path": "texts/LITERAL MUHADOROH/TAFSIR TAHLILI/3.txt"
             }
           ]
         },
@@ -291,6 +321,11 @@
               "name": "4.txt",
               "type": "file",
               "path": "texts/PELAJARAN/FALSAFAH AMMAH/4.txt"
+            },
+            {
+              "name": "5.txt",
+              "type": "file",
+              "path": "texts/PELAJARAN/FALSAFAH AMMAH/5.txt"
             }
           ]
         },
@@ -344,6 +379,11 @@
               "name": "2.txt",
               "type": "file",
               "path": "texts/PELAJARAN/KHITOBAH/2.txt"
+            },
+            {
+              "name": "3.txt",
+              "type": "file",
+              "path": "texts/PELAJARAN/KHITOBAH/3.txt"
             }
           ]
         },
@@ -380,6 +420,16 @@
               "name": "6.txt",
               "type": "file",
               "path": "texts/PELAJARAN/maantiq/6.txt"
+            },
+            {
+              "name": "7.txt",
+              "type": "file",
+              "path": "texts/PELAJARAN/maantiq/7.txt"
+            },
+            {
+              "name": "8.txt",
+              "type": "file",
+              "path": "texts/PELAJARAN/maantiq/8.txt"
             }
           ]
         },
@@ -422,6 +472,11 @@
               "name": "4.txt",
               "type": "file",
               "path": "texts/PELAJARAN/SYUBUHAT HAULAL HADITS/4.txt"
+            },
+            {
+              "name": "5.txt",
+              "type": "file",
+              "path": "texts/PELAJARAN/SYUBUHAT HAULAL HADITS/5.txt"
             }
           ]
         },
@@ -438,6 +493,11 @@
               "name": "2.txt",
               "type": "file",
               "path": "texts/PELAJARAN/tafsirr/2.txt"
+            },
+            {
+              "name": "3.txt",
+              "type": "file",
+              "path": "texts/PELAJARAN/tafsirr/3.txt"
             }
           ]
         },

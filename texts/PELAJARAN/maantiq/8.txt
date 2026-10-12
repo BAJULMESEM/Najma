@@ -1,0 +1,641 @@
+# ILMU MANTIQ: PERSEGI OPOSISI PROPOSISI (مربع تقابل القضايا), SYARAT KONTRADIKSI, DAN HUKUM EMPAT JENIS HUBUNGAN PROPOSISI
+
+## BAGIAN I. PENGULANGAN MATERI: EMPAT JENIS PROPOSISI DAN HUBUNGANNYA
+
+### 1. Mengingat kembali مربع تقابل القضايا
+
+Pada awal perkuliahan, dosen mengulang materi tentang **تقابل القضايا**, yaitu hubungan oposisi antara proposisi-proposisi. Ia mengingatkan mahasiswa bahwa pembahasan sebelumnya telah mencakup empat jenis proposisi yang menjadi dasar untuk menyusun **مربع تقابل القضايا**, yaitu persegi oposisi proposisi.
+
+Keempat jenis tersebut dibedakan berdasarkan dua hal: apakah proposisinya bersifat universal atau partikular, serta apakah proposisi itu afirmatif atau negatif.
+
+Proposisi universal afirmatif disebut **القضية الكلية الموجبة**. Dalam penjelasan dosen, proposisi ini dilambangkan dengan **ك م**. Proposisi tersebut memberikan penetapan terhadap seluruh anggota suatu kelompok.
+
+Proposisi universal negatif disebut **القضية الكلية السالبة**, yang dilambangkan dengan **ك س**. Proposisi ini meniadakan suatu predikat dari seluruh anggota kelompok yang dibicarakan.
+
+Proposisi partikular afirmatif disebut **القضية الجزئية الموجبة**, yang dilambangkan dengan **ج م**. Proposisi ini menetapkan predikat kepada sebagian anggota suatu kelompok.
+
+Adapun proposisi partikular negatif disebut **القضية الجزئية السالبة**, yang dilambangkan dengan **ج س**. Proposisi ini meniadakan predikat dari sebagian anggota kelompok.
+
+Dosen menjelaskan bahwa simbol-simbol tersebut digunakan agar pembahasan lebih ringkas. Huruf **ك** menunjukkan universal atau الكلية, sedangkan **ج** menunjukkan partikular atau الجزئية. Huruf **م** menunjukkan afirmasi atau الموجبة, sedangkan **س** menunjukkan negasi atau السالبة.
+
+Keempat proposisi itu disusun dalam bentuk persegi. Proposisi universal afirmatif ditempatkan di kanan atas, universal negatif di kiri atas, partikular afirmatif di kanan bawah, dan partikular negatif di kiri bawah.
+
+Susunan tersebut bukan sekadar cara menggambar. Posisi setiap proposisi digunakan untuk menentukan jenis hubungan logis yang terjadi di antara proposisi-proposisi itu. Dosen menegaskan bahwa mahasiswa harus menguasai susunan tersebut karena pembahasan berikutnya akan menggunakan persegi itu secara terus-menerus.
+
+### 2. Empat jenis hubungan dalam persegi oposisi
+
+Dosen kembali menyebut empat jenis hubungan dalam persegi oposisi, yaitu **التناقض**, **التضاد**, **الدخول تحت التضاد**, dan **التداخل**.
+
+Hubungan pertama adalah **التناقض**, yaitu kontradiksi. Kontradiksi terjadi antara proposisi universal afirmatif dan proposisi partikular negatif, serta antara proposisi universal negatif dan proposisi partikular afirmatif.
+
+Dengan demikian, **ك م** berkontradiksi dengan **ج س**, sedangkan **ك س** berkontradiksi dengan **ج م**.
+
+Hubungan kedua adalah **التضاد**, yakni pertentangan antara dua proposisi universal. Hubungan ini terjadi antara proposisi universal afirmatif dan universal negatif, yaitu **ك م** dengan **ك س**.
+
+Hubungan ketiga adalah **الدخول تحت التضاد**, yaitu hubungan antara dua proposisi partikular, yang satu afirmatif dan yang lain negatif. Hubungan ini terjadi antara **ج م** dan **ج س**.
+
+Hubungan keempat adalah **التداخل**, yaitu hubungan antara proposisi universal dan partikular yang memiliki kualitas sama. Hubungan ini terjadi antara universal afirmatif dan partikular afirmatif, serta antara universal negatif dan partikular negatif.
+
+Karena setiap proposisi mempunyai hubungan dengan tiga proposisi lainnya, dosen meminta mahasiswa memahami seluruh garis hubungan dalam persegi tersebut, bukan hanya menghafal satu pasangan.
+
+## BAGIAN II. HUKUM PERTAMA: التناقض
+
+### 3. Pengertian kontradiksi
+
+Dosen mengingatkan kembali hukum kontradiksi yang telah dipelajari pada pertemuan sebelumnya. Dua proposisi yang saling berkontradiksi memiliki hukum:
+
+**«لَا يَجْتَمِعَانِ وَلَا يَرْتَفِعَانِ»**
+
+Artinya, keduanya tidak dapat berkumpul dan tidak dapat sama-sama tidak berlaku.
+
+Dalam penjelasan dosen, maksudnya adalah bahwa dua proposisi yang benar-benar berkontradiksi tidak mungkin sama-sama benar dan tidak mungkin sama-sama salah. Jika salah satunya benar, yang lain harus salah. Sebaliknya, jika salah satunya salah, yang lain harus benar.
+
+Kontradiksi bukan sekadar perbedaan kata atau perbedaan sudut pandang. Hubungan tersebut mengharuskan kebenaran salah satu proposisi disertai ketidakbenaran proposisi lainnya.
+
+Dosen memberikan contoh proposisi universal afirmatif:
+
+**كُلُّ الطُّلَّابِ حَاضِرُونَ**
+
+Artinya, semua mahasiswa hadir.
+
+Proposisi ini berkontradiksi dengan proposisi partikular negatif:
+
+**بَعْضُ الطُّلَّابِ لَيْسُوا حَاضِرِينَ**
+
+Artinya, sebagian mahasiswa tidak hadir.
+
+Kedua pernyataan tersebut tidak dapat sama-sama benar. Jika semua mahasiswa hadir, pernyataan bahwa sebagian mahasiswa tidak hadir pasti salah. Sebaliknya, jika memang ada sebagian mahasiswa yang tidak hadir, pernyataan bahwa semua mahasiswa hadir pasti salah.
+
+Pasangan kontradiksi yang lain adalah proposisi universal negatif, seperti pernyataan bahwa tidak seorang pun mahasiswa hadir, dengan proposisi partikular afirmatif, yaitu bahwa sebagian mahasiswa hadir.
+
+Jika tidak seorang pun mahasiswa hadir, pernyataan bahwa sebagian mahasiswa hadir menjadi salah. Sebaliknya, jika sebagian mahasiswa hadir, pernyataan bahwa tidak seorang pun mahasiswa hadir menjadi salah.
+
+Dosen menekankan bahwa pasangan-pasangan tersebut merupakan bentuk kontradiksi yang harus diketahui mahasiswa sebelum mempelajari hukum hubungan proposisi lainnya.
+
+### 4. Mengapa syarat kontradiksi harus diperhatikan?
+
+Setelah menjelaskan hukum dasarnya, dosen beralih kepada persoalan yang lebih terperinci. Ia mengatakan bahwa dua proposisi tidak cukup hanya tampak berlawanan untuk disebut kontradiktif. Agar hukum kontradiksi dapat diterapkan, terdapat sejumlah syarat yang harus dipenuhi.
+
+Jika syarat-syarat tersebut tidak terpenuhi, dua proposisi mungkin tampak bertentangan, padahal sebenarnya sedang membicarakan objek, waktu, tempat, keadaan, atau hubungan yang berbeda.
+
+Dosen menjelaskan bahwa setiap proposisi kategoris atau **القضية الحملية** terdiri atas dua unsur utama, yaitu **الموضوع** dan **المحمول**. Al-mawḍū‘ adalah subjek yang dibicarakan, sedangkan al-maḥmūl adalah predikat yang ditetapkan atau ditiadakan darinya.
+
+Contohnya, dalam kalimat “Muhammad adalah seorang alim”, Muhammad merupakan subjek dan “seorang alim” merupakan predikat.
+
+Untuk menentukan apakah dua proposisi saling berkontradiksi, mahasiswa harus memeriksa apakah subjek dan predikatnya benar-benar sama serta apakah unsur-unsur lain yang memengaruhi maknanya juga sama.
+
+## BAGIAN III. SYARAT-SYARAT TERJADINYA التناقض
+
+### 5. Syarat pertama: وحدة الموضوع — kesatuan subjek
+
+Syarat pertama adalah **وحدة الموضوع**, yaitu subjek dalam kedua proposisi harus sama.
+
+Dosen memberikan contoh proposisi “Muhammad adalah seorang alim” dan “Ali bukan seorang alim”. Kedua proposisi tersebut tidak berkontradiksi karena subjeknya berbeda. Pernyataan pertama berbicara tentang Muhammad, sedangkan pernyataan kedua berbicara tentang Ali.
+
+Meskipun keduanya membicarakan predikat yang sama, yaitu menjadi seorang alim atau tidak menjadi seorang alim, perbedaan subjek membuat kedua proposisi itu tidak dapat diperlakukan sebagai pasangan kontradiksi.
+
+Karena itu, jika seseorang ingin mengetahui apakah dua proposisi berkontradiksi, ia harus memastikan terlebih dahulu bahwa keduanya membicarakan subjek yang sama.
+
+Dosen menegaskan bahwa kesatuan subjek menjadi syarat mendasar. Tanpa kesamaan subjek, dua proposisi yang tampak berlawanan belum tentu bertentangan secara logis.
+
+### 6. Syarat kedua: وحدة المحمول — kesatuan predikat
+
+Syarat kedua adalah **وحدة المحمول**, yaitu predikat yang terdapat dalam kedua proposisi harus sama.
+
+Dosen menggunakan contoh sederhana mengenai seseorang yang dinyatakan sebagai seorang alim dan seseorang lain yang dinyatakan bukan seorang alim. Selain persoalan subjek, ia mengingatkan bahwa mahasiswa juga harus memeriksa apakah predikat yang dibicarakan memang sama dalam kedua proposisi.
+
+Jika satu proposisi menggunakan predikat tertentu, sedangkan proposisi lainnya menggunakan predikat yang berbeda, kedua proposisi itu tidak otomatis berkontradiksi.
+
+Dengan demikian, kesatuan subjek saja belum cukup. Kesatuan predikat juga diperlukan. Kedua proposisi harus membicarakan objek yang sama dan menetapkan atau meniadakan predikat yang sama terhadapnya.
+
+Dosen kemudian melanjutkan bahwa selain dua syarat mendasar ini, ada beberapa kesatuan lain yang oleh sebagian ahli logika dijelaskan secara terpisah agar mahasiswa dapat memahami berbagai keadaan yang membuat dua proposisi terlihat bertentangan.
+
+### 7. Syarat ketiga: وحدة الشرط — kesatuan syarat
+
+Syarat ketiga adalah **وحدة الشرط**, yaitu kesamaan syarat yang menyertai kedua proposisi.
+
+Dosen menghubungkannya dengan definisi ilmu mantiq yang pernah dipelajari pada awal tahun. Ia meminta mahasiswa mengingat definisi yang menyebut bahwa mantiq merupakan suatu alat atau kaidah yang menjaga pikiran dari kesalahan apabila aturan-aturannya diterapkan.
+
+Dalam ungkapan yang dibicarakan di kelas:
+
+**آلَةٌ قَانُونِيَّةٌ تَعْصِمُ مُرَاعَاتُهَا الذِّهْنَ عَنِ الْخَطَإِ**
+
+Maknanya, ilmu mantiq merupakan alat berupa kaidah-kaidah yang penerapannya menjaga pikiran dari kesalahan.
+
+Dosen kemudian bertanya apakah ilmu mantiq dengan sendirinya menjaga pikiran dari kesalahan dalam setiap keadaan. Ia menjelaskan bahwa manfaat itu berkaitan dengan penerapan atau pemeliharaan terhadap kaidah-kaidahnya.
+
+Contohnya, seseorang mengatakan bahwa mantiq menjaga pikiran dari kesalahan, sedangkan orang lain mengatakan bahwa mantiq tidak menjaga pikiran dari kesalahan apabila kaidah-kaidahnya tidak diterapkan.
+
+Kedua pernyataan tersebut tidak otomatis berkontradiksi apabila syarat yang dimaksud berbeda. Pernyataan pertama berkaitan dengan penerapan kaidah, sedangkan pernyataan kedua berbicara mengenai keadaan ketika kaidah tidak diterapkan.
+
+Karena itu, ketika membandingkan kedua proposisi, mahasiswa harus memastikan bahwa syarat yang menyertai penetapan atau penolakan predikat benar-benar sama.
+
+Dosen menyebut bahwa **وحدة الشرط** menjadi syarat ketiga dalam daftar yang sedang dipelajari.
+
+### 8. Syarat keempat: وحدة الكل والجزء — kesatuan keseluruhan dan bagian
+
+Syarat keempat adalah **وحدة الكل والجزء**, yaitu kesamaan cakupan antara keseluruhan dan bagian.
+
+Dosen memberikan contoh sebuah gelas yang dinyatakan penuh. Ia kemudian membandingkannya dengan pernyataan bahwa gelas tersebut tidak penuh.
+
+Secara sepintas, kedua pernyataan itu terlihat berlawanan. Namun, dosen menjelaskan bahwa maknanya dapat berbeda apabila pernyataan pertama membicarakan keseluruhan gelas, sedangkan pernyataan kedua hanya membicarakan sebagian isinya atau bagian tertentu.
+
+Dengan demikian, seseorang tidak boleh langsung menyimpulkan adanya kontradiksi jika cakupan objek dalam kedua proposisi berbeda. Proposisi yang membicarakan keseluruhan tidak otomatis berkontradiksi dengan proposisi yang hanya membicarakan bagian, apabila keduanya tidak menggunakan cakupan yang sama.
+
+Dosen meminta mahasiswa memastikan apakah predikat diterapkan kepada keseluruhan objek atau hanya kepada salah satu bagiannya.
+
+Dengan demikian, kesatuan الكل والجزء merupakan syarat yang diperlukan agar kedua proposisi benar-benar membicarakan cakupan yang sama.
+
+### 9. Syarat kelima: وحدة الزمان — kesatuan waktu
+
+Syarat berikutnya adalah **وحدة الزمان**, yakni kesamaan waktu.
+
+Dosen memberikan contoh seseorang bernama Nuh yang berada di universitas. Jika dikatakan “Nuh berada di universitas” dan “Nuh tidak berada di universitas”, kedua proposisi itu dapat berkontradiksi jika membicarakan waktu yang sama.
+
+Namun, apabila pernyataan pertama dimaksudkan pada siang hari dan pernyataan kedua dimaksudkan pada malam hari, keduanya tidak otomatis berkontradiksi. Seseorang dapat berada di universitas pada satu waktu dan tidak berada di sana pada waktu yang lain.
+
+Dalam keadaan ini, subjeknya sama dan predikatnya juga sama, tetapi waktunya berbeda. Karena itu, kedua pernyataan tersebut tidak memenuhi syarat kesatuan waktu.
+
+Dosen menekankan bahwa mahasiswa harus bertanya kapan suatu keadaan terjadi, bukan hanya melihat apakah kalimat itu menyatakan ada atau tidak adanya suatu keadaan.
+
+Kesatuan waktu menjadi sangat penting ketika dua proposisi membicarakan tindakan atau keadaan yang dapat berubah dari waktu ke waktu. Jika waktu yang dimaksud berbeda, perbedaan pernyataan belum tentu menunjukkan kontradiksi.
+
+### 10. Syarat keenam: وحدة المكان — kesatuan tempat
+
+Syarat keenam adalah **وحدة المكان**, yaitu kesamaan tempat.
+
+Dosen kembali menggunakan contoh Nuh. Jika dinyatakan bahwa Nuh sedang duduk dan dalam proposisi lain dinyatakan bahwa Nuh tidak sedang duduk, kedua proposisi itu dapat dipahami secara kontradiktif apabila keduanya membicarakan keadaan dan tempat yang sama.
+
+Akan tetapi, jika pernyataan pertama membicarakan Nuh ketika duduk di kursi, sedangkan pernyataan kedua berbicara mengenai keberadaannya di tempat lain, kedua proposisi tersebut belum tentu bertentangan.
+
+Dosen menggunakan ilustrasi seseorang yang berada di suatu tempat, tetapi tidak berada di tempat lain. Seseorang dapat berada di ruang kuliah, misalnya, tetapi tidak berada di dapur atau tangga pada waktu yang sama.
+
+Dengan demikian, tempat yang dimaksud dalam kedua proposisi harus sama. Apabila sebuah proposisi membicarakan keberadaan seseorang di satu tempat, sedangkan proposisi lain membicarakan tempat lain, keduanya tidak memenuhi syarat kesatuan tempat.
+
+Dosen mengingatkan bahwa kesamaan subjek dan predikat saja tidak selalu cukup apabila tempat yang dimaksud berbeda.
+
+### 11. Syarat ketujuh: وحدة الإضافة — kesatuan hubungan atau relasi
+
+Syarat ketujuh adalah **وحدة الإضافة**, yaitu kesamaan relasi yang terkandung dalam suatu predikat.
+
+Dosen menjelaskan bahwa terdapat hal-hal yang tidak dapat dipahami hanya dari satu pihak, melainkan harus dipahami melalui hubungannya dengan pihak lain. Hal semacam ini disebut relasional atau relatif.
+
+Ia memberikan contoh hubungan perkawinan. Makna suami tidak dapat dipahami tanpa hubungannya dengan istri, dan makna istri juga dipahami melalui relasinya dengan suami.
+
+Demikian pula, persahabatan melibatkan hubungan antara seorang teman dan teman lainnya. Hubungan ayah juga berkaitan dengan anak, sedangkan hubungan anak berkaitan dengan ayah.
+
+Karena itu, jika dua proposisi menggunakan predikat relasional, relasi yang dimaksud harus sama. Dosen menjelaskan bahwa suatu predikat mungkin tampak sama, tetapi hubungan yang dimaksud di dalamnya berbeda.
+
+Contoh yang muncul dalam rekaman adalah pernyataan mengenai seseorang bernama Muhammad yang merupakan teman bagi seseorang tertentu. Pernyataan bahwa Muhammad adalah teman bagi Ali berbeda dari pernyataan bahwa Muhammad adalah teman bagi Nuh, meskipun keduanya menggunakan predikat “teman”.
+
+Dengan demikian, kesatuan relasi mengharuskan hubungan yang dibandingkan benar-benar sama, bukan hanya istilah predikatnya yang kebetulan sama.
+
+### 12. Syarat kedelapan: وحدة القوة والفعل — kesatuan potensi dan aktualitas
+
+Syarat kedelapan adalah **وحدة القوة والفعل**, yaitu kesamaan antara keadaan yang masih berupa potensi dan keadaan yang sudah terwujud secara aktual.
+
+Dosen menjelaskan konsep ini melalui contoh biji kurma. Jika seseorang menunjukkan sebuah biji kurma lalu mengatakan bahwa benda itu adalah pohon kurma, pernyataan tersebut tidak benar jika yang dimaksud adalah bahwa biji itu sudah menjadi pohon.
+
+Akan tetapi, jika biji tersebut ditanam dan tumbuh, biji itu mempunyai potensi untuk menjadi pohon kurma.
+
+Dosen menggunakan istilah **وجود بالقوة**, yaitu keberadaan secara potensial. Artinya, sesuatu belum terwujud dalam bentuk aktual, tetapi mempunyai potensi untuk menjadi sesuatu.
+
+Sebaliknya, **وجود بالفعل** adalah keberadaan aktual, yaitu ketika sesuatu tersebut benar-benar sudah terwujud.
+
+Karena itu, biji kurma tidak sama dengan pohon kurma yang telah tumbuh, meskipun biji tersebut mengandung potensi untuk menjadi pohon.
+
+Dosen menghubungkan contoh ini dengan penetapan dan penolakan predikat. Sebuah proposisi yang menyatakan sesuatu dalam keadaan potensial belum tentu berkontradiksi dengan proposisi yang menyatakan bahwa sesuatu itu belum menjadi kenyataan aktual.
+
+Kesatuan antara potensi dan aktualitas harus diperhatikan ketika membandingkan dua proposisi. Jika satu proposisi berbicara mengenai keadaan yang masih potensial, sedangkan proposisi lain berbicara mengenai keadaan yang sudah terwujud, keduanya belum tentu bertentangan.
+
+Dalam bagian lain dari penjelasan, dosen juga mengangkat contoh seseorang bernama Atha' yang disebut telah lulus dari Fakultas Ushuluddin dan proposisi yang mengatakan bahwa ia belum lulus. Contoh itu muncul dalam rangkaian pembahasan mengenai keadaan atau sifat yang dimiliki seseorang. Akan tetapi, hubungan persis antara contoh tersebut dan kategori potensi-aktualitas tidak diuraikan dengan jelas dalam rekaman. Karena itu, yang dapat dipastikan adalah bahwa dosen menggunakan contoh tersebut untuk memperlihatkan pentingnya memeriksa keadaan yang benar-benar dimaksud dalam suatu proposisi.
+
+## BAGIAN IV. SYARAT TAMBAHAN DAN PERBEDAAN CARA MENGHITUNG SYARAT KONTRADIKSI
+
+### 13. Syarat kesembilan menurut sebagian ulama: وحدة الآلة
+
+Setelah menyebut delapan syarat, dosen menjelaskan bahwa sebagian ahli menambahkan satu syarat lagi, yaitu **وحدة الآلة**, kesatuan alat yang digunakan.
+
+Maksudnya, apabila suatu proposisi membicarakan tindakan yang menggunakan suatu alat, alat yang dimaksud dalam kedua proposisi harus sama.
+
+Dosen memberikan contoh mengenai seseorang yang menulis menggunakan pena. Jika dalam satu proposisi ia mengatakan bahwa ia menulis dengan pena tertentu, sedangkan pada proposisi yang lain ia mengatakan bahwa ia tidak menulis menggunakan pena yang berbeda, keduanya belum tentu berkontradiksi karena alat yang dibicarakan tidak sama.
+
+Ia juga menyampaikan ilustrasi mengenai kepemilikan kendaraan, termasuk penyebutan mobil bermerek Proton dalam rekaman. Akan tetapi, kalimat lengkap contoh itu tidak terdengar jelas, sehingga hubungan tepat antara contoh kendaraan dan syarat alat tidak dapat dipastikan.
+
+Contoh yang paling jelas dalam penjelasan dosen adalah penggunaan pena. Apabila alat yang dimaksud berbeda, pernyataan mengenai penggunaan atau tidak digunakannya alat tersebut tidak otomatis membentuk kontradiksi.
+
+Dengan demikian, menurut sebagian ahli yang disebut dosen, jumlah syarat kesatuan yang perlu diperhatikan mencapai sembilan, dengan penambahan وحدة الآلة sebagai syarat kesembilan.
+
+### 14. Pendapat yang mengembalikan syarat-syarat itu kepada kesatuan subjek dan predikat
+
+Dosen kemudian menjelaskan bahwa tidak semua ulama menghitung syarat kontradiksi dengan jumlah yang sama.
+
+Sebagian menyebut delapan syarat, dan sebagian menambahkan syarat kesembilan berupa kesatuan alat. Akan tetapi, ada pula ulama yang mengembalikan seluruh syarat tersebut kepada dua unsur mendasar, yaitu **وحدة الموضوع** dan **وحدة المحمول**.
+
+Menurut pendekatan ini, kesatuan waktu, tempat, syarat, keseluruhan dan bagian, relasi, potensi dan aktualitas, serta alat bukanlah unsur yang sepenuhnya terpisah dari subjek dan predikat. Semua unsur tersebut dapat dipahami sebagai perincian yang berkaitan dengan apa yang sebenarnya dibicarakan dan apa yang ditetapkan atau ditiadakan darinya.
+
+Dengan kata lain, apabila subjek dan predikat dipahami secara tepat, berbagai perbedaan dalam waktu, tempat, relasi, atau keadaan dapat dianggap sebagai perbedaan yang memengaruhi subjek maupun predikat dalam proposisi.
+
+Dosen tidak menyatakan bahwa seluruh ulama sepakat menghitung syarat dengan cara yang sama. Ia justru menunjukkan adanya variasi pendekatan: delapan syarat, sembilan syarat, atau pengembalian seluruh syarat kepada kesatuan subjek dan predikat.
+
+### 15. Pendapat yang mengembalikan syarat kontradiksi kepada وحدة النسبة
+
+Dosen kemudian menyebut pendekatan lain. Sebagian ahli berpendapat bahwa berbagai syarat yang telah dijelaskan dapat dikembalikan kepada satu unsur, yaitu **وحدة النسبة**, kesatuan relasi antara subjek dan predikat.
+
+Dalam pembahasan sebelumnya, dosen telah menjelaskan bahwa proposisi kategoris memiliki subjek dan predikat, serta hubungan atau penghubung di antara keduanya. Hubungan itu disebut **النسبة** atau **الرابطة**.
+
+Menurut pendekatan yang disampaikan dosen, apabila hubungan antara subjek dan predikat tidak sama, dua proposisi tidak benar-benar menyatakan sesuatu dengan hubungan yang sama. Karena itu, syarat-syarat yang lain dapat dipandang sebagai bagian dari usaha memastikan kesamaan hubungan tersebut.
+
+Dengan demikian, dalam materi ini terdapat beberapa cara menghitung syarat kontradiksi. Ada yang menyebut delapan, ada yang menambahkan syarat kesembilan, ada yang merangkumnya menjadi dua kesatuan mendasar, dan ada pula yang mengembalikannya kepada satu kesatuan, yaitu النسبة.
+
+Dosen menyampaikan perbedaan ini agar mahasiswa mengetahui bahwa pengelompokan syarat tidak selalu disajikan dengan jumlah yang sama oleh semua pihak, sementara tujuan dasarnya tetap memastikan bahwa dua proposisi yang diperbandingkan sungguh-sungguh mempunyai makna yang saling berkontradiksi.
+
+## BAGIAN V. PENTINGNYA SYARAT KONTRADIKSI DALAM MENANGGAPI TUDUHAN PERTENTANGAN DALAM AL-QUR'AN
+
+### 16. Contoh tuduhan bahwa ayat-ayat Al-Qur'an saling bertentangan
+
+Dosen menghubungkan syarat kontradiksi dengan persoalan yang lebih luas. Ia mengatakan bahwa ada pihak yang skeptis terhadap agama atau menentang agama yang mengklaim bahwa Al-Qur'an mengandung kontradiksi.
+
+Sebagai contoh, dosen menyebut firman Allah:
+
+**﴿فَوَرَبِّكَ لَنَسْأَلَنَّهُمْ أَجْمَعِينَ ۝ عَمَّا كَانُوا يَعْمَلُونَ﴾**
+
+Ia juga menyebut ayat:
+
+**﴿وَقِفُوهُمْ إِنَّهُمْ مَسْئُولُونَ﴾**
+
+Kedua ayat tersebut digunakan dalam konteks pembicaraan mengenai pertanyaan dan pertanggungjawaban manusia.
+
+Kemudian dosen menyebut ayat lain:
+
+**﴿فَيَوْمَئِذٍ لَا يُسْأَلُ عَنْ ذَنْبِهِ إِنْسٌ وَلَا جَانٌّ﴾**
+
+Dalam penjelasan dosen, pihak yang mengajukan keberatan dapat bertanya bagaimana Al-Qur'an menyebut adanya pertanyaan dalam satu ayat, tetapi menyatakan bahwa manusia tidak ditanya tentang dosa mereka dalam ayat lain.
+
+Menurut dosen, keberatan semacam itu tidak boleh langsung diterima sebagai bukti kontradiksi. Peneliti harus memeriksa terlebih dahulu apakah seluruh syarat kontradiksi terpenuhi.
+
+### 17. Jawaban dosen: perbedaan waktu dan keadaan pembicaraan
+
+Dosen menjelaskan bahwa dalam contoh tersebut, waktu yang dibicarakan tidak harus sama. Keadaan ketika manusia ditanya dan keadaan ketika manusia tidak ditanya dalam bentuk tertentu dapat merujuk kepada situasi yang berbeda.
+
+Ia juga menyebut bahwa pihak yang menjadi sasaran pembicaraan atau **المخاطبة** tidak harus sama dalam kedua konteks.
+
+Karena itu, menurut jawaban dosen, perbedaan redaksi antara dua ayat tidak cukup untuk menyimpulkan bahwa keduanya berkontradiksi. Peneliti harus memeriksa waktu, pihak yang dibicarakan, dan konteks yang sedang diterangkan.
+
+Ia menghubungkan langkah tersebut dengan syarat-syarat yang sebelumnya dijelaskan. Apabila waktu atau konteks yang dimaksud berbeda, dua proposisi tidak memenuhi semua syarat yang diperlukan untuk disebut kontradiktif.
+
+Dosen menegaskan bahwa metode ini dapat digunakan untuk menilai klaim-klaim serupa. Sebelum menerima tuduhan bahwa dua ayat bertentangan, seseorang perlu memastikan apakah keduanya membicarakan subjek, predikat, waktu, tempat, dan hubungan yang sama dalam pengertian yang sama.
+
+Bagian ini tidak memberikan penjelasan tafsir lengkap mengenai seluruh ayat yang dikutip, karena fokus dosen adalah penggunaan syarat kontradiksi sebagai metode untuk memeriksa tuduhan pertentangan. Karena itu, jawaban yang direkonstruksi di sini mengikuti argumentasi logis yang disampaikan dalam perkuliahan, tanpa menambahkan penyelesaian tafsir lain dari luar sumber.
+
+## BAGIAN VI. HUKUM KEDUA: التضاد
+
+### 18. Pengertian التضاد
+
+Setelah menjelaskan التناقض beserta syarat-syaratnya, dosen beralih kepada jenis hubungan kedua dalam persegi oposisi, yaitu **التضاد**.
+
+Hubungan ini terjadi antara dua proposisi universal: universal afirmatif dan universal negatif. Pasangannya adalah **ك م** dan **ك س**.
+
+Contohnya adalah:
+
+**كُلُّ الطُّلَّابِ حَاضِرُونَ**
+
+Artinya, semua mahasiswa hadir.
+
+Proposisi ini dipertentangkan dengan pernyataan:
+
+**لَا وَاحِدَ مِنَ الطُّلَّابِ حَاضِرٌ**
+
+Artinya, tidak seorang pun mahasiswa hadir.
+
+Dosen menjelaskan bahwa kedua proposisi tersebut tidak mungkin sama-sama benar. Jika semua mahasiswa hadir, tidak mungkin benar pula bahwa tidak seorang pun mahasiswa hadir.
+
+Namun, berbeda dari kontradiksi, kedua proposisi yang berhubungan melalui التضاد dapat sama-sama salah.
+
+### 19. Hukum التضاد: لا يجتمعان وقد يرتفعان
+
+Dosen menjelaskan hukum التضاد melalui ungkapan:
+
+**لَا يَجْتَمِعَانِ وَقَدْ يَرْتَفِعَانِ**
+
+Artinya, keduanya tidak dapat berkumpul dalam kebenaran yang sama, tetapi keduanya dapat sama-sama tidak berlaku.
+
+Maksudnya, dua proposisi universal yang saling bertentangan tidak mungkin sama-sama benar, tetapi dapat sama-sama salah.
+
+Dosen kembali menggunakan contoh kehadiran mahasiswa. Pernyataan “semua mahasiswa hadir” tidak dapat benar bersamaan dengan “tidak seorang pun mahasiswa hadir”.
+
+Namun, kedua pernyataan itu dapat sama-sama salah apabila sebagian mahasiswa hadir dan sebagian lainnya tidak hadir.
+
+Dalam keadaan tersebut, proposisi universal afirmatif salah karena tidak semua mahasiswa hadir. Proposisi universal negatif juga salah karena masih ada mahasiswa yang hadir.
+
+Jadi, apabila salah satu proposisi benar, proposisi lainnya salah. Akan tetapi, jika salah satu proposisi salah, status proposisi lainnya belum tentu dapat ditentukan hanya berdasarkan informasi itu. Proposisi lainnya dapat benar ataupun salah, tergantung keadaan yang sebenarnya.
+
+Dosen menekankan bahwa hukum ini berbeda dari التناقض. Dalam kontradiksi, apabila satu proposisi salah, pasangannya harus benar. Dalam التضاد, kedua proposisi dapat sama-sama salah.
+
+### 20. Contoh warna: putih dan hitam
+
+Untuk memperjelas perbedaan tersebut, dosen menggunakan contoh warna.
+
+Ia bertanya apakah suatu benda dapat berwarna putih dan tidak putih dalam waktu serta pengertian yang sama. Menurut hukum kontradiksi, suatu benda tidak dapat sekaligus putih dan tidak putih dalam pengertian yang sama.
+
+Selanjutnya, ia membandingkan warna putih dengan warna hitam. Sebuah benda tidak dapat sekaligus berwarna putih dan hitam dalam keadaan yang sama sebagaimana contoh yang sedang dibahas.
+
+Namun, benda itu dapat mempunyai warna lain, seperti merah. Jika benda tersebut berwarna merah, pernyataan bahwa benda itu putih salah, dan pernyataan bahwa benda itu hitam juga salah.
+
+Contoh tersebut menunjukkan hukum التضاد. Dua proposisi universal yang berlawanan tidak mungkin sama-sama benar, tetapi keduanya dapat sama-sama salah.
+
+Dosen menggunakan contoh ini agar mahasiswa tidak hanya menghafal istilah, melainkan dapat membedakan hukum dua hubungan yang sekilas tampak serupa.
+
+## BAGIAN VII. HUKUM KETIGA: الدخول تحت التضاد
+
+### 21. Pengertian الدخول تحت التضاد
+
+Jenis hubungan ketiga adalah **الدخول تحت التضاد**, yaitu hubungan antara proposisi partikular afirmatif dan partikular negatif.
+
+Pasangannya adalah **ج م** dan **ج س**.
+
+Contohnya adalah:
+
+**بَعْضُ الطُّلَّابِ فَاهِمُونَ**
+
+Artinya, sebagian mahasiswa memahami materi.
+
+Pasangannya adalah:
+
+**بَعْضُ الطُّلَّابِ لَيْسُوا فَاهِمِينَ**
+
+Artinya, sebagian mahasiswa tidak memahami materi.
+
+Dosen menjelaskan bahwa kedua proposisi ini berbeda dari dua proposisi universal yang dibahas dalam التضاد. Pada hubungan ini, kedua proposisi dapat sama-sama benar karena kata “sebagian” dalam masing-masing pernyataan tidak harus merujuk kepada kelompok mahasiswa yang sama.
+
+Sebagian mahasiswa dapat memahami pelajaran, sementara sebagian lainnya tidak memahaminya. Karena itu, dua pernyataan tersebut tidak harus bertentangan.
+
+### 22. Hukum الدخول تحت التضاد: لا يرتفعان وقد يجتمعان
+
+Dosen menjelaskan hukum hubungan ini dengan makna bahwa kedua proposisi tidak dapat sama-sama salah, tetapi dapat sama-sama benar.
+
+Dalam ungkapan yang digunakan pada pembahasan persegi oposisi, hubungan ini disebut:
+
+**لَا يَرْتَفِعَانِ وَقَدْ يَجْتَمِعَانِ**
+
+Maksudnya, keduanya tidak mungkin sama-sama tidak berlaku, tetapi keduanya dapat benar secara bersamaan.
+
+Dengan contoh mahasiswa, jika sebagian mahasiswa memahami materi dan sebagian lainnya tidak memahami materi, kedua proposisi benar. Hal itu dimungkinkan karena orang yang dimaksud dalam proposisi pertama tidak harus sama dengan orang yang dimaksud dalam proposisi kedua.
+
+Dosen menjelaskan bahwa kelompok pertama mungkin terdiri atas mahasiswa yang memahami materi, sedangkan kelompok kedua terdiri atas mahasiswa yang belum memahami materi.
+
+Namun, kedua proposisi tersebut tidak mungkin sama-sama salah apabila kategori dan konteks yang digunakan sesuai dengan pengertian partikular yang sedang dibicarakan. Jika pernyataan bahwa sebagian mahasiswa memahami materi salah, berarti tidak ada mahasiswa yang memahami materi dalam konteks itu. Dengan demikian, proposisi bahwa sebagian mahasiswa tidak memahami materi harus benar. Sebaliknya, jika tidak ada mahasiswa yang tidak memahami materi, pernyataan bahwa sebagian mahasiswa memahami materi menjadi benar.
+
+Karena itu, pada hubungan الدخول تحت التضاد, setidaknya salah satu proposisi harus benar, tetapi kedua proposisi dapat benar sekaligus.
+
+### 23. Mengapa kedua proposisi dapat sama-sama benar?
+
+Dosen mengingatkan bahwa pernyataan partikular tidak memberikan penetapan terhadap seluruh anggota kelompok. Pernyataan “sebagian mahasiswa memahami materi” hanya berbicara mengenai sebagian anggota, bukan seluruh mahasiswa.
+
+Begitu pula, pernyataan “sebagian mahasiswa tidak memahami materi” berbicara mengenai sebagian lainnya atau sebagian anggota kelompok yang berbeda.
+
+Karena itu, tidak ada pertentangan apabila satu kelompok mahasiswa memahami materi dan kelompok yang lain tidak memahaminya.
+
+Dosen menggunakan contoh ini untuk memperjelas perbedaan antara proposisi partikular dan universal. Jika seseorang menganggap kata “sebagian” dalam kedua proposisi harus merujuk kepada orang yang persis sama, ia dapat salah memahami hubungan kedua pernyataan tersebut.
+
+Dalam contoh yang disampaikan dosen, kedua kelompok justru mungkin berbeda. Itulah sebabnya kedua proposisi dapat sama-sama benar.
+
+## BAGIAN VIII. HUKUM KEEMPAT: التداخل
+
+### 24. Pengertian التداخل
+
+Hubungan keempat dalam persegi oposisi adalah **التداخل**, yang terjadi antara proposisi universal dan partikular yang mempunyai kualitas sama.
+
+Pertama, hubungan antara universal afirmatif dan partikular afirmatif, yaitu **ك م** dengan **ج م**.
+
+Kedua, hubungan antara universal negatif dan partikular negatif, yaitu **ك س** dengan **ج س**.
+
+Dosen menjelaskan bahwa hubungan ini mempunyai hukum yang berbeda dari التناقض, التضاد, dan الدخول تحت التضاد.
+
+Untuk menerangkan hukum tersebut, ia menggunakan contoh universal afirmatif:
+
+**كُلُّ الطُّلَّابِ حَاضِرُونَ**
+
+dan partikular afirmatif:
+
+**بَعْضُ الطُّلَّابِ حَاضِرُونَ**
+
+Dengan contoh ini, dosen menerangkan empat kemungkinan yang harus dipahami mahasiswa.
+
+### 25. Jika proposisi universal benar, proposisi partikular yang sejenis juga benar
+
+Hukum pertama adalah bahwa apabila proposisi universal benar, proposisi partikular yang menjadi turunannya juga benar.
+
+Jika pernyataan “semua mahasiswa hadir” benar, maka pernyataan “sebagian mahasiswa hadir” juga benar.
+
+Alasannya, apabila seluruh anggota kelompok hadir, tentu ada anggota yang termasuk dalam sebagian kelompok yang hadir.
+
+Dosen menjelaskan bahwa kebenaran keseluruhan mengharuskan kebenaran proposisi partikular yang sesuai dengannya. Karena itu, apabila **ك م** benar, **ج م** juga benar.
+
+Dalam pasangan negatif, prinsip yang sama berlaku. Jika proposisi universal negatif benar, yaitu tidak seorang pun dari suatu kelompok memiliki predikat tertentu, maka proposisi partikular negatif yang sesuai dengannya juga benar.
+
+### 26. Jika proposisi universal salah, proposisi partikularnya belum tentu benar atau salah
+
+Hukum kedua adalah bahwa apabila proposisi universal salah, status proposisi partikular yang sejenis belum tentu dapat ditentukan hanya berdasarkan kesalahan universal tersebut.
+
+Dosen kembali menggunakan contoh “semua mahasiswa hadir”.
+
+Jika pernyataan tersebut salah, terdapat setidaknya kemungkinan bahwa sebagian mahasiswa tidak hadir. Namun, dari kesalahan proposisi universal itu saja, kita tidak selalu dapat menentukan apakah proposisi partikular afirmatif “sebagian mahasiswa hadir” benar atau salah.
+
+Ada dua kemungkinan yang dibicarakan dalam penjelasan dosen.
+
+Pertama, sebagian mahasiswa hadir dan sebagian lainnya tidak hadir. Dalam keadaan ini, pernyataan “semua mahasiswa hadir” salah, sedangkan pernyataan “sebagian mahasiswa hadir” benar.
+
+Kedua, tidak seorang pun mahasiswa hadir. Dalam keadaan ini, proposisi “semua mahasiswa hadir” salah dan proposisi “sebagian mahasiswa hadir” juga salah.
+
+Karena kedua keadaan tersebut dimungkinkan, kesalahan proposisi universal tidak cukup untuk menetapkan status proposisi partikular afirmatif. Statusnya masih belum diketahui hanya berdasarkan informasi tersebut.
+
+Dosen menggunakan istilah **مجهول** untuk menunjukkan bahwa nilai kebenaran proposisi itu belum dapat dipastikan berdasarkan proposisi yang tersedia.
+
+### 27. Jika proposisi partikular salah, proposisi universal yang sejenis juga salah
+
+Hukum ketiga adalah bahwa apabila proposisi partikular salah, proposisi universal yang berkualitas sama juga salah.
+
+Contohnya, jika pernyataan “sebagian mahasiswa hadir” salah, berarti tidak ada mahasiswa yang hadir dalam konteks yang dimaksud.
+
+Dengan demikian, pernyataan “semua mahasiswa hadir” pasti salah.
+
+Dosen menegaskan bahwa proposisi universal tidak mungkin benar apabila proposisi partikular afirmatif yang sesuai dengannya salah. Jika tidak ada seorang pun mahasiswa yang hadir, mustahil semua mahasiswa hadir.
+
+Karena itu, apabila **ج م** salah, **ك م** juga salah.
+
+Pada pasangan proposisi negatif, prinsip yang serupa berlaku. Apabila proposisi partikular negatif salah, proposisi universal negatif yang sesuai dengannya juga salah.
+
+### 28. Jika proposisi partikular benar, proposisi universalnya belum tentu benar atau salah
+
+Hukum keempat adalah bahwa apabila proposisi partikular benar, proposisi universal yang berkualitas sama belum tentu dapat dipastikan kebenarannya.
+
+Jika pernyataan “sebagian mahasiswa hadir” benar, hal itu tidak memberi kepastian bahwa semua mahasiswa hadir.
+
+Mungkin semua mahasiswa hadir, tetapi mungkin pula hanya sebagian mahasiswa yang hadir.
+
+Karena itu, kebenaran proposisi partikular tidak mengharuskan kebenaran proposisi universal.
+
+Dosen menjelaskan bahwa keadaan ini berbeda dari hukum pertama. Jika proposisi universal benar, proposisi partikular yang sesuai dengannya juga benar. Akan tetapi, jika proposisi partikular benar, proposisi universalnya belum tentu benar.
+
+Dengan demikian, hubungan التداخل mempunyai empat aturan pokok: kebenaran universal mengharuskan kebenaran partikular; kesalahan universal tidak menentukan status partikular; kesalahan partikular mengharuskan kesalahan universal; dan kebenaran partikular tidak menentukan status universal.
+
+## BAGIAN IX. RINGKASAN EMPAT HUKUM DALAM PERSEGI OPOSISI
+
+### 29. Perbedaan hukum التناقض, التضاد, الدخول تحت التضاد, dan التداخل
+
+Setelah membahas masing-masing jenis, dosen meminta mahasiswa merangkum kembali keempat hukum dalam persegi oposisi.
+
+Pada hubungan **التناقض**, dua proposisi tidak dapat sama-sama benar dan tidak dapat sama-sama salah. Jika salah satunya benar, yang lain salah; jika salah satunya salah, yang lain benar.
+
+Pada hubungan **التضاد**, dua proposisi tidak dapat sama-sama benar, tetapi dapat sama-sama salah. Jika salah satunya benar, yang lain salah. Namun, jika salah satunya salah, status proposisi lainnya belum tentu dapat ditentukan dari informasi itu saja.
+
+Pada hubungan **الدخول تحت التضاد**, dua proposisi tidak dapat sama-sama salah, tetapi dapat sama-sama benar. Setidaknya satu harus benar, sedangkan keduanya dapat benar secara bersamaan.
+
+Pada hubungan **التداخل**, kebenaran universal mengharuskan kebenaran partikular yang sesuai, sedangkan kesalahan partikular mengharuskan kesalahan universal yang sesuai. Sebaliknya, jika universal salah atau partikular benar, status proposisi pasangannya tidak selalu bisa dipastikan hanya berdasarkan informasi tersebut.
+
+Dosen meminta mahasiswa tidak hanya menghafal nama-nama hubungan, tetapi juga mengingat hukum setiap jenisnya. Ia mengatakan bahwa persegi oposisi perlu selalu tersedia dalam catatan mahasiswa karena materi ini akan digunakan kembali dalam pembahasan selanjutnya.
+
+## BAGIAN X. PERBEDAAN تقابل القضايا DAN تقابل الألفاظ
+
+### 30. Contoh putih dan bukan putih
+
+Dosen kemudian membedakan **تقابل القضايا**, yaitu hubungan oposisi antarproposisi, dari **تقابل الألفاظ**, yaitu hubungan pertentangan atau oposisi antara istilah-istilah.
+
+Ia memberikan contoh “putih” dan “bukan putih”.
+
+Jika suatu benda berwarna putih dalam pengertian dan keadaan yang sama, benda itu tidak mungkin sekaligus bukan putih. Demikian pula, jika benda tersebut bukan putih, pernyataan bahwa benda itu putih menjadi salah.
+
+Contoh ini memperlihatkan hubungan kontradiksi. Istilah “putih” dan “bukan putih” saling bertentangan karena penetapan salah satunya meniadakan yang lain.
+
+Dosen kemudian membandingkannya dengan istilah “putih” dan “hitam”. Menurut penjelasannya, suatu benda tidak mungkin berwarna putih dan hitam secara bersamaan dalam keadaan yang sama, tetapi keduanya dapat sama-sama tidak berlaku apabila benda tersebut berwarna merah atau warna lain.
+
+Dengan demikian, contoh warna digunakan untuk membedakan kontradiksi dan pertentangan antara dua sifat yang berlawanan.
+
+### 31. Mengapa contoh ini penting bagi pemahaman mantiq?
+
+Dosen mengingatkan bahwa istilah yang terlihat berlawanan belum tentu memiliki hukum logis yang sama.
+
+“Putih” dan “bukan putih” merupakan pasangan kontradiksi, karena salah satu harus benar dan yang lain salah. Sementara itu, “putih” dan “hitam” digunakan sebagai ilustrasi hubungan التضاد: keduanya tidak mungkin benar bersama-sama dalam kondisi yang sama, tetapi keduanya dapat salah sekaligus jika benda tersebut mempunyai warna lain.
+
+Pembedaan ini membantu mahasiswa melihat hubungan antara pembahasan istilah dan pembahasan proposisi. Dalam kedua bidang tersebut, seseorang perlu memahami apa yang sebenarnya dinyatakan, apa yang ditiadakan, dan apakah kedua pernyataan mempunyai cakupan yang sama.
+
+Dosen menekankan bahwa ilmu mantiq memerlukan ketelitian semacam ini agar seseorang tidak membuat kesimpulan terburu-buru hanya karena menemukan dua ungkapan yang tampak berlawanan.
+
+## BAGIAN XI. LATIHAN MAHASISWA MENJELASKAN MATERI
+
+### 32. Mahasiswa menjelaskan delapan syarat kontradiksi
+
+Setelah menerangkan berbagai syarat, dosen meminta mahasiswa maju untuk menjelaskan materi dengan bahasa sendiri.
+
+Seorang mahasiswa bernama Azzah Muhammad al-Mishri, sebagaimana namanya terdengar dalam rekaman, diminta menjelaskan syarat-syarat terjadinya التناقض.
+
+Mahasiswa tersebut menyebutkan bahwa syaratnya meliputi kesatuan subjek dan kesatuan predikat, kemudian kesatuan syarat, kesatuan keseluruhan dan bagian, kesatuan waktu, kesatuan tempat, kesatuan relasi, serta kesatuan potensi dan aktualitas.
+
+Ia mencoba menjelaskan bahwa agar dua proposisi dapat berkontradiksi, keduanya harus membicarakan subjek yang sama, predikat yang sama, dan keadaan yang sesuai.
+
+Dosen kemudian mengingatkan kembali definisi ilmu mantiq sebagai alat yang menjaga pikiran dari kesalahan apabila kaidah-kaidahnya diperhatikan. Penjelasan tersebut digunakan untuk mengingatkan mahasiswa mengenai syarat penerapan aturan.
+
+Dalam latihan itu, dosen membantu mahasiswa memperjelas setiap syarat melalui contoh-contoh yang telah dijelaskan sebelumnya. Tujuannya adalah agar mahasiswa dapat memaparkan konsep logika tanpa hanya membaca catatan.
+
+Mahasiswa juga menyebut adanya perbedaan pendapat mengenai jumlah syarat, termasuk pendapat yang menambahkan kesatuan alat dan pendapat yang mengembalikan sejumlah syarat kepada kesatuan subjek serta predikat.
+
+### 33. Mahasiswa Fadhil dari Indonesia menjelaskan التناقض
+
+Pada bagian berikutnya, mahasiswa bernama Fadhil, yang memperkenalkan dirinya sebagai orang Indonesia, maju untuk menjelaskan hukum التناقض.
+
+Ia menjelaskan bahwa kontradiksi berarti dua pernyataan tidak dapat benar bersamaan dan tidak dapat sama-sama tidak berlaku.
+
+Sebagai contoh, ia menyebut pernyataan bahwa semua mahasiswa hadir dan pernyataan bahwa sebagian mahasiswa tidak hadir. Menurutnya, keduanya tidak mungkin benar pada saat yang sama, sebab jika semua mahasiswa hadir, tidak mungkin terdapat sebagian mahasiswa yang tidak hadir.
+
+Mahasiswa tersebut kemudian menghubungkannya dengan contoh warna. Ia menjelaskan bahwa sesuatu yang putih tidak mungkin sekaligus bukan putih dalam keadaan dan pengertian yang sama.
+
+Penjelasan mahasiswa ini mengulang hukum dasar kontradiksi yang telah disampaikan dosen. Dosen menggunakan latihan tersebut untuk memastikan bahwa mahasiswa memahami bukan hanya definisi formal, tetapi juga penerapan hukum terhadap contoh sederhana.
+
+### 34. Mahasiswa lain menjelaskan التضاد
+
+Mahasiswa lain kemudian menjelaskan hubungan التضاد.
+
+Ia menggunakan contoh putih dan hitam. Menurut penjelasannya, keduanya tidak dapat berkumpul pada satu objek dalam keadaan yang sama, tetapi dapat sama-sama tidak berlaku jika objek itu mempunyai warna lain, seperti merah.
+
+Mahasiswa tersebut juga memakai contoh proposisi universal, yaitu “semua mahasiswa hadir” dan “tidak seorang pun mahasiswa hadir”.
+
+Kedua proposisi itu tidak mungkin benar bersama-sama. Namun, keduanya dapat sama-sama salah apabila terdapat mahasiswa yang hadir dan ada mahasiswa lain yang tidak hadir.
+
+Dosen kemudian meminta mahasiswa memperhatikan hukum hubungan tersebut. Jika satu proposisi benar, proposisi lainnya pasti salah. Namun, jika satu proposisi salah, status proposisi lainnya tidak otomatis diketahui.
+
+Latihan ini digunakan untuk memperlihatkan bahwa hukum التضاد tidak sama dengan hukum التناقض.
+
+### 35. Mahasiswa menjelaskan التداخل
+
+Selanjutnya, mahasiswa lain diminta menjelaskan hubungan التداخل.
+
+Dalam pemaparannya, ia menggunakan contoh “semua mahasiswa hadir” dan “sebagian mahasiswa hadir”. Jika semua mahasiswa hadir, proposisi mengenai sebagian mahasiswa yang hadir juga benar.
+
+Sebaliknya, apabila pernyataan bahwa semua mahasiswa hadir salah, belum tentu dapat ditentukan apakah pernyataan bahwa sebagian mahasiswa hadir benar atau salah. Mungkin hanya sebagian mahasiswa yang hadir, tetapi mungkin pula tidak ada seorang pun yang hadir.
+
+Mahasiswa tersebut kemudian menjelaskan bahwa jika pernyataan “sebagian mahasiswa hadir” salah, pernyataan “semua mahasiswa hadir” juga salah. Sebaliknya, apabila sebagian mahasiswa hadir, hal itu belum memastikan apakah seluruh mahasiswa hadir.
+
+Dosen menilai latihan tersebut penting agar mahasiswa mampu menggunakan hukum-hukum persegi oposisi ketika menilai argumen dan menentukan hubungan antara dua proposisi.
+
+## BAGIAN XII. MENGAPA PERSEGI OPOSISI PENTING UNTUK ANALISIS ARGUMEN?
+
+### 36. Persegi oposisi sebagai alat untuk memeriksa klaim yang saling berlawanan
+
+Menjelang akhir perkuliahan, dosen kembali menekankan bahwa mahasiswa harus menguasai persegi oposisi karena konsep tersebut dibutuhkan dalam pembahasan lain.
+
+Ia mengatakan bahwa ketika seseorang menemukan dua pernyataan yang dianggap bertentangan, ia harus memeriksa jenis hubungan di antara keduanya terlebih dahulu.
+
+Tidak semua perbedaan merupakan kontradiksi. Ada perbedaan yang termasuk تضاد, ada yang termasuk الدخول تحت التضاد, dan ada yang termasuk التداخل. Setiap jenis mempunyai hukum yang berbeda.
+
+Karena itu, seseorang tidak boleh langsung menyimpulkan bahwa dua pernyataan saling membatalkan tanpa memastikan bahwa keduanya berada dalam hubungan yang tepat.
+
+Dosen juga kembali menghubungkan pembahasan tersebut dengan tuduhan bahwa Al-Qur'an mengandung pertentangan. Menurut penjelasannya, apabila seseorang menuduh adanya kontradiksi di dalam Al-Qur'an, peneliti harus terlebih dahulu menentukan apakah kedua pernyataan yang dibandingkan benar-benar memenuhi syarat kontradiksi.
+
+Perbedaan waktu, tempat, subjek, predikat, syarat, atau hubungan dapat menunjukkan bahwa kedua pernyataan tersebut sebenarnya membicarakan keadaan berbeda.
+
+Dengan demikian, persegi oposisi dan syarat-syarat kontradiksi menjadi alat untuk memeriksa klaim secara sistematis, bukan sekadar cara menghafal istilah.
+
+### 37. Penegasan bahwa tuduhan kontradiksi harus diperiksa secara logis
+
+Dosen mengatakan bahwa materi ini akan terus digunakan dalam pembahasan selanjutnya. Mahasiswa perlu menguasainya agar dapat menghadapi berbagai argumen yang muncul dalam kehidupan ilmiah maupun dalam diskusi mengenai agama.
+
+Ia menegaskan bahwa sebelum menerima tuduhan pertentangan, peneliti harus memeriksa hubungan antara proposisi-proposisi yang dipersoalkan.
+
+Jika kedua proposisi tidak memenuhi syarat kontradiksi, tidak tepat menyimpulkan bahwa satu proposisi secara logis membatalkan yang lain. Peneliti harus memperhatikan apa yang menjadi subjek, predikat, waktu, tempat, keadaan, dan relasi yang dimaksud.
+
+Dosen menggunakan pendekatan tersebut sebagai dasar untuk menilai argumen secara lebih teliti. Ia ingin mahasiswa tidak hanya dapat menjawab pertanyaan ujian, tetapi juga mampu menjelaskan alasan di balik kesimpulannya.
+
+### 38. Penutup perkuliahan
+
+Pada bagian akhir, dosen mengucapkan terima kasih kepada mahasiswa yang telah maju untuk menjelaskan materi. Ia mengatakan bahwa persoalan ini penting dan akan digunakan kembali sampai akhir rangkaian pembelajaran.
+
+Dosen mendorong mahasiswa untuk terus berlatih menjelaskan konsep menggunakan bahasa sendiri. Latihan tersebut bertujuan agar mereka lebih menguasai materi dan mampu menerapkannya dalam pembahasan ilmiah.
+
+Ia kemudian menutup perkuliahan dengan salam dan doa.
+
+# KESIMPULAN KESELURUHAN MATERI
+
+Materi perkuliahan ini merupakan kelanjutan pembahasan **تقابل القضايا**, yaitu oposisi antara proposisi-proposisi dalam ilmu mantiq.
+
+Dasarnya adalah empat jenis proposisi: universal afirmatif (**ك م**), universal negatif (**ك س**), partikular afirmatif (**ج م**), dan partikular negatif (**ج س**). Keempatnya disusun dalam **مربع تقابل القضايا**, dengan empat jenis hubungan: التناقض, التضاد, الدخول تحت التضاد, dan التداخل.
+
+Hubungan التناقض terjadi antara universal afirmatif dan partikular negatif, serta antara universal negatif dan partikular afirmatif. Hukum keduanya adalah لا يجتمعان ولا يرتفعان: tidak dapat sama-sama benar dan tidak dapat sama-sama salah. Jika satu benar, yang lain salah; jika satu salah, yang lain benar.
+
+Namun, dua proposisi tidak cukup hanya tampak berlawanan untuk disebut kontradiktif. Dosen menjelaskan delapan kesatuan yang harus diperhatikan: وحدة الموضوع, وحدة المحمول, وحدة الشرط, وحدة الكل والجزء, وحدة الزمان, وحدة المكان, وحدة الإضافة, dan وحدة القوة والفعل. Sebagian ahli menambahkan kesatuan alat atau وحدة الآلة sebagai syarat kesembilan. Ada pula pendapat yang merangkum berbagai syarat itu menjadi dua unsur mendasar, yaitu kesatuan subjek dan predikat, atau bahkan satu unsur, yakni وحدة النسبة, hubungan antara subjek dan predikat.
+
+Syarat-syarat ini menunjukkan bahwa dua proposisi harus benar-benar membicarakan subjek, predikat, waktu, tempat, keadaan, relasi, dan cakupan yang sama apabila hendak disebut berkontradiksi. Jika satu pernyataan berbicara tentang keadaan pada siang hari dan yang lain tentang malam hari, atau satu berbicara mengenai keseluruhan dan yang lain hanya mengenai bagian, kedua pernyataan belum tentu bertentangan.
+
+Konsep tersebut dihubungkan dengan tuduhan bahwa ayat-ayat Al-Qur'an saling bertentangan. Dosen menjelaskan bahwa sebelum menyimpulkan adanya kontradiksi, seseorang harus memeriksa konteks, waktu, dan pihak yang dibicarakan dalam masing-masing ayat. Dalam contoh ayat tentang pertanyaan dan pertanggungjawaban, ia menekankan bahwa perbedaan konteks dan waktu perlu diperhatikan sebelum menetapkan adanya pertentangan.
+
+Hubungan kedua, التضاد, terjadi antara dua proposisi universal. Keduanya tidak mungkin sama-sama benar, tetapi dapat sama-sama salah. Contohnya ialah “semua mahasiswa hadir” dan “tidak seorang pun mahasiswa hadir”. Jika sebagian mahasiswa hadir dan sebagian lainnya tidak, kedua proposisi tersebut sama-sama salah.
+
+Hubungan ketiga, الدخول تحت التضاد, terjadi antara dua proposisi partikular yang satu afirmatif dan yang lain negatif. Keduanya tidak dapat sama-sama salah, tetapi dapat sama-sama benar. Contohnya adalah “sebagian mahasiswa memahami materi” dan “sebagian mahasiswa tidak memahami materi”. Kedua pernyataan dapat benar karena masing-masing dapat merujuk kepada kelompok mahasiswa yang berbeda.
+
+Hubungan keempat, التداخل, terjadi antara proposisi universal dan partikular yang mempunyai kualitas sama. Jika universal benar, partikular yang sesuai dengannya juga benar. Jika universal salah, status partikular belum tentu diketahui. Jika partikular salah, universal yang sesuai juga salah. Jika partikular benar, universalnya belum tentu benar.
+
+Dosen juga membandingkan hubungan proposisi dengan تقابل الألفاظ melalui contoh warna putih, bukan putih, dan hitam. Contoh itu digunakan untuk menunjukkan bahwa pasangan kontradiksi berbeda dari pasangan pertentangan yang masih memungkinkan kedua pernyataan salah.
+
+Pada bagian akhir, mahasiswa diminta menjelaskan syarat-syarat kontradiksi dan hukum-hukum dalam persegi oposisi menggunakan bahasa sendiri. Latihan tersebut memperlihatkan bahwa mahasiswa harus memahami hubungan logis di antara proposisi, bukan hanya menghafal istilah.
+
+Pokok utama materi ini adalah bahwa penilaian terhadap dua pernyataan harus dilakukan secara teliti. Seseorang perlu memastikan jenis hubungan di antara proposisi-proposisi tersebut sebelum menarik kesimpulan. Dengan memahami مربع تقابل القضايا dan شروط صحة التناقض, mahasiswa dapat membedakan kontradiksi yang sesungguhnya dari perbedaan pernyataan yang muncul karena perbedaan waktu, tempat, keadaan, hubungan, atau cakupan.
