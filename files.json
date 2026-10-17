@@ -55,6 +55,11 @@
               "name": "5.txt",
               "type": "file",
               "path": "texts/LITERAL MUHADOROH/FALSAFAH AMMAH/5.txt"
+            },
+            {
+              "name": "6.txt",
+              "type": "file",
+              "path": "texts/LITERAL MUHADOROH/FALSAFAH AMMAH/6.txt"
             }
           ]
         },
@@ -76,6 +81,11 @@
               "name": "3.txt",
               "type": "file",
               "path": "texts/LITERAL MUHADOROH/FIKIH/3.txt"
+            },
+            {
+              "name": "4.txt",
+              "type": "file",
+              "path": "texts/LITERAL MUHADOROH/FIKIH/4.txt"
             }
           ]
         },
@@ -326,6 +336,11 @@
               "name": "5.txt",
               "type": "file",
               "path": "texts/PELAJARAN/FALSAFAH AMMAH/5.txt"
+            },
+            {
+              "name": "6.txt",
+              "type": "file",
+              "path": "texts/PELAJARAN/FALSAFAH AMMAH/6.txt"
             }
           ]
         },
@@ -347,6 +362,11 @@
               "name": "3.txt",
               "type": "file",
               "path": "texts/PELAJARAN/FIKIH/3.txt"
+            },
+            {
+              "name": "4.txt",
+              "type": "file",
+              "path": "texts/PELAJARAN/FIKIH/4.txt"
             }
           ]
         },

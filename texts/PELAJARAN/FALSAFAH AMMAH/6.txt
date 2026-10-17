@@ -1,0 +1,1149 @@
+```
+# MATERI FILSAFAT: KARAKTERISTIK PEMIKIRAN FILOSOFIS, SIKAP FILSUF, FAKTOR MUNCULNYA FILSAFAT, DAN POKOK-POKOK PEMBAHASANNYA
+
+## I. PEMBUKAAN DAN KETERKAITAN DENGAN MATERI SEBELUMNYA
+
+Dosen membuka perkuliahan dengan salam:
+
+السلام عليكم ورحمة الله وبركاته
+
+Kemudian dijawab:
+
+وعليكم السلام ورحمة الله وبركاته
+
+Setelah itu, dosen membaca basmalah, memuji Allah, dan menyampaikan selawat kepada Nabi Muhammad ﷺ beserta keluarga, sahabat, dan orang-orang yang mengikuti beliau dengan baik sampai hari kiamat.
+
+الحمد لله رب العالمين، والصلاة والسلام على سيدنا محمد خاتم الأنبياء والمرسلين، اللهم صل وسلم وبارك على سيدنا محمد وعلى آله وأصحابه ومن تبعهم بإحسان إلى يوم الدين.
+
+Dosen kemudian mengingatkan kembali pembahasan pertemuan sebelumnya mengenai سمات التفكير الفلسفي, yaitu karakteristik pemikiran filosofis, serta سمات الفيلسوف atau karakteristik seorang filsuf. Pada pertemuan sebelumnya, telah dijelaskan bahwa filsafat bukan sekadar kegiatan memikirkan sesuatu, melainkan cara berpikir yang memiliki karakteristik tertentu.
+
+Pemikiran filosofis berangkat dari perenungan seorang individu, tetapi tidak berhenti pada pengalaman pribadi. Pemikiran tersebut berusaha memahami persoalan secara menyeluruh, melampaui penampilan lahiriah, menggunakan akal, mempertanyakan asumsi yang belum terbukti, serta berusaha memperoleh kesimpulan yang dapat dipertanggungjawabkan.
+
+Adapun sikap filosofis ditandai dengan rasa heran, keingintahuan, kebiasaan bertanya, sikap kritis, kesediaan memeriksa kembali pendapat sendiri, keterbukaan terhadap kritik, dan ketekunan dalam berpikir. Karakteristik ini nantinya juga muncul kembali ketika dosen membahas faktor-faktor yang mendorong manusia melakukan kegiatan filosofis atau التفلسف.
+
+Pada perkuliahan kali ini, terdapat dua pembahasan utama. Pembahasan pertama adalah عوامل ظهور الفلسفة أو التفلسف لدى الإنسان, yaitu faktor-faktor yang menyebabkan manusia mulai melakukan kegiatan filosofis. Pembahasan kedua adalah المباحث الرئيسية للفلسفة, yaitu pokok-pokok utama yang menjadi objek pembahasan filsafat.
+
+Dosen menegaskan bahwa kedua pembahasan tersebut berkaitan dengan materi sebelumnya. Sebagian karakteristik pemikiran filosofis yang telah dipelajari sebelumnya juga dapat disebut sebagai faktor munculnya filsafat apabila dilihat dari sudut pandang yang berbeda. Misalnya, manusia mempunyai kemampuan berpikir; kemampuan itu merupakan salah satu karakteristik manusia sekaligus salah satu dasar munculnya kegiatan filosofis.
+
+Demikian pula, pembahasan mengenai objek filsafat berkaitan dengan sejarah perkembangan ilmu pengetahuan. Filsafat pada masa awal mencakup wilayah pengetahuan yang sangat luas, kemudian berbagai bidang pengetahuan berkembang dan memisahkan diri menjadi disiplin-disiplin ilmu yang lebih khusus.
+
+Oleh karena itu, apabila beberapa gagasan yang telah dipelajari muncul kembali dalam pembahasan sekarang, hal tersebut bukan berarti seluruh materi diulang tanpa tujuan. Gagasan yang sama dapat diletakkan dalam kelompok pembahasan yang berbeda sehingga hubungannya dengan keseluruhan materi menjadi lebih mudah dipahami.
+
+### Catatan dosen mengenai cara belajar dan ujian
+
+Sebelum memasuki materi utama, dosen juga menyinggung kebiasaan mahasiswa dalam mempelajari materi kuliah. Ia mengingatkan bahwa mahasiswa telah mempunyai buku dan catatan, tetapi keberadaan buku saja tidak menjamin bahwa materi sudah dipahami atau dipelajari.
+
+Dosen menyebut bahwa sekitar 17 halaman telah dijelaskan dalam dua kali pertemuan, lalu mempertanyakan berapa banyak mahasiswa yang sudah mempelajari kembali materi tersebut. Dalam percakapan itu, jumlah mahasiswa yang benar-benar telah belajar tidak terdengar secara konsisten, tetapi dosen menggambarkan bahwa hanya sebagian kecil mahasiswa yang tampak mempersiapkan diri.
+
+Ia memperingatkan bahwa materi filsafat yang sekarang baru mencakup sekitar 17 halaman dapat berkembang menjadi 60 halaman atau lebih dalam beberapa pertemuan berikutnya. Jika mahasiswa tidak mempelajari materi secara bertahap, beban belajar akan semakin besar dan semakin sulit dikuasai menjelang ujian.
+
+Dosen juga menjelaskan bahwa mahasiswa tidak seharusnya menganggap suatu mata kuliah dapat diabaikan hanya karena mata kuliah lain dianggap lebih penting. Setiap mata kuliah memiliki tuntutan tersendiri, dan filsafat memerlukan pemahaman konseptual yang tidak cukup diperoleh hanya dengan membaca sekilas.
+
+Ia kemudian menanggapi pertanyaan tentang bagaimana soal ujian akan disusun. Menurut dosen, bentuk pertanyaan bisa berbeda-beda, tetapi substansi jawaban tetap sama. Suatu materi dapat ditanyakan dalam bentuk penjelasan, definisi, penafsiran istilah, atau pertanyaan benar dan salah. Mahasiswa harus memahami isi materi sehingga mampu mengenali substansi yang sama meskipun bentuk pertanyaannya berbeda.
+
+Dosen memberikan ilustrasi dengan seseorang yang berasal dari Aljazair. Ketika ditanya, “Apakah kamu berasal dari Aljazair?”, orang tersebut akan menjawab, “Ya.” Ketika ditanya, “Dari negara mana kamu berasal?”, jawabannya tetap Aljazair. Ketika ditanya apakah ia berasal dari Afrika Utara atau termasuk orang Afrika, jawabannya juga dapat tetap mengarah kepada informasi yang sama. Dengan demikian, redaksi pertanyaan dapat berubah, tetapi informasi yang hendak diketahui tetap sama.
+
+Hal tersebut berlaku pula dalam ujian filsafat. Materi yang sama dapat diletakkan dalam konteks pertanyaan yang berbeda. Karena itu, mahasiswa perlu memahami pokok persoalan, hubungan antargagasan, dan alasan di balik suatu penjelasan, bukan sekadar menghafal bentuk pertanyaan tertentu.
+
+---
+
+# BAGIAN PERTAMA: KARAKTERISTIK PEMIKIRAN FILOSOFIS DAN SIKAP FILSUF
+
+## II. KARAKTERISTIK PEMIKIRAN FILOSOFIS
+
+### 1. Pemikiran filosofis sebagai pandangan subjektif seorang filsuf
+
+Pemikiran filosofis pada awalnya merupakan hasil perenungan pribadi seorang filsuf. Pemikiran itu dapat muncul dari pengalaman subjektif, pengalaman hidup, keadaan psikologis, dan cara seorang filsuf mengalami suatu persoalan.
+
+Dengan demikian, pemikiran filosofis mempunyai hubungan dengan subjek yang memikirkannya. Dua filsuf yang menghadapi persoalan yang sama belum tentu menghasilkan pemikiran yang sama. Perbedaan pandangan mereka dapat dipengaruhi oleh zaman, tempat, pengalaman, keadaan hidup, serta masalah yang berusaha mereka selesaikan.
+
+Seorang filsuf yang hidup dalam suatu lingkungan sosial dapat memandang suatu persoalan secara berbeda dari filsuf yang hidup pada zaman atau lingkungan lain. Demikian pula, persoalan yang dialami oleh seorang individu dapat mengarahkan perhatiannya kepada masalah tertentu, sementara individu lain lebih tertarik pada masalah yang berbeda.
+
+Karena itu, terdapat perbedaan pandangan di antara para filsuf. Perbedaan tersebut berkaitan dengan kenyataan bahwa kegiatan filosofis melibatkan perenungan seorang subjek terhadap persoalan yang dihadapinya.
+
+Namun, sifat subjektif ini tidak berarti bahwa filsuf hanya menyampaikan perasaan pribadi tanpa argumentasi. Perenungan pribadi merupakan titik awal, sedangkan pemikiran filosofis tetap harus menggunakan akal, analisis, dan pemeriksaan terhadap persoalan yang dibahas.
+
+### 2. Pemikiran filosofis memandang persoalan secara menyeluruh
+
+Karakteristik berikutnya adalah bahwa pemikiran filosofis tidak berhenti pada الجزئيات, yaitu persoalan-persoalan parsial atau kasus-kasus khusus. Filsuf berusaha memandang persoalan secara menyeluruh atau secara كلية.
+
+Ketika seseorang menghadapi suatu kejadian yang menimpa orang tertentu, ia mungkin hanya memikirkan keadaan orang tersebut. Sebaliknya, filsuf dapat berusaha menemukan persoalan umum di balik kejadian itu. Ia tidak hanya bertanya mengenai masalah individu tertentu, tetapi juga berusaha memahami struktur masalah yang lebih luas.
+
+Misalnya, pembicaraan mengenai suatu masalah kehidupan tidak harus berhenti pada pertanyaan mengapa seseorang mengalami kejadian tertentu. Pemikiran filosofis dapat meluas kepada pertanyaan tentang hakikat kehidupan, tujuan hidup, kedudukan manusia, atau prinsip yang mendasari keadaan tersebut.
+
+Dengan demikian, filsafat berusaha melihat persoalan dalam kerangka yang lebih umum. Hal ini memungkinkan seorang filsuf menghubungkan suatu kasus dengan persoalan yang lebih luas mengenai manusia, kehidupan, alam semesta, dan keberadaan.
+
+### 3. Pemikiran filosofis bersifat abstrak
+
+Filsafat juga berusaha memahami persoalan dengan melampaui bentuk lahiriahnya. Seorang filsuf tidak hanya melihat fenomena yang tampak, tetapi berusaha memeriksa makna dan prinsip yang berada di baliknya.
+
+Dalam hal ini, filsuf berusaha melakukan التجريد, yaitu abstraksi. Ia memisahkan persoalan mendasar dari berbagai penampilan atau ciri yang tidak menentukan hakikat persoalan tersebut.
+
+Dengan cara itu, filsuf dapat memikirkan sesuatu tanpa terikat sepenuhnya pada bentuk konkret yang pertama kali dilihatnya. Ia berusaha memahami apakah terdapat prinsip umum, hubungan mendasar, atau makna yang menjelaskan berbagai gejala tersebut.
+
+Oleh sebab itu, filsafat tidak hanya bertanya tentang apa yang tampak, tetapi juga mempertanyakan hakikat, sebab, tujuan, dan dasar keberadaan sesuatu.
+
+### 4. Pemikiran filosofis bersifat rasional
+
+Karakteristik berikutnya adalah penggunaan akal. Pemikiran filosofis merupakan kegiatan عقلي, yakni kegiatan yang bertumpu pada penalaran.
+
+Dosen membedakan pendekatan filosofis yang sedang dibahas dari pendekatan yang menjadikan eksperimen laboratorium sebagai metode utama. Dalam perenungan filosofis, filsuf menggunakan pengetahuan, pengalaman, ilmu, dan hasil pemikirannya untuk menganalisis persoalan.
+
+Pemikiran filosofis juga bukan sekadar reaksi emosional. Filsuf tidak semestinya memberikan penilaian hanya karena ia menyukai atau membenci sesuatu. Ia harus berusaha memberikan alasan yang dapat diperiksa secara rasional.
+
+Dengan demikian, unsur utama kegiatan filosofis adalah berpikir, menganalisis, mempertanyakan, dan menyusun alasan untuk mencapai kesimpulan.
+
+### 5. Pemikiran filosofis bersifat bebas
+
+Kebebasan berpikir merupakan karakteristik penting lainnya. Maksud kebebasan di sini bukan bahwa seseorang boleh menerima sembarang kesimpulan tanpa alasan, melainkan bahwa akal tidak seharusnya terikat secara mutlak pada sesuatu yang kebenarannya belum diperiksa.
+
+Seorang filsuf tidak seharusnya menerima suatu pendapat hanya karena pendapat itu telah lama dipercaya masyarakat. Ia juga tidak semestinya menerima tradisi atau adat istiadat semata-mata karena semuanya diwariskan oleh generasi sebelumnya.
+
+Jika suatu pendapat belum terbukti benar, pendapat tersebut harus terbuka untuk diperiksa. Filsuf perlu berusaha mengetahui alasan yang mendasarinya sebelum menerima atau menolaknya.
+
+Kebebasan ini menjadikan pemikiran filosofis bersifat kritis. Filsuf tidak langsung tunduk kepada asumsi yang belum diperiksa, tetapi berusaha membangun keyakinan berdasarkan argumentasi.
+
+## III. PROSES KERJA SEORANG FILSUF
+
+Dosen menjelaskan bahwa seorang filsuf terlebih dahulu mengenali suatu persoalan, kemudian menarik diri dari lingkungan sosial untuk memikirkannya secara mendalam.
+
+Penarikan diri tersebut tidak harus berupa pengasingan fisik. Seseorang dapat tetap berada di tengah masyarakat, tetapi secara intelektual memusatkan perhatiannya pada persoalan tertentu dengan berusaha menghindari gangguan pemikiran yang tidak berkaitan dengannya.
+
+Setelah mengenali masalah, filsuf menggunakan pengetahuan, pengalaman, dan hasil perenungannya untuk mencari penyelesaian. Ia memikirkan persoalan itu secara mandiri sampai memperoleh jawaban yang menurutnya masuk akal.
+
+Apabila telah menemukan penyelesaian yang diyakininya, ia kembali menyampaikan hasil pemikirannya kepada masyarakat. Dengan demikian, kegiatan filosofis tidak hanya berhenti pada perenungan pribadi. Filsafat diharapkan dapat memberikan kontribusi bagi masyarakat dan membantu perkembangan pemikiran manusia.
+
+Proses tersebut menunjukkan hubungan antara kegiatan berpikir secara individual dan manfaat sosial dari hasil pemikiran. Filsuf memulai dengan memikirkan masalah secara mendalam, tetapi hasil pemikirannya diharapkan dapat dibagikan kepada orang lain.
+
+---
+
+# BAGIAN KEDUA: SIKAP SEORANG FILSUF DAN PERBEDAAN ANTARA TEORI DENGAN PRAKTIK
+
+## IV. SIKAP IDEAL SEORANG FILSUF
+
+### 1. الحيرة والدهشة: kebingungan, keheranan, dan ketakjuban
+
+Dosen menjelaskan bahwa sikap seorang filsuf bermula dari keadaan حيرة dan دهشة. Istilah الحيرة menunjukkan keadaan kebingungan atau ketidakpastian yang mendorong seseorang mencari penjelasan, sedangkan الدهشة menunjuk kepada rasa heran atau takjub di hadapan sesuatu yang menarik perhatian.
+
+Filsuf tidak sekadar melihat sesuatu sebagaimana kebanyakan orang melihatnya. Ia memperhatikan hal-hal yang mungkin dilewati oleh orang lain tanpa pemikiran lebih lanjut.
+
+Sesuatu yang terlihat biasa dapat memunculkan pertanyaan mendalam bagi seorang filsuf. Ia berhenti, memperhatikan, dan memikirkan mengapa sesuatu terjadi serta bagaimana sesuatu itu dapat dipahami.
+
+Karena itu, rasa heran dan keingintahuan merupakan titik awal dari kegiatan filosofis. Dari rasa heran, filsuf mulai mempertanyakan persoalan mengenai alam semesta, kehidupan, manusia, keberadaan, dan nasib manusia.
+
+### 2. Mengajukan pertanyaan dan berusaha menemukan jawaban
+
+Setelah merasa heran terhadap sesuatu, filsuf mulai mengajukan pertanyaan. Ia tidak berhenti pada kejadian yang terlihat, tetapi berusaha mencari penyebab dan makna di baliknya.
+
+Pertanyaan tersebut dapat berkaitan dengan alam semesta, manusia, kehidupan, kematian, dan keberadaan secara umum.
+
+Filsuf kemudian mencoba menjawab pertanyaan yang diajukannya melalui pemikiran dan perenungan. Ia menimbang berbagai kemungkinan, menguji alasan yang mendukungnya, dan berusaha mencapai kesimpulan yang dapat diterima secara rasional.
+
+Dengan demikian, pemikiran filosofis mencakup dua kegiatan yang berkaitan erat: mengajukan pertanyaan dan mencari jawaban.
+
+### 3. الشك والريبة: keraguan dan pemeriksaan kritis
+
+Seorang filsuf tidak langsung menganggap semua pendapatnya benar. Setelah memperoleh suatu pandangan, ia berusaha memeriksa kembali pandangan tersebut melalui الشك dan الريبة, yaitu keraguan yang mendorong pemeriksaan.
+
+Keraguan dalam konteks ini bukan sekadar menolak segala sesuatu tanpa alasan. Keraguan berfungsi sebagai alat untuk memeriksa apakah suatu pendapat memiliki dasar yang kuat.
+
+Filsuf mempertanyakan kembali kesimpulannya, memeriksa alasan yang digunakan, serta berusaha mengenali kelemahannya. Ia tidak menerima suatu pendapat sebelum berusaha memastikan kebenarannya.
+
+Karena itu, keraguan filosofis merupakan bagian dari proses pencarian kepastian, bukan semata-mata penolakan terhadap kemungkinan adanya kebenaran.
+
+### 4. Keterbukaan terhadap pendapat dan kritik orang lain
+
+Filsuf juga berusaha memperhatikan pemikiran orang lain. Ia menerima pendapat, mendengarkan kritik, dan memeriksa argumentasi yang berlawanan dengan pandangannya.
+
+Apabila orang lain menunjukkan bahwa pendapatnya keliru, ia seharusnya bersedia mengakuinya. Ia tidak seharusnya mempertahankan pendapat hanya karena sudah terlanjur meyakininya atau karena tidak ingin kalah dalam perdebatan.
+
+Tujuan utama filsuf adalah menemukan kebenaran, bukan sekadar membuktikan bahwa dirinya selalu benar.
+
+Oleh karena itu, kesediaan berdialog, mendengarkan kritik, dan memperbaiki pandangan merupakan karakteristik penting dalam sikap filosofis.
+
+### 5. Tidak membiarkan emosi dan fanatisme menentukan kesimpulan
+
+Sikap ideal seorang filsuf juga menuntut pengendalian emosi. Ia tidak semestinya membenarkan pendapat kelompoknya hanya karena kelompok tersebut merupakan bagian dari identitasnya.
+
+Misalnya, apabila suatu persoalan menyangkut kelompok, suku, bangsa, atau masyarakatnya sendiri, filsuf tetap perlu memeriksa kebenaran persoalan tersebut secara rasional.
+
+Ia tidak semestinya langsung membenarkan kelompoknya atau menerima tradisi kelompok itu tanpa pemeriksaan.
+
+Jika kelompoknya salah, ia perlu bersedia mengakui kesalahan. Jika pihak lain memiliki argumentasi lebih kuat, ia perlu bersedia mempertimbangkannya.
+
+Dosen menekankan bahwa sikap filosofis seharusnya berusaha menjauhkan penilaian dari pengaruh emosi, keberpihakan, dan fanatisme yang menghalangi pencarian kebenaran.
+
+### 6. Ketekunan dan kesabaran dalam berpikir
+
+Pemikiran filosofis memerlukan ketekunan atau المثابرة. Seorang filsuf harus bersedia mengulang pemeriksaan, menganalisis persoalan dari berbagai sudut, dan mempertimbangkan kembali kesimpulannya.
+
+Ia tidak seharusnya berhenti hanya karena persoalan sulit. Ia perlu bertahan dalam proses berpikir sampai mendapatkan pandangan yang dapat dipertanggungjawabkan.
+
+Ketekunan ini juga berkaitan dengan kemampuan menyampaikan hasil pemikiran kepada orang lain. Filsuf bukan hanya ingin meyakinkan dirinya sendiri, tetapi juga ingin agar orang lain memahami alasan yang mendukung kesimpulannya.
+
+Dengan demikian, sikap ideal seorang filsuf mencakup rasa heran, keingintahuan, pertanyaan, keraguan, pemeriksaan kritis, keterbukaan terhadap kritik, pengendalian emosi, dan ketekunan.
+
+## V. PERBEDAAN ANTARA مَا يَنْبَغِي DAN مَا هُوَ وَاقِع
+
+Dosen kemudian memberikan penekanan penting: karakteristik yang baru dijelaskan merupakan gambaran teoretis mengenai bagaimana seorang filsuf seharusnya berpikir. Hal tersebut tidak berarti bahwa setiap filsuf dalam kenyataan selalu berhasil memenuhi seluruh karakteristik itu.
+
+Dalam pembahasan ini, perlu dibedakan antara مَا يَنْبَغِي أَنْ يَكُونَ, yaitu keadaan yang seharusnya terjadi, dan مَا هُوَ وَاقِعٌ, yaitu keadaan yang benar-benar terjadi dalam kenyataan.
+
+Karakteristik ideal seorang filsuf adalah gambaran mengenai apa yang seharusnya dicapai. Adapun perilaku filsuf yang sebenarnya dapat mendekati atau menjauhi gambaran tersebut.
+
+Tidak setiap filsuf selalu berhasil menghindari emosi, memeriksa seluruh sisi suatu persoalan, atau menerima semua kritik secara sempurna. Ada kalanya ia berhasil bersikap objektif dalam suatu masalah, tetapi menunjukkan keberpihakan ketika menghadapi persoalan lain.
+
+Kemampuan seseorang memeriksa pendapat juga dipengaruhi oleh pengetahuan, pengalaman, kualitas kritik yang diterima, dan lingkungan intelektualnya.
+
+Dosen memberikan perbandingan antara masyarakat yang memiliki kebiasaan berpikir kritis yang masih terbatas dan masyarakat yang lebih mendalam pengetahuannya. Jika seseorang mengemukakan pendapat di lingkungan yang jarang mengkritik, ia mungkin tidak mendapatkan cukup koreksi untuk menyadari kelemahan pikirannya.
+
+Namun, jika pendapat yang sama dikemukakan di lingkungan yang lebih kritis, pendapat tersebut dapat menghadapi banyak pertanyaan, sanggahan, dan pemeriksaan. Akibatnya, pemikir tersebut memiliki kesempatan lebih besar untuk memperbaiki argumentasinya.
+
+Dengan demikian, kualitas pemikiran tidak selalu sama pada setiap filsuf. Lingkungan intelektual yang lebih kritis dapat membantu seseorang memperkuat dan memperdalam pemikirannya.
+
+Dosen menekankan bahwa pembahasan mengenai karakteristik filsuf yang ideal tidak boleh disamakan dengan klaim bahwa seluruh filsuf dalam kenyataan selalu memenuhi karakteristik tersebut.
+
+## VI. PERUMPAMAAN WORTEL DAN HEWAN TUNGGANGAN
+
+Untuk menjelaskan perbedaan antara keadaan ideal dan kenyataan, dosen menggunakan kisah wortel yang diletakkan di depan seekor hewan tunggangan.
+
+Seseorang ingin membuat kudanya bergerak. Ia meletakkan wortel pada sebuah tongkat, kemudian mengarahkannya di depan mata kuda dengan jarak tertentu. Kuda itu melihat wortel dan bergerak maju untuk mencapainya.
+
+Selama wortel berada di depan dan masih tampak dapat diraih, kuda terus bergerak. Akan tetapi, ketika kuda sampai pada tempat yang diinginkannya dan memperoleh wortel tersebut, dorongan untuk terus mengejarnya dapat berakhir.
+
+Dosen menggunakan ilustrasi tersebut untuk menggambarkan bagaimana tujuan dan harapan dapat mendorong manusia untuk terus bergerak.
+
+Apabila seseorang menganggap bahwa keadaan yang sekarang telah menjadi keadaan terbaik dan tidak ada lagi sesuatu yang perlu dicapai, ia dapat berhenti berusaha. Sebaliknya, apabila masih ada tujuan yang hendak diraih, ia mempunyai dorongan untuk terus bergerak.
+
+Dalam kehidupan manusia, sesuatu yang seharusnya dicapai dapat berfungsi seperti tujuan yang berada di depan. Manusia berusaha mendekati tujuan tersebut, meskipun kenyataan yang dihadapinya belum sepenuhnya sesuai dengan keadaan ideal.
+
+Dengan demikian, keadaan ideal tidak harus sudah terwujud sepenuhnya agar berguna. Justru, gambaran tentang keadaan yang lebih baik dapat menjadi dorongan untuk memperbaiki kenyataan.
+
+## VII. HADIS TENTANG KEINGINAN MANUSIA DAN PERSAINGAN DALAM KEHIDUPAN
+
+Dosen kemudian menghubungkan perumpamaan tersebut dengan hadis Nabi Muhammad ﷺ mengenai keinginan manusia terhadap harta.
+
+Dalam rekaman, hadis disampaikan dengan redaksi yang berkaitan dengan ungkapan:
+
+«لَوْ كَانَ لِابْنِ آدَمَ وَادٍ مِنْ ذَهَبٍ لَابْتَغَى ثَانِيًا، وَلَوْ كَانَ لَهُ اثْنَانِ لَابْتَغَى ثَالِثًا، وَلَا يَمْلَأُ جَوْفَ ابْنِ آدَمَ إِلَّا التُّرَابُ».
+
+Redaksi tersebut dipertahankan dalam bentuk yang mendekati penyampaian kuliah; transkripsi pada bagian tertentu tidak sepenuhnya konsisten.
+
+Dosen menggambarkan seseorang yang ingin menjadi kaya agar dapat menikmati makanan yang enak dan kehidupan yang nyaman. Ketika ia telah memiliki penghasilan yang baik, ia mulai memikirkan kemungkinan mempunyai perusahaan. Setelah mempunyai perusahaan, ia berpikir untuk memperluasnya. Kemudian ia ingin membuka cabang di negara lain dan memperoleh kekayaan yang lebih besar.
+
+Keinginan tersebut dapat terus berkembang. Setelah mencapai satu tujuan, manusia dapat menetapkan tujuan lain yang dianggap lebih besar.
+
+Menurut penjelasan dosen, hadis tersebut tidak dimaksudkan untuk mencela setiap keinginan manusia memperoleh harta. Yang menjadi persoalan adalah ketika seseorang terus mengarahkan hidupnya kepada persaingan duniawi tanpa mempertimbangkan tujuan yang lebih tinggi.
+
+Dosen kemudian membedakan persaingan dalam urusan dunia dan persaingan dalam urusan agama. Ia menyampaikan ungkapan:
+
+«مَنْ نَافَسَكَ فِي دِينِكَ فَنَافِسْهُ، وَمَنْ نَافَسَكَ فِي دُنْيَاكَ فَأَلْقِهَا فِي نَحْرِهِ».
+
+Ungkapan tersebut digunakan untuk menjelaskan gagasan bahwa persaingan dalam kebaikan dan ketakwaan dapat menjadi sesuatu yang layak dikejar, sedangkan persaingan duniawi yang berlebihan dapat memutus hubungan dan menghalangi seseorang berlaku benar.
+
+Dosen juga menghubungkan pembahasan itu dengan ayat:
+
+«فَاسْتَبِقُوا الْخَيْرَاتِ».
+
+Artinya, berlomba-lombalah dalam melakukan kebaikan.
+
+Dalam penjelasan dosen, manusia sebaiknya mengarahkan semangat bersaing kepada kebaikan dan kehidupan akhirat, bukan hanya kepada penumpukan kekayaan dan pencapaian duniawi.
+
+Hubungan contoh ini dengan pembahasan filsafat terletak pada pentingnya tujuan yang menjadi pendorong manusia untuk terus bergerak. Akan tetapi, tujuan yang dikejar perlu diperiksa: apakah hanya berupa pencapaian duniawi, ataukah sesuatu yang memiliki nilai lebih tinggi dalam kehidupan manusia?
+
+## VIII. CONTOH PLATO DAN REPUBLIK: PERBEDAAN ANTARA GAGASAN IDEAL DENGAN KENYATAAN PEMIKIRNYA
+
+Dosen memberikan contoh lain melalui karya Plato yang dikenal dalam kuliah sebagai جمهورية أفلاطون, yaitu Republik Plato.
+
+Dalam karya tersebut, Plato berusaha menyusun gambaran masyarakat ideal. Ia memikirkan bagaimana masyarakat seharusnya diatur, seperti apa susunan masyarakat yang baik, dan bagaimana kehidupan bersama dapat dibangun menurut pemikirannya.
+
+Karya tersebut menunjukkan kegiatan filosofis karena Plato tidak sekadar menggambarkan suatu masyarakat yang sudah ada, melainkan merenungkan keadaan yang dianggap ideal.
+
+Namun, dosen mengingatkan bahwa gagasan ideal yang ditulis seorang filsuf tidak berarti seluruh pendapat dan sikap filsuf tersebut dalam kenyataan selalu sesuai dengan idealitas yang ia rumuskan.
+
+Menurut kritik yang disampaikan dosen, dalam pemikiran Plato terdapat unsur keberpihakan kepada masyarakat Yunani. Masyarakat ideal yang dibicarakan dipandang sebagai masyarakat Yunani, sedangkan masyarakat lain dalam gambaran tersebut dapat diposisikan sebagai budak.
+
+Dosen juga mengkritik pandangan yang dinisbatkannya kepada Republik Plato mengenai orang yang sakit berat atau sudah tua hingga tidak lagi dapat memberikan manfaat kepada masyarakat. Dalam penyampaian dosen, orang yang tidak lagi dianggap berguna bagi masyarakat ideal itu digambarkan seolah-olah lebih baik mati daripada terus dipelihara.
+
+Penjelasan dalam rekaman menyebutkan bahwa masyarakat ideal versi Plato dianggap tidak mempunyai waktu dan sumber daya untuk merawat orang-orang yang tidak lagi dapat memberikan manfaat kepada masyarakat.
+
+Bagian ini disampaikan dosen sebagai kritik terhadap kesenjangan antara gagasan masyarakat ideal dan cara suatu pemikiran memperlakukan individu tertentu. Rincian persis mengenai perlakuan terhadap orang sakit atau lanjut usia dalam karya Plato tidak diperinci lebih jauh dalam transkripsi, sehingga penjelasan tersebut dipertahankan sebagai gambaran dan kritik yang disampaikan dosen.
+
+Tujuan contoh ini adalah menunjukkan bahwa seorang filsuf dapat merumuskan cita-cita ideal, tetapi masih mempunyai keterbatasan, keberpihakan, atau pendapat yang dipersoalkan ketika gagasannya diterapkan terhadap manusia yang nyata.
+
+Dengan demikian, idealitas sebuah pemikiran tidak boleh membuat kita langsung berasumsi bahwa seluruh pandangan dan tindakan pembuatnya selalu ideal.
+
+---
+
+# BAGIAN KETIGA: FAKTOR-FAKTOR MUNCULNYA FILSAFAT
+
+## IX. PENGANTAR: MENGAPA MANUSIA MELAKUKAN KEGIATAN FILOSOFIS?
+
+Setelah mengingatkan kembali karakteristik pemikiran filosofis, dosen memasuki pembahasan mengenai عوامل ظهور الفلسفة أو التفلسف لدى الإنسان, yaitu faktor-faktor yang mendorong munculnya kegiatan filosofis pada manusia.
+
+Dosen mengingatkan bahwa tidak semua makhluk hidup melakukan kegiatan filosofis seperti manusia. Singa, monyet, dan makhluk lain tidak dibahas sebagai makhluk yang mengembangkan filsafat dalam pengertian yang sama dengan manusia.
+
+Makhluk hidup memang mempunyai kemampuan tertentu untuk menyesuaikan diri dengan keadaan, memenuhi kebutuhan, mencari makanan, dan menjalankan aktivitas sehari-hari. Akan tetapi, dalam penjelasan dosen, kemampuan tersebut berbeda dari kemampuan manusia untuk memikirkan makna kehidupan secara mendalam, mempertanyakan hakikat keberadaan, membahas tujuan hidup, dan merenungkan apa yang terjadi setelah kematian.
+
+Manusia tidak hanya menjalankan kehidupannya, tetapi juga dapat mempertanyakan kehidupan itu sendiri. Ia bukan hanya mencari makan, melainkan juga dapat bertanya mengapa ia hidup, apa tujuan keberadaannya, mengapa kematian terjadi, dan apa makna alam semesta.
+
+Pertanyaan semacam ini menunjukkan adanya kemampuan berpikir yang lebih luas daripada sekadar menyelesaikan kebutuhan praktis sehari-hari.
+
+Dosen menyatakan bahwa faktor-faktor yang akan dijelaskan merupakan faktor-faktor yang paling menonjol, bukan daftar yang mencakup seluruh kemungkinan penyebab munculnya filsafat. Satu faktor saja tidak otomatis membuat seseorang menjadi filsuf. Faktor tersebut menyediakan kemungkinan atau dorongan, sedangkan bagaimana seseorang mengolahnya turut menentukan apakah kegiatan filosofis benar-benar muncul.
+
+## X. FAKTOR PERTAMA: MANUSIA MERUPAKAN MAKHLUK BERAKAL DAN BERPIKIR
+
+### 1. الإنسان كائن عاقل ومفكر
+
+Faktor pertama adalah sifat manusia sebagai makhluk yang berakal dan berpikir.
+
+Dosen menghubungkannya dengan definisi manusia dalam pembahasan logika:
+
+«الْإِنْسَانُ حَيَوَانٌ نَاطِقٌ».
+
+Artinya, manusia adalah hewan yang berpikir atau makhluk hidup yang memiliki kemampuan berpikir rasional.
+
+Dosen menjelaskan bahwa kata حيوان dalam definisi tersebut menunjuk kepada makhluk hidup, sedangkan ناطق berkaitan dengan kemampuan berpikir atau berakal yang membedakan manusia dalam definisi itu.
+
+Pernyataan ini digunakan untuk menekankan bahwa berpikir merupakan kemampuan yang termasuk dalam karakteristik manusia. Akal manusia memiliki kemampuan untuk menganalisis, memeriksa, menyimpulkan, menghubungkan berbagai informasi, dan merenungkan persoalan.
+
+Filsafat kemudian menjadi salah satu kemungkinan yang lahir dari kemampuan tersebut. Dengan kata lain, manusia mempunyai kemampuan dasar untuk melakukan kegiatan filosofis karena ia memiliki akal.
+
+Namun, dosen menekankan bahwa adanya kemampuan berpikir tidak berarti seluruh manusia secara otomatis menjadi filsuf. Kemampuan tersebut merupakan dasar atau benih yang dapat dikembangkan.
+
+### 2. Perumpamaan mesin mobil
+
+Untuk memperjelas bahwa semua manusia memiliki kemampuan berpikir tetapi tidak menggunakannya pada tingkat yang sama, dosen membandingkan akal manusia dengan mesin mobil.
+
+Mesin merupakan bagian yang memungkinkan mobil bergerak. Akan tetapi, tidak semua mobil mampu bergerak dengan kecepatan dan performa yang sama. Mobil yang mesinnya lemah tetap dapat bergerak, tetapi belum tentu mampu menandingi mobil yang dirancang untuk balapan.
+
+Dosen kemudian memperluas perumpamaan tersebut kepada pengemudi.
+
+Bayangkan seluruh mahasiswa memiliki mobil dengan jenis dan kondisi mesin yang sama. Walaupun demikian, kemampuan mereka mengendarai mobil tentu dapat berbeda.
+
+Ada pengemudi yang ceroboh dan membahayakan orang lain. Ada yang mampu mengendarai mobil dengan cepat karena mempunyai keterampilan. Ada yang berkendara dengan kecepatan sedang dan berhati-hati. Ada pula yang sangat lambat karena belum mempunyai pengalaman atau kemampuan yang memadai.
+
+Perbedaan juga tampak ketika mobil mengalami kerusakan. Sebagian pengemudi dapat memeriksa mobilnya, menemukan sumber kerusakan, memperbaikinya, lalu melanjutkan perjalanan. Sebagian lainnya tidak mengetahui apa yang harus dilakukan dan hanya menunggu pertolongan.
+
+Dosen menggunakan perbandingan tersebut untuk menjelaskan bahwa manusia mempunyai akal, tetapi kemampuan menggunakan akal tidak selalu sama. Akal mempunyai fungsi untuk berpikir, menganalisis, memeriksa, dan menyimpulkan, tetapi orang dapat menggunakannya dengan kualitas yang berbeda.
+
+### 3. Contoh penyelidik kriminal
+
+Contoh lain yang disampaikan dosen adalah para penyelidik yang datang ke tempat kejadian perkara.
+
+Dua orang dapat melihat lokasi yang sama, benda-benda yang sama, dan keadaan yang sama. Namun, penyelidik yang terlatih mungkin mampu menyimpulkan berbagai hal dari petunjuk yang tersedia, sementara orang lain tidak mampu menemukan kesimpulan yang sama.
+
+Perbedaannya bukan selalu karena objek yang mereka lihat berbeda, melainkan karena kemampuan mereka menghubungkan petunjuk dan menyusun kesimpulan berbeda.
+
+Penyelidik telah melatih akalnya untuk memperhatikan rincian, mengenali hubungan antara benda-benda, dan menyusun kemungkinan tentang apa yang terjadi.
+
+Dengan demikian, penggunaan akal dapat berkembang melalui latihan dan kebiasaan berpikir.
+
+Dosen merumuskan fungsi akal dengan perbandingan: sebagaimana mata berfungsi untuk melihat, akal berfungsi untuk berpikir. Akan tetapi, mutu kegiatan berpikir tidak selalu berada pada tingkat yang sama dalam diri setiap manusia.
+
+### 4. Tiga tingkat kegiatan berpikir
+
+Dosen menyebutkan tiga tingkat kegiatan berpikir manusia.
+
+Tingkat pertama adalah التفكير العادي, yaitu pemikiran biasa yang digunakan dalam kehidupan sehari-hari. Pada tingkat ini, seseorang memikirkan berbagai hal yang diperlukan untuk menjalankan kehidupannya.
+
+Tingkat kedua adalah التفكير في المبادئ, yaitu berpikir mengenai prinsip-prinsip yang mengarahkan kehidupan seseorang. Prinsip-prinsip itu dapat berupa keyakinan, moralitas, adat, dan aturan yang digunakan ketika mengambil keputusan.
+
+Tingkat ketiga adalah التفكير في تأسيس المبادئ, yaitu memikirkan dasar atau landasan dari prinsip-prinsip tersebut. Pada tingkat ini, seseorang tidak hanya menggunakan suatu prinsip, tetapi juga memeriksa apakah prinsip itu benar dan layak dijadikan pegangan.
+
+Dosen memberikan contoh mengenai seseorang yang berpikir bahwa ia harus membunuh orang yang telah membunuh anggota keluarganya karena adat dalam keluarga atau kelompoknya mengajarkan pembalasan.
+
+Pada tingkat pertama, ia mungkin hanya menjalankan kebiasaan yang telah dipelajari. Pada tingkat kedua, ia dapat mulai memahami bahwa tindakan tersebut didasarkan pada suatu prinsip atau adat. Pada tingkat ketiga, ia mempertanyakan apakah prinsip itu benar dan apakah ia benar-benar wajib mengikutinya.
+
+Dengan demikian, berpikir pada tingkat yang lebih mendalam berarti tidak hanya menjalankan prinsip yang telah diterima, tetapi juga memeriksa dasar kebenaran prinsip tersebut.
+
+Dosen menegaskan bahwa manusia tidak selalu berada pada tingkat berpikir yang sama. Seseorang dapat menggunakan pemikiran mendalam dalam satu masalah, tetapi kembali kepada kebiasaan biasa dalam masalah lain.
+
+### 5. Kemampuan berpikir sebagai benih filsafat
+
+Dari uraian tersebut, dosen menyimpulkan bahwa sifat manusia sebagai makhluk berpikir merupakan salah satu dasar munculnya filsafat.
+
+Akan tetapi, ia tidak menyamakan seluruh kegiatan berpikir dengan filsafat. Kemampuan berpikir menyediakan kemungkinan untuk berfilsafat, sedangkan kegiatan filosofis muncul ketika kemampuan tersebut diarahkan kepada persoalan-persoalan mendasar dan dijalankan dengan perenungan serta pemeriksaan rasional.
+
+Dosen juga menjelaskan bahwa akal manusia digunakan dalam memahami argumen keagamaan. Pesan-pesan ilahi mengajak manusia untuk memperhatikan tanda-tanda, merenungkan kejadian, dan menggunakan akalnya.
+
+Dalam penjelasan dosen, bahkan ketika seseorang membahas mukjizat, pertanyaan rasional tetap dapat muncul: siapa yang melakukannya, mengapa hal tersebut terjadi, apa tujuannya, dan mengapa peristiwa itu terjadi pada waktu atau keadaan tertentu?
+
+Misalnya, seseorang tidak cukup hanya mengatakan bahwa telepon berubah menjadi emas. Pertanyaan berikutnya adalah siapa yang menyebabkan perubahan tersebut, untuk tujuan apa, dan apa makna peristiwa itu.
+
+Contoh ini dimaksudkan untuk menunjukkan bahwa akal tetap dapat digunakan untuk memeriksa makna dan konteks suatu peristiwa yang dianggap luar biasa.
+
+Dengan demikian, faktor pertama yang mendorong munculnya filsafat adalah طبيعة الإنسان العاقلة, yaitu sifat manusia sebagai makhluk berakal yang memiliki kemampuan untuk berpikir, menganalisis, dan merenungkan persoalan.
+
+## XI. FAKTOR KEDUA: الدهشة, INFORMASI, DAN PERTANYAAN
+
+Dosen kemudian menghubungkan faktor kemampuan berpikir dengan hal-hal yang merangsang penggunaan kemampuan tersebut. Ia menjelaskan bahwa terdapat keadaan yang membuat manusia berhenti dari kebiasaan berpikir biasa dan mulai memikirkan persoalan secara lebih mendalam.
+
+Dalam uraian ini, dosen menyebut tiga unsur yang saling berkaitan, yaitu الدهشة, informasi yang dimiliki manusia, dan pertanyaan yang berusaha dijawabnya.
+
+### 1. الدهشة sebagai awal perenungan
+
+الدهشة adalah keadaan ketika manusia merasa heran terhadap sesuatu yang belum dipahaminya dengan baik.
+
+Ketika menghadapi sesuatu yang membuatnya heran, manusia menyadari bahwa pengetahuan yang dimilikinya mungkin belum cukup untuk menjelaskan apa yang sedang dihadapinya.
+
+Dari situ, ia mulai memeriksa persoalan lebih lanjut. Ia mempertanyakan penyebabnya, bagaimana hal tersebut dapat terjadi, dan apa maknanya.
+
+Dosen menekankan bahwa manusia sering terbiasa dengan keadaan di sekitarnya sehingga tidak lagi memperhatikan keistimewaan atau persoalan yang terkandung di dalamnya.
+
+Seseorang bangun tidur, melihat matahari terbit dan terbenam, melihat bulan muncul dan menghilang, lalu melanjutkan aktivitasnya. Karena semua itu terjadi berulang kali, ia dapat menganggapnya sebagai kejadian biasa dan tidak lagi memikirkannya.
+
+Padahal, ketika seseorang berhenti sejenak dan memperhatikan kejadian-kejadian tersebut secara mendalam, muncul berbagai pertanyaan mengenai keberadaan, keteraturan, dan penyebabnya.
+
+Dengan demikian, الدهشة dapat membangkitkan kegiatan berpikir yang sebelumnya tidak dilakukan karena seseorang terlalu terbiasa dengan keadaan di sekitarnya.
+
+### 2. Al-Qur'an mengarahkan manusia untuk memperhatikan alam
+
+Dosen memberikan contoh berupa sejumlah ayat Al-Qur'an yang mengarahkan perhatian manusia kepada alam dan berbagai gejala kehidupan.
+
+Di antara ayat yang dibacakan dalam kuliah adalah:
+
+«أَمَّنْ خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ وَأَنْزَلَ لَكُمْ مِنَ السَّمَاءِ مَاءً فَأَنْبَتْنَا بِهِ حَدَائِقَ ذَاتَ بَهْجَةٍ مَا كَانَ لَكُمْ أَنْ تُنْبِتُوا شَجَرَهَا أَإِلَهٌ مَعَ اللَّهِ بَلْ هُمْ قَوْمٌ يَعْدِلُونَ».
+
+Dosen menjelaskan bahwa manusia melihat air hujan turun, tumbuhan tumbuh, dan kebun menghasilkan buah. Namun, yang diminta oleh Al-Qur'an bukan sekadar melihat peristiwa tersebut, melainkan memperhatikan apa yang terkandung di dalamnya.
+
+Manusia menanam biji, menyiram tanah, menunggu tumbuhan tumbuh, memanen hasilnya, menjualnya atau memakannya. Karena telah terbiasa melakukan proses tersebut, ia mungkin tidak lagi memikirkan bagaimana seluruh proses itu dapat berlangsung.
+
+Padahal, ketika direnungkan, muncul pertanyaan tentang bagaimana biji yang ditanam dapat berkembang menjadi tumbuhan, bagaimana tumbuhan menghasilkan bagian-bagian yang berbeda, dan bagaimana keseluruhan proses tersebut memungkinkan manusia memperoleh makanan.
+
+Ayat lain yang disebutkan dosen berbicara tentang bumi, sungai, gunung, dan pemisah antara dua perairan. Dosen juga membacakan beberapa bagian ayat yang berkenaan dengan orang yang berada dalam kesulitan, pertolongan ketika berdoa, manusia sebagai penerus di bumi, dan petunjuk dalam kegelapan darat maupun laut.
+
+Di antaranya, dalam transkripsi kuliah terdengar bagian:
+
+«أَمَّنْ جَعَلَ الْأَرْضَ قَرَارًا وَجَعَلَ خِلَالَهَا أَنْهَارًا وَجَعَلَ لَهَا رَوَاسِيَ وَجَعَلَ بَيْنَ الْبَحْرَيْنِ حَاجِزًا أَإِلَهٌ مَعَ اللَّهِ».
+
+Dosen juga menyebut:
+
+«أَمَّنْ يُجِيبُ الْمُضْطَرَّ إِذَا دَعَاهُ وَيَكْشِفُ السُّوءَ وَيَجْعَلُكُمْ خُلَفَاءَ الْأَرْضِ أَإِلَهٌ مَعَ اللَّهِ قَلِيلًا مَا تَذَكَّرُونَ».
+
+Serta bagian:
+
+«أَمَّنْ يَهْدِيكُمْ فِي ظُلُمَاتِ الْبَرِّ وَالْبَحْرِ وَمَنْ يُرْسِلُ الرِّيَاحَ بُشْرًا بَيْنَ يَدَيْ رَحْمَتِهِ أَإِلَهٌ مَعَ اللَّهِ».
+
+Ayat-ayat tersebut digunakan dosen untuk menegaskan bahwa Al-Qur'an mengarahkan manusia agar tidak hanya melihat alam, tetapi juga merenungkan apa yang diperlihatkan alam kepada dirinya.
+
+Manusia dapat melihat langit, bumi, hujan, tumbuhan, gunung, sungai, laut, dan bintang. Namun, melihat semua itu tidak otomatis membuat seseorang memikirkan maknanya.
+
+Dosen berpendapat bahwa kebiasaan terhadap suatu kejadian dapat menyebabkan manusia kehilangan kepekaan terhadap nilai atau tanda-tanda yang terkandung di dalamnya. Rasa heran muncul kembali ketika seseorang berhenti dari kebiasaannya dan mulai memperhatikan kejadian itu dengan sungguh-sungguh.
+
+### 3. Contoh telepon dan berbagai saluran komunikasi
+
+Dosen memberikan contoh yang dekat dengan kehidupan mahasiswa, yaitu telepon genggam dan teknologi komunikasi.
+
+Hampir semua mahasiswa dalam kelas mempunyai telepon. Dengan perangkat tersebut, seseorang dapat membuka bacaan Al-Qur'an, mendengarkan bacaan seorang qari, menonton pertandingan sepak bola, mendengarkan ceramah, menyaksikan pidato politik, menonton serial, atau melihat berbagai jenis konten lainnya.
+
+Semua itu dapat diakses melalui perangkat yang berada di tangan pengguna, meskipun jenis kontennya sangat beragam.
+
+Dosen mengajak mahasiswa tidak hanya menggunakan telepon secara biasa, tetapi juga merenungkan bagaimana hal tersebut mungkin terjadi. Bagaimana seseorang dapat mendengarkan bacaan Al-Qur'an melalui telepon? Bagaimana pada perangkat yang sama orang dapat mengakses berbagai siaran dari tempat yang berbeda?
+
+Ia kemudian mengajukan pertanyaan tentang apakah pengguna memanggil saluran tertentu yang sebelumnya tidak ada, atau apakah berbagai informasi telah tersedia dalam suatu sistem dan perangkat hanya mengakses saluran yang dipilih.
+
+Dosen menggunakan contoh ini untuk menunjukkan bagaimana sesuatu yang dianggap biasa dapat menjadi bahan pemikiran filosofis ketika manusia memperhatikan mekanisme dan hubungan yang terdapat di baliknya.
+
+Ia tidak menjelaskan secara teknis bagaimana jaringan telekomunikasi bekerja. Tujuan contoh tersebut adalah memperlihatkan bahwa penggunaan sesuatu secara rutin berbeda dari merenungkan keberadaan, hubungan, dan mekanisme di balik sesuatu itu.
+
+Dengan demikian, الدهشة tidak selalu muncul dari kejadian yang asing atau luar biasa. Sesuatu yang telah digunakan setiap hari pun dapat menjadi sumber perenungan apabila manusia kembali memperhatikannya secara mendalam.
+
+### 4. Dari keheranan terhadap hal tertentu menuju pertanyaan menyeluruh
+
+Dosen menjelaskan bahwa rasa heran dapat dimulai dari persoalan parsial, lalu berkembang menjadi perenungan yang lebih umum.
+
+Seseorang mula-mula dapat merasa heran terhadap satu kejadian sosial, persoalan politik, atau fenomena alam tertentu. Kemudian, ia mulai menghubungkannya dengan persoalan yang lebih luas.
+
+Ia dapat beralih dari satu masalah kepada pertanyaan mengenai kehidupan manusia, keberadaan alam semesta, kematian, pergantian agama dalam sejarah manusia, atau hubungan antara berbagai gejala.
+
+Dengan demikian, rasa heran menjadi salah satu عوامل الفلسفة karena mendorong manusia melampaui penerimaan pasif terhadap hal-hal yang biasa ditemuinya.
+
+## XII. KEBUTUHAN MEMBEDAKAN INFORMASI YANG BENAR DAN SALAH
+
+Setelah menjelaskan الدهشة, dosen membahas kebutuhan manusia untuk memeriksa informasi. Rasa heran dapat membuat manusia bertanya, tetapi untuk menjawab pertanyaan tersebut, ia memerlukan informasi.
+
+Masalahnya adalah bahwa tidak semua informasi yang dimiliki manusia benar. Informasi bisa saja keliru, tidak lengkap, atau berasal dari keyakinan yang belum diperiksa.
+
+Karena itu, faktor lain yang mendorong pemikiran filosofis adalah kebutuhan untuk membedakan kebenaran dari kesalahan.
+
+### 1. Contoh masyarakat kuno dan pemujaan terhadap benda-benda alam
+
+Dosen memberikan contoh mengenai masyarakat pada masa lampau yang menyembah berhala, angin, matahari, bulan, gunung, atau benda-benda alam lainnya.
+
+Dalam penjelasan dosen, masyarakat tersebut dapat menganggap benda-benda itu mempunyai kekuatan untuk mendatangkan manfaat atau bahaya. Ketika berusaha menjelaskan siapa yang menggerakkan angin atau matahari, mereka mungkin menghubungkannya dengan dewa atau kekuatan tertentu.
+
+Dosen menyebut bahwa bangsa Mesir kuno, masyarakat India, dan orang-orang Yunani mempunyai keyakinan tentang dewa-dewa dalam berbagai bentuk.
+
+Pertanyaan filosofis kemudian muncul: apakah informasi yang menjadi dasar keyakinan tersebut benar atau salah?
+
+Dosen menggunakan contoh tersebut untuk menjelaskan bahwa memiliki informasi saja belum cukup. Manusia juga perlu menilai apakah informasi itu benar-benar dapat dipercaya.
+
+Kegiatan filosofis muncul ketika manusia mulai mempertanyakan dasar pengetahuannya, memeriksa alasan yang mendukungnya, dan membedakan apa yang benar dari apa yang keliru.
+
+### 2. Perumpamaan singa yang tidak berdusta sebagaimana manusia
+
+Dosen memberikan ilustrasi tentang singa untuk membandingkan perilaku binatang dan manusia.
+
+Dalam contoh tersebut, dosen membayangkan apakah seekor singa akan mengarang cerita tentang dirinya untuk memperoleh penghormatan dari singa lain. Ia memberikan gambaran seseorang yang mengaku pernah melakukan suatu tindakan hebat meskipun hal itu tidak pernah terjadi.
+
+Dosen mengatakan bahwa kita tidak biasa membayangkan singa membuat cerita semacam itu demi membangun citra dirinya di hadapan sesama singa. Sebaliknya, manusia dapat mengarang cerita, membesar-besarkan pengalaman, atau menyampaikan informasi yang tidak benar mengenai dirinya.
+
+Contoh ini digunakan untuk menekankan bahwa informasi yang disampaikan seseorang tidak selalu benar hanya karena disampaikan secara meyakinkan.
+
+Dosen juga membayangkan seseorang memberitahukan kepada kelompok monyet di hutan bahwa seekor harimau sedang datang. Dalam ilustrasi tersebut, hewan-hewan itu bereaksi terhadap tanda bahaya yang disampaikan. Namun, apabila manusia menerima berita dari orang lain, ia tetap perlu memeriksa apakah berita tersebut benar.
+
+Inti ilustrasi itu bukan pembuktian ilmiah mengenai kemampuan binatang untuk berdusta, melainkan penekanan pada persoalan manusia dalam menilai keandalan informasi yang diterimanya.
+
+### 3. Prinsip التبين dalam menerima berita
+
+Dosen menghubungkan kebutuhan memeriksa informasi dengan ayat:
+
+«يَا أَيُّهَا الَّذِينَ آمَنُوا إِنْ جَاءَكُمْ فَاسِقٌ بِنَبَإٍ فَتَبَيَّنُوا».
+
+Dalam kuliah, kata التبين dijelaskan sebagai usaha membedakan kebenaran informasi dari kesalahannya.
+
+Dosen mengulang pertanyaan tentang makna التبين dan menjelaskan bahwa seseorang harus berusaha memastikan apakah berita yang diterima benar atau salah.
+
+Artinya, manusia tidak seharusnya langsung menerima semua informasi hanya karena telah mendengarnya. Ia perlu menggunakan cara-cara pemeriksaan yang sesuai dengan keadaan.
+
+Kebutuhan untuk memeriksa informasi dapat menuntut tingkat pemikiran yang berbeda-beda. Sebagian informasi cukup diperiksa dengan cara sederhana, sedangkan persoalan tertentu memerlukan perenungan dan analisis lebih mendalam.
+
+Dalam sebagian keadaan, kebutuhan membedakan informasi yang benar dan salah dapat mendorong manusia melakukan kegiatan filosofis.
+
+Dengan demikian, rasa heran menghasilkan pertanyaan, pertanyaan menuntut informasi, dan informasi menuntut pemeriksaan. Rangkaian ini dapat mendorong manusia mengembangkan pemikiran yang lebih mendalam.
+
+## XIII. FAKTOR BERIKUTNYA: KEBUTUHAN MENJAWAB PERTANYAAN MENGENAI KEHIDUPAN DAN KEBERADAAN
+
+Faktor berikutnya adalah kebutuhan manusia untuk memperoleh jawaban mengenai kehidupan, alam semesta, manusia, kematian, Tuhan, dan apa yang mungkin terjadi setelah kematian.
+
+Dosen menjelaskan bahwa manusia dapat mempertanyakan persoalan tersebut dalam keadaan hidup yang sangat berbeda. Orang kaya maupun orang miskin dapat memikirkan makna kehidupan. Orang yang memiliki keyakinan yang benar maupun keyakinan yang keliru dapat mempertanyakan tujuan keberadaannya.
+
+Dosen menyebut orang yang hidup di kawasan Pegunungan Himalaya, daerah-daerah di China bagian utara, Tibet, Nepal, serta orang yang hidup di dataran gurun atau wilayah lain. Meskipun lingkungan kehidupan mereka berbeda, manusia tetap dapat mempertanyakan nilai kehidupannya.
+
+Pertanyaan tentang kehidupan bukan hanya milik orang yang tinggal di kota atau orang yang mempunyai pendidikan tinggi. Pertanyaan tersebut dapat muncul pada manusia dalam berbagai lingkungan karena berkaitan dengan pengalaman mendasar sebagai manusia.
+
+### 1. Pertanyaan mengenai nilai kehidupan
+
+Dosen mengemukakan bahwa manusia dapat mempertanyakan nilai kehidupan dan alasan untuk terus menjalaninya.
+
+Apabila seseorang kehilangan perasaan bahwa kehidupan mempunyai nilai atau tidak menemukan jawaban yang dapat menenteramkannya, ia mungkin kehilangan keinginan untuk melanjutkan hidup.
+
+Dalam penjelasannya, dosen menghubungkan persoalan tersebut dengan pembicaraan mengenai tingkat bunuh diri. Ia menyebut Swiss dan Swedia sebagai contoh negara yang menurutnya memiliki tingkat pendapatan tinggi tetapi juga mempunyai angka bunuh diri yang tinggi jika dihitung terhadap penduduknya.
+
+Dosen menggunakan contoh tersebut untuk menyatakan bahwa kekayaan materi tidak dengan sendirinya menjawab seluruh pertanyaan manusia tentang kehidupan.
+
+Angka atau statistik yang mendasari pernyataan tersebut tidak dirinci lebih lanjut dalam rekaman. Karena itu, contoh ini dipertahankan sebagai ilustrasi yang disampaikan dosen, bukan sebagai data statistik yang telah diperiksa dalam kuliah.
+
+Pokok yang ingin ditekankan adalah bahwa kebutuhan manusia tidak selalu berhenti pada makanan, tempat tinggal, kekayaan, atau kenyamanan fisik. Manusia juga dapat mencari jawaban tentang makna hidup dan alasan untuk terus melanjutkannya.
+
+### 2. Filsafat dan pencarian makna hidup
+
+Dosen menjelaskan bahwa sebagian orang mungkin menemukan jawaban atas pertanyaan kehidupannya melalui perenungan sendiri. Sebagian lainnya memerlukan bantuan orang lain untuk menemukan jawaban yang dianggap meyakinkan.
+
+Orang yang membantu memberikan arah atau jawaban itu dapat saja seorang filsuf, karena filsafat membahas kehidupan manusia, alam semesta, keberadaan, dan tujuan hidup.
+
+Dengan demikian, keinginan untuk memperoleh jawaban atas pertanyaan mendasar mengenai kehidupan dapat mendorong kegiatan filosofis.
+
+Filsafat berusaha memahami berbagai persoalan yang menyangkut manusia, termasuk mengapa manusia hidup, apa nilai kehidupannya, bagaimana memahami kematian, dan apa hubungan manusia dengan keseluruhan keberadaan.
+
+Dosen tidak mengatakan bahwa setiap orang yang menghadapi pertanyaan semacam itu pasti menjadi filsuf. Pertanyaan tersebut merupakan salah satu faktor yang dapat mendorong seseorang melakukan perenungan filosofis, bergantung pada bagaimana ia menanggapi pertanyaan tersebut.
+
+## XIV. AGAMA SEBAGAI FAKTOR YANG MENDORONG FILSAFAT
+
+Dosen kemudian membahas faktor yang menurutnya mungkin dianggap agak mengejutkan, yaitu الدين, agama.
+
+Pertanyaannya adalah: bagaimana agama dapat menjadi faktor yang mendorong manusia melakukan filsafat, padahal agama juga memberikan jawaban terhadap pertanyaan mengenai Tuhan, alam semesta, dan manusia?
+
+Menurut dosen, hubungan antara agama dan filsafat dapat dipahami melalui dua sisi.
+
+Sisi pertama adalah kebutuhan untuk memastikan kebenaran agama. Sisi kedua adalah munculnya pertanyaan-pertanyaan lanjutan mengenai persoalan yang dibicarakan agama, yang dapat menuntut pemikiran rasional lebih mendalam.
+
+### 1. Memeriksa kebenaran agama
+
+Dosen menjelaskan bahwa ketika seseorang menyampaikan suatu agama atau mengajak orang lain menerima suatu keyakinan, tidak berarti setiap pendengar harus langsung menerima semua pernyataannya tanpa pemeriksaan.
+
+Persoalan yang muncul adalah bagaimana mengetahui bahwa klaim mengenai agama tersebut benar.
+
+Dalam konteks ini, seseorang dapat menggunakan perenungan rasional untuk memeriksa keyakinan, memahami alasan yang mendukungnya, dan membedakan antara klaim yang benar dengan klaim yang keliru.
+
+Dosen menggunakan gagasan ini untuk menjelaskan bahwa penyelidikan filosofis dapat muncul dari keinginan memperoleh keyakinan yang meyakinkan.
+
+Agama memberikan jawaban mengenai Tuhan dan manusia, tetapi manusia juga dapat mempertanyakan dasar keyakinan yang diterimanya. Pertanyaan semacam itu dapat mendorongnya menggunakan akal secara mendalam.
+
+### 2. Contoh kepercayaan تناسخ الأرواح
+
+Dosen memberikan contoh mengenai kepercayaan تناسخ الأرواح, yaitu perpindahan atau reinkarnasi jiwa, yang dalam penjelasannya dikaitkan dengan sebagian tradisi Hindu dan Buddha.
+
+Menurut paparan dosen, kepercayaan tersebut menganggap bahwa ketika manusia meninggal, ruhnya dapat meninggalkan tubuh dan memasuki tubuh lain.
+
+Dosen menjelaskan bahwa dalam kepercayaan sebagaimana dipaparkannya, perpindahan ruh tersebut berkaitan dengan ganjaran atau hukuman atas tindakan sebelumnya. Apabila masih terdapat konsekuensi dari tindakan yang belum diselesaikan, ruh itu kembali menjalani kehidupan dalam tubuh lain untuk mengalami akibatnya.
+
+Sebaliknya, pada keadaan tertentu yang digambarkan dosen dengan istilah yang terdengar seperti النردان, ruh pada akhirnya dapat terbebas dari rangkaian tersebut dan mencapai penyatuan dengan Tuhan. Penulisan istilah itu tidak sepenuhnya jelas dalam rekaman sehingga tidak dapat dipastikan bentuk tepatnya.
+
+Dosen menggunakan contoh ini untuk menunjukkan bahwa suatu keyakinan dapat menimbulkan pertanyaan mengenai kebenaran, kehidupan sesudah kematian, dan hubungan antara tindakan dengan konsekuensinya.
+
+Ia kemudian menceritakan suatu kisah yang menurut ingatannya pernah dilihat dalam sebuah tayangan BBC. Kisah tersebut menceritakan seorang laki-laki India yang menemukan seekor anak kijang. Induk anak kijang itu telah dimangsa oleh seekor harimau atau binatang pemangsa lain.
+
+Anak kijang tersebut kemudian dibawa ke rumah. Istri laki-laki itu sedang menyusui sehingga ia merawat anak kijang itu bersamaan dengan kegiatan menyusuinya. Setelah tumbuh besar, kijang tersebut kemudian dilepaskan kembali ke alam liar.
+
+Dosen menjelaskan bahwa hal yang menarik perhatiannya adalah jawaban seorang perempuan ketika ditanya tentang kejadian tersebut. Perempuan itu menyatakan bahwa mungkin anak kijang tersebut merupakan salah satu leluhur mereka, atau ruh seseorang dari keluarga atau garis keturunan mereka pada kehidupan sebelumnya.
+
+Dosen menggunakan cerita tersebut sebagai ilustrasi mengenai bagaimana keyakinan tentang reinkarnasi memengaruhi cara seseorang memahami suatu kejadian.
+
+Kisah ini disampaikan berdasarkan ingatan dosen terhadap tayangan yang pernah dilihatnya. Identitas program, waktu penayangan, dan rincian kisahnya tidak dijelaskan secara pasti dalam rekaman.
+
+Fungsi kisah tersebut dalam perkuliahan adalah menunjukkan bahwa keyakinan agama atau keyakinan mengenai kehidupan setelah kematian dapat memunculkan persoalan filosofis yang perlu diperiksa.
+
+### 3. Agama, filsafat, dan ilmu kalam
+
+Dosen kemudian menghubungkan agama dengan علم الكلام, yaitu ilmu yang membahas persoalan-persoalan keyakinan dan argumentasi teologis.
+
+Menurut penjelasannya, tidak semua persoalan dalam ilmu kalam hadir dalam bentuk uraian terperinci satu demi satu di dalam teks agama. Terdapat prinsip-prinsip yang disampaikan agama, kemudian prinsip tersebut dibahas dan dikembangkan melalui pemikiran.
+
+Ketika manusia menggunakan akalnya untuk mengkaji prinsip-prinsip itu, muncul pertanyaan lanjutan. Setiap pertanyaan dapat membuka pertanyaan berikutnya, sehingga dibutuhkan analisis rasional yang lebih mendalam.
+
+Pemikiran semacam ini dapat digunakan untuk menjawab keraguan, memperkuat argumentasi, memeriksa suatu dalil, atau membedakan pandangan yang benar dari pandangan yang keliru.
+
+Dosen menjelaskan bahwa filsafat dapat mendorong manusia memikirkan persoalan yang berkaitan dengan Tuhan, alam semesta, dan manusia, yang juga dibahas dalam agama.
+
+Dalam konteks itu, filsafat dapat berperan dalam dua hal: memeriksa dasar kebenaran agama dan membantu manusia memahami persoalan-persoalan filosofis yang terkandung dalam pembahasan keagamaan.
+
+Dosen juga menyebut upaya mencapai keselarasan antara agama dan filsafat. Apabila seseorang meyakini bahwa agama benar dan bahwa pemikiran rasional dapat digunakan untuk mencapai kebenaran, ia dapat berusaha memahami hubungan antara keduanya.
+
+Namun, dari rekaman tidak terdapat pembahasan terperinci mengenai semua metode atau teori yang digunakan untuk menyelaraskan agama dan filsafat. Yang dijelaskan adalah bahwa agama dapat menjadi faktor pendorong perenungan dan penyelidikan filosofis.
+
+## XV. PERASAAN MANUSIA AKAN KELEMAHANNYA
+
+Pada bagian akhir pembahasan faktor-faktor munculnya filsafat, dosen menyebutkan perasaan manusia mengenai kelemahannya dan keterbatasannya dalam mengubah berbagai keadaan.
+
+Manusia dapat menyadari bahwa ia tidak mempunyai kekuasaan untuk mengubah semua hal yang terjadi dalam kehidupannya. Kesadaran tersebut dapat mendorongnya memikirkan keberadaannya, hubungan dirinya dengan dunia, dan apa yang berada di luar kemampuannya.
+
+Dosen menyebutkan perasaan akan kelemahan atau keterbatasan manusia ini setelah membahas faktor-faktor utama sebelumnya.
+
+Namun, pada awal pembahasan, dosen menyatakan bahwa terdapat lima faktor yang paling penting. Dalam urutan penjelasannya, ia membahas sifat manusia sebagai makhluk berpikir, keheranan dan kebutuhan bertanya, kebutuhan memeriksa informasi, pencarian jawaban tentang kehidupan, serta agama. Perasaan manusia akan kelemahannya kemudian disebut pada bagian akhir.
+
+Karena transkripsi tidak menunjukkan secara pasti apakah perasaan akan kelemahan tersebut dimaksudkan sebagai faktor keenam yang terpisah atau sebagai bagian dari faktor-faktor sebelumnya, jumlah persisnya tidak dapat dipastikan hanya dari rekaman.
+
+Dosen menegaskan bahwa faktor-faktor yang disebutkan bukanlah daftar yang mencakup seluruh penyebab munculnya filsafat. Faktor-faktor tersebut merupakan faktor utama atau yang paling menonjol dalam penjelasan kuliah.
+
+Keberadaan faktor-faktor tersebut juga tidak otomatis membuat seseorang menjadi filsuf. Seseorang dapat mengalami rasa heran, mempunyai pertanyaan, atau merasa tidak berdaya, tetapi belum tentu mengolah pengalaman tersebut melalui perenungan rasional yang mendalam.
+
+Filsafat muncul ketika kemampuan dan dorongan tersebut diolah melalui cara berpikir yang memungkinkan manusia mempertanyakan persoalan secara mendasar.
+
+---
+
+# BAGIAN KEEMPAT: POKOK-POKOK UTAMA PEMBAHASAN FILSAFAT
+
+## XVI. PERKEMBANGAN OBJEK FILSAFAT DARI MASA KE MASA
+
+Setelah membahas faktor-faktor yang mendorong manusia berfilsafat, dosen berpindah kepada المباحث الرئيسية للفلسفة, yaitu pokok-pokok utama pembahasan filsafat.
+
+Ia mengingatkan bahwa objek filsafat tidak selalu dirumuskan dengan cara yang sama sepanjang sejarah. Pada masa awal, terutama pada masa Socrates, Plato, dan Aristoteles, filsafat mempunyai cakupan yang sangat luas dan berkaitan dengan hampir seluruh bidang pengetahuan.
+
+Kemudian, berbagai ilmu berkembang dan memisahkan diri dari filsafat. Setelah proses pemisahan itu berlangsung secara bertahap, cakupan pembahasan filsafat menjadi lebih terarah kepada persoalan-persoalan mendasar tertentu.
+
+Dosen menekankan bahwa perubahan cakupan filsafat perlu dipahami secara historis. Jika filsafat pada masa awal tampak mencakup hampir seluruh ilmu, hal itu berbeda dari kedudukan filsafat pada masa ketika berbagai disiplin ilmu telah berkembang secara mandiri.
+
+## XVII. FILSAFAT PADA MASA AWAL: CAKUPANNYA SANGAT LUAS
+
+Pada masa awal filsafat Yunani, filsafat mencakup beragam bidang pengetahuan. Dosen menyebut Socrates, Plato, dan Aristoteles sebagai tokoh yang hidup pada masa ketika cakupan filsafat masih sangat luas.
+
+Dalam pembahasan tersebut, filsafat bukan hanya pembicaraan tentang persoalan yang sekarang secara khusus disebut metafisika atau persoalan di luar alam fisik. Filsafat juga berhubungan dengan ilmu alam, matematika, etika, politik, dan pengelolaan rumah tangga.
+
+Dosen menjelaskan bahwa pemikir pada masa itu membahas persoalan alam, struktur keberadaan, prinsip-prinsip kehidupan, masyarakat, dan perilaku manusia dalam kerangka pengetahuan yang luas.
+
+Karena itu, jika seseorang membaca pembahasan lama mengenai filsafat, ia dapat menjumpai berbagai masalah yang sekarang dipelajari dalam disiplin-disiplin berbeda.
+
+### 1. Pembagian pengetahuan menjadi ilmu alam, matematika, dan ilmu ilahi
+
+Dosen mengingatkan pembagian bidang pengetahuan menjadi الطبيعيات, yaitu ilmu-ilmu alam; الرياضيات, yaitu ilmu matematika; dan الإلهيات, yaitu pembahasan tentang persoalan ilahi.
+
+Selain itu, pembahasan mengenai etika, politik, dan pengelolaan rumah tangga juga termasuk dalam cakupan filsafat yang lebih luas.
+
+Dalam penjelasan dosen, سياسة المجتمع berkaitan dengan pengaturan masyarakat atau persoalan politik. Adapun تدبير المنزل berkaitan dengan pengelolaan rumah tangga.
+
+Sebagai contoh, Republik Plato yang telah disebutkan sebelumnya membahas bentuk masyarakat ideal. Karena itu, karya tersebut termasuk dalam pembahasan filsafat mengenai bagaimana masyarakat seharusnya dibangun dan diatur.
+
+Dengan demikian, filsafat pada masa awal tidak hanya berusaha memahami hakikat alam dan keberadaan, tetapi juga membahas bagaimana manusia harus bertindak serta bagaimana kehidupan bersama dapat disusun.
+
+### 2. Metafisika dan istilah ميتافيزيقيا
+
+Dosen menjelaskan istilah ميتافيزيقيا, yaitu metafisika, melalui sejarah pengelompokan tulisan Aristoteles.
+
+Menurut penjelasan dosen, Aristoteles mula-mula menulis mengenai الفيزيقا, yakni alam atau fisika, kemudian membahas persoalan tentang keberadaan, alam semesta, dan Tuhan dalam pembahasan berikutnya.
+
+Pembahasan yang ditempatkan setelah pembahasan alam fisik tersebut kemudian dikenal sebagai ميتافيزيقيا atau “sesudah fisika”.
+
+Dosen menjelaskan bahwa ungkapan “sesudah alam” tidak dipahami hanya sebagai sesuatu yang berada pada tempat tertentu setelah alam secara fisik. Dalam konteks penjelasan kuliah, istilah tersebut berkaitan dengan pembahasan yang melampaui persoalan alam fisik, yaitu persoalan keberadaan secara mendasar, Tuhan, dan realitas yang tidak terbatas pada penampilan indrawi.
+
+Pembahasan tersebut berusaha memahami sesuatu yang berada di balik gejala yang terlihat, termasuk sebab dan tujuan keberadaan.
+
+Dosen juga menjelaskan bahwa dalam pembagian ilmu pengetahuan pada masa awal, filsafat dapat mencakup berbagai bidang yang sekarang dibedakan sebagai ilmu alam, matematika, etika, politik, dan metafisika.
+
+## XVIII. PERUBAHAN CAKUPAN FILSAFAT DAN PEMISAHAN ILMU-ILMU
+
+Seiring perkembangan pengetahuan, berbagai bidang yang sebelumnya termasuk dalam filsafat mulai berkembang sebagai disiplin tersendiri.
+
+Dosen menjelaskan bahwa proses tersebut berlangsung secara bertahap. Ilmu tidak sekaligus terpisah dari filsafat pada satu waktu tertentu, tetapi satu demi satu membentuk bidang kajiannya sendiri.
+
+Ketika berbagai ilmu semakin berkembang, filsafat tidak lagi diidentikkan dengan keseluruhan pengetahuan sebagaimana pada masa awal. Filsafat kemudian lebih banyak berkonsentrasi pada pertanyaan-pertanyaan mendasar tentang keberadaan, pengetahuan, dan nilai.
+
+Dosen menyebutkan bahwa sebagian pemikir membatasi cakupan filsafat secara lebih sempit, sedangkan sebagian lainnya memperluas cakupannya. Meskipun demikian, dalam pemaparan kuliah, terdapat tiga pokok pembahasan yang paling umum dikenal, yaitu:
+
+مبحث الوجود
+
+مبحث المعرفة
+
+مبحث القيم
+
+Ketiganya masing-masing berkaitan dengan keberadaan, pengetahuan, dan nilai.
+
+Dosen menyatakan bahwa tiga pokok ini merupakan pembagian yang banyak dikenal dalam filsafat, walaupun batas dan keluasan pembahasannya dapat berbeda menurut pandangan masing-masing filsuf.
+
+---
+
+# BAGIAN KELIMA: مَبْحَثُ الْوُجُود — PEMBAHASAN TENTANG KEBERADAAN
+
+## XIX. PENGERTIAN MABḤATS AL-WUJŪD
+
+Pokok pertama filsafat adalah مبحث الوجود, yaitu pembahasan mengenai keberadaan.
+
+Dalam bagian ini, filsafat mempertanyakan keberadaan bukan hanya dari sudut pandang satu ilmu tertentu, melainkan dari segi hakikatnya secara umum.
+
+Ilmu tertentu mungkin mempelajari objek berdasarkan aspek khusus yang menjadi ruang lingkupnya. Filsafat berusaha melampaui batas tersebut dengan menanyakan apa hakikat keberadaan, bagaimana sesuatu dapat ada, apa sebab keberadaannya, dan apa tujuan atau arah dari keberadaan tersebut.
+
+Dengan kata lain, pembahasan mengenai keberadaan tidak terbatas pada pertanyaan apakah sesuatu ada, tetapi juga mempertanyakan mengapa sesuatu ada dan bagaimana ia berhubungan dengan segala sesuatu di sekitarnya.
+
+Dosen menekankan bahwa مبحث الوجود juga mencakup pertanyaan tentang asal mula keberadaan, sebab yang mendasarinya, tujuan keberadaan, hubungan antarbagian realitas, serta prinsip-prinsip yang mengatur hubungan tersebut.
+
+### 1. Pertanyaan tentang asal mula dan sebab keberadaan
+
+Dalam pembahasan ini, seorang filsuf dapat bertanya tentang kehidupan: dari mana kehidupan berasal, siapa yang menciptakannya, dan apa hubungan antara pencipta dengan ciptaan.
+
+Ia juga dapat bertanya mengenai hubungan Tuhan dengan alam semesta. Siapa yang menciptakan alam? Bagaimana alam berasal? Bagaimana hubungan antara pencipta dan alam yang diciptakan? Ke arah mana keberadaan berlangsung?
+
+Semua pertanyaan tersebut berusaha memahami keberadaan pada tingkat yang mendasar, bukan hanya menjelaskan suatu kejadian khusus.
+
+Karena itu, mبحث الوجود dapat mencakup persoalan mengenai alam semesta, manusia, Tuhan, sebab, tujuan, dan hubungan antarkomponen realitas.
+
+### 2. Contoh pemikiran Plato dan Aristoteles
+
+Dosen menyebutkan beberapa gagasan filsafat untuk memberikan contoh mengenai luasnya pembahasan tentang keberadaan.
+
+Dalam penjelasannya, Plato dikaitkan dengan gagasan mengenai عالم المثل, yaitu dunia ide atau bentuk-bentuk ideal. Gagasan ini digunakan sebagai contoh bahwa filsuf dapat mempertanyakan apakah realitas yang terlihat merupakan seluruh kenyataan atau terdapat tingkat realitas lain yang menjadi dasar bagi apa yang dilihat manusia.
+
+Dosen juga membahas pandangan yang dinisbatkannya kepada Aristoteles mengenai Tuhan dan alam semesta. Dalam rekaman, ia menyampaikan bahwa Aristoteles dianggap memandang Tuhan tidak mengetahui sesuatu tentang ciptaan-Nya. Dosen juga menyebut pembahasan mengenai العقول العشرة dan الأفلاك التسعة, yaitu sepuluh akal dan sembilan falak atau lingkup benda langit.
+
+Rincian ini disampaikan dosen sebagai contoh masalah yang pernah dibahas para filsuf ketika mereka memikirkan hubungan antara Tuhan, alam semesta, dan struktur keberadaan. Penjelasan pada rekaman tidak menguraikan secara lengkap argumentasi yang mendasari masing-masing teori tersebut.
+
+Pertanyaan-pertanyaan yang muncul meliputi bagaimana alam berasal, bagaimana hubungan Tuhan dengan alam semesta, apakah Tuhan mengetahui ciptaan-Nya, bagaimana sesuatu berasal dari sebabnya, dan bagaimana hubungan antara bagian-bagian realitas.
+
+Semua itu termasuk pembahasan مبحث الوجود karena berusaha mengetahui apa hakikat keberadaan dan bagaimana keberadaan tersusun.
+
+### 3. Metafisika sebagai pembahasan tentang ما وراء الطبيعة
+
+Dosen kembali menghubungkan مبحث الوجود dengan ميتافيزيقيا, yang juga dijelaskan sebagai ما بعد الطبيعة atau ما وراء الطبيعة.
+
+Dalam pemaparan kuliah, metafisika berusaha memahami persoalan yang berada di balik gejala yang tampak. Manusia melihat bumi, langit, matahari, bulan, bintang, dan berbagai fenomena alam, tetapi filsuf tidak harus berhenti pada pengamatan terhadap semua itu.
+
+Filsuf dapat bertanya siapa yang menciptakan semuanya, apa hubungan antargejala tersebut, apa sebab yang mendasarinya, dan ke mana arah keberadaannya.
+
+Dengan demikian, mبحث الوجود mencakup persoalan mengenai keberadaan alam dan manusia, serta pertanyaan mengenai dasar, sebab, dan tujuan keberadaan.
+
+### 4. Keberadaan manusia dan makna hidup
+
+Pembahasan tentang keberadaan juga menyangkut manusia itu sendiri.
+
+Manusia dapat mempertanyakan tugasnya dalam kehidupan, kedudukannya di alam semesta, alasan keberadaannya, dan apa yang akan terjadi setelah kematian.
+
+Pertanyaan tersebut menunjukkan bahwa مبحث الوجود tidak hanya membahas alam di luar manusia. Manusia juga menjadikan dirinya sendiri sebagai objek perenungan.
+
+Dosen menekankan bahwa manusia tidak sekadar bertanya tentang benda yang berada di luar dirinya, tetapi juga mempertanyakan apa arti hidupnya, apa tujuannya, dan bagaimana memahami kematian.
+
+Pertanyaan mengenai kehidupan setelah kematian juga termasuk dalam persoalan yang diperiksa manusia ketika ia merenungkan keberadaan.
+
+---
+
+# BAGIAN KEENAM: KISAH حَيُّ بْنُ يَقْظَان DAN KEMAMPUAN AKAL MEMAHAMI REALITAS
+
+## XX. KISAH حَيُّ بْنُ يَقْظَان DALAM PEMBAHASAN FILSAFAT ISLAM
+
+Dosen menyebut sebuah kisah dalam filsafat Islam yang dikenal dengan judul حي بن يقظان.
+
+Dalam penjelasan kuliah, dosen menyatakan bahwa kisah tersebut biasanya dipelajari pada tingkat lanjut di bagian studi akidah, yang menurut perkiraannya berada di tahun keempat. Dosen juga menyebut bahwa terdapat kisah serupa yang dikaitkan dengan Ibn Sina, tetapi kisah yang lebih dikenal dalam pembahasannya adalah kisah yang dinisbatkan kepada Ibn Tufail.
+
+Nama-nama dan keterangan tentang kisah tersebut muncul dalam transkripsi dengan beberapa bentuk yang kurang konsisten. Akan tetapi, maksud utama dosen adalah menunjukkan sebuah kisah yang membahas kemampuan manusia untuk merenungkan kehidupan, alam semesta, manusia, dan penciptanya.
+
+Menurut penjelasan dosen, kisah tersebut digunakan untuk menggambarkan bahwa akal manusia, apabila berada dalam keadaan yang baik dan mampu berpikir secara mendalam, dapat sampai kepada pemahaman tentang sejumlah kebenaran yang juga dibicarakan agama.
+
+Manusia dapat mengamati kehidupan, memikirkan alam semesta, dan mempertanyakan asal keberadaannya. Melalui perenungan tersebut, ia berusaha memahami hubungan antara dirinya, alam, dan pencipta.
+
+Dengan demikian, kisah حي بن يقظان digunakan dosen untuk menunjukkan hubungan antara kemampuan berpikir manusia dan persoalan tentang Tuhan, alam semesta, serta manusia.
+
+Dosen tidak menguraikan seluruh alur cerita tersebut dalam rekaman ini. Penekanan kuliahnya terletak pada gagasan bahwa akal manusia dapat melakukan perenungan mendalam mengenai kehidupan dan berusaha memahami realitas yang lebih luas daripada pengalaman langsung.
+
+### Analogi mikrofon dan pengeras suara
+
+Pada saat menjelaskan batas objek pembahasan filsafat, dosen memberikan contoh mikrofon yang menangkap suara dan mengeluarkannya melalui pengeras suara.
+
+Seseorang berbicara, lalu perangkat menerima suara dan meneruskannya sehingga terdengar melalui alat lain. Kita dapat menggunakan mikrofon tanpa memahami seluruh persoalan yang berada di balik proses tersebut.
+
+Namun, filsuf dapat mempertanyakan bagaimana suatu perangkat mengubah dan meneruskan suara, apa hubungan antara bagian-bagiannya, dan apa prinsip yang memungkinkan proses itu terjadi.
+
+Dosen menggunakan contoh tersebut untuk menegaskan bahwa filsafat tidak hanya memperhatikan kegunaan suatu benda, tetapi juga dapat mempertanyakan hakikat, sebab, dan hubungan yang memungkinkan benda tersebut bekerja.
+
+Dengan demikian, mبحث الوجود menyangkut pertanyaan mengenai sesuatu secara mendasar, termasuk bagaimana komponen-komponen realitas saling berhubungan.
+
+---
+
+# BAGIAN KETUJUH: مَبْحَثُ الْمَعْرِفَة — PEMBAHASAN TENTANG PENGETAHUAN
+
+## XXI. PENGERTIAN MABḤATS AL-MA‘RIFAH
+
+Pokok kedua filsafat adalah مبحث المعرفة, yaitu pembahasan mengenai pengetahuan.
+
+Jika مبحث الوجود mempertanyakan hakikat keberadaan, مبحث المعرفة mempertanyakan bagaimana manusia dapat mengetahui sesuatu, apakah pengetahuan benar-benar mungkin, bagaimana pengetahuan diperoleh, dan apa hakikat hubungan antara orang yang mengetahui dengan sesuatu yang diketahui.
+
+Dosen menghubungkan pembahasan ini dengan firman Allah:
+
+«وَاللَّهُ أَخْرَجَكُمْ مِنْ بُطُونِ أُمَّهَاتِكُمْ لَا تَعْلَمُونَ شَيْئًا وَجَعَلَ لَكُمُ السَّمْعَ وَالْأَبْصَارَ».
+
+Artinya, manusia dilahirkan dari rahim ibunya dalam keadaan tidak mengetahui sesuatu, kemudian diberikan pendengaran dan penglihatan.
+
+Ayat tersebut digunakan dosen untuk mengantarkan pertanyaan tentang bagaimana manusia memperoleh pengetahuan.
+
+Manusia dapat mengetahui sesuatu melalui pengalaman, pemikiran, atau cara lain yang dipersoalkan dalam filsafat. Akan tetapi, pertanyaan filosofis tidak berhenti pada kenyataan bahwa manusia mengetahui sesuatu. Filsafat juga memeriksa apa arti mengetahui, bagaimana pengetahuan dapat diperoleh, dan apakah sesuatu yang dianggap diketahui benar-benar mempunyai dasar yang kuat.
+
+Dosen menjelaskan bahwa مبحث المعرفة memiliki beberapa persoalan penting, yakni kemungkinan memperoleh pengetahuan, cara memperoleh pengetahuan, dan hakikat pengetahuan itu sendiri.
+
+## XXII. PERSOALAN PERTAMA: APakah PENGETAHUAN MUNGKIN?
+
+Salah satu pertanyaan utama dalam مبحث المعرفة adalah إمكان المعرفة, yaitu apakah pengetahuan mungkin diperoleh manusia.
+
+Apakah manusia dapat mencapai pengetahuan yang benar dan meyakinkan, ataukah semua yang dianggapnya benar harus tetap berada dalam keraguan?
+
+Dosen menghubungkan pertanyaan ini dengan filsafat Yunani sebelum dan pada masa Socrates, khususnya pembahasan tentang kelompok yang disebut السفسطائيون, yaitu kaum Sofis.
+
+Dalam penjelasan dosen, kaum Sofis berkaitan dengan para pemikir yang mempersoalkan kepastian pengetahuan dan kemampuan manusia memperoleh kebenaran.
+
+Dosen menyebut Protagoras dengan nama برتجراس dalam transkripsi. Ia menggambarkan pemikiran kelompok tersebut sebagai usaha untuk menunjukkan bahwa manusia tidak dapat dengan mudah mempercayai segala sesuatu yang ada di sekelilingnya.
+
+Dalam pemaparan kuliah, sejumlah gagasan skeptis yang dikaitkan dengan kelompok tersebut disampaikan dalam tiga bentuk: mungkin tidak ada sesuatu yang dapat diketahui; jika sesuatu dapat diketahui, manusia mungkin tidak dapat menjangkaunya; dan jika manusia dapat mengetahuinya, ia mungkin tidak dapat menyampaikan pengetahuan itu kepada orang lain.
+
+Redaksi gagasan tersebut muncul dalam transkripsi secara tidak sepenuhnya terperinci, tetapi inti penjelasan dosen adalah persoalan mengenai batas pengetahuan dan apakah manusia dapat mencapai kebenaran yang dapat dipercaya.
+
+Dosen mengatakan bahwa kelompok tersebut mampu menggunakan permainan bahasa dan argumentasi sehingga sesuatu dapat tampak benar dalam satu susunan pembicaraan, tetapi kemudian dibuat tampak salah dalam susunan pembicaraan lain.
+
+Contoh yang dikemukakan adalah seorang pemikir yang mula-mula berargumentasi untuk membuktikan bahwa sesuatu benar, lalu mencoba memperlihatkan bahwa hal yang sama salah. Cara semacam ini dapat membuat orang kehilangan kepercayaan terhadap kemungkinan mendapatkan kebenaran.
+
+Dari sini muncul pertanyaan mendasar: apakah pengetahuan yang benar dan meyakinkan dapat diperoleh, ataukah manusia harus terus berada dalam keraguan tanpa kepastian?
+
+Dosen menegaskan bahwa persoalan tersebut merupakan salah satu pembahasan utama dalam مبحث المعرفة.
+
+## XXIII. PERSOALAN KEDUA: BAGAIMANA PENGETAHUAN DIPEROLEH?
+
+Setelah mempertanyakan apakah pengetahuan mungkin diperoleh, filsafat juga mempertanyakan cara manusia memperoleh pengetahuan.
+
+Pertanyaan ini dikenal dalam penjelasan kuliah sebagai طرق المعرفة, yaitu cara-cara memperoleh pengetahuan.
+
+Dosen menyebut beberapa kemungkinan: apakah pengetahuan diperoleh melalui pengalaman, melalui akal, melalui gabungan keduanya, atau melalui hati dan الكشف.
+
+Istilah الكشف digunakan dalam konteks cara memperoleh pengetahuan melalui penyingkapan atau pengungkapan batin sebagaimana disebutkan dosen.
+
+Pertanyaan ini berkaitan dengan perbedaan pandangan mengenai sumber pengetahuan.
+
+### 1. Pandangan التجريبيين
+
+Dosen menyebut التجريبيون, yaitu kaum empiris, sebagai kelompok yang menekankan pengalaman sebagai sumber pengetahuan.
+
+Dalam ilustrasi yang dipaparkan, akal manusia diibaratkan seperti halaman yang belum berisi tulisan, sedangkan pengalaman mengisi halaman tersebut.
+
+Dengan demikian, pengetahuan diperoleh melalui apa yang dialami manusia.
+
+Ilustrasi tersebut digunakan dosen untuk menggambarkan posisi yang menjadikan pengalaman sebagai unsur utama dalam pembentukan pengetahuan.
+
+### 2. Pandangan العقليين
+
+Sebaliknya, dosen menyebut العقليون, yaitu kaum rasionalis, sebagai kelompok yang menekankan peranan akal.
+
+Dalam uraian dosen, mereka berpendapat bahwa akal tidak sekadar menerima pengalaman seperti halaman kosong, tetapi mempunyai prinsip-prinsip yang memungkinkan manusia memahami sesuatu.
+
+Dengan demikian, perbedaan antara التجريبيين dan العقليين dalam paparan kuliah berkaitan dengan bagaimana sumber dan dasar pengetahuan harus dipahami.
+
+Kelompok yang menekankan pengalaman memberikan kedudukan penting kepada pengalaman dalam memperoleh pengetahuan, sedangkan kelompok yang menekankan akal melihat bahwa akal juga memiliki peranan mendasar.
+
+Dosen turut menyinggung كلمة المادي atau istilah serupa ketika membahas pandangan mengenai pengetahuan, tetapi redaksi serta rincian kedudukan kelompok tersebut tidak jelas dalam transkripsi. Karena itu, tidak terdapat cukup informasi untuk menjabarkan pandangan mereka secara lebih terperinci.
+
+Inti pembahasan ini adalah bahwa filsafat mempertanyakan apakah manusia memperoleh pengetahuan melalui pengalaman, akal, kombinasi keduanya, atau cara lain.
+
+## XXIV. PERSOALAN KETIGA: APA HAKIKAT PENGETAHUAN?
+
+Pertanyaan lain dalam مبحث المعرفة adalah طبيعة المعرفة, yaitu hakikat pengetahuan.
+
+Dosen memberikan contoh sederhana dengan sebuah pengeras suara yang berada di hadapan mahasiswa. Seseorang dapat mengatakan bahwa ia mengetahui adanya pengeras suara di depannya.
+
+Akan tetapi, pertanyaan filosofis berikutnya adalah: apa arti mengetahui benda tersebut?
+
+Apakah pengetahuan terjadi karena objek yang diketahui memengaruhi akal manusia? Ataukah terdapat hubungan lain antara pikiran manusia dan objek yang sedang dipikirkannya?
+
+Dosen mengajukan persoalan tentang hubungan antara العارف dan المعروف, yaitu antara orang yang mengetahui dan sesuatu yang diketahui.
+
+Pertanyaannya adalah bagaimana suatu objek dapat diketahui oleh manusia dan bagaimana pengetahuan tersebut berhubungan dengan objek itu.
+
+Pertanyaan semacam ini menunjukkan bahwa mبحث المعرفة tidak hanya memperhatikan jumlah informasi yang dimiliki manusia. Filsafat juga memeriksa apa yang dimaksud dengan pengetahuan dan bagaimana hubungan antara manusia dengan realitas yang diketahuinya.
+
+### 1. Mengapa persoalan pengetahuan terus berkembang?
+
+Dosen menjelaskan bahwa persoalan filosofis dapat terus membuka pertanyaan baru.
+
+Seseorang mulai dengan satu pertanyaan, kemudian berusaha menjawabnya. Akan tetapi, ketika jawabannya telah ditemukan, jawaban tersebut dapat melahirkan pertanyaan berikutnya.
+
+Sebagai contoh, ketika seseorang mulai mempertanyakan kemungkinan pengetahuan, ia dapat beralih kepada cara memperoleh pengetahuan. Setelah memikirkan cara memperoleh pengetahuan, ia dapat mempertanyakan hakikat hubungan antara akal dan objek yang diketahui.
+
+Dengan demikian, satu persoalan dapat berkembang menjadi beberapa persoalan lanjutan.
+
+Dosen menggambarkan hal tersebut secara retoris dengan mengatakan bahwa perjalanan seorang filsuf dalam pertanyaan yang terus meluas dapat membuatnya seolah-olah berakhir dalam kegilaan. Maksudnya dalam konteks penjelasan ini adalah bahwa penyelidikan filosofis dapat terus berkembang dan membuka persoalan baru tanpa segera menemukan titik akhir yang memuaskan.
+
+Pernyataan tersebut disampaikan sebagai komentar dosen mengenai luas dan rumitnya pencarian filosofis, bukan sebagai kesimpulan terperinci tentang keadaan semua filsuf.
+
+Pada akhirnya, مبحث المعرفة mencakup tiga pertanyaan pokok: apakah pengetahuan mungkin, bagaimana pengetahuan diperoleh, dan apa hakikat pengetahuan serta hubungan antara orang yang mengetahui dan objek yang diketahui.
+
+---
+
+# BAGIAN KEDELAPAN: مَبْحَثُ الْقِيَم — PEMBAHASAN TENTANG NILAI
+
+## XXV. PENGERTIAN NILAI DAN UKURAN PENILAIAN
+
+Pokok ketiga filsafat adalah مبحث القيم, yaitu pembahasan mengenai nilai.
+
+Dosen menjelaskan bahwa القيم dapat dipahami sebagai ukuran atau معيار yang digunakan untuk menilai sesuatu. Dalam kehidupan, manusia sering membicarakan apa yang seharusnya dilakukan, apa yang benar atau salah, apa yang baik atau buruk, dan apa yang indah atau jelek.
+
+Pertanyaan mengenai ukuran yang digunakan untuk menilai semua itu merupakan bagian dari pembahasan nilai.
+
+Dosen menekankan bahwa membahas nilai berarti memikirkan bagaimana sesuatu seharusnya dinilai. Manusia tidak hanya melihat keadaan sebagaimana adanya, tetapi juga menggunakan ukuran tertentu untuk menentukan apakah keadaan itu sesuai dengan yang seharusnya.
+
+Untuk memperjelas pembahasan tersebut, dosen menggunakan contoh mengenai Nabi Isa عليه السلام dan Nabi Adam عليه السلام.
+
+## XXVI. CONTOH NABI ISA DAN NABI ADAM: APA UKURAN UNTUK MENENTUKAN SESUATU LEBIH MENGAGUMKAN?
+
+Dosen mengingatkan ayat:
+
+«إِنَّ مَثَلَ عِيسَىٰ عِنْدَ اللَّهِ كَمَثَلِ آدَمَ خَلَقَهُ مِنْ تُرَابٍ ثُمَّ قَالَ لَهُ كُنْ فَيَكُونُ».
+
+Ayat tersebut digunakan untuk membandingkan penciptaan Nabi Isa dan Nabi Adam.
+
+Dosen mengajukan pertanyaan kepada mahasiswa: apakah penciptaan Isa lebih mengagumkan daripada penciptaan Adam, apakah penciptaan Adam lebih mengagumkan daripada penciptaan Isa, ataukah keduanya sama?
+
+Untuk menjawab pertanyaan itu, mahasiswa harus terlebih dahulu menentukan ukuran yang digunakan untuk menilai.
+
+Dosen menjelaskan bahwa jika ukuran yang digunakan adalah kekuasaan Allah, tidak ada sesuatu yang sulit bagi Allah. Baik penciptaan Adam maupun penciptaan Isa berada dalam kekuasaan-Nya. Apabila Allah menghendaki sesuatu, Dia berfirman:
+
+«كُنْ فَيَكُونُ».
+
+Dengan ukuran tersebut, manusia tidak dapat mengatakan bahwa salah satu penciptaan lebih sulit bagi Allah daripada yang lain.
+
+Akan tetapi, jika ukuran yang digunakan adalah pengalaman manusia dan kebiasaan manusia dalam dilahirkan, penilaiannya dapat berbeda.
+
+Dosen menjelaskan bahwa manusia biasanya lahir dari hubungan antara laki-laki dan perempuan. Dari satu sel yang berasal dari laki-laki dan satu sel yang berasal dari perempuan, berkembanglah manusia dengan kepala, tangan, kaki, jantung, dan berbagai bagian tubuh lainnya.
+
+Proses tersebut sendiri sangat mengagumkan jika direnungkan secara mendalam. Bagaimana sesuatu yang semula berupa satu sel dapat berkembang hingga menjadi manusia dengan bagian-bagian tubuh yang berbeda?
+
+Namun, manusia telah terbiasa dengan proses tersebut sehingga sering kali tidak lagi memperhatikannya.
+
+Dalam konteks perbandingan penciptaan, Nabi Isa dilahirkan dari seorang ibu tanpa ayah, sedangkan Nabi Adam diciptakan dari tanah tanpa ayah maupun ibu.
+
+Jika ukuran yang digunakan adalah kedekatan dengan pola kelahiran manusia yang biasa terjadi, penciptaan Nabi Adam dapat dinilai lebih jauh dari kebiasaan tersebut karena tidak melibatkan ayah maupun ibu.
+
+Adapun penciptaan Nabi Isa, menurut perbandingan yang dijelaskan dosen, tetap berbeda dari kelahiran manusia pada umumnya karena terjadi tanpa ayah.
+
+Akan tetapi, apabila ukuran penilaiannya dikaitkan dengan kekuasaan Allah, keduanya tidak dianggap sulit bagi-Nya.
+
+Contoh ini digunakan untuk mengajarkan bahwa hasil penilaian bergantung pada معيار atau ukuran yang digunakan. Sebelum mengatakan bahwa sesuatu lebih mengagumkan daripada yang lain, seseorang harus menjelaskan ukurannya.
+
+Dengan demikian, penilaian tidak dapat dilakukan hanya berdasarkan perasaan atau kesan pertama. Seseorang perlu menentukan ukuran yang mendasari penilaiannya dan menerapkan ukuran tersebut secara konsisten.
+
+## XXVII. TIGA JENIS NILAI: الْحَقُّ، وَالْخَيْرُ، وَالْجَمَالُ
+
+Dosen menjelaskan bahwa berbagai persoalan nilai dapat dikelompokkan ke dalam tiga jenis utama, yaitu:
+
+الحق
+
+الخير
+
+الجمال
+
+Ketiganya berhubungan dengan ukuran yang berbeda.
+
+### 1. Nilai الحق: kebenaran dan kesalahan
+
+Nilai الحق berkaitan dengan persoalan benar dan salah, benar dan batil, atau apakah suatu pernyataan dapat diterima sebagai kebenaran.
+
+Pertanyaannya adalah bagaimana seseorang dapat menentukan apakah sebuah pernyataan benar atau salah. Ukuran apa yang digunakan untuk menilai suatu kesimpulan?
+
+Dosen menyatakan bahwa ilmu yang menjadi ukuran atau معيار bagi nilai الحق adalah علم المنطق, yaitu ilmu logika.
+
+Logika membahas aturan-aturan yang membantu manusia berpikir dengan benar dan menghindari kesalahan dalam penalaran.
+
+Dalam penjelasan kuliah, logika disebut sebagai ilmu yang mempunyai aturan-aturan tertentu. Dengan memperhatikan aturan tersebut, manusia berusaha menjaga pikirannya agar tidak jatuh ke dalam kesalahan.
+
+Karena itu, dalam pembagian nilai yang dijelaskan dosen, علم المنطق merupakan disiplin yang berhubungan dengan penilaian terhadap kebenaran dan kesalahan pemikiran.
+
+### 2. Nilai الخير: kebaikan dan keburukan moral
+
+Nilai الخير berkaitan dengan persoalan baik dan buruk dalam tindakan manusia.
+
+Dosen menjelaskan bahwa ilmu yang menjadi ukuran untuk nilai ini adalah علم الأخلاق, yaitu ilmu etika atau ilmu akhlak.
+
+Ilmu akhlak membahas الفضائل dan الرذائل, yaitu kebajikan dan sifat-sifat buruk. Ia membicarakan sifat apa yang patut dimiliki manusia dan sifat apa yang perlu dijauhi.
+
+Pertanyaan yang muncul dalam pembahasan nilai الخير antara lain: apakah suatu tindakan baik atau buruk, apakah suatu sifat termasuk kebajikan atau keburukan, serta ukuran apa yang digunakan untuk membuat penilaian tersebut.
+
+Dengan demikian, etika berusaha memberikan ukuran bagi penilaian moral. Ia tidak hanya mencatat kebiasaan yang ada, tetapi juga membahas bagaimana manusia seharusnya bertindak.
+
+### 3. Nilai الجمال: keindahan dan keburukan
+
+Nilai الجمال berkaitan dengan persoalan indah dan buruk atau apa yang disebut sebagai keindahan.
+
+Dosen menjelaskan bahwa علم الجمال, yaitu ilmu estetika, merupakan disiplin yang membahas ukuran atau معيار untuk menilai keindahan.
+
+Pertanyaannya adalah bagaimana manusia menentukan bahwa sesuatu indah atau tidak, baik secara penampilan maupun dalam konteks penilaian estetis yang lebih luas.
+
+Dosen mengingatkan bahwa manusia tidak cukup hanya mengatakan sesuatu itu indah berdasarkan kebiasaan atau selera pribadi. Perlu ditanyakan ukuran apa yang digunakan untuk menetapkan penilaian tersebut.
+
+Dengan demikian, ketiga jenis nilai yang dijelaskan dosen masing-masing berkaitan dengan ilmu yang mempunyai fungsi sebagai ukuran penilaian: logika untuk kebenaran, etika untuk kebaikan, dan estetika untuk keindahan.
+
+## XXVIII. CONTOH DOSEN TENTANG KEBIASAAN MASYARAKAT DAN UKURAN NILAI
+
+Dalam menjelaskan bahwa kebiasaan masyarakat tidak otomatis menjadi ukuran kebenaran atau keindahan, dosen memberikan contoh mengenai suatu perilaku yang dipandang buruk berdasarkan pandangan moral atau agama, tetapi kemudian menjadi semakin biasa dalam suatu lingkungan sosial.
+
+Dosen menyatakan bahwa di dunia Barat terdapat orang-orang yang membela homoseksualitas dan menuntut pengakuan hak bagi orang-orang yang menjalankannya. Ia juga menyatakan bahwa seseorang dalam lingkungan tersebut mungkin dipandang negatif jika tidak mendukung tuntutan yang dimaksud.
+
+Bagian ini merupakan contoh penilaian moral dan kebiasaan masyarakat yang disampaikan dosen. Dalam penjelasannya, ia mempertanyakan apakah sesuatu yang dahulu dipandang buruk kemudian otomatis menjadi baik hanya karena semakin diterima atau terbiasa dilakukan masyarakat.
+
+Dosen menghubungkan contoh tersebut dengan kisah kaum Nabi Luth عليه السلام, yang dalam penyampaian kuliah digunakan sebagai gambaran tentang penyimpangan dari fitrah dan perlunya seorang rasul mengingatkan kembali kepada fitrah tersebut.
+
+Ia kemudian menyatakan bahwa kebiasaan sosial tidak dengan sendirinya menjadi ukuran terakhir dalam menentukan baik atau buruk. Dalam pandangannya, ukuran moral tidak semestinya hanya ditentukan oleh apa yang sedang lazim diterima masyarakat.
+
+Dosen menyebut agama sebagai salah satu acuan yang digunakan dalam argumennya, dengan menyatakan bahwa Islam, Kristen, Yahudi, dan Hindu tidak menerima perilaku tersebut sebagaimana yang ia gambarkan dalam kuliah.
+
+Pernyataan mengenai sikap semua agama itu merupakan klaim dosen dalam rekaman. Tidak ada perbandingan doktrin atau pembahasan terperinci mengenai beragam penafsiran dalam masing-masing agama pada bagian ini.
+
+Hubungan contoh tersebut dengan مبحث القيم terletak pada pertanyaan mengenai ukuran penilaian moral: apakah ukuran tersebut cukup ditentukan oleh kebiasaan masyarakat ataukah perlu didasarkan pada معيار yang lebih mendasar.
+
+Dosen menggunakan persoalan tersebut untuk menekankan gagasan bahwa perubahan kebiasaan sosial tidak otomatis mengubah ukuran nilai. Seseorang harus memeriksa معيار yang digunakan sebelum menyimpulkan bahwa sesuatu benar, baik, atau indah.
+
+### Kebiasaan dan keindahan
+
+Dosen juga menjelaskan bahwa pembiasaan dapat memengaruhi cara manusia memandang sesuatu.
+
+Sesuatu yang telah berulang kali dilihat manusia dapat kehilangan daya tarik atau tidak lagi diperhatikan. Namun, kenyataan bahwa sesuatu telah menjadi biasa tidak dengan sendirinya membuktikan bahwa penilaian terhadapnya telah menjadi benar.
+
+Dalam konteks الجمال, dosen menegaskan bahwa estetika bukan sekadar kebiasaan menyukai bentuk tertentu. Ukuran keindahan perlu dibicarakan sebagai persoalan tersendiri.
+
+Ia memberikan contoh bahwa definisi keindahan tidak cukup dijelaskan dengan menyebut ciri fisik tertentu secara sembarangan. Menurut penjelasan dosen, keindahan mempunyai kriteria yang perlu dibahas melalui filsafat.
+
+Bagian ini menekankan bahwa manusia perlu membedakan antara kebiasaan pribadi, selera masyarakat, dan persoalan tentang معيار yang digunakan untuk melakukan penilaian.
+
+## XXIX. KEDUDUKAN TIGA POKOK FILSAFAT
+
+Setelah menjelaskan ketiga jenis nilai, dosen kembali merangkum struktur pembahasan filsafat.
+
+Pertama adalah مبحث الوجود, yaitu pembahasan mengenai keberadaan, termasuk asal-usul, sebab, tujuan, dan hubungan antarbagian realitas.
+
+Kedua adalah مبحث المعرفة, yaitu pembahasan mengenai kemungkinan memperoleh pengetahuan, cara memperoleh pengetahuan, serta hakikat pengetahuan dan hubungannya dengan manusia yang mengetahui.
+
+Ketiga adalah مبحث القيم, yaitu pembahasan mengenai ukuran yang digunakan untuk menentukan benar atau salah, baik atau buruk, dan indah atau buruk.
+
+Dosen menjelaskan bahwa pembahasan filsafat dapat memiliki cabang lain, seperti filsafat hukum, filsafat agama, dan filsafat sejarah. Akan tetapi, dalam materi ini, ia membatasi pembahasan utama pada tiga bidang tersebut.
+
+Ia juga menegaskan bahwa para pemikir tidak selalu mempunyai pendapat yang sama mengenai keluasan objek filsafat. Sebagian membatasi cakupannya, sedangkan sebagian lainnya memperluas pembahasannya. Walaupun demikian, ketiga bidang tersebut merupakan pembagian yang banyak dikenal dalam pembahasan filsafat.
+
+---
+
+# BAGIAN KESEMBILAN: HUBUNGAN FILSAFAT DAN AGAMA
+
+## XXX. PERTANYAAN: MANA YANG LEBIH DAHULU, FILSAFAT ATAU AGAMA?
+
+Pada akhir perkuliahan, salah seorang mahasiswa mengajukan pertanyaan mengenai mana yang muncul terlebih dahulu, filsafat atau agama.
+
+Dosen menanggapi dengan terlebih dahulu membedakan dua pengertian tentang awal filsafat. Jika yang dimaksud adalah sikap heran, perenungan, dan pertanyaan mengenai kehidupan, persoalannya berkaitan dengan kegiatan berpikir manusia. Namun, jika yang dimaksud adalah hubungan antara filsafat dan agama dalam sejarah manusia, dosen memberikan jawaban berdasarkan pandangan Islam mengenai asal mula manusia dan akidah.
+
+Menurut penjelasan dosen, agama dan akidah yang benar telah menyertai manusia sejak awal keberadaannya. Ia menghubungkan hal ini dengan Adam عليه السلام, yang dalam pemahaman Islam merupakan manusia pertama dan memulai kehidupan manusia dengan akidah yang benar.
+
+Dosen menyatakan bahwa tidak dapat dibayangkan manusia diciptakan tanpa sama sekali mempunyai landasan untuk memahami persoalan mendasar mengenai kehidupannya. Dalam pandangannya, persoalan tentang Tuhan, kehidupan, kematian, dan tujuan keberadaan merupakan persoalan penting yang memengaruhi cara manusia menjalani kehidupannya.
+
+Karena itu, dalam perspektif yang disampaikan dosen, akidah yang benar telah ada bersama manusia sejak permulaan manusia.
+
+## XXXI. AGAMA MEMBERIKAN ARAH BAGI PEMIKIRAN MANUSIA
+
+Dosen menambahkan bahwa agama mengarahkan manusia untuk memperhatikan keberadaan dan alam semesta.
+
+Agama tidak hanya memberikan jawaban mengenai Tuhan, manusia, dan kehidupan, tetapi juga mengajak manusia melihat serta memikirkan berbagai tanda yang terdapat di dalam alam.
+
+Dalam penjelasan dosen, Al-Qur'an mengarahkan manusia agar memperhatikan langit, bumi, hujan, tumbuhan, gunung, sungai, dan berbagai kejadian alam. Dengan demikian, agama tidak semata-mata memberikan kesimpulan, tetapi juga mengarahkan perhatian manusia kepada hal-hal yang dapat menjadi bahan perenungan.
+
+Dosen menggambarkan manusia pertama sebagai manusia yang tidak mungkin sama sekali dilepaskan dari akidah. Ia juga berpendapat bahwa manusia yang berhadapan dengan peristiwa-peristiwa seperti angin kencang, petir, gempa bumi, binatang buas, kelahiran, dan kematian akan mempunyai pertanyaan mengenai apa yang terjadi dan bagaimana memahami semua itu.
+
+Dalam penjelasannya, pertanyaan-pertanyaan tersebut merupakan persoalan mendasar karena dapat memengaruhi cara manusia memahami dan menjalani kehidupannya.
+
+Dosen kemudian membedakan dua keadaan.
+
+Pertama, ketika akidah berada dalam keadaan yang benar dan memberikan jawaban tentang persoalan kehidupan. Dalam keadaan ini, agama telah memberikan arah pemikiran bagi manusia.
+
+Kedua, ketika keyakinan mengalami penyimpangan atau perubahan sehingga tidak lagi memberikan jawaban yang memuaskan bagi akal. Dalam keadaan semacam itu, manusia mungkin merasa perlu memeriksa kembali berbagai klaim yang diterimanya.
+
+## XXXII. PERUBAHAN KEYAKINAN DAN KEBUTUHAN PEMERIKSAAN RASIONAL
+
+Pada bagian terakhir, dosen menjelaskan bahwa keyakinan yang telah mengalami تحريف, yaitu perubahan atau penyimpangan, dapat mengandung pandangan yang dianggap tidak memuaskan akal.
+
+Dalam penjelasannya, ketika keyakinan telah dicampuri oleh pandangan yang keliru, manusia mungkin tidak lagi memperoleh kepuasan intelektual melalui keyakinan itu. Karena itu, ia terdorong untuk memeriksa mana yang benar dan mana yang salah.
+
+Dosen memberikan contoh mengenai klaim-klaim keagamaan tertentu yang menurutnya mengandung unsur yang tidak rasional, tetapi redaksi tepat contoh tersebut dalam transkripsi tidak jelas. Bagian itu tidak dapat dijabarkan lebih terperinci tanpa menebak.
+
+Inti penjelasannya adalah bahwa perubahan atau penyimpangan keyakinan dapat menimbulkan kebutuhan untuk melakukan pemeriksaan rasional.
+
+Dengan demikian, meskipun agama dalam perspektif yang disampaikan dosen telah hadir bersama manusia sejak awal, kegiatan filosofis tetap dapat muncul ketika manusia berusaha memahami keyakinan, memeriksa klaim-klaimnya, dan membedakan kebenaran dari kekeliruan.
+
+Dosen tidak memberikan uraian terperinci mengenai seluruh kemungkinan hubungan sejarah antara berbagai tradisi agama dan filsafat. Jawaban yang disampaikan terutama didasarkan pada pandangannya bahwa akidah yang benar telah menyertai manusia sejak awal, sedangkan kegiatan berpikir filosofis dapat muncul dari kebutuhan memahami keberadaan dan memeriksa keyakinan.
+
+---
+
+# XXXIII. KESIMPULAN MENYELURUH MATERI PERKULIAHAN
+
+Materi ini dimulai dengan penjelasan tentang karakteristik pemikiran filosofis dan sikap seorang filsuf. Pemikiran filosofis dipahami sebagai kegiatan yang berangkat dari perenungan, berusaha memahami persoalan secara menyeluruh, melampaui gejala lahiriah, menggunakan akal, dan tidak menerima asumsi begitu saja sebelum diperiksa.
+
+Sikap filosofis ditandai oleh الحيرة dan الدهشة, rasa ingin tahu, pertanyaan, keraguan kritis, keterbukaan terhadap kritik, pengendalian emosi, dan ketekunan. Akan tetapi, dosen menegaskan bahwa karakteristik itu merupakan gambaran ideal. Dalam kenyataan, para filsuf tidak selalu mencapainya dengan tingkat keberhasilan yang sama.
+
+Perbedaan antara keadaan ideal dan kenyataan dijelaskan melalui perumpamaan wortel yang diletakkan di depan hewan tunggangan. Tujuan yang belum tercapai mendorong manusia terus bergerak. Dosen kemudian menghubungkan gagasan tersebut dengan hadis mengenai keinginan manusia terhadap harta serta perbedaan antara persaingan duniawi dan persaingan dalam kebaikan. Contoh جمهورية أفلاطون digunakan untuk memperlihatkan bahwa pemikir yang menyusun gambaran masyarakat ideal pun dapat memiliki pandangan yang dipersoalkan ketika diterapkan kepada manusia.
+
+Pembahasan berikutnya adalah faktor-faktor yang mendorong munculnya التفلسف. Faktor utamanya mencakup sifat manusia sebagai makhluk berakal dan berpikir, rasa heran terhadap kejadian yang sebelumnya dianggap biasa, kebutuhan memeriksa informasi, kebutuhan menjawab pertanyaan mengenai kehidupan dan keberadaan, serta agama. Dosen juga menyebut perasaan manusia akan kelemahannya dan keterbatasan dalam mengubah keadaan, tetapi penempatannya dalam jumlah keseluruhan faktor tidak sepenuhnya jelas dalam transkripsi.
+
+Sifat manusia sebagai makhluk berpikir dijelaskan melalui definisi:
+
+الْإِنْسَانُ حَيَوَانٌ نَاطِقٌ.
+
+Dosen menunjukkan bahwa semua manusia memiliki kemampuan berpikir, tetapi tingkat kemampuan menggunakan akal dapat berbeda. Perumpamaan mesin mobil, pengemudi, dan penyelidik kriminal digunakan untuk menjelaskan perbedaan kualitas berpikir. Ia juga menyebut tiga tingkat kegiatan berpikir: pemikiran biasa, pemikiran mengenai prinsip yang mengarahkan kehidupan, dan pemikiran mengenai dasar kebenaran prinsip-prinsip tersebut.
+
+Rasa heran atau الدهشة kemudian mendorong manusia mengamati hal-hal yang telah biasa dilihatnya. Dosen menggunakan ayat-ayat Al-Qur'an tentang langit, bumi, hujan, tumbuhan, sungai, gunung, dan berbagai fenomena alam untuk menunjukkan bahwa manusia diajak memperhatikan lebih dalam apa yang berada di sekelilingnya. Contoh telepon genggam memperlihatkan bahwa sesuatu yang digunakan setiap hari pun dapat memunculkan pertanyaan filosofis ketika manusia merenungkan mekanisme dan hubungan di baliknya.
+
+Kebutuhan memeriksa informasi dijelaskan melalui contoh keyakinan masyarakat kuno, perbedaan antara informasi yang benar dan salah, serta ayat tentang التبين ketika menerima berita. Sementara itu, kebutuhan memahami makna hidup dijelaskan melalui pertanyaan manusia mengenai keberadaan, kematian, dan tujuan kehidupan. Agama dibahas sebagai faktor yang mendorong filsafat karena manusia dapat memeriksa kebenaran keyakinan serta mengembangkan pertanyaan yang berkaitan dengan Tuhan, alam semesta, dan manusia.
+
+Setelah itu, dosen menjelaskan perubahan cakupan filsafat. Pada masa awal, filsafat mencakup berbagai bidang pengetahuan, termasuk الطبيعيات, الرياضيات, الإلهيات, الأخلاق, السياسة, dan تدبير المنزل. Metafisika atau ميتافيزيقيا dijelaskan dalam hubungannya dengan pembahasan yang berada setelah pembahasan tentang alam fisik. Seiring perkembangan ilmu pengetahuan, berbagai disiplin memisahkan diri sehingga filsafat semakin dikenal melalui tiga pokok utama.
+
+Pokok pertama adalah مبحث الوجود, yaitu pembahasan tentang hakikat keberadaan, asal mula, sebab, tujuan, dan hubungan antarkomponen realitas. Pokok kedua adalah مبحث المعرفة, yaitu pembahasan mengenai apakah pengetahuan mungkin diperoleh, bagaimana pengetahuan diperoleh, dan apa hakikat pengetahuan. Pokok ketiga adalah مبحث القيم, yaitu pembahasan mengenai ukuran dalam penilaian kebenaran, kebaikan, dan keindahan.
+
+Dalam مبحث الوجود, dosen membahas pertanyaan mengenai Tuhan, alam semesta, manusia, sebab, tujuan, serta hubungan antara keberadaan dan penciptanya. Plato, Aristoteles, العقول العشرة, الأفلاك التسعة, dan kisah حي بن يقظان disebut sebagai bagian dari contoh persoalan yang berkaitan dengan pembahasan tersebut.
+
+Dalam مبحث المعرفة, persoalan dibedakan menjadi إمكان المعرفة, yaitu kemungkinan memperoleh pengetahuan; طرق المعرفة, yaitu cara memperoleh pengetahuan; dan طبيعة المعرفة, yaitu hakikat pengetahuan. Dosen membahas kaum السفسطائيون dan Protagoras dalam kaitannya dengan persoalan kepastian pengetahuan, lalu menjelaskan perbedaan umum antara التجريبيين yang menekankan pengalaman dan العقليين yang menekankan akal.
+
+Dalam مبحث القيم, dosen menjelaskan bahwa القيم berkaitan dengan معيار atau ukuran untuk menilai sesuatu. Ia menggunakan ayat tentang penciptaan Nabi Isa dan Nabi Adam untuk menunjukkan bahwa penilaian mengenai sesuatu yang lebih mengagumkan bergantung pada ukuran yang digunakan. Ia kemudian membagi nilai menjadi tiga jenis: الحق, الخير, dan الجمال. Ilmu logika atau علم المنطق berkaitan dengan penilaian benar dan salah; ilmu akhlak atau علم الأخلاق berkaitan dengan kebajikan dan keburukan; sedangkan ilmu estetika atau علم الجمال berkaitan dengan ukuran keindahan.
+
+Pada bagian terakhir, dosen menjawab pertanyaan tentang mana yang lebih dahulu, filsafat atau agama. Dalam perspektif Islam yang disampaikan dosen, akidah yang benar telah menyertai manusia sejak awal melalui Adam عليه السلام. Agama juga mengarahkan manusia untuk memperhatikan alam dan memikirkan keberadaan. Namun, perubahan atau penyimpangan keyakinan dapat membuat manusia merasa perlu melakukan pemeriksaan rasional. Karena itu, agama dapat memberikan arah sekaligus menjadi salah satu faktor yang mendorong penyelidikan filosofis.
+
+Secara keseluruhan, materi kuliah ini menunjukkan keterkaitan antara kemampuan berpikir manusia, sikap heran, kebutuhan memeriksa informasi, pencarian makna hidup, agama, dan berkembangnya pertanyaan filosofis. Pertanyaan-pertanyaan tersebut kemudian terorganisasi dalam tiga pokok utama filsafat: keberadaan, pengetahuan, dan nilai.
+
+Dosen menutup perkuliahan dengan mengucapkan salam:
+
+السَّلَامُ عَلَيْكُمْ وَرَحْمَةُ اللَّهِ وَبَرَكَاتُهُ
+```
