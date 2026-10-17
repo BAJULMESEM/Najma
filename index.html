@@ -5,6 +5,74 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Text World</title>
   <link rel="stylesheet" href="style.css">
+  <!-- Gaya pengaturan warna ditaruh di sini agar tidak bergantung pada pembaruan style.css. -->
+  <style id="najma-reader-color-style">
+    .paper {
+      --reader-bg: #F4EDDA;
+      --reader-text: #29251D;
+      background: var(--reader-bg) !important;
+      color: var(--reader-text) !important;
+      transition: background-color .16s ease, color .16s ease;
+    }
+    .paper .paper-label, .paper h2, .paper pre {
+      color: var(--reader-text) !important;
+    }
+    .reader-settings {
+      margin: 0 0 24px;
+      border: 1px solid rgba(127,127,127,.45);
+      border-radius: 12px;
+      overflow: hidden;
+      font-family: Arial, Helvetica, sans-serif;
+      color: var(--reader-text);
+    }
+    .reader-settings summary {
+      padding: 13px 15px;
+      cursor: pointer;
+      list-style: none;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 12px;
+      color: var(--reader-text);
+      font-size: 14px;
+      font-weight: 700;
+    }
+    .reader-settings summary::-webkit-details-marker { display: none; }
+    .reader-settings summary::after { content: "＋"; font-size: 18px; opacity: .8; }
+    .reader-settings[open] summary::after { content: "−"; }
+    .settings-body { padding: 0 14px 14px; }
+    .color-group { min-width: 0; margin: 12px 0 18px; padding: 0; border: 0; }
+    .color-group legend { padding: 0; margin: 0 0 10px; color: var(--reader-text); font-size: 13px; font-weight: 700; }
+    .preset-list { display: grid; grid-template-columns: repeat(4, minmax(0,1fr)); gap: 7px; }
+    .preset-list .color-preset {
+      min-width: 0; display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 6px;
+      padding: 9px 5px; border: 1px solid rgba(127,127,127,.48); border-radius: 9px;
+      background: transparent; color: var(--reader-text); font: 12px/1.2 Arial, Helvetica, sans-serif;
+      cursor: pointer; text-align: center; overflow-wrap: anywhere;
+    }
+    .preset-list .color-preset:hover { border-color: #C99235; }
+    .preset-list .color-preset[aria-pressed="true"] { border: 2px solid #C99235; padding: 8px 4px; box-shadow: 0 0 0 1px rgba(201,146,53,.18); }
+    .color-preset .swatch { display: block; width: 25px; height: 25px; border: 1px solid rgba(127,127,127,.65); border-radius: 50%; background: var(--swatch); }
+    .custom-color-row { display: grid; grid-template-columns: minmax(0,1fr) 45px minmax(95px,125px); align-items: center; gap: 9px; margin-top: 12px; color: var(--reader-text); font: 12px/1.4 Arial, Helvetica, sans-serif; }
+    .custom-color-row label { min-width: 0; }
+    .custom-color-row input[type="color"] { width: 45px; height: 37px; padding: 3px; border: 1px solid rgba(127,127,127,.55); border-radius: 8px; background: transparent; cursor: pointer; }
+    .custom-color-row input[type="text"] { width: 100%; min-width: 0; box-sizing: border-box; padding: 9px 8px; border: 1px solid rgba(127,127,127,.55); border-radius: 8px; background: rgba(127,127,127,.08); color: var(--reader-text); font: 12px/1.2 ui-monospace, SFMono-Regular, Consolas, monospace; text-transform: uppercase; }
+    .custom-color-row input[aria-invalid="true"] { border-color: #D93025; outline: 1px solid #D93025; }
+    .settings-actions { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 10px; border-top: 1px solid rgba(127,127,127,.28); padding-top: 12px; }
+    .reset-colors-btn { padding: 9px 12px; border: 1px solid rgba(127,127,127,.55); border-radius: 8px; background: transparent; color: var(--reader-text); font: 12px/1.2 Arial, Helvetica, sans-serif; cursor: pointer; }
+    .reset-colors-btn:hover { border-color: #C99235; }
+    .save-status { flex: 1; color: var(--reader-text); opacity: .72; font: 11px/1.4 Arial, Helvetica, sans-serif; text-align: right; }
+    @media (max-width: 520px) {
+      .reader-settings { margin-bottom: 21px; }
+      .settings-body { padding: 0 10px 12px; }
+      .preset-list { gap: 5px; }
+      .preset-list .color-preset { font-size: 11px; padding: 8px 2px; }
+      .preset-list .color-preset[aria-pressed="true"] { padding: 7px 1px; }
+      .custom-color-row { grid-template-columns: minmax(0,1fr) 42px minmax(82px,105px); gap: 6px; }
+      .custom-color-row input[type="color"] { width: 42px; }
+      .save-status { text-align: left; min-width: 100%; }
+    }
+  </style>
 </head>
 <body>
   <div class="app">
@@ -21,39 +89,40 @@
       <div id="empty" class="empty hidden">Belum ada folder atau teks di sini.</div>
     </main>
     <div id="reader" class="reader hidden" aria-modal="true" role="dialog" aria-labelledby="readerTitle">
-      <section class="paper" id="paper">
+      <div class="paper">
         <button id="closeReader" class="close-btn" type="button" aria-label="Tutup">×</button>
         <div class="paper-label">DOCUMENT</div>
         <h2 id="readerTitle"></h2>
+
         <details class="reader-settings" id="readerSettings">
-          <summary><span aria-hidden="true">🎨</span> Pilih warna dokumen</summary>
+          <summary><span><span aria-hidden="true">🎨</span> Pilih warna dokumen</span></summary>
           <div class="settings-body">
             <fieldset class="color-group">
               <legend>Warna background</legend>
               <div class="preset-list" id="backgroundPresets" aria-label="Preset warna background">
-                <button type="button" class="color-preset" data-color="#FFFFFF" style="--swatch:#FFFFFF" aria-label="Background putih" title="Putih"><span></span>Putih</button>
-                <button type="button" class="color-preset" data-color="#F4EDDA" style="--swatch:#F4EDDA" aria-label="Background krem" title="Krem"><span></span>Krem</button>
-                <button type="button" class="color-preset" data-color="#E8D3A3" style="--swatch:#E8D3A3" aria-label="Background kuning kuno" title="Kuning kuno"><span></span>Kuning kuno</button>
-                <button type="button" class="color-preset" data-color="#000000" style="--swatch:#000000" aria-label="Background hitam" title="Hitam"><span></span>Hitam</button>
+                <button type="button" class="color-preset" data-color="#FFFFFF" aria-pressed="false"><span class="swatch" style="--swatch:#FFFFFF"></span>Putih</button>
+                <button type="button" class="color-preset" data-color="#F4EDDA" aria-pressed="false"><span class="swatch" style="--swatch:#F4EDDA"></span>Krem</button>
+                <button type="button" class="color-preset" data-color="#E8D3A3" aria-pressed="false"><span class="swatch" style="--swatch:#E8D3A3"></span>Kuning kuno</button>
+                <button type="button" class="color-preset" data-color="#000000" aria-pressed="false"><span class="swatch" style="--swatch:#000000"></span>Hitam</button>
               </div>
               <div class="custom-color-row">
                 <label for="backgroundColorPicker">Custom color</label>
                 <input id="backgroundColorPicker" type="color" value="#F4EDDA" aria-label="Pilih warna background khusus">
-                <input id="backgroundHex" class="hex-input" type="text" value="#F4EDDA" maxlength="7" spellcheck="false" aria-label="Kode HEX background" autocomplete="off">
+                <input id="backgroundHex" type="text" value="#F4EDDA" maxlength="7" spellcheck="false" aria-label="Kode HEX background" autocomplete="off">
               </div>
             </fieldset>
             <fieldset class="color-group">
               <legend>Warna teks</legend>
               <div class="preset-list" id="textPresets" aria-label="Preset warna teks">
-                <button type="button" class="color-preset" data-color="#29251D" style="--swatch:#29251D" aria-label="Teks hitam" title="Hitam"><span></span>Hitam</button>
-                <button type="button" class="color-preset" data-color="#FFFFFF" style="--swatch:#FFFFFF" aria-label="Teks putih" title="Putih"><span></span>Putih</button>
-                <button type="button" class="color-preset" data-color="#F5D76E" style="--swatch:#F5D76E" aria-label="Teks kuning" title="Kuning"><span></span>Kuning</button>
-                <button type="button" class="color-preset" data-color="#704214" style="--swatch:#704214" aria-label="Teks sepia" title="Sepia"><span></span>Sepia</button>
+                <button type="button" class="color-preset" data-color="#29251D" aria-pressed="false"><span class="swatch" style="--swatch:#29251D"></span>Hitam</button>
+                <button type="button" class="color-preset" data-color="#FFFFFF" aria-pressed="false"><span class="swatch" style="--swatch:#FFFFFF"></span>Putih</button>
+                <button type="button" class="color-preset" data-color="#F5D76E" aria-pressed="false"><span class="swatch" style="--swatch:#F5D76E"></span>Kuning</button>
+                <button type="button" class="color-preset" data-color="#704214" aria-pressed="false"><span class="swatch" style="--swatch:#704214"></span>Sepia</button>
               </div>
               <div class="custom-color-row">
                 <label for="textColorPicker">Custom color</label>
                 <input id="textColorPicker" type="color" value="#29251D" aria-label="Pilih warna teks khusus">
-                <input id="textHex" class="hex-input" type="text" value="#29251D" maxlength="7" spellcheck="false" aria-label="Kode HEX teks" autocomplete="off">
+                <input id="textHex" type="text" value="#29251D" maxlength="7" spellcheck="false" aria-label="Kode HEX teks" autocomplete="off">
               </div>
             </fieldset>
             <div class="settings-actions">
@@ -63,9 +132,110 @@
           </div>
         </details>
         <pre id="readerText"></pre>
-      </section>
+      </div>
     </div>
   </div>
+
+  <!-- Pertahankan script.js asli agar navigasi arsip dan pembaca tetap bekerja. -->
   <script src="script.js"></script>
+  <script>
+    (() => {
+      const paper = document.querySelector("#reader .paper");
+      const bgPicker = document.getElementById("backgroundColorPicker");
+      const textPicker = document.getElementById("textColorPicker");
+      const bgHex = document.getElementById("backgroundHex");
+      const textHex = document.getElementById("textHex");
+      const status = document.getElementById("colorSaveStatus");
+      const reset = document.getElementById("resetReaderColors");
+      if (!paper || !bgPicker || !textPicker || !bgHex || !textHex || !status || !reset) return;
+
+      const defaults = { background: "#F4EDDA", text: "#29251D" };
+      const storageKey = "najma.readerColors.v2";
+      const normalizeHex = value => {
+        if (typeof value !== "string") return null;
+        const valueWithHash = value.trim().startsWith("#") ? value.trim() : "#" + value.trim();
+        return /^#[0-9a-f]{6}$/i.test(valueWithHash) ? valueWithHash.toUpperCase() : null;
+      };
+      let colors = { ...defaults };
+      try {
+        const saved = JSON.parse(localStorage.getItem(storageKey) || "null");
+        if (saved && typeof saved === "object") {
+          colors.background = normalizeHex(saved.background) || defaults.background;
+          colors.text = normalizeHex(saved.text) || defaults.text;
+        }
+      } catch (_) {
+        // Tetap gunakan warna default jika localStorage tidak tersedia.
+      }
+
+      function updatePressedStates() {
+        document.querySelectorAll("#backgroundPresets [data-color]").forEach(button => {
+          button.setAttribute("aria-pressed", String(button.dataset.color.toUpperCase() === colors.background));
+        });
+        document.querySelectorAll("#textPresets [data-color]").forEach(button => {
+          button.setAttribute("aria-pressed", String(button.dataset.color.toUpperCase() === colors.text));
+        });
+      }
+      function persist() {
+        try {
+          localStorage.setItem(storageKey, JSON.stringify(colors));
+          status.textContent = "Tersimpan otomatis di perangkat ini";
+        } catch (_) {
+          status.textContent = "Browser tidak mengizinkan penyimpanan lokal";
+        }
+      }
+      function applyColors(shouldSave = true) {
+        paper.style.setProperty("--reader-bg", colors.background);
+        paper.style.setProperty("--reader-text", colors.text);
+        bgPicker.value = colors.background;
+        textPicker.value = colors.text;
+        bgHex.value = colors.background;
+        textHex.value = colors.text;
+        updatePressedStates();
+        if (shouldSave) persist();
+      }
+      function setColor(which, rawValue) {
+        const value = normalizeHex(rawValue);
+        if (!value) return false;
+        colors[which] = value;
+        applyColors(true);
+        return true;
+      }
+      document.querySelectorAll("#backgroundPresets [data-color]").forEach(button => {
+        button.addEventListener("click", () => setColor("background", button.dataset.color));
+      });
+      document.querySelectorAll("#textPresets [data-color]").forEach(button => {
+        button.addEventListener("click", () => setColor("text", button.dataset.color));
+      });
+      bgPicker.addEventListener("input", event => setColor("background", event.target.value));
+      textPicker.addEventListener("input", event => setColor("text", event.target.value));
+
+      function wireHex(input, which) {
+        input.addEventListener("change", () => {
+          if (!setColor(which, input.value)) {
+            input.setAttribute("aria-invalid", "true");
+            status.textContent = "Kode HEX tidak valid. Gunakan #RRGGBB.";
+            input.value = colors[which];
+            input.focus();
+            return;
+          }
+          input.removeAttribute("aria-invalid");
+        });
+        input.addEventListener("keydown", event => {
+          if (event.key === "Enter") {
+            event.preventDefault();
+            input.blur();
+          }
+        });
+      }
+      wireHex(bgHex, "background");
+      wireHex(textHex, "text");
+      reset.addEventListener("click", () => {
+        colors = { ...defaults };
+        applyColors(true);
+        status.textContent = "Warna dikembalikan ke default";
+      });
+      applyColors(false);
+    })();
+  </script>
 </body>
 </html>
