@@ -1,0 +1,903 @@
+# ILMU KHITABAH (عِلْمُ الْخِطَابَةِ): PENGERTIAN, FONDASI, SEJARAH, TAHAPAN PENYUSUNAN KHOTBAH, DAN SENI PENYAMPAIANNYA
+
+## I. PENDAHULUAN: CAKUPAN ILMU KHITABAH
+
+Pada awal perkuliahan, dosen melanjutkan pembahasan mengenai العيوب البيانية, yaitu berbagai kelemahan dalam penyampaian bahasa yang dapat mengganggu kemampuan seseorang ketika berbicara di hadapan orang lain. Dosen menegaskan kembali bahwa pembahasan tersebut tidak hanya ditujukan kepada الخطيب, yaitu khatib atau orang yang menyampaikan khotbah, tetapi juga kepada setiap orang yang pekerjaannya berkaitan dengan المشافهة, yaitu penyampaian secara lisan kepada orang lain.
+
+Dengan demikian, pembahasan ini juga relevan bagi pengajar, dosen universitas, penceramah, dan siapa saja yang mempunyai tugas menjelaskan sesuatu kepada masyarakat. Mereka semua memerlukan kemampuan البيان, yaitu menyampaikan maksud secara jelas, teratur, dan dapat dipahami oleh pendengar.
+
+Seorang pengajar, misalnya, harus mampu menjelaskan materi kepada mahasiswa. Seorang penceramah perlu menyampaikan pesan kepada masyarakat. Demikian pula, khatib harus dapat mengomunikasikan gagasannya kepada jamaah. Semua pekerjaan tersebut menuntut kemampuan menyampaikan pengetahuan melalui bahasa lisan.
+
+Karena itu, cacat penyampaian yang telah dibicarakan sebelumnya tidak boleh dianggap sebagai persoalan yang hanya berkaitan dengan khotbah keagamaan. Setiap orang yang bertugas menyampaikan pengetahuan atau memengaruhi pemahaman orang lain perlu berusaha menghindari kelemahan tersebut.
+
+Setelah menegaskan cakupan pembahasan itu, dosen beralih kepada pengertian الخطبة dan الخطابة, perbedaan maknanya menurut bahasa, serta definisi teknisnya. Selanjutnya, dosen menjelaskan bahwa khitobah merupakan suatu seni yang membutuhkan empat unsur pokok, yaitu الجمهور, المشافهة, الإقناع, dan التأثير.
+
+Pembahasan kemudian berkembang kepada asal-usul khitobah, kedudukannya dalam kehidupan manusia, tahapan penyusunan khotbah, dan cara menjadikan penyampaian lebih hidup melalui pengaturan suara, pemilihan kata, penggunaan contoh, serta penggunaan gambaran konkret untuk menjelaskan suatu gagasan.
+
+---
+
+# BAGIAN PERTAMA: PENGERTIAN الخطبة DAN الخطابة
+
+## II. PERBEDAAN ANTARA خُطْبَةٌ DAN خِطْبَةٌ
+
+Dosen mengawali pembahasan dengan mengajukan pertanyaan mengenai perbedaan pengucapan dan makna antara خُطْبَةٌ dan خِطْبَةٌ.
+
+Kata خُطْبَةٌ, dengan dhammah pada huruf خاء, berarti pidato atau khotbah, yaitu perkataan yang disampaikan seseorang kepada orang lain atau kepada sekelompok pendengar.
+
+Adapun خِطْبَةٌ, dengan kasrah pada huruf خاء, berkaitan dengan urusan peminangan atau permintaan untuk menikah. Dalam penjelasan dosen, istilah tersebut berhubungan dengan seseorang yang mengajukan keinginan untuk menikah ke dalam suatu keluarga.
+
+Dengan demikian, keduanya mempunyai bentuk tulisan yang sama, tetapi berbeda dalam pengucapan dan maknanya. Perbedaan harakat pada huruf خاء menghasilkan perbedaan pengertian.
+
+Dalam pembahasan ilmu khitobah, kata yang dimaksud adalah خُطْبَةٌ, yaitu pidato atau khotbah yang disampaikan kepada pendengar.
+
+Dosen kemudian menghubungkan istilah tersebut dengan الخطابة, yang juga berkaitan dengan seni atau kemampuan menyampaikan pidato di hadapan masyarakat. Dalam penjelasan kuliah, الخطابة dipahami sebagai kegiatan berbicara kepada orang banyak dengan tujuan tertentu, bukan sekadar mengeluarkan kata-kata secara lisan.
+
+## III. PENGERTIAN الخطابة SECARA ISTILAH
+
+### 1. Definisi sebagai قياس مركب من مقدمات مقبولة أو مظنونة
+
+Dosen menyampaikan bahwa para ulama atau penulis ilmu khitobah memberikan definisi teknis yang berbunyi:
+
+«قِيَاسٌ مُرَكَّبٌ مِنْ مُقَدِّمَاتٍ مَقْبُولَةٍ أَوْ مَظْنُونَةٍ مِنْ شَخْصٍ مُعْتَقَدٍ فِيهِ، وَالْغَرَضُ مِنْهَا تَرْغِيبُ النَّاسِ فِيمَا يَنْفَعُهُمْ مِنْ أُمُورِ مَعَاشِهِمْ وَمَعَادِهِمْ».
+
+Artinya, khitobah merupakan penalaran yang tersusun dari premis-premis yang diterima atau diperkirakan benar, disampaikan oleh seseorang yang dipercaya, dengan tujuan mendorong manusia kepada sesuatu yang bermanfaat bagi kehidupan dunia dan akhirat mereka.
+
+Dosen menjelaskan bahwa definisi ini mungkin terasa sulit pada awalnya karena menggunakan istilah yang sudah dipelajari dalam ilmu mantiq. Oleh sebab itu, ia mengingatkan mahasiswa kembali kepada pembahasan tentang القضية الحملية, القضية الشرطية, serta hubungan antara premis dan kesimpulan.
+
+Dalam ilmu mantiq, suatu penalaran dapat tersusun dari beberapa premis. Premis-premis tersebut digunakan untuk menghasilkan suatu kesimpulan. Karena khitobah menggunakan susunan alasan untuk mendorong pendengar menerima suatu gagasan atau melakukan suatu tindakan, khitobah dapat dijelaskan melalui pengertian قياس yang tersusun dari sejumlah مقدمات.
+
+Dosen memberikan contoh ketika seseorang memperkenalkan dirinya di hadapan mahasiswa. Ia menyampaikan nama, pekerjaan, dan bidang pengajarannya. Informasi tersebut menjadi مقدمات atau bahan awal yang digunakan pendengar untuk memahami siapa pembicara yang sedang mereka hadapi.
+
+Dalam contoh yang dibahas, dosen menyebut namanya dan menjelaskan bahwa ia merupakan pengajar di bidang الدعوة والثقافة الإسلامية. Ia kemudian mengingatkan bahwa jika pendengar tidak mengetahui secara pasti apakah pembicara mengajar di قسم الدعوة والثقافة الإسلامية atau قسم التفسير, informasi yang diterima dapat berada pada tingkat الظن, yaitu dugaan, bukan kepastian.
+
+Contoh tersebut digunakan untuk menerangkan perbedaan antara مقدمات مقبولة dan مقدمات مظنونة.
+
+مقدمات مقبولة adalah premis-premis yang dapat diterima oleh pendengar. Sementara itu, مقدمات مظنونة adalah premis-premis yang dianggap mungkin benar atau memiliki kemungkinan untuk diterima, tetapi belum mencapai tingkat kepastian yang sama.
+
+Dengan demikian, isi khitobah dapat dibangun dari pernyataan-pernyataan yang diterima atau dari dugaan yang dipandang masuk akal oleh pendengar.
+
+### 2. Pentingnya شَخْصٌ مُعْتَقَدٌ فِيهِ
+
+Bagian berikutnya dalam definisi tersebut adalah:
+
+«مِنْ شَخْصٍ مُعْتَقَدٍ فِيهِ».
+
+Dosen menjelaskan bahwa ungkapan ini berarti khitobah disampaikan oleh seseorang yang dipercaya atau dianggap memiliki kompetensi dalam hal yang dibicarakannya.
+
+Kepercayaan tersebut berkaitan dengan pengetahuan dan kewibawaan pembicara dalam bidang yang disampaikan.
+
+Sebagai contoh, seseorang yang telah mempelajari ilmu khitobah, lulus dari Universitas Al-Azhar, serta memiliki pengetahuan mengenai fikih, hadis, dan berbagai ilmu yang relevan dapat dipandang mempunyai dasar kompetensi untuk menyampaikan pembahasan keagamaan.
+
+Dalam konteks contoh dosen, pendengar menganggap bahwa orang tersebut memahami bidang yang dibicarakannya sehingga penjelasannya layak dipertimbangkan.
+
+Dosen menekankan bahwa istilah معتقد فيه pada bagian ini berkaitan dengan kepercayaan terhadap kompetensi dan pengetahuan pembicara. Kepercayaan tersebut bukan sekadar keyakinan tanpa alasan, melainkan berkaitan dengan anggapan bahwa pembicara memiliki ilmu yang sesuai dengan pembahasannya.
+
+Dengan demikian, seorang khatib tidak cukup hanya mampu berbicara dengan fasih. Ia juga perlu mempunyai pengetahuan yang mendukung isi khotbahnya agar dapat menyampaikan sesuatu yang benar dan bermanfaat.
+
+### 3. Tujuan khitobah: ترغيب الناس فيما ينفعهم في معاشهم ومعادهم
+
+Bagian terakhir definisi tersebut menjelaskan tujuan khitobah, yaitu:
+
+«تَرْغِيبُ النَّاسِ فِيمَا يَنْفَعُهُمْ مِنْ أُمُورِ مَعَاشِهِمْ وَمَعَادِهِمْ».
+
+Artinya, mendorong manusia kepada hal-hal yang bermanfaat bagi kehidupan dunia dan akhirat mereka.
+
+Dosen menjelaskan bahwa tujuan khitobah bukan sekadar membuat orang mendengar suatu pembicaraan. Khitobah memiliki tujuan untuk membawa pendengar kepada sesuatu yang dianggap bermanfaat.
+
+Dalam konteks khotbah keagamaan, manfaat tersebut dapat berkaitan dengan ketaatan kepada Allah, menjauhi kemaksiatan, memperbaiki perilaku, serta melakukan hal-hal yang mendatangkan kebaikan bagi kehidupan dunia dan akhirat.
+
+Dosen juga menyebut rumusan yang menyatakan bahwa tujuan khotbah adalah:
+
+«حَمْلُ النَّاسِ عَلَى مَا يُرَادُ مِنْهُمْ».
+
+Artinya, mendorong atau mengarahkan manusia agar melakukan sesuatu yang dikehendaki dari mereka.
+
+Dalam penjelasan dosen, rumusan ini berkaitan dengan tujuan syariat untuk mengajak manusia mendekat kepada Allah dan menjauhi kemaksiatan. Dengan demikian, yang hendak dicapai bukan hanya perubahan pengetahuan, tetapi juga perubahan kecenderungan dan perilaku.
+
+Seorang khatib, misalnya, dapat menjelaskan suatu kewajiban, menunjukkan alasan mengapa kewajiban itu perlu dilaksanakan, kemudian mendorong jamaah agar menjalankannya. Ia juga dapat memperingatkan pendengar terhadap suatu larangan dan menjelaskan mengapa larangan tersebut perlu dijauhi.
+
+Oleh karena itu, khitobah merupakan kegiatan yang bertujuan memberikan pengaruh terhadap pemikiran, perasaan, dan perilaku pendengar.
+
+## IV. DEFINISI الخطابة SEBAGAI فن مشافهة الجمهور والقدرة على الإقناع والتأثير
+
+Selain definisi yang menggunakan istilah قياس dan مقدمات, dosen menyampaikan definisi lain yang lebih ringkas:
+
+«الْخِطَابَةُ فَنُّ مُشَافَهَةِ الْجُمْهُورِ وَالْقُدْرَةُ عَلَى الْإِقْنَاعِ وَالتَّأْثِيرِ».
+
+Artinya, khitobah adalah seni berbicara secara langsung kepada khalayak serta kemampuan untuk meyakinkan dan memengaruhi mereka.
+
+Dosen menekankan kata فن. Khitobah bukan sekadar kegiatan berbicara, melainkan suatu keterampilan yang menggabungkan pengetahuan, bakat, latihan, dan kemampuan memilih cara yang tepat untuk berkomunikasi dengan pendengar.
+
+Seseorang yang berkhitobah perlu mengetahui bagaimana menarik perhatian masyarakat, kapan harus berbicara dengan tegas, kapan harus berbicara dengan tenang, kapan perlu memberikan contoh, dan bagaimana mengubah cara penyampaiannya ketika keadaan menuntut perubahan.
+
+Kemampuan tersebut tidak hanya bergantung pada isi pembicaraan, tetapi juga pada seni menyampaikan isi itu.
+
+Karena itu, dosen menegaskan bahwa khitobah adalah فن, yaitu seni atau keterampilan yang memerlukan latihan teoretis dan praktis.
+
+---
+
+# BAGIAN KEDUA: KHITABAH SEBAGAI SENI MEMENGARUHI MANUSIA
+
+## V. CONTOH ANAK KECIL YANG MEMINTA UANG KEPADA AYAHNYA
+
+Untuk menjelaskan bahwa khitobah merupakan seni yang berkaitan dengan cara dan waktu penyampaian, dosen memberikan contoh seorang anak kecil yang meminta uang saku kepada ayahnya.
+
+Pada awalnya, anak itu berkata:
+
+«يَا بَابَا، أَنَا عَايِزُ الْمَصْرُوفَ».
+
+Artinya, Ayah, aku ingin uang saku.
+
+Ayahnya kemudian menjawab bahwa uang itu akan diberikan nanti atau menyuruh anak tersebut pergi terlebih dahulu.
+
+Anak tersebut tidak berhenti pada permintaan awal. Ia mengubah pendekatannya dan berkata:
+
+«يَا بَابَا، أَنَا بَحِبَّكَ».
+
+Artinya, Ayah, aku menyayangimu.
+
+Dalam ilustrasi dosen, anak tersebut kemudian melanjutkan permintaannya dengan ungkapan yang lebih memelas, meminta agar ayahnya memenuhi keinginannya, bahkan membayangkan bahwa ia akan menangis jika tidak dituruti.
+
+Dosen menggunakan contoh ini untuk menjelaskan bahwa seorang anak dapat mengetahui cara meminta, kapan harus meminta, dan bagaimana mengubah pendekatan agar orang yang dituju bersedia memberikan apa yang diinginkannya.
+
+Anak tersebut bukan hanya menyampaikan informasi bahwa ia membutuhkan uang. Ia juga menggunakan perasaan, memilih waktu, dan menyesuaikan cara berbicara dengan respons ayahnya.
+
+Dosen menggambarkan perilaku semacam ini sebagai فن, yaitu seni menggunakan cara tertentu untuk mencapai tujuan melalui komunikasi.
+
+Contoh ini tidak dimaksudkan untuk menyatakan bahwa semua bentuk memengaruhi orang lain selalu baik. Tujuannya adalah menunjukkan bahwa pengaruh ucapan tidak hanya bergantung pada makna literal kata-kata, tetapi juga pada cara, waktu, dan keadaan ketika kata-kata tersebut disampaikan.
+
+## VI. KHITABAH DAN KEMAMPUAN MENARIK PERHATIAN PENDENGAR
+
+Dosen kemudian menghubungkan contoh anak kecil tersebut dengan kemampuan seorang khatib atau pengajar.
+
+Seorang khatib perlu mengetahui bagaimana menarik perhatian pendengar agar mereka tidak hanya mendengar suara, tetapi juga mengikuti gagasan yang disampaikan.
+
+Dalam perkuliahan, seorang pengajar dapat menggunakan berbagai cara untuk menjaga perhatian mahasiswa, misalnya memberikan perumpamaan, mengubah suara, mengajukan pertanyaan, atau mengubah pola penjelasan.
+
+Ketika perhatian mahasiswa mulai menurun, pengajar mungkin perlu mengajukan pertanyaan kepada mereka. Ia juga dapat memberikan contoh yang lebih dekat dengan kehidupan sehari-hari, mengubah intonasi, atau menggunakan bentuk penjelasan yang lebih menarik.
+
+Semua tindakan tersebut merupakan bagian dari seni menyampaikan informasi.
+
+Dosen mengingatkan bahwa khitobah tidak selalu berarti menyampaikan kalimat yang panjang atau menggunakan kata-kata yang sulit. Seseorang dapat berbicara dengan bahasa sederhana, tetapi tetap memiliki kemampuan memengaruhi pendengar apabila ia memahami tujuan, keadaan, dan cara penyampaian yang tepat.
+
+Karena itu, unsur فن dalam definisi khitobah sangat penting. Pembicara harus mengetahui apa yang ingin disampaikan, kepada siapa ia berbicara, dan cara apa yang paling sesuai untuk mencapai tujuan tersebut.
+
+---
+
+# BAGIAN KETIGA: EMPAT UNSUR POKOK KHITABAH
+
+## VII. الْجُمْهُور: KHALAYAK ATAU KELOMPOK PENDENGAR
+
+Unsur pertama adalah الجمهور, yaitu khalayak atau sekelompok orang yang menjadi sasaran pembicaraan.
+
+Dosen menjelaskan bahwa khitobah pada dasarnya berkaitan dengan penyampaian kepada pendengar. Oleh karena itu, seorang khatib harus memperhatikan siapa yang akan menerima pesannya.
+
+Isi dan cara penyampaian tidak dapat dipisahkan dari keadaan pendengar. Bahasa yang dapat dipahami oleh sekelompok mahasiswa belum tentu sesuai apabila digunakan kepada anak-anak atau masyarakat yang tidak mempunyai pengetahuan awal yang sama.
+
+Demikian pula, contoh yang relevan bagi satu kelompok mungkin tidak menarik bagi kelompok lain.
+
+Karena itu, mengetahui الجمهور merupakan bagian penting dalam seni khitobah. Pembicara perlu memahami keadaan orang-orang yang akan dihadapinya, perhatian mereka, pengetahuan yang mereka miliki, dan persoalan yang sedang mereka alami.
+
+Dosen menghubungkan hal tersebut dengan kemampuan seorang khatib mengamati reaksi pendengar. Khatib yang tidak memperhatikan keadaan الجمهور dapat terus berbicara dengan cara yang sama meskipun pendengarnya sudah kehilangan perhatian.
+
+## VIII. الْمُشَافَهَة: PENYAMPAIAN SECARA LISAN
+
+Unsur kedua adalah المشافهة, yaitu penyampaian secara lisan kepada orang lain.
+
+Dosen mengingatkan bahwa المشافهة berbeda dari menulis atau sekadar menghasilkan susunan kata yang indah. Dalam khitobah, pembicara menyampaikan gagasan secara langsung kepada pendengar.
+
+Penyampaian lisan memiliki ciri yang memerlukan keterampilan tersendiri. Pembicara harus mengatur suara, intonasi, kecepatan berbicara, ekspresi, dan gerak tubuh. Ia juga perlu menanggapi reaksi pendengar selama pembicaraan berlangsung.
+
+Ketika menulis, seseorang dapat membaca ulang kalimat dan memperbaikinya sebelum orang lain menerima tulisan tersebut. Namun, dalam penyampaian lisan secara langsung, kata-kata berlangsung mengikuti waktu. Jika pembicara terlalu cepat, pendengar dapat kehilangan sebagian makna. Jika penyampaian terlalu monoton, pendengar dapat merasa bosan.
+
+Dengan demikian, المشافهة bukan sekadar fakta bahwa seseorang berbicara menggunakan suara. Ia merupakan keadaan komunikasi langsung yang menuntut keterampilan khusus.
+
+Dosen menekankan bahwa unsur ini tidak dapat dihilangkan dari khitobah. Jika tidak terdapat penyampaian kepada pendengar, kegiatan tersebut tidak memenuhi bentuk khitobah yang sedang dijelaskan.
+
+## IX. الْإِقْنَاع: KEMAMPUAN MEYAKINKAN
+
+Unsur ketiga adalah الإقناع, yaitu kemampuan meyakinkan pendengar.
+
+Dosen menggunakan perumpamaan bahwa khitobah mempunyai dua sayap:
+
+«لِلْخِطَابَةِ جَنَاحَانِ: الْإِقْنَاعُ وَالتَّأْثِيرُ».
+
+Artinya, khitobah mempunyai dua sayap, yaitu meyakinkan dan memengaruhi.
+
+Sebagaimana seekor burung memerlukan sayap untuk terbang, khitobah membutuhkan الإقناع dan التأثير agar dapat mencapai tujuannya.
+
+Dosen menjelaskan bahwa pembicaraan yang hanya indah dari segi susunan kata belum tentu meyakinkan pendengar. Suatu kalimat mungkin terdengar menarik atau mengandung gambaran yang indah, tetapi tidak memberikan alasan yang dapat diterima akal.
+
+Dalam khitobah, pembicara harus memberikan landasan yang memungkinkan pendengar menerima gagasan yang disampaikan.
+
+Kemampuan meyakinkan dapat menggunakan penalaran, penjelasan, contoh, bukti, dan premis-premis yang diterima atau dipandang masuk akal.
+
+Karena itu, الإقناع berkaitan dengan upaya membangun penerimaan terhadap suatu gagasan, bukan sekadar membuat orang tertarik kepada bunyi kata-katanya.
+
+## X. التَّأْثِيرُ وَاسْتِمَالَةُ الْجُمْهُورِ: MEMENGARUHI DAN MENARIK HATI PENDENGAR
+
+Unsur keempat adalah التأثير, yaitu pengaruh, yang dalam penjelasan dosen juga dihubungkan dengan استمالة, yakni menarik hati atau mengarahkan kecenderungan pendengar.
+
+Dosen menegaskan bahwa khitobah tidak hanya menuntut penerimaan intelektual. Ia juga berusaha menghasilkan pengaruh terhadap pendengar.
+
+Seseorang dapat memahami sebuah argumen tanpa harus merasa tergerak untuk bertindak berdasarkan argumen tersebut. Sebaliknya, khatib berusaha agar pendengar tidak hanya memahami pesan, tetapi juga merasakan urgensinya dan terdorong untuk merespons.
+
+Dengan demikian, pengaruh merupakan bagian penting dari tujuan khitobah.
+
+Seorang khatib dapat menjelaskan pentingnya ilmu pengetahuan, misalnya, kemudian mengarahkan pembicaraan agar pendengar terdorong untuk belajar. Ia dapat menjelaskan keburukan suatu perilaku dan berusaha menumbuhkan keinginan pendengar untuk menjauhinya.
+
+Dosen menekankan bahwa التأثير tidak menggantikan الإقناع. Keduanya merupakan unsur yang saling melengkapi.
+
+الإقناع berhubungan dengan kemampuan meyakinkan pendengar melalui alasan dan penjelasan. التأثير berhubungan dengan kemampuan menghasilkan tanggapan, perasaan, atau kecenderungan tertentu terhadap isi yang disampaikan.
+
+## XI. MENGAPA KHITABAH TIDAK SAMA DENGAN SYAIR ATAU TULISAN BIASA?
+
+Dosen kemudian menjelaskan bahwa apabila sebuah pembicaraan tidak mengandung unsur الإقناع dan التأثير, pembicaraan itu mungkin lebih tepat dipahami sebagai syair, tulisan, atau bentuk ungkapan lainnya, bukan khitobah dalam pengertian teknis yang sedang dibahas.
+
+Ia memberikan contoh seseorang yang menggambarkan istrinya atau anak perempuannya sebagai bulan, atau menyamakan seseorang dengan mangga dan gambaran lain yang bersifat kiasan.
+
+Penggambaran tersebut dapat menghasilkan ungkapan yang indah. Namun, keindahan ungkapan itu tidak otomatis menjadi bukti rasional mengenai sifat orang yang dibicarakan.
+
+Jika seorang penyair mengatakan bahwa seseorang adalah bulan, pendengar memahami bahwa itu merupakan gambaran kiasan, bukan pernyataan literal bahwa orang tersebut benar-benar benda langit.
+
+Demikian pula, ungkapan yang membandingkan seseorang dengan buah tertentu dapat menjadi bagian dari gaya bahasa dan imajinasi.
+
+Dosen menggunakan contoh ini untuk membedakan ungkapan yang indah secara imajinatif dari pembicaraan yang disusun untuk meyakinkan dan memengaruhi pendengar mengenai persoalan tertentu.
+
+Khitobah, dalam pengertian yang dijelaskan, tidak cukup hanya mengandung bahasa yang indah atau gambaran imajinatif. Ia harus mempunyai hubungan dengan realitas, alasan yang dapat diterima, dan tujuan memengaruhi pendengar.
+
+Oleh karena itu, dosen kembali menegaskan empat unsur pokok khitobah: الجمهور, المشافهة, الإقناع, dan التأثير atau استمالة.
+
+Keempat unsur itu harus hadir agar pembicaraan dapat menjalankan fungsinya sebagai khitobah dalam pengertian teknis yang dipaparkan dalam kuliah.
+
+---
+
+# BAGIAN KEEMPAT: ASAL-USUL KHITABAH DAN KEDUDUKANNYA DALAM KEHIDUPAN MANUSIA
+
+## XII. KHITABAH ADA BERSAMA KEHIDUPAN MANUSIA
+
+Dosen kemudian menjelaskan bahwa الخطابة secara umum tidak baru muncul pada masa Islam.
+
+Menurut penjelasannya, apabila yang dimaksud adalah khitobah keagamaan Islam, maka pembahasannya memang berkaitan dengan munculnya Islam, Al-Qur'an, dan Sunnah. Akan tetapi, apabila yang dimaksud adalah kemampuan manusia berbicara kepada orang lain untuk menyampaikan gagasan dan memengaruhi mereka, khitobah telah ada sejak manusia mulai hidup bersama.
+
+Dosen menolak anggapan bahwa khitobah secara umum baru muncul setelah turunnya Al-Qur'an atau setelah penyampaian Sunnah Nabi Muhammad ﷺ.
+
+Alasannya, khitobah dalam arti luas merupakan bentuk komunikasi yang timbul karena manusia mempunyai kebutuhan untuk mengungkapkan gagasan, menjelaskan sesuatu, menyatakan keinginan, dan memengaruhi orang lain.
+
+Selama terdapat manusia yang berbicara kepada manusia lain untuk menyampaikan maksudnya, terdapat kegiatan komunikasi yang berhubungan dengan khitobah dalam pengertian umum.
+
+Dengan demikian, perlu dibedakan antara الخطابة secara umum dan الخطابة الدينية, yaitu khitobah yang secara khusus berhubungan dengan penyampaian ajaran agama.
+
+## XIII. KHITABAH PADA MASYARAKAT ARAB SEBELUM ISLAM
+
+Dosen memberikan contoh masyarakat Arab sebelum Islam.
+
+Masyarakat Arab telah mengenal kegiatan menyampaikan pidato, bersyair, mengucapkan prosa, serta bertukar gagasan melalui bahasa lisan.
+
+Dosen menyebut سوق عكاظ, yaitu Pasar Ukaz, sebagai tempat berlangsungnya kegiatan komunikasi dan pertukaran sastra di kalangan orang Arab sebelum datangnya Islam.
+
+Dalam penjelasan dosen, masyarakat berkumpul di tempat semacam itu dan saling menyampaikan syair, prosa, pidato, dan berbagai bentuk ungkapan lisan.
+
+Keberadaan kegiatan tersebut menunjukkan bahwa kemampuan berpidato tidak baru muncul bersama khotbah Islam. Kegiatan berbicara di hadapan orang lain telah ada sebelumnya, sesuai dengan kebutuhan manusia dalam kehidupan sosial.
+
+Namun, dosen menegaskan bahwa adanya khitobah sebelum Islam tidak berarti bahwa khotbah keagamaan Islam juga telah ada dalam bentuk yang sama. Khitobah keagamaan Islam berkaitan dengan ajaran Islam dan sumber-sumber yang dibawanya.
+
+Dalam penjelasannya, khitobah Arab yang telah ada sebelum Islam kemudian mengalami pengaruh dari ajaran Islam. Islam memberikan kandungan dan makna keagamaan kepada sebagian bentuk khitobah sehingga berkembang menjadi الخطابة الدينية.
+
+Dengan demikian, khitobah umum mendahului khitobah keagamaan Islam dari segi sejarah manusia, sementara khitobah keagamaan Islam berkembang bersama munculnya Islam dan penyampaian ajarannya.
+
+## XIV. KHITABAH SEBAGAI SARANA MENGUNGKAPKAN DIRI DAN MEMPERTAHANKAN KEDUDUKAN SOSIAL
+
+Dosen menekankan bahwa manusia memerlukan khitobah karena ia ingin mengungkapkan dirinya kepada orang lain.
+
+Ketika seseorang berbicara kepada orang lain, ia dapat menyampaikan pengetahuan, meminta sesuatu, mempertahankan pendapat, menjelaskan perasaan, atau mengemukakan alasan mengenai suatu persoalan.
+
+Khitobah dalam arti luas merupakan sarana manusia menyampaikan keberadaan dan maksudnya kepada masyarakat.
+
+Dosen menghubungkan fungsi tersebut dengan hadis Nabi Muhammad ﷺ:
+
+«إِنَّ مِنَ الْبَيَانِ لَسِحْرًا».
+
+Artinya, sesungguhnya sebagian البيان mempunyai daya seperti sihir.
+
+Dosen menggunakan hadis tersebut untuk menggambarkan kuatnya pengaruh bahasa yang fasih dan tersusun dengan baik.
+
+Ketika seseorang mendengarkan ungkapan yang indah dan meyakinkan, ia dapat merasakan pengaruhnya sampai ke dalam hati. Dosen menggambarkan bahwa ucapan yang baik tidak hanya mempunyai keindahan pada susunan kata, tetapi juga dapat menghasilkan pengaruh emosional.
+
+Dengan demikian, khitobah merupakan bagian penting dari kehidupan manusia karena melalui bahasa, seseorang dapat mengungkapkan dirinya dan memengaruhi hubungan sosial.
+
+## XV. KHITABAH, ZAMANNYA, DAN PERSAINGAN ANTARKABILAH
+
+Dosen kemudian menghubungkan khitobah dengan kecenderungan masyarakat Arab untuk mencari kepemimpinan atau الزعامة.
+
+Menurut penjelasannya, antarkabilah Arab pernah mengalami persaingan mengenai siapa yang lebih kuat, siapa yang lebih layak memimpin, dan siapa yang paling berhak memperoleh kedudukan terhormat.
+
+Persaingan tersebut tidak selalu langsung diwujudkan melalui perang. Sebelum terjadi pertarungan fisik, pihak-pihak yang bersaing perlu membangun keyakinan bahwa kelompok mereka memiliki keunggulan.
+
+Khitobah menjadi salah satu sarana untuk mencapai tujuan itu.
+
+Suatu kabilah dapat menyampaikan pidato yang menonjolkan kekuatan, keberanian, kehormatan, dan kedudukan leluhurnya. Mereka mengemukakan bahwa kelompoknya lebih kuat daripada kelompok lain dan lebih layak memperoleh kepemimpinan.
+
+Dalam rekaman, dosen memberikan gambaran tentang klaim suatu kelompok yang mengatakan bahwa mereka mempunyai kekuatan dan kedudukan terhormat, sedangkan kelompok lain dipandang lebih rendah.
+
+Tujuan penyampaian semacam itu adalah membangun kepercayaan bahwa kelompok yang sedang berbicara lebih berhak menjadi pemimpin.
+
+Dosen juga menjelaskan bahwa persaingan kepemimpinan dapat mendorong permusuhan antarkabilah. Ketika setiap kabilah berusaha mempertahankan kehormatan dan kedudukannya, khitobah digunakan untuk memperkuat solidaritas kelompok serta membenarkan tuntutan mereka.
+
+Karena itu, khitobah mempunyai fungsi sosial dan politik yang besar. Ia dapat digunakan untuk membangun dukungan, menggerakkan masyarakat, mempertahankan kedudukan, dan mempersiapkan orang menghadapi konflik.
+
+### 1. Hubungan khitobah dengan perang
+
+Dosen mengajukan pertanyaan: sebelum seseorang mengangkat pedang dan berperang, apa yang membuatnya terdorong untuk berperang?
+
+Dalam penjelasannya, salah satu unsur yang dapat menggerakkan manusia adalah khitobah. Pidato dapat membangkitkan semangat, menegaskan kepentingan kelompok, membangkitkan keberanian, dan membuat orang menerima alasan untuk melakukan tindakan tertentu.
+
+Dengan demikian, khitobah tidak hanya berfungsi setelah suatu konflik terjadi. Ia juga dapat berperan sebelum konflik berlangsung, ketika orang-orang dibujuk atau didorong untuk mengambil tindakan.
+
+Hal ini kembali menunjukkan hubungan antara kemampuan menyampaikan bahasa dan pengaruhnya terhadap masyarakat.
+
+## XVI. KEDUDUKAN KHITABAH DALAM KEHIDUPAN POLITIK DAN PENDIDIKAN MASA LALU
+
+Dosen kemudian memberikan gambaran historis mengenai kedudukan khitobah dalam kehidupan politik dan pendidikan pada masa lalu.
+
+Dalam penjelasannya, sekitar abad kesembilan belas atau kira-kira seratus tahun sebelumnya, khitobah mempunyai kedudukan yang kuat dalam kehidupan masyarakat dan pemerintahan.
+
+Dosen menyatakan bahwa berbagai jabatan penting berkaitan dengan kemampuan berbicara dan menyampaikan argumentasi. Ia menyebut hakim, mufti, polisi, dan pejabat atau anggota militer sebagai contoh dalam pembahasan tersebut.
+
+Dalam rekaman, dosen menggambarkan adanya lembaga atau sekolah yang mengajarkan khitobah kepada orang-orang yang mempersiapkan diri untuk menjalankan jabatan tertentu. Menurut uraian tersebut, kemampuan berpidato dan menyampaikan alasan menjadi keterampilan penting bagi orang yang ingin memperoleh kedudukan tinggi.
+
+Rincian historis mengenai apakah setiap jabatan yang disebut benar-benar mensyaratkan kelulusan dari lembaga khusus khitobah tidak dijelaskan secara lengkap dalam rekaman. Karena itu, keterangan ini dipertahankan sebagai gambaran yang disampaikan dosen, bukan sebagai rincian administratif yang telah dibuktikan satu per satu.
+
+Dosen kemudian menyebut beberapa tokoh politik yang dikenal sebagai orator, antara lain مصطفى كامل dan سعد زغلول. Terdapat satu nama lain di antara keduanya dalam transkripsi, tetapi penulisannya tidak terdengar dengan jelas sehingga tidak dapat dipastikan.
+
+Tokoh-tokoh tersebut digunakan sebagai contoh pemimpin politik yang mempunyai kemampuan berbicara di hadapan masyarakat.
+
+Dosen menjelaskan bahwa para pemimpin partai politik juga perlu mempunyai kemampuan khitobah yang kuat. Mereka harus menyampaikan tujuan, membangkitkan dukungan, dan meyakinkan masyarakat mengenai gagasan yang diperjuangkannya.
+
+Karena kemampuan ini mempunyai pengaruh luas, khitobah pada masa yang dibicarakan dosen memiliki kedudukan sosial dan politik yang sangat penting.
+
+---
+
+# BAGIAN KELIMA: TAHAPAN PENYUSUNAN KHOTBAH
+
+## XVII. PENJELASAN UMUM TENTANG مَرَاحِلُ إِعْدَادِ الْخُطْبَةِ
+
+Setelah menjelaskan pengertian, unsur, dan sejarah khitobah, dosen beralih kepada مراحل إعداد الخطبة, yaitu tahapan penyusunan atau persiapan khotbah.
+
+Dosen mengutip penjelasan yang dinisbatkan kepada الشيخ محمد أبو زهرة رحمه الله. Dalam kutipan tersebut, proses mempersiapkan khotbah mencakup pengumpulan unsur atau bahan pembicaraan, pengaturan setiap unsur pada tempatnya, kemudian penyampaian atau perumusan bahan tersebut dengan bahasa yang sesuai.
+
+Dalam transkripsi, kutipan itu tidak seluruhnya terdengar jelas, tetapi inti penjelasannya adalah bahwa khatib perlu mengumpulkan unsur-unsur yang hendak disampaikan terlebih dahulu, kemudian menatanya, dan akhirnya merumuskannya dalam bentuk penyampaian lisan.
+
+Dosen menegaskan bahwa tahap-tahap tersebut merupakan bagian paling penting dalam penyusunan khotbah. Seorang khatib yang ingin berbicara tentang suatu tema tidak seharusnya langsung berbicara tanpa terlebih dahulu menentukan tema, memilih unsur-unsur pembahasan, dan mengatur cara penyampaiannya.
+
+Tahapan penyusunan khotbah yang dibahas dalam kuliah mencakup pemilihan الموضوع, pengaturan dan penyusunan العناصر, serta الصياغة أو التعبير الخطابي. Setelah itu, khotbah diselesaikan melalui الخاتمة.
+
+Dosen juga menjelaskan bahwa pekerjaan tersebut dapat dilakukan dalam waktu yang singkat atau dalam waktu yang panjang. Jika seseorang telah mempersiapkan suatu khotbah sejak jauh hari, ia dapat memikirkan bahan dan menyusun unsur-unsurnya secara bertahap. Namun, jika seseorang harus menyampaikan pembicaraan dalam waktu yang lebih singkat, beberapa proses mungkin dilakukan dalam waktu yang lebih cepat.
+
+Bagian rekaman yang membicarakan berapa lama setiap proses dilakukan tidak seluruhnya jelas. Akan tetapi, gagasan utamanya adalah bahwa persiapan khotbah mencakup sejumlah pekerjaan yang dapat berlangsung sebelum penyampaian dilakukan.
+
+## XVIII. TAHAP PERTAMA: اخْتِيَارُ الْمَوْضُوعِ — MEMILIH TEMA KHOTBAH
+
+### 1. Pentingnya pemilihan tema
+
+Dosen menjelaskan bahwa tahap pertama dalam penyusunan khotbah adalah اختيار الموضوع, yaitu memilih tema.
+
+Pemilihan tema tidak boleh dilakukan secara sembarangan. Khatib perlu memikirkan persoalan apa yang akan disampaikan dan mengapa persoalan itu layak dibicarakan di hadapan pendengar.
+
+Dosen menekankan bahwa موضوع khotbah sebaiknya نابع من المجتمع, yaitu berasal dari persoalan atau kebutuhan masyarakat. Tema harus mempunyai hubungan dengan keadaan pendengar, tingkat pengetahuan mereka, dan persoalan yang sedang mereka hadapi.
+
+Jika suatu masalah sedang dialami masyarakat, khatib dapat memilih masalah itu sebagai tema agar pembicaraannya relevan dengan kehidupan pendengar.
+
+Sebaliknya, jika khatib memilih tema yang tidak mempunyai hubungan yang jelas dengan kebutuhan mereka, pembicaraan mungkin kurang menarik atau kurang bermanfaat bagi pendengar.
+
+Karena itu, اختيار الموضوع memerlukan pemikiran dan pengamatan terhadap keadaan masyarakat.
+
+### 2. Menyesuaikan tema dengan keadaan masyarakat
+
+Dosen memberikan beberapa contoh.
+
+Jika masyarakat sedang menghadapi wabah penyakit atau krisis kesehatan, khatib dapat membahas wabah tersebut dan menghubungkannya dengan ajaran Al-Qur'an, Sunnah, serta pelajaran dari kehidupan para sahabat.
+
+Dosen menyebut pandemi كورونا sebagai contoh masalah yang dapat menjadi bahan khotbah. Ketika terjadi masalah kesehatan yang meluas, khatib dapat membahas sikap seorang Muslim dalam menghadapi wabah dan tindakan yang perlu dilakukan.
+
+Ia kemudian mengingatkan kisah ketika Umar رضي الله عنه menghadapi persoalan mengenai wilayah yang sedang dilanda penyakit menular. Dalam percakapan yang digambarkan dosen, muncul pertanyaan apakah seseorang sedang menghindari takdir Allah ketika memutuskan untuk tidak memasuki wilayah yang terkena wabah.
+
+Dosen menyebut jawaban Umar dengan ungkapan:
+
+«نَفِرُّ مِنْ قَدَرِ اللَّهِ إِلَى قَدَرِ اللَّهِ».
+
+Artinya, kita berpindah dari satu ketentuan Allah menuju ketentuan Allah yang lain.
+
+Dalam transkripsi, terdapat tambahan penjelasan yang terdengar seperti «كُلُّهَا أَرْضُ اللَّهِ», yaitu semua wilayah merupakan bumi Allah. Namun, rincian lengkap percakapan itu tidak seluruhnya tertangkap dengan jelas.
+
+Dosen menggunakan kisah tersebut untuk menunjukkan bahwa persoalan yang sedang dihadapi masyarakat dapat dijelaskan dengan mengambil pelajaran dari sejarah dan ajaran agama.
+
+Jika masyarakat sedang menghadapi masalah kesehatan, khatib dapat menggunakan persoalan itu sebagai pintu masuk untuk menjelaskan sikap yang tepat berdasarkan Al-Qur'an, Sunnah, serta contoh yang relevan dari kehidupan para sahabat.
+
+### 3. Contoh masalah pendidikan
+
+Dosen kemudian memberikan contoh mengenai pendidikan.
+
+Jika masyarakat sedang menghadapi persoalan pendidikan, termasuk pemogokan atau gangguan dalam kegiatan belajar, khatib dapat membahas pentingnya pendidikan serta cara mengatasi persoalan tersebut.
+
+Ia juga menyebut kemungkinan membahas وجه الإنفاق في التعليم, yaitu aspek pengeluaran atau pembiayaan untuk pendidikan, dan mengapa pengeluaran tersebut dapat menjadi bentuk pemberian manfaat yang besar bagi masyarakat.
+
+Dosen menegaskan bahwa pendidikan mempunyai peranan penting dalam kemajuan suatu bangsa.
+
+Ilmu pengetahuan menghasilkan tenaga-tenaga yang dibutuhkan masyarakat, seperti dokter yang merawat orang sakit, petani, dan insinyur pertanian yang berperan dalam produksi pangan.
+
+Dalam penjelasan dosen, kehidupan manusia sangat bergantung pada ilmu. Tanpa ilmu, masyarakat akan kesulitan menghasilkan tenaga ahli yang diperlukan untuk memenuhi kebutuhan dasar dan mengembangkan berbagai bidang kehidupan.
+
+Karena itu, ketika masyarakat sedang menghadapi persoalan mengenai pendidikan, tema tersebut layak diangkat dalam khotbah karena berhubungan langsung dengan kebutuhan masyarakat.
+
+### 4. Tema harus sesuai dengan keadaan dan tingkat pendengar
+
+Dosen menekankan kembali bahwa pemilihan tema tidak cukup hanya berdasarkan ketertarikan pribadi khatib.
+
+Khatib perlu mempertimbangkan apakah tema itu penting bagi pendengar, apakah mereka dapat memahami persoalannya, dan apakah tema itu sesuai dengan keadaan yang sedang berlangsung.
+
+Jika khatib hendak membahas suatu topik yang luas, ia perlu menentukan sudut pembicaraan yang paling bermanfaat bagi pendengar.
+
+Sebagai contoh, suatu masalah dapat dibahas dari sudut pandang Al-Qur'an, Sunnah, sejarah, atau kehidupan masyarakat. Namun, pemilihan sudut pandang tersebut harus mempertimbangkan tujuan khotbah dan kebutuhan pendengar.
+
+Dosen menegaskan bahwa tema khotbah harus memiliki hubungan dengan kehidupan nyata, bukan hanya berupa persoalan abstrak yang tidak dipahami pendengar.
+
+Dengan demikian, اختيار الموضوع menjadi tahap pertama yang menentukan arah keseluruhan khotbah.
+
+---
+
+## XIX. TAHAP KEDUA: تَرْتِيبُ الْعَنَاصِرِ وَتَنْسِيقُهَا — MENYUSUN UNSUR-UNSUR PEMBAHASAN
+
+### 1. Pentingnya menyusun unsur secara runtut
+
+Setelah memilih tema, tahap berikutnya adalah ترتيب العناصر, yaitu menyusun unsur-unsur pembahasan.
+
+Dosen menjelaskan bahwa suatu tema biasanya mengandung beberapa bagian atau unsur. Khatib harus menentukan unsur apa saja yang akan dibahas dan bagaimana urutannya.
+
+Unsur-unsur tersebut tidak boleh ditempatkan secara sembarangan. Mereka harus saling berhubungan sehingga satu bagian mengantarkan pendengar kepada bagian berikutnya.
+
+Dosen menggunakan ungkapan bahwa setiap unsur harus يسلم بعضه بعضًا, yaitu saling mengantarkan atau menyerahkan pembahasan kepada unsur selanjutnya.
+
+Dengan demikian, pendengar tidak merasa bahwa khatib melompat secara tiba-tiba dari suatu persoalan ke persoalan lain.
+
+Tujuannya adalah menghindari الفجوة, yaitu kesenjangan atau celah dalam alur pembahasan.
+
+Jika khotbah mempunyai celah yang terlalu besar antara satu gagasan dan gagasan berikutnya, pendengar mungkin tidak memahami hubungan yang dimaksud khatib.
+
+Sebaliknya, jika unsur-unsurnya tersusun dengan baik, pendengar dapat mengikuti alur pembahasan dan memahami mengapa suatu gagasan perlu dilanjutkan dengan gagasan berikutnya.
+
+### 2. Contoh tema tentang iman
+
+Dosen memberikan contoh mengenai tema الإيمان, yaitu iman.
+
+Jika seseorang memilih iman sebagai tema khotbah, ia perlu menentukan unsur-unsur pembahasannya. Salah satu kemungkinan adalah memulai dengan pengertian iman agar pendengar memahami istilah yang digunakan.
+
+Setelah menjelaskan pengertian iman, khatib dapat membahas ايمان المسلم بربه, yaitu keimanan seorang Muslim kepada Tuhannya.
+
+Setelah itu, ia dapat beralih kepada hubungan iman dengan kehidupan pribadi seseorang. Dosen juga menyebut iman seorang Muslim terhadap dirinya sendiri, kemudian hubungan iman dengan masyarakat.
+
+Selanjutnya, khatib dapat membahas أثر الإيمان على الفرد والمجتمع, yaitu pengaruh iman terhadap individu dan masyarakat.
+
+Dengan urutan seperti ini, khotbah bergerak dari definisi menuju penerapan dan dampak. Pendengar terlebih dahulu memahami apa yang dimaksud dengan iman, lalu mempelajari hubungannya dengan diri sendiri, kehidupan sosial, dan berbagai dampaknya.
+
+Dosen juga menyebut kemungkinan membahas أهمية الإيمان, yaitu pentingnya iman; الإيمان بالقضاء والقدر, yaitu iman kepada takdir; serta perbedaan antara الإسلام dan الإيمان.
+
+Unsur-unsur tersebut dapat ditambahkan apabila sesuai dengan tema dan tujuan khotbah.
+
+### 3. Tidak boleh ada lompatan tanpa hubungan
+
+Dosen kemudian mengajukan pertanyaan kepada mahasiswa: ketika mengikuti contoh susunan unsur tadi, apakah mereka merasakan adanya فجوة?
+
+Maksudnya, apakah pembahasan berpindah dari satu persoalan ke persoalan lain tanpa hubungan yang jelas?
+
+Dalam susunan yang dijelaskan dosen, unsur-unsur tersebut saling berkaitan. Definisi iman memberikan dasar untuk membahas penerapan iman, lalu penerapan tersebut mengantarkan kepada pembahasan dampaknya terhadap kehidupan.
+
+Dengan demikian, ترتيب العناصر bukan sekadar membuat daftar subtopik. Penyusunan itu harus mempertimbangkan hubungan penalaran antara satu unsur dengan unsur lainnya.
+
+### 4. Contoh susunan lain mengenai iman
+
+Dosen juga menyebut susunan alternatif.
+
+Setelah menjelaskan definisi iman, khatib dapat membahas pentingnya iman dalam kehidupan Muslim. Kemudian ia dapat membahas iman kepada takdir, hubungan iman dengan kehidupan pribadi, serta dampaknya terhadap individu dan masyarakat.
+
+Urutan tersebut mungkin berbeda dari contoh sebelumnya, tetapi tetap harus mempunyai kesinambungan.
+
+Dosen menjelaskan bahwa suatu tema dapat dikembangkan dengan beberapa unsur. Namun, unsur-unsur tersebut harus diatur sedemikian rupa sehingga pendengar merasa bahwa pembicaraan bergerak secara wajar menuju tujuan yang hendak dicapai.
+
+Karena itu, penyusunan unsur merupakan tahap penting dalam persiapan khotbah. Khatib perlu berpikir bukan hanya mengenai apa yang ingin dikatakan, tetapi juga urutan yang paling mudah diikuti pendengar.
+
+---
+
+## XX. TAHAP KETIGA: الصِّيَاغَةُ وَالتَّعْبِيرُ الْخِطَابِيُّ — MERUMUSKAN BAHASA KHOTBAH
+
+### 1. Pengertian الصياغة
+
+Setelah tema dan unsur-unsurnya ditentukan, tahap berikutnya adalah الصياغة atau التعبير الخطابي, yaitu merumuskan unsur-unsur tersebut menjadi bahasa khotbah.
+
+Dosen menjelaskan bahwa seorang khatib tidak cukup hanya mempunyai tema dan daftar unsur yang tersusun dengan baik. Ia masih perlu memilih kata, kalimat, dan gaya penyampaian yang sesuai.
+
+Pada tahap inilah pengetahuan bahasa dan keterampilan berbicara digunakan untuk menyampaikan isi pembahasan kepada pendengar.
+
+Khatib harus mempertimbangkan bagaimana sebuah kalimat akan terdengar ketika diucapkan, apakah maknanya jelas, dan apakah pendengar dapat memahaminya.
+
+### 2. Memilih kata yang mudah dipahami
+
+Dosen menekankan bahwa gaya bahasa khotbah harus menyesuaikan kemampuan pendengar.
+
+Jika seorang khatib memilih kata-kata yang sangat sulit, kuat, atau berbelit-belit, tetapi pendengar tidak memahami maknanya, tujuan khotbah tidak akan tercapai dengan baik.
+
+Dosen menggambarkan penggunaan ungkapan yang terlalu جَزْلَة, yaitu ungkapan yang kuat atau tinggi dari segi bahasa, tetapi tidak dipahami masyarakat.
+
+Ia mempertanyakan manfaatnya: apa gunanya merumuskan topik dengan kata-kata yang indah apabila pendengar tidak dapat memahami isinya?
+
+Karena itu, seorang khatib perlu memilih ungkapan yang jelas, tepat, dan mudah dipahami oleh masyarakat yang dihadapinya.
+
+Keindahan bahasa tetap penting, tetapi tidak boleh menyebabkan isi khotbah kehilangan keterjangkauannya bagi pendengar.
+
+### 3. Menjaga hubungan antara bahasa dan tujuan
+
+Dosen menekankan bahwa الصياغة tidak dapat dipisahkan dari tujuan khotbah.
+
+Jika tujuan khotbah adalah menjelaskan suatu persoalan kepada masyarakat, bahasa yang digunakan harus membantu mereka memahami persoalan itu.
+
+Jika tujuan khotbah adalah memperingatkan pendengar terhadap suatu tindakan, kata-kata dan susunan kalimatnya perlu mendukung fungsi peringatan.
+
+Jika tujuan khotbah adalah mendorong pendengar melakukan kebaikan, gaya bahasa harus membantu menyampaikan nilai kebaikan tersebut dengan cara yang dapat dipahami dan dirasakan.
+
+Dengan demikian, pemilihan kata bukan hanya persoalan keindahan. Ia juga berkaitan dengan ketepatan makna, keadaan pendengar, dan tujuan pembicaraan.
+
+### 4. Hubungan الصياغة dengan tahapan sebelumnya
+
+Dosen kemudian menghubungkan الصياغة dengan tahap pemilihan tema dan penyusunan unsur.
+
+Tema menentukan arah khotbah. Unsur-unsur menentukan bagian-bagian yang akan dijelaskan dan urutannya. Adapun الصياغة menentukan bagaimana seluruh unsur itu dirumuskan menjadi pembicaraan yang dapat disampaikan secara lisan.
+
+Jika tema sudah tepat dan unsur-unsurnya sudah tersusun, tetapi bahasanya sulit dipahami, khotbah masih belum mencapai tujuan secara optimal.
+
+Sebaliknya, bahasa yang indah tidak dapat sepenuhnya menyelamatkan khotbah yang temanya tidak relevan atau susunan gagasannya tidak teratur.
+
+Karena itu, ketiga tahap tersebut perlu saling mendukung.
+
+---
+
+## XXI. TAHAP AKHIR PENYUSUNAN: الْخَاتِمَةُ
+
+Dosen menjelaskan bahwa setelah tema dipilih, unsur-unsurnya disusun, dan keseluruhan pembahasan dirumuskan, khatib perlu mempersiapkan الخاتمة, yaitu penutup khotbah.
+
+Dalam penjelasan umum mengenai مراحل إعداد الخطبة, penutup merupakan bagian yang mengakhiri keseluruhan pembahasan.
+
+Dosen belum membahas secara terperinci semua bagian yang seharusnya terdapat dalam penutup. Ia menyatakan bahwa pembahasan yang lebih terperinci tentang pembukaan, isi, dan penutup akan diberikan pada perkuliahan berikutnya.
+
+Namun, ia menekankan bahwa penutup termasuk dalam persiapan khotbah dan tidak seharusnya diabaikan.
+
+Khatib perlu mengetahui bagaimana mengakhiri pembicaraan setelah seluruh unsur utama disampaikan. Dengan demikian, keseluruhan khotbah mempunyai akhir yang sesuai dengan alur pembahasannya.
+
+## XXII. PERBEDAAN مَرَاحِلُ إِعْدَادِ الْخُطْبَةِ DAN أَرْكَانُ الْخُطْبَةِ
+
+Pada bagian ini, dosen memberikan penekanan khusus agar mahasiswa tidak mencampuradukkan مراحل إعداد الخطبة dengan أركان الخطبة.
+
+مراحل إعداد الخطبة adalah tahapan yang dilakukan untuk mempersiapkan khotbah, yaitu memilih tema, menyusun unsur pembahasan, dan merumuskan bahasa penyampaiannya.
+
+Adapun أركان الخطبة adalah bagian-bagian utama yang membentuk struktur khotbah itu sendiri.
+
+Dosen kemudian menjelaskan bahwa struktur khotbah dibagi menjadi tiga bagian utama:
+
+الْمُقَدِّمَةُ، الْمَوْضُوعُ، الْخَاتِمَةُ.
+
+المقدمة adalah pembukaan atau pengantar khotbah. الموضوع adalah bagian utama yang memuat isi pembahasan. Adapun الخاتمة adalah bagian penutup yang menyelesaikan keseluruhan khotbah.
+
+Dosen menegaskan bahwa ketiga bagian ini berbeda dari tahapan persiapan. Persiapan menjelaskan pekerjaan yang dilakukan khatib untuk menyusun khotbah, sedangkan أركان الخطبة menjelaskan struktur khotbah ketika disampaikan.
+
+### 1. Mengapa disebut أركان الخطبة?
+
+Dosen menghubungkan istilah ركن dengan pengertian bahwa rukun merupakan bagian dasar atau bagian yang membentuk sesuatu.
+
+Ia memberikan analogi melalui salat. Apabila suatu salat kehilangan salah satu rukunnya, salat tersebut tidak dianggap sah sesuai penjelasan yang digunakan dalam analogi itu.
+
+Dengan cara yang sama, dosen menjelaskan bahwa khotbah harus mempunyai bagian-bagian utama yang membentuk strukturnya.
+
+Dalam rekaman, dosen menyatakan bahwa khotbah yang tidak mempunyai المقدمة atau tidak mempunyai الخاتمة menghadapi persoalan dalam kelengkapan strukturnya.
+
+Ia menegaskan bahwa suatu khotbah harus memiliki pembukaan, isi utama, dan penutup agar membentuk susunan yang utuh.
+
+Namun, dosen belum menjelaskan secara lengkap seluruh rincian syarat dan unsur masing-masing bagian pada perkuliahan ini. Ia menyampaikan bahwa pembahasan terperinci mengenai أركان الخطبة akan dilanjutkan pada pertemuan berikutnya.
+
+Dengan demikian, mahasiswa perlu membedakan dua hal: bagaimana khotbah disiapkan dan bagaimana khotbah disusun ketika disampaikan.
+
+---
+
+# BAGIAN KEENAM: PENGEMBANGAN SENI PENYAMPAIAN DAN بيان مصور
+
+## XXIII. PENTINGNYA PENERAPAN PRAKTIS DALAM KHITABAH
+
+Setelah menjelaskan tahapan penyusunan khotbah, dosen kembali menekankan bahwa ilmu khitobah tidak cukup dipelajari secara teoretis.
+
+Pengetahuan mengenai tema, susunan unsur, dan pemilihan kata harus diterapkan ketika berbicara di hadapan pendengar.
+
+Dosen menyebut penggunaan لغة الجسد, yaitu bahasa tubuh, dan لغة الحوار, yaitu bahasa dialog atau cara berinteraksi dengan pendengar, sebagai keterampilan yang penting.
+
+Khatib perlu mengetahui bagaimana menggunakan ekspresi wajah, gerak tubuh, intonasi, dan pertanyaan untuk membantu pendengar memahami materi.
+
+Ia juga perlu memahami bagaimana sebuah gagasan dapat disampaikan sehingga pendengar tidak hanya mendengarkan kalimat, tetapi benar-benar membayangkan makna yang ingin dijelaskan.
+
+Dalam konteks inilah dosen membahas gagasan القلب المفكر dan البيان المصور.
+
+## XXIV. الْقَلْبُ الْمُفَكِّرُ: PEMIKIRAN YANG MENDALAM DALAM MENYUSUN KHOTBAH
+
+Dosen menyebut ungkapan القلب المفكر, yaitu hati atau batin yang berpikir.
+
+Dalam penjelasan kuliah, ungkapan tersebut berkaitan dengan kemampuan merenungkan dan memikirkan apa yang hendak disampaikan sebelum khotbah dirumuskan.
+
+Seorang khatib memerlukan pemikiran yang mendalam untuk menentukan judul, menyusun gagasan, memilih sudut pandang, serta mengetahui apa yang ingin disampaikan kepada pendengar.
+
+Sebagai contoh, khatib mungkin memilih tema الإيمان. Namun, ia dapat merumuskan tema itu dengan berbagai cara.
+
+Ia dapat menyampaikan judul yang hanya berbunyi “Iman”, atau memilih bentuk yang lebih terarah seperti «دَلَائِلُ الْإِيمَانِ فِي حَيَاةِ الْمُسْلِمِ», yaitu tanda-tanda atau bukti iman dalam kehidupan seorang Muslim.
+
+Dosen menjelaskan bahwa pilihan judul dapat memengaruhi cara pendengar memahami arah pembicaraan.
+
+Jika judul dirumuskan dengan baik, pendengar dapat memperoleh gambaran mengenai persoalan yang akan dibahas. Sebaliknya, judul yang tidak jelas mungkin membuat pendengar tidak mengetahui apa yang akan mereka pelajari.
+
+Karena itu, القلب المفكر dalam penjelasan dosen berhubungan dengan kemampuan merancang dan memikirkan keseluruhan khotbah sebelum menyampaikannya.
+
+## XXV. الْبَيَانُ الْمُصَوَّرُ: MENYAMPAIKAN GAGASAN SEAKAN-AKAN TERLIHAT
+
+Selain القلب المفكر, dosen menyebut البيان المصور, yaitu penyampaian yang membuat suatu gagasan seolah-olah tergambar di hadapan pendengar.
+
+Ia menjelaskan bahwa tujuan penyampaian bukan hanya membuat pendengar mendengar kalimat, melainkan membantu mereka membayangkan apa yang dijelaskan.
+
+Penyampaian yang baik dapat membuat suatu persoalan terasa konkret, seolah-olah pendengar melihatnya melalui suatu gambaran atau rangkaian adegan.
+
+Dosen menghubungkan hal ini dengan contoh-contoh yang berasal dari cara Rasulullah ﷺ mengajarkan sesuatu kepada para sahabat.
+
+## XXVI. CONTOH PERTAMA: EKSPRESI RASULULLAH ﷺ KETIKA BERKHUTBAH
+
+Dosen kembali menyebut keterangan mengenai cara Rasulullah ﷺ berkhutbah.
+
+Dalam rekaman, ungkapan yang dibacakan adalah:
+
+«كَانَ إِذَا خَطَبَ احْمَرَّ وَجْهُهُ وَعَلَا صَوْتُهُ».
+
+Artinya, ketika berkhutbah, wajah beliau memerah dan suara beliau meninggi.
+
+Dosen menggunakan contoh ini sebagai gambaran bahwa Rasulullah ﷺ menyampaikan khotbah dengan ekspresi dan intonasi yang berkaitan dengan isi pembicaraan.
+
+Beliau tidak selalu berbicara dengan wajah dan suara yang datar. Ekspresi wajah dan perubahan suara dapat menjadi bagian dari penyampaian makna.
+
+Dalam konteks البيان المصور, hal ini membantu pendengar memahami kesungguhan pesan yang sedang disampaikan.
+
+Dosen tidak mengatakan bahwa setiap khatib harus selalu meninggikan suara atau menunjukkan ekspresi tertentu. Yang ditekankan adalah kesesuaian antara cara menyampaikan, isi pesan, dan pengaruh yang hendak dihasilkan.
+
+## XXVII. CONTOH KEDUA: GARIS DI ATAS PASIR UNTUK MENJELASKAN JALAN ALLAH DAN JALAN-JALAN SETAN
+
+Dosen kemudian menceritakan contoh ketika Rasulullah ﷺ menjelaskan jalan yang lurus dan jalan-jalan lain yang menyimpang.
+
+Dalam penjelasan dosen, Rasulullah ﷺ mengambil sebatang ranting atau benda kecil dari tumbuhan, kemudian menggunakannya untuk membuat garis di atas pasir.
+
+Beliau menunjukkan satu garis lurus, lalu menunjukkan jalan-jalan lain yang bercabang atau menyebar ke berbagai arah.
+
+Dosen menghubungkan contoh ini dengan firman Allah:
+
+«وَأَنَّ هَذَا صِرَاطِي مُسْتَقِيمًا فَاتَّبِعُوهُ وَلَا تَتَّبِعُوا السُّبُلَ فَتَفَرَّقَ بِكُمْ عَنْ سَبِيلِهِ».
+
+Artinya, inilah jalan-Ku yang lurus, maka ikutilah jalan itu dan jangan mengikuti jalan-jalan lain yang akan memisahkan kalian dari jalan-Nya.
+
+Dosen menekankan perbedaan antara الصراط المستقيم, yaitu jalan yang lurus, dan السبل, yaitu jalan-jalan yang bercabang atau beragam.
+
+Garis lurus tersebut dapat menggambarkan satu jalan yang jelas, sedangkan garis-garis lainnya dapat memperlihatkan berbagai arah yang berbeda.
+
+Dengan menggunakan garis di atas pasir, Rasulullah ﷺ membuat makna ayat menjadi lebih mudah dipahami secara konkret. Para sahabat tidak hanya mendengar penjelasan verbal mengenai jalan yang lurus dan jalan-jalan lain, tetapi juga melihat representasi visualnya.
+
+Dosen menyebut cara tersebut sebagai البيان المصور karena makna disampaikan melalui gambaran yang dapat dilihat.
+
+Contoh tersebut menunjukkan bahwa penggunaan alat sederhana dapat membantu menjelaskan gagasan yang abstrak. Sebatang ranting dan permukaan pasir sudah dapat digunakan untuk membentuk suatu gambaran yang memperjelas pesan.
+
+Dosen menekankan bahwa penyampaian yang efektif tidak selalu memerlukan perangkat teknologi yang rumit. Yang penting adalah kemampuan memanfaatkan sarana yang tersedia untuk menggambarkan makna yang ingin disampaikan.
+
+## XXVIII. CONTOH KETIGA: MENGAJARKAN WUDU MELALUI PRAKTIK
+
+Dosen kemudian mengajukan pertanyaan tentang cara Rasulullah ﷺ mengajarkan wudu.
+
+Apakah beliau hanya menjelaskan wudu melalui teori, ataukah beliau juga memperlihatkan cara melakukannya?
+
+Dalam penjelasan dosen, demonstrasi praktis merupakan bagian penting dari penyampaian. Seseorang dapat mendengarkan penjelasan tentang wudu, tetapi melihat contoh pelaksanaannya dapat membantu memahami urutan dan bentuk tindakan yang dimaksud.
+
+Dengan demikian, pengajaran melalui praktik juga termasuk contoh البيان المصور.
+
+Dosen menggunakan contoh tersebut untuk menunjukkan bahwa suatu pengetahuan dapat dijelaskan tidak hanya melalui kata-kata, tetapi juga melalui tindakan yang dapat disaksikan.
+
+Dalam konteks khitobah, hal ini berarti bahwa khatib dapat memanfaatkan contoh nyata atau demonstrasi jika hal itu membantu pendengar memahami persoalan.
+
+## XXIX. CONTOH KEEMPAT: MANASIK HAJI DAN UNGKAPAN خُذُوا عَنِّي مَنَاسِكَكُمْ
+
+Dosen juga menyebut cara Rasulullah ﷺ mengajarkan manasik haji.
+
+Dalam penjelasannya, ketika Rasulullah ﷺ melaksanakan haji dan memperlihatkan berbagai rangkaian ibadahnya, beliau bersabda:
+
+«خُذُوا عَنِّي مَنَاسِكَكُمْ».
+
+Artinya, ambillah atau pelajarilah dariku tata cara manasik haji kalian.
+
+Dosen menggunakan contoh ini untuk menunjukkan bahwa pengajaran tidak selalu berlangsung melalui penjelasan teoretis. Praktik langsung dapat memperlihatkan bagaimana suatu ibadah dilakukan.
+
+Dengan melihat pelaksanaan manasik, orang-orang dapat mempelajari tindakan yang diperlukan melalui contoh yang mereka saksikan.
+
+Dosen kembali menegaskan bahwa Rasulullah ﷺ menggunakan sarana yang tersedia pada masa itu. Tidak diperlukan televisi atau perangkat visual modern untuk membuat penjelasan menjadi konkret.
+
+Garis di atas pasir, praktik wudu, dan pelaksanaan manasik haji merupakan contoh bahwa gagasan dapat diperlihatkan melalui benda atau tindakan yang tersedia.
+
+Dengan demikian, البيان المصور adalah seni menjadikan makna lebih konkret dan lebih mudah dipahami oleh pendengar melalui gambaran atau praktik.
+
+---
+
+# BAGIAN KETUJUH: TIGA TAHAP PENYUSUNAN KHOTBAH DAN PERBEDAANNYA DARI أَرْكَانُ الْخُطْبَةِ
+
+## XXX. TIGA TAHAP UTAMA DALAM PERSIAPAN
+
+Setelah menjelaskan pentingnya pemikiran dan gambaran konkret, dosen kembali merumuskan tahapan persiapan khotbah.
+
+Tahap pertama disebut إيجادًا أو اختراعًا dalam rekaman. Dosen menghubungkannya dengan memilih atau menentukan الموضوع, yaitu tema yang akan dibahas.
+
+Tahap kedua adalah التنسيق, yaitu mengatur atau menyusun unsur-unsur pembahasan. Pada tahap ini, khatib menentukan unsur mana yang didahulukan dan unsur mana yang diletakkan setelahnya.
+
+Tahap ketiga adalah الصياغة أو التعبير الخطابي, yaitu merumuskan susunan gagasan menjadi bahasa khotbah yang siap disampaikan secara lisan.
+
+Dosen menjelaskan bahwa pemilihan tema berkaitan dengan penentuan apa yang hendak disampaikan. التنسيق berkaitan dengan pengaturan bagian-bagian materi. Adapun الصياغة berkaitan dengan penggunaan bahasa yang sesuai untuk menyampaikan materi kepada pendengar.
+
+Dalam transkripsi, penjelasan mengenai إيجادًا atau اختراعًا tidak diuraikan secara terminologis lebih jauh. Namun, dari hubungan dengan kalimat yang mengikutinya, dosen mengaitkannya dengan tahap memilih dan menetapkan tema.
+
+## XXXI. PENYUSUNAN UNSUR: التنسيق
+
+Dosen menjelaskan bahwa التنسيق berarti menyusun bagian-bagian pembahasan dengan cara yang tepat.
+
+Dalam praktiknya, khatib dapat memajukan atau mengakhirkan suatu unsur sesuai dengan hubungan dan kepentingannya. Namun, ia harus memastikan bahwa urutan tersebut tidak membuat pendengar kehilangan hubungan antara satu gagasan dan gagasan berikutnya.
+
+Contohnya, jika khatib membicarakan iman, ia dapat memulai dengan definisi iman, lalu menjelaskan pentingnya iman, kemudian membahas penerapannya terhadap individu dan masyarakat.
+
+Namun, urutannya tidak boleh dipilih secara acak. Khatib perlu mempertimbangkan bagian mana yang menjadi dasar bagi bagian berikutnya.
+
+Dengan demikian, التنسيق tidak hanya berarti menyusun daftar unsur, tetapi juga mengatur hubungan dan urutan penyampaian.
+
+## XXXII. PENYAMPAIAN DAN PENGARUHNYA TERHADAP PENDENGAR
+
+Setelah menentukan tema dan mengatur unsur-unsurnya, khatib harus menggunakan bahasa dan sarana penyampaian yang memungkinkan pendengar memahami serta merespons pesan.
+
+Dalam penjelasan dosen, fungsi pengaruh atau istimalah berkaitan dengan penggunaan cara-cara yang dapat membuat pendengar tertarik dan tergerak kepada sesuatu yang sedang diserukan.
+
+Bagian transkripsi yang secara khusus mendefinisikan suatu istilah tentang sarana-sarana untuk meyakinkan dan menarik pendengar tidak terdengar sepenuhnya jelas. Namun, uraian kuliah menegaskan bahwa tujuan khitobah adalah mengarahkan perhatian pendengar, menjelaskan makna, dan menghasilkan pengaruh.
+
+Dengan demikian, proses penyampaian bukan kegiatan tambahan yang tidak berkaitan dengan persiapan. Ia merupakan tahap yang memungkinkan tema dan unsur-unsur yang telah disusun menjadi pesan lisan yang dapat diterima.
+
+---
+
+## XXXIII. PERBEDAAN TAHAPAN PERSIAPAN DENGAN STRUKTUR KHOTBAH
+
+Pada bagian akhir, dosen kembali mengingatkan bahwa para penulis membedakan tahapan penyusunan khotbah dari unsur-unsur utama yang membentuk khotbah.
+
+Tahapan persiapan merupakan pekerjaan yang dilakukan khatib sebelum menyampaikan khotbah. Adapun struktur khotbah mencakup tiga bagian utama:
+
+الْمُقَدِّمَةُ، الْمَوْضُوعُ، الْخَاتِمَةُ.
+
+المقدمة adalah pembukaan khotbah.
+
+الموضوع adalah badan atau bagian utama khotbah, yaitu tempat unsur-unsur pembahasan disampaikan.
+
+الخاتمة adalah penutup khotbah.
+
+Dosen menjelaskan bahwa ketiga bagian itu merupakan أركان الخطبة dalam kerangka pembelajaran yang sedang disampaikan. Masing-masing mempunyai fungsi dan susunan tersendiri.
+
+Ia kemudian menegaskan bahwa pembahasan mendalam mengenai المقدمة, الموضوع, dan الخاتمة akan dilanjutkan pada perkuliahan berikutnya.
+
+### 1. المقدمة sebagai bagian pertama khotbah
+
+Dosen menyebut المقدمة sebagai pembukaan. Bagian tersebut mempunyai unsur-unsur yang akan dijelaskan lebih terperinci pada pertemuan berikutnya.
+
+Ia mengingatkan bahwa pembukaan bukan sekadar bagian yang boleh diabaikan. Pembukaan merupakan bagian dari struktur khotbah dan perlu disusun sesuai dengan tujuan pembicaraan.
+
+### 2. الموضوع sebagai badan utama khotbah
+
+Bagian kedua adalah الموضوع, yaitu badan utama pembahasan.
+
+Di dalamnya, khatib menyampaikan unsur-unsur yang telah dipilih dan disusun pada tahap persiapan.
+
+Dosen menghubungkan bagian ini dengan pembahasan sebelumnya tentang ترتيب العناصر dan التنسيق. Unsur-unsur yang telah disusun secara logis perlu disampaikan melalui struktur yang jelas sehingga pendengar dapat mengikuti perkembangan pembahasan.
+
+### 3. الخاتمة sebagai penutup khotbah
+
+Bagian ketiga adalah الخاتمة.
+
+Dosen menjelaskan bahwa penutup juga merupakan bagian dari struktur khotbah dan perlu disiapkan dengan baik. Ia menyatakan bahwa rincian unsur penutup akan dibahas pada pertemuan selanjutnya.
+
+Dosen menggunakan analogi mengenai ركن dalam salat. Sebagaimana rukun mempunyai kedudukan penting dalam membentuk suatu ibadah, unsur utama khotbah juga perlu diperhatikan agar khotbah tersusun secara lengkap.
+
+Dalam penjelasannya, khotbah tidak seharusnya dipahami hanya sebagai kumpulan kalimat panjang tanpa pembukaan, isi yang teratur, dan penutup.
+
+---
+
+# BAGIAN KEDELAPAN: KESIMPULAN MENYELURUH MATERI PERKULIAHAN
+
+## XXXIV. PENGERTIAN DAN DASAR KHITABAH
+
+Perkuliahan ini membahas ilmu khitobah sebagai seni menyampaikan gagasan kepada khalayak dengan tujuan meyakinkan dan memengaruhi mereka.
+
+Dosen membedakan خُطْبَةٌ, yang berarti khotbah atau pidato, dari خِطْبَةٌ, yang berkaitan dengan peminangan atau permintaan untuk menikah.
+
+Secara teknis, khitobah dijelaskan sebagai:
+
+«قِيَاسٌ مُرَكَّبٌ مِنْ مُقَدِّمَاتٍ مَقْبُولَةٍ أَوْ مَظْنُونَةٍ مِنْ شَخْصٍ مُعْتَقَدٍ فِيهِ، وَالْغَرَضُ مِنْهَا تَرْغِيبُ النَّاسِ فِيمَا يَنْفَعُهُمْ مِنْ أُمُورِ مَعَاشِهِمْ وَمَعَادِهِمْ».
+
+Definisi lain yang disampaikan adalah:
+
+«فَنُّ مُشَافَهَةِ الْجُمْهُورِ وَالْقُدْرَةُ عَلَى الْإِقْنَاعِ وَالتَّأْثِيرِ».
+
+Kedua rumusan tersebut menegaskan bahwa khitobah mengandung unsur penalaran, penerimaan terhadap premis, kepercayaan kepada pembicara, penyampaian secara lisan, dan tujuan memengaruhi pendengar.
+
+## XXXV. EMPAT UNSUR KHITABAH
+
+Dosen menjelaskan empat unsur pokok yang membentuk khitobah, yaitu الجمهور, المشافهة, الإقناع, dan التأثير atau استمالة.
+
+الجمهور adalah khalayak yang menjadi sasaran pembicaraan.
+
+المشافهة adalah penyampaian secara lisan kepada pendengar.
+
+الإقناع adalah kemampuan memberikan alasan dan penjelasan yang membuat pendengar menerima gagasan.
+
+التأثير atau استمالة adalah kemampuan menghasilkan pengaruh terhadap perasaan, kecenderungan, dan tindakan pendengar.
+
+Dosen menggunakan perumpamaan bahwa khitobah mempunyai dua sayap, yaitu الإقناع dan التأثير. Pembicaraan yang hanya indah atau imajinatif belum tentu dapat meyakinkan dan menggerakkan pendengar. Oleh karena itu, khitobah harus mempunyai tujuan, landasan yang dapat diterima, serta kemampuan memengaruhi.
+
+## XXXVI. SEJARAH DAN FUNGSI SOSIAL KHITABAH
+
+Dosen menjelaskan bahwa khitobah dalam pengertian umum telah ada sejak manusia mulai berkomunikasi. Ia tidak baru muncul setelah turunnya Al-Qur'an. Sebaliknya, khitobah keagamaan Islam berkembang bersama munculnya Islam dan penyampaian ajarannya.
+
+Contoh masyarakat Arab sebelum Islam, terutama kegiatan di سوق عكاظ, menunjukkan adanya pertukaran pidato, syair, prosa, dan berbagai bentuk komunikasi lisan.
+
+Khitobah juga berfungsi dalam persaingan sosial dan politik. Masyarakat dapat menggunakan pidato untuk mempertahankan kehormatan kelompok, menegaskan keunggulan kabilah, membangun dukungan, atau mendorong orang menghadapi konflik.
+
+Dosen kemudian menghubungkan sejarah itu dengan kedudukan khitobah dalam politik pada masa yang lebih kemudian, ketika sejumlah pemimpin dan tokoh politik dikenal karena kemampuan mereka berbicara di hadapan masyarakat.
+
+## XXXVII. TAHAPAN MENYUSUN KHOTBAH
+
+Tahapan persiapan khotbah dimulai dengan اختيار الموضوع, yaitu memilih tema yang relevan dengan kebutuhan masyarakat.
+
+Tema dapat berasal dari persoalan aktual, seperti wabah penyakit, krisis kesehatan, gangguan pendidikan, atau pentingnya ilmu bagi kemajuan masyarakat.
+
+Tahap berikutnya adalah ترتيب العناصر dan التنسيق, yaitu menyusun unsur-unsur pembahasan secara runtut. Setiap bagian harus mengantarkan kepada bagian berikutnya tanpa menghasilkan فجوة, yaitu celah yang membuat pendengar kehilangan hubungan antara gagasan.
+
+Tahap selanjutnya adalah الصياغة atau التعبير الخطابي, yaitu merumuskan bahan tersebut menjadi bahasa yang mudah dipahami oleh pendengar.
+
+Setelah itu, khatib mempersiapkan الخاتمة untuk mengakhiri keseluruhan pembahasan.
+
+Dosen menekankan bahwa semua tahapan itu memerlukan pemikiran dan latihan. Khatib tidak cukup hanya mempunyai tema yang baik, tetapi juga harus mampu menyusun gagasan dan memilih bahasa yang sesuai.
+
+## XXXVIII. PENTINGNYA القلب المفكر DAN البيان المصور
+
+Dosen menekankan bahwa seorang khatib memerlukan القلب المفكر, yaitu kemampuan memikirkan dan merancang pembahasan dengan baik, serta البيان المصور, yaitu cara penyampaian yang membuat gagasan seolah-olah terlihat di hadapan pendengar.
+
+Rasulullah ﷺ dijadikan contoh dalam menjelaskan البيان المصور. Dosen menyebut cara beliau menggunakan ekspresi dan intonasi ketika berkhutbah, menggambar garis di atas pasir untuk menjelaskan jalan yang lurus dan jalan-jalan yang menyimpang, memperlihatkan cara berwudu, serta menjalankan manasik haji sambil memerintahkan:
+
+«خُذُوا عَنِّي مَنَاسِكَكُمْ».
+
+Contoh-contoh tersebut menunjukkan bahwa penyampaian dapat menjadi lebih jelas ketika gagasan tidak hanya dijelaskan melalui kata-kata, tetapi juga diperlihatkan melalui gambaran konkret atau praktik nyata.
+
+## XXXIX. PERBEDAAN PERSIAPAN KHOTBAH DAN STRUKTUR KHOTBAH
+
+Dosen menutup pembahasan dengan membedakan مراحل إعداد الخطبة dari أركان الخطبة.
+
+Tahapan persiapan meliputi pemilihan tema, penyusunan unsur, dan perumusan bahasa.
+
+Adapun struktur utama khotbah mencakup:
+
+الْمُقَدِّمَةُ، الْمَوْضُوعُ، الْخَاتِمَةُ.
+
+Dosen menyatakan bahwa pembahasan terperinci mengenai bagian-bagian tersebut akan dilanjutkan pada pertemuan berikutnya. Dalam perkuliahan selanjutnya, mahasiswa akan mempelajari أركان المقدمة, susunan الموضوع, serta أركان الخاتمة.
+
+Dengan demikian, materi kuliah ini memberikan landasan mengenai pengertian khitobah, unsur-unsur yang membentuknya, sejarah dan fungsinya dalam kehidupan masyarakat, tahapan penyusunan khotbah, serta pentingnya kemampuan menyampaikan gagasan secara jelas dan berpengaruh.
+
+Dosen mengakhiri perkuliahan dengan salam:
+
+السَّلَامُ عَلَيْكُمْ وَرَحْمَةُ اللَّهِ وَبَرَكَاتُهُ
+
+Para mahasiswa menjawab:
+
+وَعَلَيْكُمُ السَّلَامُ وَرَحْمَةُ اللَّهِ

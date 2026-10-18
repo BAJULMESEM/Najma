@@ -1,0 +1,859 @@
+# ILMU MANTIQ: KONSEP القَضِيَّة الشَّرْطِيَّة, PEMBAGIAN القَضِيَّة المُتَّصِلَة, DAN HUBUNGAN ANTARA الْمُقَدَّم DAN التَّالِي
+
+## I. PEMBUKAAN PERKULIAHAN: PENTINGNYA KESUNGGUHAN DALAM BELAJAR MANTIQ
+
+### 1. Teguran dosen mengenai kebiasaan belajar mahasiswa
+
+Pada awal perkuliahan, dosen menyampaikan teguran mengenai rendahnya kesungguhan mahasiswa dalam mempelajari materi yang telah diajarkan. Ia memperkirakan bahwa hampir semua mahasiswa memiliki kitab atau bahan kuliah, tetapi tidak banyak yang benar-benar mempelajarinya kembali. Dosen kemudian menanyakan berapa orang yang sudah mengulang materi ilmu mantiq, baik bagian pertama yang dijelaskan oleh الدكتور عواد maupun bagian berikutnya yang dijelaskan oleh الدكتور جميل.
+
+Ketika dosen melihat mahasiswa yang mengangkat tangan, jumlahnya jauh lebih sedikit daripada jumlah mahasiswa yang hadir. Dalam perkiraannya, terdapat lebih dari 300 mahasiswa di ruangan tersebut, tetapi hanya sekitar 15 orang yang telah mempelajari kembali materi yang sudah diterangkan. Angka-angka ini merupakan perkiraan sebagaimana disampaikan dosen dalam perkuliahan.
+
+Dosen juga menyebut tanggal 18 Oktober sebagai waktu perkuliahan berlangsung dan mengingatkan bahwa perkuliahan telah dimulai sejak sekitar 19 September. Dengan demikian, mahasiswa telah mengikuti perkuliahan selama kurang lebih satu bulan. Menurut dosen, kitab atau bahan pelajaran pun telah berada di tangan mahasiswa selama sekitar dua minggu, tetapi sebagian besar belum memanfaatkannya untuk mengulang materi.
+
+Dosen mempertanyakan apakah mahasiswa menganggap ilmu mantiq sebagai pelajaran yang begitu mudah sehingga cukup dipelajari satu atau dua minggu sebelum ujian. Menurutnya, ilmu mantiq dan filsafat bukan materi yang seharusnya terus ditunda sampai mendekati ujian. Materi semestinya dipelajari kembali sejak minggu ketika materi itu diterangkan, sehingga pemahaman berkembang secara bertahap.
+
+Ia mengingatkan bahwa menunda pembelajaran akan membuat mahasiswa harus menghadapi banyak materi sekaligus pada akhir semester. Dalam semester tersebut, mahasiswa tidak hanya mempelajari mantiq, tetapi juga filsafat, علوم القرآن, khitobah, dan beberapa mata kuliah lainnya. Dosen juga menyinggung mata kuliah seperti tauhid, tafsir, hadis, dan نظم dalam penjelasannya mengenai banyaknya materi yang harus dipelajari. Rincian jumlah mata kuliah yang disebutkan dalam bagian ini tidak sepenuhnya jelas karena penjelasan lisan tersebut terekam secara tidak utuh.
+
+### 2. Menggunakan sumber belajar lain untuk mengulang materi
+
+Dosen kemudian menjelaskan bahwa mahasiswa tidak harus membatasi diri pada satu bahan atau satu cara belajar. Jika kitab terasa sulit dibaca atau membuat mahasiswa enggan memulai pembelajaran, mereka dapat menggunakan video pembelajaran di YouTube sebagai sarana mengulang materi.
+
+Menurut penjelasan dosen, kaidah-kaidah dasar mantiq yang dipelajari mahasiswa tidak berubah hanya karena dijelaskan dalam bahasa yang berbeda. Mahasiswa dapat mencari penjelasan dalam bahasa Arab, bahasa Indonesia, atau bahasa lain yang mereka pahami.
+
+Dosen mendorong mahasiswa agar tidak menjadikan kitab sebagai satu-satunya jalan untuk belajar, terutama jika mereka mengalami kesulitan memahami penjelasan tertulis. Mereka dapat mendengarkan uraian lain, mencocokkannya dengan materi perkuliahan, lalu kembali mempelajari kitab.
+
+Namun, dosen juga membedakan antara mantiq dan filsafat dalam kaitannya dengan ketersediaan materi daring. Menurut penjelasannya, mahasiswa mungkin lebih mudah menemukan video yang membahas kaidah mantiq, sedangkan bahan yang membahas filsafat dengan bahasa dan cara penyampaian yang sesuai belum tentu mudah ditemukan. Bagian rekaman mengenai rincian sumber video filsafat tidak sepenuhnya jelas, sehingga tidak dapat dipastikan lebih jauh.
+
+Inti teguran dosen adalah bahwa kesulitan memahami suatu mata kuliah seharusnya mendorong mahasiswa mencari cara belajar lain, bukan menjadi alasan untuk berhenti belajar. Jika penjelasan di kelas belum cukup, mahasiswa dapat mengulangnya melalui kitab, catatan, dan sumber pembelajaran lain.
+
+### 3. Tanggung jawab dosen dan tanggung jawab mahasiswa
+
+Dosen kemudian menjelaskan sikapnya sendiri terhadap proses pembelajaran. Ia menyatakan bahwa tanggung jawabnya adalah berusaha menyampaikan materi dan membantu mahasiswa memahami pelajaran sesuai dengan kemampuannya. Ia tidak mengklaim mampu memberikan pemahaman yang sempurna kepada setiap mahasiswa, tetapi merasa berkewajiban mengerahkan kemampuan yang dimilikinya agar orang yang benar-benar ingin belajar memperoleh pemahaman.
+
+Dosen menyampaikan bahwa apabila ia telah mencurahkan upaya untuk menerangkan materi, ia tidak dapat sepenuhnya memikul tanggung jawab jika mahasiswa sendiri tidak berusaha mempelajarinya. Ia juga menyinggung kemungkinan bahwa mahasiswa belum mencapai tingkat kelulusan atau hasil yang memuaskan apabila mereka tidak mengikuti penjelasan dan tidak mengulang materi. Penjelasan persis mengenai batas kepuasan dosen terhadap persentase kelulusan tidak sepenuhnya jelas dalam rekaman, tetapi gagasan yang ditekankan adalah bahwa dosen telah berusaha memberikan penjelasan, sedangkan mahasiswa juga harus menjalankan tanggung jawab belajarnya.
+
+Teguran tersebut kemudian dikaitkan dengan keadaan mahasiswa yang datang dari negara masing-masing ke Mesir untuk menuntut ilmu. Mereka meninggalkan orang tua, saudara, dan lingkungan keluarga, mengeluarkan uang untuk perjalanan serta kehidupan selama belajar, dan harus menanggung kerinduan terhadap keluarga.
+
+Dosen menyebut perkiraan waktu perjalanan dengan pesawat dari beberapa negara, tetapi nama negara dan rincian waktunya dalam bagian ini tidak sepenuhnya jelas. Oleh sebab itu, rincian geografis tersebut tidak dapat dipastikan. Yang jelas, dosen menjadikan perjalanan jauh dan pengorbanan mahasiswa sebagai alasan mengapa kesempatan belajar seharusnya digunakan dengan sungguh-sungguh.
+
+Ia mempertanyakan tujuan mahasiswa meninggalkan keluarga dan mengeluarkan biaya apabila mereka akhirnya tidak memanfaatkan waktu untuk belajar. Menurutnya, jika seseorang datang untuk menuntut ilmu tetapi tidak mempelajari apa yang diajarkan, tujuan kedatangannya menjadi tidak tercapai. Bahkan, dosen menyampaikan bahwa seseorang bisa saja tetap tinggal bersama keluarganya, lebih tenang secara psikologis, dan belajar di tempat asalnya jika memang tidak berniat memanfaatkan kesempatan belajar di Mesir.
+
+Dosen juga menyatakan bahwa mahasiswa sudah mengetahui mata kuliah yang akan dipelajari dan tidak tiba-tiba diberi materi yang sama sekali tidak pernah diinformasikan sebelumnya. Karena itu, ia meminta mahasiswa menghargai kesempatan dan upaya yang telah diberikan kepada mereka.
+
+Ia tidak ingin mahasiswa hanya hadir secara fisik dalam perkuliahan, sementara pikirannya tidak mengikuti penjelasan dan mereka tidak pernah mengulang pelajaran. Menurut dosen, kebiasaan semacam itu bertentangan dengan tujuan mahasiswa datang untuk menuntut ilmu.
+
+## II. TRANSISI MENUJU PEMBAHASAN القَضِيَّة الشَّرْطِيَّة
+
+### 1. Pentingnya mengajukan pertanyaan pada waktu yang tepat
+
+Sebelum masuk ke materi baru, dosen menanggapi persoalan mengenai pertanyaan atau permintaan penjelasan lanjutan dari mahasiswa. Ia mengatakan bahwa pada bagian sebelumnya, ia telah memberikan waktu bagi mahasiswa untuk mengajukan pertanyaan. Namun, tidak ada mahasiswa yang menyampaikan pertanyaan ketika kesempatan itu diberikan.
+
+Setelah itu, dosen beralih ke pembahasan lain. Karena pembahasan sebelumnya sudah ditutup dan perkuliahan telah berpindah ke persoalan baru, ia meminta mahasiswa memperhatikan alur pelajaran dan waktu yang tersedia.
+
+Dosen menekankan bahwa dalam kegiatan belajar, mahasiswa perlu saling menghargai waktu. Jika ada bagian yang belum dipahami, mereka sebaiknya menanyakannya ketika dosen membuka kesempatan. Mengembalikan pembicaraan ke persoalan lama setelah kelas beralih ke topik lain dapat mengganggu susunan materi yang sedang diterangkan.
+
+Teguran tersebut tidak berarti bahwa pertanyaan dilarang. Maksudnya adalah bahwa pembelajaran perlu berlangsung secara teratur: dosen memberikan penjelasan, mahasiswa mengajukan pertanyaan pada kesempatan yang tersedia, kemudian kelas melanjutkan materi berikutnya.
+
+### 2. Mengingat kembali القَضِيَّة الحَمْلِيَّة
+
+Setelah menegaskan pentingnya mengikuti alur perkuliahan, dosen melanjutkan materi mantiq. Ia mengingatkan bahwa sebelumnya mahasiswa telah mempelajari القَضِيَّة الحَمْلِيَّة, yaitu proposisi kategoris atau proposisi hamliyah. Sekarang pembahasan beralih kepada jenis kedua, yaitu القَضِيَّة الشَّرْطِيَّة, proposisi bersyarat atau proposisi kondisional.
+
+Untuk memahami perbedaan kedua jenis proposisi ini, dosen mengulang terlebih dahulu struktur proposisi hamliyah.
+
+القضية الحملية merupakan proposisi yang memberikan hukum atau penetapan mengenai hubungan antara dua unsur, yaitu الموضوع dan المحمول. الموضوع adalah sesuatu yang dibicarakan, atau pihak yang dikenai penilaian. المحمول adalah sifat, keterangan, atau hukum yang dinisbatkan kepada الموضوع.
+
+Contohnya:
+
+«الشَّمْسُ طَالِعَةٌ».
+
+Artinya, matahari sedang terbit.
+
+Dalam proposisi tersebut, الشمس adalah الموضوع, yaitu sesuatu yang dibicarakan, sedangkan طالعة adalah المحمول, yaitu keterangan bahwa matahari sedang terbit.
+
+Proposisi hamliyah dapat menetapkan suatu sifat kepada subjek atau meniadakan sifat tersebut darinya. Jadi, hukum dalam proposisi hamliyah dapat berupa إثبات, yakni penetapan, atau نفي, yakni penafian.
+
+Disebut حملية karena predikat atau المحمول dibebankan kepada subjek atau الموضوع. Dengan kata lain, suatu hukum dibawa atau dinisbatkan kepada sesuatu yang menjadi pokok pembicaraan.
+
+Dosen menggunakan istilah الموضوع sebagai الموصوف atau المحكوم عليه, yakni sesuatu yang disifati atau menjadi pihak yang dikenai penilaian. Adapun المحمول adalah الوصف atau الحكم, yaitu sifat atau hukum yang diberikan kepada subjek.
+
+Contoh «الشمس طالعة» merupakan proposisi hamliyah karena hanya menetapkan bahwa matahari mempunyai sifat sedang terbit. Pernyataan tersebut sudah menjadi satu proposisi lengkap.
+
+Perbedaan inilah yang menjadi dasar untuk memahami proposisi bersyarat. Dalam القضية الشرطية, yang dihubungkan bukan sekadar dua kata atau dua unsur tunggal, melainkan dua proposisi.
+
+---
+
+# BAGIAN PERTAMA: PENGERTIAN DAN STRUKTUR القَضِيَّة الشَّرْطِيَّة
+
+## III. APA YANG DIMAKSUD DENGAN القَضِيَّة الشَّرْطِيَّة?
+
+### 1. Proposisi bersyarat menghubungkan dua proposisi
+
+Dosen menjelaskan bahwa istilah الشرطية sendiri berkaitan dengan syarat. Dalam bahasa Arab, struktur bersyarat dapat menggunakan أدوات الشرط, yaitu kata atau partikel yang menunjukkan hubungan bersyarat, seperti إن dan إذا. Proposisi bersyarat juga dapat menggunakan ungkapan lain yang mempunyai fungsi sebagai penghubung.
+
+Berbeda dari proposisi hamliyah yang menetapkan suatu hukum kepada satu subjek melalui predikat, proposisi syarthiyah menghubungkan dua proposisi.
+
+Karena itu, struktur dasarnya bukan hanya الموضوع dan المحمول, tetapi terdiri atas قضيتان, yaitu dua proposisi yang kemudian dihubungkan dalam satu susunan.
+
+Dosen menegaskan bahwa dua proposisi tersebut dapat berupa dua proposisi hamliyah. Bentuk inilah yang paling sederhana dan digunakan terlebih dahulu untuk menjelaskan struktur القضية الشرطية.
+
+Sebagai contoh, terdapat dua proposisi:
+
+«الشَّمْسُ طَالِعَةٌ».
+
+Artinya, matahari sedang terbit.
+
+Dan:
+
+«النَّهَارُ مَوْجُودٌ».
+
+Artinya, siang ada atau siang telah berlangsung.
+
+Masing-masing merupakan proposisi hamliyah karena yang pertama menetapkan keadaan matahari, sedangkan yang kedua menetapkan keberadaan siang.
+
+Keduanya kemudian dihubungkan menjadi:
+
+«كُلَّمَا كَانَتِ الشَّمْسُ طَالِعَةً كَانَ النَّهَارُ مَوْجُودًا».
+
+Artinya, setiap kali matahari terbit, siang pun ada.
+
+Dengan penghubungan tersebut, dua proposisi yang semula berdiri sendiri menjadi satu proposisi syarthiyah muttashilah, yaitu proposisi bersyarat yang mengandung hubungan antara dua bagiannya.
+
+### 2. Perbedaan kalimat lengkap dan susunan bersyarat
+
+Untuk memperjelas perbedaan itu, dosen membandingkan kalimat «الشمس طالعة» dengan susunan «كلما كانت الشمس طالعة».
+
+Kalimat «الشمس طالعة» sudah mempunyai makna lengkap. Jika seseorang berhenti setelah mengucapkannya, pendengar telah menerima satu proposisi yang dapat dinilai benar atau salah.
+
+Namun, ketika pembicara mengatakan «كلما كانت الشمس طالعة», pendengar masih menunggu kelanjutan kalimat. Ungkapan tersebut membuat pendengar menantikan apa yang akan dinyatakan sebagai hubungan atau akibat dari keadaan matahari terbit.
+
+Jika dilanjutkan dengan «كان النهار موجودًا», susunan itu menjadi lengkap sebagai proposisi bersyarat.
+
+Dengan demikian, alat penghubung bersyarat menimbulkan kebutuhan akan bagian lain yang melengkapi hubungan tersebut. Proposisi pertama dan kedua kemudian dipadukan dalam satu susunan.
+
+Dosen juga mencontohkan struktur seperti:
+
+«إِنِ اسْتَمَعْتَ فَهِمْتَ».
+
+Artinya, jika kamu mendengarkan, kamu memahami.
+
+Bagian «إن استمعت» menampilkan keadaan yang menjadi syarat, sedangkan «فهمت» merupakan bagian yang mengikutinya. Contoh ini digunakan untuk memperlihatkan pola syarat dan jawaban atau konsekuensinya.
+
+Dosen menyatakan bahwa ketika alat bersyarat masuk ke dalam susunan, pendengar tidak cukup hanya menerima bagian pertama. Mereka menunggu bagian berikutnya agar hubungan yang dimaksud menjadi lengkap.
+
+## IV. DUA JENIS UTAMA PROPOSISI SYARTHIYAH: مُتَّصِلَة DAN مُنْفَصِلَة
+
+Dosen kemudian menjelaskan bahwa proposisi bersyarat memiliki dua bentuk dasar, yaitu القضية الشرطية المتصلة dan القضية الشرطية المنفصلة.
+
+Perbedaan keduanya terletak pada hubungan yang dibangun antara dua proposisi.
+
+### 1. القَضِيَّة الشَّرْطِيَّة المُتَّصِلَة
+
+القضية الشرطية المتصلة adalah proposisi bersyarat yang menghubungkan dua proposisi dalam bentuk hubungan bersyarat atau keterkaitan.
+
+Contoh yang digunakan adalah:
+
+«كُلَّمَا كَانَتِ الشَّمْسُ طَالِعَةً كَانَ النَّهَارُ مَوْجُودًا».
+
+Proposisi tersebut menghubungkan keadaan matahari terbit dengan keberadaan siang. Dalam contoh ini, pembicara tidak menyebut dua keadaan sebagai pilihan yang saling dipisahkan, melainkan membangun hubungan antara keadaan pertama dan keadaan kedua.
+
+Contoh lainnya adalah:
+
+«إِذَا كَانَ الطُّلَّابُ فَاهِمِينَ لِلدَّرْسِ فَهُمْ نَاجِحُونَ».
+
+Artinya, jika para mahasiswa memahami pelajaran, mereka berhasil.
+
+Dalam contoh ini, pemahaman mahasiswa terhadap pelajaran ditempatkan sebagai bagian pertama, sedangkan keberhasilan mereka menjadi bagian kedua. Pembicara menghubungkan keduanya dalam susunan bersyarat.
+
+Dosen menjelaskan bahwa bentuk المتصلة merupakan jenis proposisi syarthiyah yang mengandung اتصال, yakni keterhubungan antara dua bagian.
+
+Namun, bentuk kalimat yang menghubungkan dua proposisi belum dengan sendirinya membuktikan bahwa hubungan yang disampaikan benar-benar ada dalam kenyataan. Masalah apakah hubungan itu sungguh-sungguh mempunyai dasar atau hanya dibuat dalam susunan kalimat akan dibahas ketika dosen menerangkan pembagian المتصلة berdasarkan hubungan antara kedua bagiannya.
+
+### 2. القَضِيَّة الشَّرْطِيَّة المُنْفَصِلَة
+
+Jenis kedua adalah القضية الشرطية المنفصلة, yaitu proposisi bersyarat yang memisahkan dua alternatif atau menampilkan dua keadaan sebagai pilihan yang dibedakan satu sama lain.
+
+Dosen memberikan contoh:
+
+«مُحَمَّدٌ إِمَّا نَائِمٌ وَإِمَّا مُسْتَيْقِظٌ».
+
+Artinya, Muhammad berada dalam keadaan tidur atau terjaga.
+
+Contoh lainnya adalah:
+
+«مُحَمَّدٌ إِمَّا رَاكِعٌ وَإِمَّا سَاجِدٌ».
+
+Artinya, Muhammad berada dalam keadaan rukuk atau sujud.
+
+Dosen juga menyebut contoh para mahasiswa yang bisa berada dalam keadaan memahami atau tidak memahami pelajaran. Demikian pula, ia memberikan contoh benda yang mungkin disebut berwarna putih atau hitam, serta buku yang dapat dibicarakan berdasarkan pilihan warna atau berdasarkan keadaan berat dan ringan.
+
+Dalam seluruh contoh tersebut, dua keadaan diletakkan sebagai alternatif: yang satu atau yang lainnya.
+
+Hal inilah yang membedakan proposisi المنفصلة dari المتصلة. Pada المتصلة, dua proposisi dihubungkan dalam pola seperti “jika keadaan pertama, maka keadaan kedua”. Pada المنفصلة, dua proposisi ditempatkan dalam pola “ini atau itu”.
+
+Dosen menyebut bentuk pemisahan tersebut dengan istilah الانفصال dan juga mengaitkannya dengan العناد. Dalam penjelasannya, kedua bagian diperlakukan sebagai dua kemungkinan yang dibedakan, bukan dua hal yang sedang dihubungkan dalam pola syarat-akibat.
+
+Namun, sumber tidak membahas secara tuntas semua jenis pemisahan yang dapat terjadi pada proposisi المنفصلة. Dosen hanya memperkenalkan bentuk tersebut sebagai jenis kedua dan menyatakan bahwa pembahasan berikutnya akan memerinci pembagiannya.
+
+### 3. Mengapa disebut اتصال dan انفصال?
+
+Dosen menjelaskan perbedaan tersebut melalui bentuk hubungan kalimat.
+
+Pada contoh matahari dan siang, pembicara mengatakan bahwa ketika matahari terbit, siang ada. Kedua proposisi ditempatkan dalam satu hubungan bersyarat. Karena itu, bentuknya dinamakan متصلة.
+
+Pada contoh Muhammad yang tidur atau terjaga, pembicara menyebut dua keadaan yang dipertentangkan sebagai alternatif. Muhammad ditampilkan sebagai berada dalam keadaan yang satu atau yang lainnya. Karena terdapat pemisahan antara dua pilihan, bentuk ini dinamakan منفصلة.
+
+Dosen mengingatkan bahwa kedua bentuk tersebut tetap termasuk القضية الشرطية karena keduanya melibatkan hubungan antara dua proposisi, bukan sekadar penetapan sifat kepada satu subjek.
+
+Dengan demikian, ciri utama القضية الشرطية adalah adanya hubungan atau pemisahan antara قضيتان. Adapun القضية الحملية menetapkan atau meniadakan suatu المحمول dari الموضوع.
+
+## V. DEFINISI UMUM القَضِيَّة الشَّرْطِيَّة
+
+Setelah memberikan contoh, dosen merumuskan pengertian umum proposisi bersyarat sebagai proposisi yang di dalamnya terdapat hukum mengenai hubungan atau pemisahan antara dua proposisi, atau penafian terhadap hubungan atau pemisahan tersebut.
+
+Dalam rumusan penjelasan kuliah, pengertiannya berkisar pada:
+
+«مَا حُكِمَ فِيهَا بِالِاتِّصَالِ أَوِ الِانْفِصَالِ أَوْ بِنَفْيِهِمَا بَيْنَ قَضِيَّتَيْنِ».
+
+Artinya, proposisi yang di dalamnya ditetapkan adanya hubungan atau pemisahan, atau dinafikan hubungan atau pemisahan tersebut, antara dua proposisi.
+
+Dosen juga menggunakan ungkapan yang mengaitkan الانفصال dengan العناد. Dengan demikian, inti definisi yang disampaikan adalah bahwa القضية الشرطية berhubungan dengan اتصال, انفصال atau عناد, dan penafian terhadap hubungan-hubungan itu.
+
+Hubungan ini dapat bersifat positif atau negatif. Proposisi syarthiyah tidak hanya menyatakan adanya hubungan antara dua bagian; ia juga dapat menyatakan tidak adanya hubungan tersebut. Begitu pula, suatu proposisi yang memisahkan dua alternatif dapat dinyatakan dalam bentuk penetapan atau penafian.
+
+Karena itu, sebagaimana القضية الحملية memiliki bentuk موجبة dan سالبة, القضية الشرطية juga dapat dibahas dari segi الإيجاب dan السلب.
+
+---
+
+# BAGIAN KEDUA: الْمُقَدَّم DAN التَّالِي DALAM القَضِيَّة الشَّرْطِيَّة
+
+## VI. PENGERTIAN الْمُقَدَّم DAN التَّالِي
+
+Dosen kemudian membahas dua istilah utama dalam proposisi bersyarat, yaitu المقدَّم dan التالي.
+
+Dalam struktur bersyarat, المقدَّم adalah bagian yang menjadi dasar atau bagian awal dalam hubungan yang dimaksud, sedangkan التالي adalah bagian yang mengikuti atau menjadi bagian kedua dalam hubungan tersebut.
+
+Akan tetapi, dosen menekankan bahwa cara menentukan keduanya tidak selalu sama pada القضية الشرطية المتصلة dan القضية الشرطية المنفصلة.
+
+Pada القضية الشرطية المنفصلة, bagian pertama yang disebut merupakan المقدَّم, sedangkan bagian kedua merupakan التالي. Dosen menyampaikan aturan ini sebagai cara mengenali kedua bagian dalam bentuk المنفصلة.
+
+Adapun pada القضية الشرطية المتصلة, penentuan المقدَّم tidak hanya didasarkan pada urutan penyebutan kata atau kalimat. Yang lebih penting adalah hubungan bersyarat yang dimaksud oleh pembicara.
+
+Dosen menggunakan beberapa contoh untuk memperjelas perbedaan tersebut.
+
+## VII. MENENTUKAN الْمُقَدَّم DALAM القَضِيَّة الشَّرْطِيَّة المُتَّصِلَة
+
+### 1. Contoh pertama: matahari terbit dan siang ada
+
+Perhatikan kalimat:
+
+«كُلَّمَا كَانَتِ الشَّمْسُ طَالِعَةً كَانَ النَّهَارُ مَوْجُودًا».
+
+Artinya, setiap kali matahari terbit, siang ada.
+
+Dalam susunan tersebut, proposisi mengenai matahari terbit menjadi المقدَّم, sedangkan proposisi mengenai keberadaan siang menjadi التالي.
+
+Hubungan yang hendak ditunjukkan adalah bahwa matahari terbit dapat dijadikan dasar untuk menyimpulkan keberadaan siang. Dosen menyebut tujuan penalaran ini sebagai الاستدلال بطلوع الشمس على وجود النهار, yaitu menggunakan terbitnya matahari untuk menunjukkan adanya siang.
+
+Karena bagian mengenai matahari terbit diletakkan sebagai syarat yang menjadi dasar penalaran, bagian itu disebut المقدَّم. Adapun keberadaan siang merupakan bagian yang mengikuti hubungan tersebut, sehingga disebut التالي.
+
+### 2. Contoh kedua: hubungan yang sama dapat disusun dengan urutan kalimat berbeda
+
+Dosen kemudian membandingkan contoh pertama dengan kalimat:
+
+«إِذَا كَانَ النَّهَارُ مَوْجُودًا فَالشَّمْسُ طَالِعَةٌ».
+
+Artinya, jika siang ada, matahari sedang terbit.
+
+Kedua kalimat tersebut menggunakan pasangan proposisi yang sama, yaitu matahari terbit dan siang ada. Namun, posisi bagian-bagiannya berbeda karena tujuan penalaran yang ditekankan juga berbeda.
+
+Dalam contoh pertama, pembicara menggunakan matahari terbit sebagai dasar untuk menunjukkan keberadaan siang.
+
+Dalam contoh kedua, pembicara menggunakan keberadaan siang sebagai dasar untuk menyatakan bahwa matahari sedang terbit.
+
+Dosen menegaskan bahwa sekalipun dua kalimat tersebut membicarakan keadaan yang sama, arah hubungan yang dipakai dalam penalaran tidak sama. Oleh karena itu, المقدَّم dalam contoh kedua adalah keberadaan siang, sedangkan terbitnya matahari menjadi التالي.
+
+Hal tersebut penting karena dalam القضية الشرطية المتصلة, المقدم tidak semata-mata berarti bagian yang disebut paling awal dalam keseluruhan kalimat. Posisi dan fungsinya ditentukan berdasarkan susunan hubungan bersyarat.
+
+### 3. Aturan yang digunakan dosen: perhatikan bagian setelah أداة الشرط atau أداة الربط
+
+Dosen kemudian memberikan petunjuk praktis untuk mengetahui bagian yang menjadi المقدَّم dalam القضية المتصلة: perhatikan أداة الربط atau أداة الشرط, yakni kata penghubung atau kata bersyarat.
+
+Bagian yang hadir setelah kata penghubung itulah yang ditentukan sebagai المقدَّم. Bagian lainnya menjadi التالي, baik bagian itu disebut lebih dahulu maupun sesudahnya dalam keseluruhan susunan kalimat.
+
+Dalam contoh:
+
+«إِذَا كَانَ النَّهَارُ مَوْجُودًا فَالشَّمْسُ طَالِعَةٌ».
+
+Bagian setelah إذا adalah «كان النهار موجودًا». Karena itu, keberadaan siang menjadi المقدَّم. Sementara itu, «الشمس طالعة» menjadi التالي.
+
+Jika susunannya adalah:
+
+«الشَّمْسُ طَالِعَةٌ إِذَا كَانَ النَّهَارُ مَوْجُودًا».
+
+Meskipun keterangan mengenai matahari terbit disebut lebih dahulu secara keseluruhan, bagian yang muncul setelah إذا tetaplah «كان النهار موجودًا». Dengan demikian, berdasarkan kaidah yang dijelaskan dosen, keberadaan siang tetap menjadi المقدَّم dan terbitnya matahari menjadi التالي.
+
+Dosen juga menerangkan hal ini melalui ungkapan bahwa المقدَّم adalah المتقدم رتبةً وإن كان متأخرًا ذكرًا, yaitu sesuatu yang didahulukan dari segi kedudukan atau fungsi, meskipun penyebutannya dapat muncul belakangan.
+
+Ungkapan tersebut dipakai untuk mengingatkan mahasiswa agar tidak mencampuradukkan urutan penyebutan dengan fungsi bagian dalam proposisi bersyarat.
+
+### 4. Perbedaan antara urutan penyebutan dan urutan fungsi
+
+Dosen menjelaskan bahwa perubahan urutan dua proposisi dapat mengubah bagian yang menjadi مقدم dan bagian yang menjadi التالي dalam hubungan bersyarat.
+
+Pada contoh pertama, pembicara memulai dari terbitnya matahari lalu menghubungkannya dengan keberadaan siang.
+
+Pada contoh kedua, pembicara memulai dari keberadaan siang dan menggunakannya untuk menunjukkan terbitnya matahari.
+
+Dengan demikian, mahasiswa tidak boleh menentukan مقدم dan التالي hanya dengan melihat proposisi mana yang paling awal diucapkan. Mereka harus mengetahui struktur kalimat dan memperhatikan kata penghubung yang digunakan.
+
+Dosen mengulangi bahwa pada القضية المنفصلة, aturan yang diterangkan berbeda: bagian pertama adalah المقدَّم dan bagian kedua adalah التالي. Namun, untuk القضية المتصلة, bagian setelah أداة الربط atau أداة الشرط merupakan المقدَّم, sedangkan bagian lainnya merupakan التالي.
+
+Dosen menyampaikan aturan tersebut agar mahasiswa dapat menentukan kedua bagian itu dengan tepat sebelum mempelajari pembagian proposisi bersyarat yang lebih kompleks.
+
+---
+
+# BAGIAN KETIGA: HUBUNGAN ANTARA الْمُقَدَّم DAN التَّالِي
+
+## VIII. APAKAH SEMUA HUBUNGAN DALAM القَضِيَّة المُتَّصِلَة MEMILIKI DASAR?
+
+Setelah menerangkan cara menentukan المقدَّم dan التالي, dosen beralih kepada pertanyaan yang lebih mendasar: apakah setiap dua proposisi yang dihubungkan menggunakan أداة الشرط memang mempunyai hubungan dalam kenyataan?
+
+Pertanyaan ini menjadi dasar untuk membagi القضية الشرطية المتصلة berdasarkan hubungan antara kedua bagiannya.
+
+Dosen menekankan bahwa seseorang dapat menghubungkan dua proposisi dalam satu kalimat meskipun kedua proposisi tersebut tidak mempunyai kaitan yang nyata. Sebaliknya, terdapat pula hubungan antara dua proposisi yang memang mempunyai dasar sebelum keduanya dirangkai menjadi satu kalimat.
+
+Misalnya, seseorang dapat mengucapkan bahwa setiap kali Muhammad tersenyum, Khalid sedang makan di restoran. Namun, dari susunan kalimat itu saja tidak diketahui adanya hubungan yang secara nyata menghubungkan senyuman Muhammad dengan kegiatan Khalid makan.
+
+Sebaliknya, hubungan antara matahari terbit dan keberadaan siang dalam contoh perkuliahan dipandang mempunyai dasar dalam kenyataan.
+
+Karena itu, dosen membedakan dua jenis hubungan pada القضية المتصلة, yaitu اللزومية dan الاتفاقية.
+
+## IX. القَضِيَّة المُتَّصِلَة الِاتِّفَاقِيَّة
+
+### 1. Pengertian hubungan اتفاقي
+
+Jenis pertama adalah القضية المتصلة الاتفاقية, yaitu proposisi bersyarat yang menghubungkan dua proposisi tanpa adanya hubungan nyata yang menjadi dasar keterkaitan keduanya.
+
+Dalam jenis ini, hubungan antara kedua proposisi dibentuk dalam susunan bahasa, tetapi tidak ditemukan hubungan yang mendasari kedua hal tersebut sebagaimana hubungan yang akan dijelaskan dalam proposisi لازمية.
+
+Dosen memberikan contoh:
+
+«كُلَّمَا كَانَ مُحَمَّدٌ مُبْتَسِمًا كَانَ خَالِدٌ يَأْكُلُ فِي الْمَطْعَمِ».
+
+Artinya, setiap kali Muhammad tersenyum, Khalid sedang makan di restoran.
+
+Kedua keadaan tersebut dapat saja berlangsung pada waktu yang bersamaan. Akan tetapi, tidak terdapat hubungan yang menjadikan senyuman Muhammad sebagai dasar bagi kegiatan Khalid makan di restoran.
+
+Dosen menjelaskan bahwa jika kalimat itu dipisahkan kembali menjadi dua proposisi, yaitu Muhammad sedang tersenyum dan Khalid sedang makan di restoran, tidak ditemukan hubungan tertentu yang mengharuskan kedua keadaan itu terjadi bersamaan.
+
+Keterkaitan yang terdapat pada kalimat tersebut, dalam contoh yang diberikan, hanya muncul karena pembicara menggabungkan keduanya dalam satu susunan bersyarat.
+
+### 2. Contoh hubungan yang tidak mempunyai kaitan langsung
+
+Dosen juga memberikan contoh:
+
+«إِذَا كَانَ الْعَمِيدُ فِي مَكْتَبِهِ كُنْتُ فِي مَنْزِلِي».
+
+Artinya, jika dekan berada di kantornya, saya berada di rumah.
+
+Menurut penjelasan dosen, apabila tidak ada sebab atau keadaan yang menghubungkan keberadaan dekan di kantor dengan keberadaan pembicara di rumah, hubungan keduanya hanya merupakan penggabungan dua proposisi yang tidak mempunyai hubungan nyata.
+
+Contoh lainnya berkaitan dengan ungkapan bahwa jika suatu negara bahagia, maka orang-orang di tempat lain juga bahagia. Dosen bertanya apakah terdapat hubungan antara keadaan tersebut. Jika tidak ada alasan yang menghubungkan keduanya, susunan itu hanya menjadi penggabungan dua proposisi.
+
+Namun, dosen juga menjelaskan bahwa suatu hubungan yang pada awalnya terlihat tidak berkaitan dapat menjadi mempunyai hubungan jika ditemukan sebab tertentu. Sebagai contoh, jika seseorang merasa bahagia karena melihat orang lain yang disayanginya bahagia, maka terdapat hubungan antara kedua keadaan itu. Hubungan tersebut ada karena perasaan orang pertama memang dipengaruhi oleh kebahagiaan orang kedua.
+
+Dengan demikian, persoalannya bukan sekadar apakah dua peristiwa dapat terjadi bersama-sama, melainkan apakah terdapat hubungan yang mendasari penggabungan kedua proposisi tersebut.
+
+### 3. Penggabungan melalui ucapan tidak membuktikan hubungan nyata
+
+Dosen kembali menegaskan bahwa bahasa dapat menghubungkan dua proposisi, tetapi penggabungan tersebut tidak otomatis membuktikan adanya hubungan dalam kenyataan.
+
+Jika pembicara mengatakan bahwa seseorang tersenyum dan orang lain makan di restoran, kedua proposisi itu dapat berdiri sendiri. Hubungan keduanya dalam kalimat tidak menunjukkan bahwa yang satu menjadi sebab bagi yang lain atau bahwa keduanya harus muncul bersama.
+
+Itulah yang dimaksud dengan الاتفاقية sebagaimana dijelaskan dosen. Proposisi tersebut merupakan proposisi bersyarat yang menghubungkan dua bagian tanpa hubungan mendasar yang diakui antara keduanya.
+
+Dalam rekaman, dosen juga menolak penyederhanaan bahwa الاتفاقية selalu berarti kebetulan dalam pengertian sehari-hari. Ia menegaskan bahwa yang sedang dibahas adalah tidak adanya hubungan yang mendasari dua proposisi tersebut, bukan semata-mata bahwa keduanya muncul secara kebetulan pada satu waktu.
+
+Dengan kata lain, yang menjadi persoalan adalah sifat hubungan di antara kedua proposisi, bukan sekadar kejadian bahwa keduanya pernah muncul bersamaan.
+
+## X. القَضِيَّة المُتَّصِلَة اللُّزُومِيَّة
+
+Jenis kedua adalah القضية المتصلة اللزومية, yaitu proposisi bersyarat yang menghubungkan dua proposisi yang mempunyai hubungan mendasar.
+
+Menurut penjelasan dosen, perbedaan utamanya dari الاتفاقية adalah bahwa hubungan tersebut tidak semata-mata dibentuk oleh ucapan pembicara. Kedua proposisi mempunyai hubungan sebelum pembicara merangkainya dalam satu kalimat.
+
+Dosen menjelaskan bahwa hubungan dalam اللزومية dapat dibedakan menjadi hubungan yang berlandaskan العلة, yaitu sebab atau hubungan kausal, dan hubungan yang berlandaskan التضايف, yaitu hubungan korelatif antara dua hal.
+
+Bagian tentang sebab dibagi lagi menjadi tiga bentuk, sedangkan التضايف menjadi bentuk lain dari hubungan yang mengikat kedua proposisi.
+
+Dengan demikian, dalam pengelompokan yang diberikan dosen, hubungan dalam proposisi متصلة dapat dibagi ke dalam lima jenis: satu jenis اتفاقية dan empat bentuk لازمية, yaitu tiga bentuk yang berkaitan dengan العلة dan satu bentuk yang berkaitan dengan التضايف.
+
+### 1. اللزومية بسبب العلة: hubungan berdasarkan sebab
+
+Dosen menjelaskan bahwa sebagian proposisi متصلة mempunyai hubungan karena salah satu bagiannya berhubungan dengan bagian lain melalui sebab.
+
+Ia membagi hubungan kausal itu menjadi tiga bentuk. Bentuk pertama adalah ketika المقدَّم menjadi sebab bagi التالي. Bentuk kedua adalah ketika المقدَّم merupakan معلول atau akibat dari التالي. Bentuk ketiga adalah ketika kedua bagian merupakan akibat dari sebab lain yang sama.
+
+Ketiga bentuk tersebut harus dibedakan karena kedudukan sebab dan akibat dalam hubungan bersyarat tidak selalu sama.
+
+---
+
+# BAGIAN KEEMPAT: TIGA JENIS HUBUNGAN اللُّزُومِيَّة BERDASARKAN العِلَّة
+
+## XI. JENIS PERTAMA: الْمُقَدَّم عِلَّةٌ لِلتَّالِي
+
+Pada bentuk pertama, المقدَّم menjadi sebab bagi التالي.
+
+Contoh yang digunakan dosen adalah:
+
+«كُلَّمَا كَانَتِ الشَّمْسُ طَالِعَةً كَانَ النَّهَارُ مَوْجُودًا».
+
+Dalam contoh ini, terbitnya matahari ditempatkan sebagai المقدَّم, sedangkan keberadaan siang sebagai التالي.
+
+Dosen menjelaskan bahwa terbitnya matahari menjadi sebab bagi keberadaan siang dalam hubungan yang sedang diterangkan. Karena itu, ketika pembicara menggunakan terbitnya matahari sebagai dasar untuk menyatakan keberadaan siang, bagian pertama merupakan sebab bagi bagian kedua.
+
+Dengan demikian, hubungan antara kedua proposisi bukan hanya hubungan yang diciptakan oleh susunan kata. Dalam contoh perkuliahan, hubungan tersebut dianggap mempunyai dasar kausal.
+
+Dosen menekankan bahwa pada jenis pertama, mahasiswa harus memperhatikan arah hubungan: المقدَّم adalah bagian yang menjadi sebab bagi التالي.
+
+## XII. JENIS KEDUA: الْمُقَدَّم مَعْلُولٌ لِلتَّالِي
+
+Pada jenis kedua, kedudukan sebab dan akibat dalam contoh dibalik dari segi fungsi bagian dalam proposisi.
+
+Dosen menggunakan kalimat:
+
+«إِذَا كَانَ النَّهَارُ مَوْجُودًا فَالشَّمْسُ طَالِعَةٌ».
+
+Artinya, jika siang ada, matahari sedang terbit.
+
+Dalam susunan ini, keberadaan siang adalah المقدَّم, sedangkan terbitnya matahari merupakan التالي. Dosen menjelaskan bahwa siang merupakan akibat dari terbitnya matahari, bukan penyebab terbitnya matahari.
+
+Dengan demikian, bagian yang menjadi مقدم dalam kalimat ini secara kausal merupakan معلول atau akibat dari bagian berikutnya.
+
+Hal yang ditekankan dosen bukan sekadar bahwa matahari dan siang saling berkaitan. Yang harus diperhatikan adalah bahwa arah hubungan sebab-akibat dalam kenyataan berbeda dari urutan مقدم dan تالي dalam kalimat.
+
+Pada contoh pertama, المقدَّم adalah matahari terbit, yang menjadi sebab keberadaan siang.
+
+Pada contoh kedua, المقدَّم adalah keberadaan siang, yang dipakai sebagai petunjuk untuk menyatakan bahwa matahari sedang terbit. Meskipun keberadaan siang disebut lebih dahulu dalam struktur ini, dari segi hubungan sebab-akibat ia merupakan akibat dari terbitnya matahari.
+
+Dosen menggunakan perbedaan tersebut untuk menekankan kembali pentingnya membedakan fungsi bagian dalam proposisi dari hubungan sebab-akibat yang mendasari kedua hal itu.
+
+## XIII. JENIS KETIGA: الْمُقَدَّم وَالتَّالِي مَعْلُولَانِ لِعِلَّةٍ أُخْرَى
+
+Bentuk ketiga adalah ketika المقدَّم dan التالي bukan hubungan sebab dan akibat secara langsung satu sama lain, tetapi keduanya merupakan akibat dari suatu sebab lain.
+
+Dosen memberikan contoh hubungan antara keberadaan siang dan keadaan dunia yang terang.
+
+Contoh yang dibicarakan berbunyi:
+
+«إِذَا كَانَ النَّهَارُ مَوْجُودًا كَانَ الْعَالَمُ مُضِيئًا».
+
+Artinya, jika siang ada, dunia menjadi terang.
+
+Dalam penjelasan dosen, keberadaan siang dan terangnya dunia mempunyai sebab yang sama, yaitu matahari. Karena itu, keduanya sama-sama terkait dengan suatu sebab lain.
+
+Pada hubungan seperti ini, المقدَّم tidak harus menjadi sebab bagi التالي, dan التالي juga tidak harus menjadi sebab bagi المقدَّم. Keterkaitan keduanya dijelaskan melalui sebab ketiga yang mendasari keduanya.
+
+Dosen memberikan contoh lain mengenai lampu dan kipas angin. Jika listrik tersedia, lampu dapat menyala dan kipas angin dapat beroperasi. Hubungan antara lampu yang menyala dan kipas angin yang berfungsi dapat dijelaskan karena keduanya bergantung pada keberadaan listrik.
+
+Dalam contoh tersebut, listrik merupakan sebab yang sama bagi dua keadaan: lampu yang menyala dan kipas angin yang bekerja.
+
+Karena itu, ketika pembicara mengatakan bahwa jika terdapat penerangan, kipas angin bekerja, kedua bagian tersebut dapat dipahami memiliki hubungan karena keduanya bergantung pada sebab yang sama.
+
+Dosen menggunakan contoh-contoh ini untuk memperlihatkan perbedaan antara tiga hubungan kausal. Dalam hubungan pertama, المقدَّم adalah sebab bagi التالي. Dalam hubungan kedua, المقدَّم adalah akibat dari التالي. Dalam hubungan ketiga, keduanya merupakan akibat dari sebab lain.
+
+## XIV. HUBUNGAN KAUSAL DAN ARAH PENALARAN
+
+Dosen kemudian mengulang contoh matahari dan siang untuk memastikan mahasiswa memahami bahwa arah penalaran dapat berbeda sekalipun peristiwa yang dibicarakan sama.
+
+Ketika pembicara berkata, «كلما كانت الشمس طالعة كان النهار موجودًا», ia menggunakan terbitnya matahari sebagai dasar untuk menyatakan keberadaan siang.
+
+Namun, ketika pembicara berkata, «إذا كان النهار موجودًا فالشمس طالعة», ia menggunakan keberadaan siang sebagai dasar untuk menyatakan terbitnya matahari.
+
+Pada contoh pertama, bagian yang menjadi المقدَّم dalam hubungan tersebut merupakan sebab dari bagian kedua.
+
+Pada contoh kedua, bagian yang menjadi المقدَّم justru merupakan akibat dari bagian berikutnya.
+
+Dosen menegaskan bahwa hubungan yang hendak ditampilkan melalui kalimat menentukan bagaimana kedua proposisi ditempatkan dalam struktur syarthiyah. Karena itu, mahasiswa perlu membedakan hubungan dalam kalimat dari hubungan sebab-akibat dalam kenyataan.
+
+Dalam penjelasan dosen, yang menjadi persoalan bukan hanya bahwa kedua proposisi berkaitan. Yang perlu diketahui adalah apa hubungan di antara keduanya: apakah yang satu menjadi sebab bagi yang lain, apakah yang satu merupakan akibat dari yang lain, atau apakah keduanya bergantung kepada sebab lain.
+
+---
+
+# BAGIAN KELIMA: اللُّزُومِيَّة BERDASARKAN التَّضَايُف
+
+## XV. PENGERTIAN التَّضَايُف
+
+Setelah menjelaskan tiga bentuk hubungan berdasarkan sebab, dosen membahas bentuk lain dari اللزومية, yaitu التضايف.
+
+Dalam penjelasannya, التضايف adalah hubungan antara dua hal yang keberadaan atau pengertiannya saling berkaitan. Jika salah satu ditetapkan, pihak yang menjadi pasangannya juga dapat ditetapkan karena keduanya mempunyai hubungan korelatif.
+
+Dosen memberikan contoh hubungan الأخوة, yaitu persaudaraan. Jika Muhammad adalah saudara Khalid, maka Khalid merupakan saudara Muhammad. Hubungan tersebut tidak memerlukan penalaran terpisah untuk menetapkan bahwa hubungan persaudaraan yang sama berlaku pada kedua arah.
+
+Contoh lainnya adalah hubungan الزوجية, yaitu hubungan suami dan istri. Jika Muhammad adalah suami Aisyah, maka Aisyah adalah istri Muhammad.
+
+Dosen juga menjelaskan hubungan الأبوة dan البنوة, yaitu hubungan ayah dan anak. Jika Muhammad adalah ayah Khalid, maka Khalid adalah anak Muhammad.
+
+Contoh yang lain berkaitan dengan hubungan ابن العم, yaitu saudara sepupu dari pihak ayah. Jika Muhammad adalah sepupu Zaid, hubungan korelatif tersebut berlaku dari arah yang lain menurut hubungan kekerabatan yang dimaksud. Rincian satu contoh tambahan tentang silsilah keluarga pada rekaman tidak seluruhnya jelas, tetapi contoh utamanya menegaskan hubungan antara dua pihak yang saling berkaitan.
+
+Dosen menyebut hubungan seperti persaudaraan, hubungan orang tua dan anak, serta hubungan suami dan istri sebagai contoh التضايف.
+
+### 1. Mengapa disebut hubungan korelatif?
+
+Dosen menjelaskan bahwa hubungan korelatif berbeda dari hubungan sebab-akibat.
+
+Dalam hubungan sebab-akibat, salah satu hal dapat menjadi sebab bagi terjadinya hal yang lain. Misalnya, matahari terbit dijadikan sebab keberadaan siang dalam contoh perkuliahan.
+
+Namun, dalam hubungan التضايف, yang ditekankan adalah keterkaitan dua hal yang saling melengkapi dari segi hubungan atau pengertiannya. Jika seseorang merupakan suami dari seseorang, pihak pasangannya disebut istri. Jika seseorang merupakan ayah dari orang lain, orang lain itu merupakan anaknya.
+
+Karena kedua istilah atau hubungan tersebut saling berpasangan, ketika hubungan yang satu telah ditetapkan, hubungan pasangannya dapat ditetapkan pula.
+
+Dosen menyatakan bahwa kedua proposisi tersebut berkaitan sebelum keduanya dirangkai dalam satu kalimat. Hubungannya bukan semata-mata tercipta karena pembicara mengatakan “jika ini, maka itu”.
+
+### 2. Perbedaan التضايف dari hubungan kausal
+
+Dosen membandingkan hubungan korelatif dengan hubungan antara matahari dan siang.
+
+Jika seseorang tidak mengetahui apa itu matahari atau apa yang dimaksud dengan siang, ia tidak otomatis mengetahui hubungan keduanya hanya dari satu istilah. Dosen menggunakan ilustrasi tentang seseorang yang tidak mengetahui hubungan antara matahari terbit dan keberadaan siang, lalu perlu dijelaskan bahwa dalam contoh tersebut terbitnya matahari menjadi sebab bagi keberadaan siang.
+
+Sebaliknya, jika seseorang sudah memahami bahwa Muhammad adalah ayah Khalid, ia tidak memerlukan pembuktian sebab-akibat terpisah untuk memahami hubungan kebapakan dan keanakan yang bersesuaian.
+
+Dalam hubungan korelatif, penetapan satu hubungan sekaligus memberi dasar bagi hubungan pasangannya. Hubungan Muhammad sebagai ayah dan Khalid sebagai anak merupakan dua sisi dari hubungan yang sama.
+
+Dosen menjelaskan bahwa apabila salah satu hubungan korelatif telah ditetapkan, hubungan pasangannya dapat diketahui secara niscaya dalam pengertian yang diterangkan pada perkuliahan. Demikian pula, jika salah satu hubungan itu dinafikan, hubungan pasangannya tidak dapat tetap ditetapkan dalam bentuk yang sama.
+
+Dengan demikian, التضايف menjadi salah satu bentuk اللزومية karena terdapat kaitan yang mendasar antara dua proposisi sebelum keduanya disusun dalam kalimat bersyarat.
+
+## XVI. RANGKUMAN PEMBAGIAN القَضِيَّة المُتَّصِلَة BERDASARKAN HUBUNGAN ANTARA DUA BAGIANNYA
+
+Setelah menyelesaikan pembahasan الاتفاقية dan اللزومية, dosen mengulang keseluruhan pembagian agar mahasiswa dapat melihat strukturnya.
+
+القضية المتصلة terbagi menjadi اتفاقية dan لزومية.
+
+الاتفاقية adalah proposisi yang menghubungkan dua bagian tanpa hubungan mendasar di antara keduanya sebagaimana diterangkan dalam contoh.
+
+Adapun اللزومية adalah proposisi yang kedua bagiannya mempunyai hubungan mendasar. Hubungan tersebut dapat dijelaskan melalui العلة atau التضايف.
+
+Hubungan berdasarkan العلة terbagi menjadi tiga:
+
+Pertama, المقدَّم menjadi sebab bagi التالي.
+
+Kedua, المقدَّم merupakan akibat dari التالي.
+
+Ketiga, المقدَّم dan التالي sama-sama merupakan akibat dari sebab lain.
+
+Bentuk keempat dalam kelompok اللزومية adalah التضايف, yaitu keterkaitan korelatif antara dua hubungan, seperti persaudaraan, hubungan ayah dan anak, atau hubungan suami dan istri.
+
+Dengan demikian, terdapat lima jenis hubungan apabila اتفاقية dihitung sebagai satu jenis, tiga bentuk hubungan sebab-akibat dihitung sebagai tiga jenis, dan التضايف dihitung sebagai satu jenis.
+
+Dosen meminta mahasiswa menguasai pembagian berdasarkan kaidahnya, bukan sekadar menghafal nama-nama kategorinya.
+
+---
+
+# BAGIAN KEENAM: PEMBAGIAN القَضِيَّة المُتَّصِلَة BERDASARKAN الْكَمّ DAN الْكَيْف
+
+## XVII. TIGA SUDUT PANDANG DALAM MEMBAGI القَضِيَّة المُتَّصِلَة
+
+Setelah menjelaskan hubungan antara المقدَّم dan التالي, dosen menyatakan bahwa القضية الشرطية المتصلة masih dapat dibagi berdasarkan sudut pandang lainnya.
+
+Pembagian pertama didasarkan pada hubungan antara kedua bagian, sebagaimana pembahasan tentang اتفاقية dan لزومية.
+
+Pembagian kedua didasarkan pada الْكَمّ, yaitu kuantitas atau cakupan hukum yang dimaksud oleh proposisi.
+
+Pembagian ketiga didasarkan pada الْكَيْف, yaitu apakah proposisi memberikan penetapan atau penafian.
+
+Dosen mengingatkan bahwa konsep الكم dan الكيف juga telah dipelajari dalam pembahasan القضية الحملية. Akan tetapi, penerapannya dalam القضية الشرطية mempunyai perbedaan penting. Terutama dalam menentukan apakah suatu proposisi bersifat كلية, جزئية, شخصية, atau مهملة, mahasiswa harus memperhatikan keadaan المقدَّم, bukan semata-mata subjek berupa individu sebagaimana dalam contoh hamliyah.
+
+## XVIII. الْكَيْف: القَضِيَّة المُوجَبَة DAN القَضِيَّة السَّالِبَة
+
+### 1. Pengertian الإيجاب dan السلب
+
+Dosen menjelaskan bahwa dari segi الكيف, proposisi dapat berupa موجبة atau سالبة.
+
+القضية الموجبة adalah proposisi yang menetapkan hubungan yang dimaksud. Dalam القضية المتصلة, bentuk ini menetapkan اتصال antara المقدَّم dan التالي.
+
+Contohnya:
+
+«كُلَّمَا كَانَتِ الشَّمْسُ طَالِعَةً كَانَ النَّهَارُ مَوْجُودًا».
+
+Proposisi tersebut menetapkan hubungan antara terbitnya matahari dan keberadaan siang.
+
+Adapun القضية السالبة adalah proposisi yang menafikan hubungan tersebut. Dalam bentuk متصلة, penafian diarahkan kepada اتصال antara dua bagian.
+
+Dosen memberikan contoh dalam bentuk kalimat:
+
+«لَيْسَ الْبَتَّةَ إِذَا كَانَتِ الشَّمْسُ طَالِعَةً كَانَتِ النُّجُومُ ظَاهِرَةً».
+
+Dalam penjelasan kuliah, ungkapan «ليس البتة» digunakan sebagai penanda penafian yang mencakup keseluruhan hubungan yang sedang dibicarakan. Artinya, hubungan antara terbitnya matahari dan tampaknya bintang-bintang dinafikan dalam bentuk proposisi yang dicontohkan.
+
+Kalimat tersebut merupakan contoh sebagaimana diucapkan dalam rekaman. Dosen tidak menjelaskan lebih lanjut seluruh persoalan tentang kondisi astronomis yang terlibat, karena fokus penjelasannya adalah bentuk proposisi dan penanda penafiannya.
+
+### 2. Hubungan الكيف dengan susunan proposisi
+
+Dosen menekankan bahwa الإيجاب dan السلب bukanlah pembagian berdasarkan hubungan sebab atau korelasi. Keduanya merupakan pembagian berdasarkan apakah hubungan tersebut ditetapkan atau dinafikan.
+
+Karena itu, suatu proposisi yang berhubungan dengan sebab dapat dinyatakan dalam bentuk penetapan atau penafian sesuai dengan struktur pernyataannya. Begitu pula, pembagian ini tidak mengubah fakta bahwa proposisi yang sedang dibicarakan termasuk متصلة atau منفصلة.
+
+Dengan demikian, الكيف merupakan salah satu dimensi pembagian yang berdiri di samping pembagian berdasarkan hubungan antara kedua bagian.
+
+## XIX. الْكَمّ: KULLIYYAH, JUZ'IYYAH, SYAKHSIYYAH, DAN MUHMALAH
+
+### 1. Pengertian pembatasan kuantitas dalam proposisi
+
+Dosen kemudian menjelaskan bahwa dari segi الكم, proposisi dapat mempunyai سور atau penanda kuantitas.
+
+Pada pembahasan hamliyah, mahasiswa telah mempelajari proposisi yang mempunyai penanda kuantitas dan proposisi yang tidak mempunyai penanda tersebut. Proposisi dengan penanda kuantitas dapat dibagi menjadi كلية dan جزئية, sedangkan bentuk tanpa penanda kuantitas dapat dibahas sebagai شخصية atau مهملة sesuai dengan karakter pernyataannya.
+
+Dosen menggunakan kerangka yang serupa untuk menjelaskan القضية الشرطية, tetapi memperingatkan bahwa mahasiswa harus memahami apa yang sebenarnya dicakup oleh kuantitas dalam proposisi bersyarat.
+
+Dalam proposisi bersyarat, kuantitas berhubungan dengan keadaan atau kondisi المقدَّم. Oleh karena itu, ketika menentukan apakah suatu proposisi bersifat universal, partikular, personal, atau tak terkuantifikasi, mahasiswa harus memperhatikan cakupan keadaan المقدَّم yang menjadi dasar hubungan.
+
+### 2. القَضِيَّة الكُلِّيَّة
+
+Proposisi كلية adalah proposisi yang hukum atau hubungannya mencakup seluruh keadaan yang dimaksud dalam cakupan المقدَّم.
+
+Dosen memberikan contoh:
+
+«كُلَّمَا كَانَتِ الشَّمْسُ طَالِعَةً كَانَ النَّهَارُ مَوْجُودًا».
+
+Kata «كلما» berfungsi sebagai penanda yang menunjukkan cakupan universal dalam bentuk proposisi yang sedang dibahas.
+
+Dalam penjelasan dosen, proposisi tersebut tidak hanya berbicara mengenai satu keadaan tertentu dari matahari terbit. Cakupannya ditujukan kepada seluruh keadaan yang masuk dalam pengertian hubungan tersebut.
+
+Dosen juga menyebut «ليس البتة» sebagai contoh penanda yang digunakan dalam bentuk السالبة الكلية, yaitu proposisi negatif universal.
+
+Dengan demikian, proposisi كلية dapat berupa موجبة atau سالبة, bergantung pada apakah hubungan ditetapkan atau dinafikan.
+
+### 3. القَضِيَّة الجُزْئِيَّة
+
+Proposisi جزئية adalah proposisi yang cakupannya hanya mencakup sebagian keadaan المقدَّم, bukan seluruh keadaan yang mungkin dimaksud.
+
+Dosen menggunakan ungkapan seperti «قد يكون» dan «قد لا يكون» untuk memperlihatkan penanda yang dipakai dalam contoh bentuk partikular.
+
+Misalnya, bentuk:
+
+«قَدْ يَكُونُ إِذَا كَانَ النَّهَارُ مَوْجُودًا كَانَتِ الشَّمْسُ طَالِعَةً».
+
+Digunakan dalam penjelasan untuk menunjukkan bentuk جزئية موجبة.
+
+Sementara itu, bentuk:
+
+«قَدْ لَا يَكُونُ إِذَا كَانَ النَّهَارُ مَوْجُودًا كَانَتِ الشَّمْسُ طَالِعَةً».
+
+Dipakai sebagai contoh bentuk جزئية سالبة.
+
+Dalam kedua contoh tersebut, ungkapan «قد يكون» dan «قد لا يكون» digunakan dosen untuk memperlihatkan perbedaan antara proposisi positif dan negatif yang tidak memiliki cakupan universal sebagaimana contoh dengan «كلما» dan «ليس البتة».
+
+Contoh-contoh tersebut disampaikan untuk menjelaskan fungsi سور dalam proposisi bersyarat. Dosen tidak sedang membahas seluruh rincian penerapan bentuk partikular pada semua kemungkinan susunan proposisi.
+
+## XX. PERBEDAAN الشَّخْصِيَّة DAN المُهْمَلَة DALAM القَضِيَّة الشَّرْطِيَّة
+
+### 1. Mengapa pembagian dalam syarthiyah tidak sama persis dengan hamliyah?
+
+Dosen menjelaskan bahwa mahasiswa tidak boleh langsung menerapkan pengertian شخصية dalam القضية الحملية ke dalam القضية الشرطية tanpa memperhatikan perbedaan struktur keduanya.
+
+Dalam القضية الحملية, mahasiswa dapat menentukan apakah proposisi bersifat شخصية dengan melihat apakah subjeknya merupakan individu tertentu.
+
+Namun, dalam القضية الشرطية, yang menjadi perhatian adalah keadaan atau kondisi المقدَّم. Hubungan dalam proposisi bersyarat mengaitkan satu kondisi dengan kondisi lainnya.
+
+Karena itu, yang perlu diperiksa adalah apakah hukum tersebut mencakup semua keadaan المقدَّم, hanya sebagian keadaannya, satu keadaan tertentu, atau keadaan yang tidak dibatasi secara jelas.
+
+Dosen menegaskan bahwa aturan ini berlaku dalam pembahasan proposisi bersyarat, baik المتصلة maupun المنفصلة.
+
+### 2. Contoh yang dibatasi pada keadaan tertentu
+
+Dosen menggunakan contoh:
+
+«إِذَا كَانَ مُحَمَّدٌ نَائِمًا الْآنَ فَعَلِيٌّ مُسْتَيْقِظٌ».
+
+Artinya, jika Muhammad sedang tidur sekarang, Ali sedang terjaga.
+
+Dalam contoh ini, keadaan Muhammad dibatasi oleh kata «الآن», yaitu sekarang.
+
+Dosen menjelaskan bahwa pembatasan tersebut membuat pernyataan mengarah pada keadaan tertentu, bukan seluruh keadaan Muhammad ketika tidur pada setiap waktu atau pada sebagian waktu yang tidak ditentukan.
+
+Karena itu, contoh tersebut diperlakukan sebagai شخصية dalam klasifikasi yang sedang diterangkan.
+
+Contoh lain yang disampaikan adalah:
+
+«إِذَا كَانَتِ الشَّمْسُ طَالِعَةً الْيَوْمَ فَالنَّهَارُ مَوْجُودٌ».
+
+Artinya, jika matahari terbit hari ini, siang ada.
+
+Kata «اليوم» membatasi keadaan yang dibicarakan pada hari tertentu. Dengan demikian, proposisi itu menunjukkan keadaan khusus yang telah ditentukan.
+
+Dosen menggunakan contoh-contoh ini untuk menunjukkan bahwa dalam syarthiyah, penentuan شخصية berhubungan dengan pembatasan keadaan المقدَّم.
+
+### 3. Contoh yang tidak dibatasi secara tertentu
+
+Dosen kemudian membandingkannya dengan bentuk:
+
+«إِذَا كَانَ مُحَمَّدٌ نَائِمًا فَعَلِيٌّ مُسْتَيْقِظٌ».
+
+Artinya, jika Muhammad tidur, Ali terjaga.
+
+Dalam bentuk ini, tidak disebutkan apakah keadaan tersebut berlaku setiap kali Muhammad tidur, hanya pada sebagian waktu, atau hanya ketika Muhammad berada dalam keadaan tertentu.
+
+Karena tidak ada سور yang secara jelas menunjukkan universalitas atau partikularitas, dan tidak ada batasan keadaan tertentu seperti «الآن», proposisi tersebut dalam penjelasan dosen disebut مهملة.
+
+Dengan demikian, proposisi yang sama dapat menunjukkan klasifikasi berbeda apabila cara pembatasan keadaannya berubah.
+
+Jika disebut «الآن», keadaan yang dimaksud menjadi tertentu dan proposisi dapat digolongkan sebagai شخصية.
+
+Jika tidak ada penanda kuantitas dan tidak ada pembatasan keadaan yang jelas, proposisi digolongkan sebagai مهملة.
+
+### 4. Kaidah pemeriksaan yang diberikan dosen
+
+Dosen memberikan cara praktis untuk menentukan jenis proposisi dari segi الكم.
+
+Pertama, periksalah apakah terdapat سور atau penanda kuantitas.
+
+Jika terdapat «كلما», dalam contoh kuliah hal itu menunjukkan bentuk كلية موجبة. Jika terdapat «ليس البتة», bentuk tersebut dicontohkan sebagai كلية سالبة.
+
+Jika terdapat «قد يكون», bentuk yang dicontohkan adalah جزئية موجبة. Jika terdapat «قد لا يكون», bentuknya adalah جزئية سالبة.
+
+Apabila tidak ada سور, periksalah apakah keadaan المقدَّم dibatasi pada kondisi tertentu.
+
+Jika keadaan tersebut ditentukan secara khusus, misalnya dengan ungkapan «الآن» atau «اليوم», proposisi diklasifikasikan sebagai شخصية.
+
+Jika tidak ada penanda kuantitas dan tidak ada pembatasan keadaan tertentu, proposisi diklasifikasikan sebagai مهملة.
+
+Dosen menekankan bahwa aturan ini harus dipahami berdasarkan keadaan المقدَّم, bukan sekadar melihat siapa yang menjadi subjek dalam pengertian biasa.
+
+## XXI. KEADAAN الْمُقَدَّم SEBAGAI DASAR PENENTUAN الْكَمّ
+
+Untuk memperjelas kaidah itu, dosen kembali menggunakan contoh matahari dan siang.
+
+Dalam proposisi:
+
+«كُلَّمَا كَانَتِ الشَّمْسُ طَالِعَةً كَانَ النَّهَارُ مَوْجُودًا».
+
+Cakupan hukumnya ditujukan kepada seluruh keadaan yang termasuk dalam hubungan terbitnya matahari dengan keberadaan siang. Karena itu, bentuk tersebut disebut كلية dalam penjelasan dosen.
+
+Adapun jika suatu proposisi hanya menghubungkan keadaan tertentu atau sebagian kondisi, cakupannya tidak sama dengan cakupan universal.
+
+Dalam contoh Muhammad yang sedang tidur dan Ali yang terjaga, jika pembicara membatasi pernyataan pada keadaan Muhammad tidur sekarang, maka yang dimaksud hanya keadaan tertentu. Namun, jika pembicara tidak menentukan apakah keadaan itu berlaku sepanjang waktu atau hanya dalam keadaan tertentu, proposisinya menjadi مهملة.
+
+Dosen menegaskan bahwa dalam القضية الشرطية, penggolongan كلية, جزئية, شخصية, dan مهملة ditentukan berdasarkan أحوال المقدَّم, yaitu keadaan-keadaan yang tercakup dalam المقدَّم.
+
+Jika hukumnya mencakup seluruh keadaan المقدَّم, ia menjadi كلية.
+
+Jika hanya mencakup sebagian keadaan المقدَّم, ia menjadi جزئية.
+
+Jika dibatasi pada satu keadaan tertentu, ia menjadi شخصية.
+
+Jika keadaan المقدَّم tidak ditentukan secara jelas dan tidak terdapat سور, ia menjadi مهملة.
+
+Dosen juga mengingatkan mahasiswa agar tidak menerapkan kategori tersebut secara mekanis dengan hanya melihat apakah ada nama orang seperti Muhammad atau Ali. Yang diperiksa adalah bagaimana keadaan yang menjadi dasar syarat itu dibatasi.
+
+---
+
+# BAGIAN KETUJUH: MENGGABUNGKAN SELURUH PEMBAGIAN القَضِيَّة المُتَّصِلَة
+
+## XXII. TIGA DIMENSI PEMBAGIAN PROPOSISI MUTTASHILAH
+
+Setelah seluruh pembagian dijelaskan, dosen mengajak mahasiswa melihat cara menggabungkan tiga dimensi klasifikasi.
+
+Pertama, القضية المتصلة dibagi berdasarkan hubungan antara المقدَّم dan التالي. Dari sisi ini, terdapat اتفاقية dan لزومية. Jenis اللزومية dibedakan lagi menurut tiga bentuk hubungan sebab dan satu bentuk التضايف.
+
+Kedua, proposisi dibagi berdasarkan الكم, yaitu apakah hukumnya bersifat كلية, جزئية, شخصية, atau مهملة. Dalam pembahasan ini, kuantitas ditentukan berdasarkan keadaan المقدَّم.
+
+Ketiga, proposisi dibagi berdasarkan الكيف, yaitu apakah bentuknya موجبة atau سالبة.
+
+Ketiga dimensi ini harus dipahami sebagai sudut pandang klasifikasi yang berbeda. Hubungan sebab-akibat, misalnya, menentukan jenis hubungan antara kedua proposisi; كلية atau جزئية menentukan cakupan keadaan yang dimaksud; sedangkan موجبة atau سالبة menunjukkan apakah hubungan itu ditetapkan atau dinafikan.
+
+Dosen menegaskan bahwa mahasiswa harus mampu menentukan kategori dalam setiap dimensi tersebut. Dengan memahami setiap kaidah, mereka dapat mengklasifikasikan contoh-contoh proposisi tanpa harus menghafal seluruh bentuk gabungan satu per satu.
+
+## XXIII. LIMA BENTUK HUBUNGAN DAN PENGGABUNGANNYA DENGAN الْكَمّ DAN الْكَيْف
+
+Dosen menjelaskan bahwa, berdasarkan pembagian yang telah disusun, terdapat lima bentuk hubungan dalam القضية المتصلة.
+
+Bentuk pertama adalah الاتفاقية.
+
+Bentuk kedua adalah اللزومية ketika المقدَّم menjadi sebab bagi التالي.
+
+Bentuk ketiga adalah اللزومية ketika المقدَّم merupakan akibat dari التالي.
+
+Bentuk keempat adalah اللزومية ketika kedua bagian menjadi akibat dari sebab lain.
+
+Bentuk kelima adalah اللزومية berdasarkan التضايف.
+
+Masing-masing bentuk hubungan itu selanjutnya dapat dipertimbangkan dari segi الكم. Dalam kerangka yang diajarkan, setiap bentuk dapat bersifat كلية, جزئية, شخصية, atau مهملة, sesuai dengan keadaan المقدَّم.
+
+Setiap hasil klasifikasi berdasarkan hubungan dan kuantitas itu kemudian dapat muncul dalam bentuk موجبة atau سالبة.
+
+Dosen menyampaikan bahwa mahasiswa tidak perlu menghafal semua bentuk gabungan ini sebagai daftar terpisah tanpa memahami prinsip pembagiannya. Mereka harus menguasai kerangka yang menghasilkan pembagian tersebut.
+
+## XXIV. MENGAPA DOSEN MENYEBUT ADA 40 JENIS?
+
+Pada bagian akhir penjelasan mengenai klasifikasi, dosen menghitung jumlah kemungkinan bentuk القضية المتصلة dengan menggabungkan ketiga dimensi tadi.
+
+Terdapat lima bentuk hubungan: satu اتفاقية, tiga bentuk hubungan kausal dalam اللزومية, dan satu bentuk التضايف.
+
+Kelima bentuk hubungan itu masing-masing dapat diklasifikasikan melalui empat jenis الكم, yaitu كلية, جزئية, شخصية, dan مهملة.
+
+Karena itu, jumlah bentuk yang diperoleh dari pembagian hubungan dan kuantitas adalah:
+
+5 × 4 = 20.
+
+Setiap bentuk tersebut kemudian dapat berupa موجبة atau سالبة. Karena terdapat dua kemungkinan dalam pembagian berdasarkan الكيف, hitungannya menjadi:
+
+20 × 2 = 40.
+
+Dengan demikian, menurut perhitungan yang disampaikan dosen, terdapat 40 bentuk gabungan dalam pembagian القضية المتصلة berdasarkan hubungan, kuantitas, dan kualitas.
+
+Dosen menggunakan perhitungan tersebut bukan untuk menuntut mahasiswa menghafal 40 bentuk secara terpisah. Ia justru menekankan bahwa jika seseorang hanya diminta menghafal daftar 40 jenis tanpa memahami dasar pembagiannya, tugas tersebut akan terasa sulit dan melelahkan.
+
+Sebaliknya, jika mahasiswa memahami bahwa hubungan terbagi menjadi lima jenis, kuantitas menjadi empat jenis, dan kualitas menjadi dua jenis, mereka dapat memperoleh jumlah tersebut sendiri.
+
+Menurut dosen, inti mantiq bukan sekadar mengetahui definisi atau menghafal banyak nama. Mantiq juga menuntut penerapan kaidah. Mahasiswa harus mampu mengenali suatu proposisi, menentukan strukturnya, kemudian menerapkan aturan yang sesuai.
+
+Karena itu, dosen mendorong mahasiswa memahami cara pembagian dilakukan agar dapat menggunakannya pada contoh-contoh baru.
+
+---
+
+# BAGIAN KEDELAPAN: PENEGASAN ULANG DAN DISKUSI AKHIR
+
+## XXV. MANTIГ SEBAGAI ILMU PENERAPAN KAIDAH
+
+Setelah memperlihatkan bahwa pembagian القضية المتصلة dapat menghasilkan 40 bentuk, dosen kembali menekankan metode belajar yang harus digunakan mahasiswa.
+
+Ia membandingkan dua cara belajar. Cara pertama adalah menghafal semua jenis proposisi tanpa memahami hubungan antara pembagiannya. Cara kedua adalah memahami kaidah yang mendasari klasifikasi, kemudian menggunakannya untuk menentukan kategori setiap contoh.
+
+Dosen menyatakan bahwa cara kedua lebih sesuai dengan tujuan mempelajari mantiq. Jika mahasiswa hanya menghafal daftar 40 jenis, mereka dapat segera melupakannya atau mengalami kesulitan ketika harus menentukan contoh yang belum pernah dihafal.
+
+Namun, jika mereka memahami struktur pembagiannya, mereka dapat memperoleh jenis-jenis itu dari kaidah yang telah dipelajari.
+
+Dosen juga menekankan bahwa mahasiswa perlu mengerjakan latihan penerapan, bukan hanya membaca definisi. Dalam penjelasannya, ia bahkan mengatakan bahwa jika mahasiswa tidak memberikan contoh untuk setiap bagian, ia akan meminta mereka membuat contoh sampai dapat menunjukkan bahwa pembagian tersebut benar-benar dipahami.
+
+Dengan demikian, ukuran pemahaman bukan semata-mata kemampuan mengulang kata-kata dalam definisi, melainkan kemampuan mengenali struktur proposisi dan menentukan bagian-bagiannya berdasarkan aturan yang tepat.
+
+## XXVI. MENJAWAB PERTANYAAN TENTANG التَّضَايُف
+
+Pada bagian akhir perkuliahan, terdapat pertanyaan mengenai التضايف. Mahasiswa menanyakan atau menanggapi kemungkinan bahwa hubungan korelatif tersebut berkaitan dengan beberapa bentuk hubungan, seperti الأخوة dan الزوجية.
+
+Dosen kemudian mengulang contoh hubungan persaudaraan, hubungan suami dan istri, serta hubungan ayah dan anak. Ia menjelaskan bahwa jika seseorang telah ditetapkan sebagai saudara dari orang lain, hubungan persaudaraan dari pihak yang lain juga dapat diketahui.
+
+Demikian pula, jika Muhammad adalah suami Aisyah, Aisyah adalah istri Muhammad. Jika Muhammad adalah ayah Khalid, Khalid adalah anak Muhammad.
+
+Dosen menggunakan contoh-contoh tersebut untuk menjelaskan bahwa التضايف berbeda dari hubungan kausal. Pada hubungan kausal, mahasiswa perlu mengetahui sebab yang menghubungkan dua keadaan. Pada hubungan korelatif, keduanya merupakan dua sisi dari hubungan yang saling berkaitan.
+
+Ia kembali menggunakan perbandingan antara matahari dan siang. Jika seseorang belum mengetahui hubungan yang dimaksud dalam contoh tersebut, hubungan sebab-akibatnya perlu dijelaskan. Adapun dalam hubungan ayah dan anak, penetapan salah satu hubungan telah mengandung hubungan pasangannya.
+
+Bagian akhir rekaman kembali menyinggung cara menghubungkan dua proposisi. Namun, transkripsi terhenti ketika dosen mulai mengajukan pertanyaan mengenai bagaimana hubungan itu dibangun. Karena itu, tidak tersedia penjelasan lanjutan yang dapat dipastikan dari sumber pada bagian paling akhir tersebut.
+
+## XXVII. PENUTUP PEMBAHASAN
+
+Dosen menutup materi dengan kembali menegaskan bahwa القضية الشرطية المتصلة telah dipelajari melalui tiga sudut pandang: hubungan antara المقدَّم dan التالي, kuantitas atau cakupan keadaan yang dimaksud, serta kualitas berupa penetapan atau penafian.
+
+Berdasarkan hubungan, proposisi متصلة dibagi menjadi اتفاقية dan لزومية. Dalam اللزومية, hubungan dapat dijelaskan melalui tiga bentuk sebab-akibat dan satu bentuk التضايف.
+
+Berdasarkan الكم, proposisi dibagi menjadi كلية, جزئية, شخصية, dan مهملة. Penentuannya dalam القضية الشرطية berkaitan dengan keadaan المقدَّم: apakah mencakup seluruh keadaan, sebagian keadaan, satu keadaan tertentu, atau keadaan yang tidak dibatasi secara jelas.
+
+Berdasarkan الكيف, proposisi dapat berupa موجبة atau سالبة.
+
+Dengan menggabungkan lima bentuk hubungan, empat jenis kuantitas, dan dua jenis kualitas, dosen memperoleh 40 kemungkinan bentuk gabungan dalam klasifikasi القضية المتصلة.
+
+Dosen meminta mahasiswa mempelajari kembali materi melalui kitab dan menggunakan penjelasan perkuliahan untuk membantu memahami susunan pembagiannya. Ia juga mengingatkan bahwa mahasiswa yang masih memiliki pertanyaan sebaiknya mengajukannya pada kesempatan yang disediakan agar persoalan dapat dibahas secara teratur.
+
+Keseluruhan perkuliahan ini menekankan dua hal yang saling berkaitan. Dari segi materi, mahasiswa harus memahami perbedaan القضية الحملية dan القضية الشرطية, mengenali الفرق antara المتصلة dan المنفصلة, menentukan المقدَّم dan التالي dengan benar, serta menguasai pembagian القضية المتصلة berdasarkan hubungan, الكم, dan الكيف. Dari segi metode belajar, mahasiswa diharapkan tidak hanya menghafal definisi, tetapi memahami kaidah yang menghasilkan pembagian tersebut dan melatih diri menerapkannya pada contoh yang berbeda.
