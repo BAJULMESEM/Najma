@@ -1,0 +1,1111 @@
+# ILMU MANTIQ: القَضِيَّةُ الحَمْلِيَّةُ، الْقَضَايَا الْمُحَصَّلَةُ وَالْمَعْدُولَةُ، DAN الِاسْتِغْرَاقُ
+
+## I. PENDAHULUAN: KEDUDUKAN PEMBAHASAN DALAM ILMU MANTIQ
+
+Perkuliahan ini membahas dua persoalan utama dalam ilmu mantiq, yaitu العدول والتحصيل (perbedaan antara proposisi yang mengalami perubahan arah penafian dan proposisi yang mempertahankan bentuk asalnya) serta الاستغراق (distribusi atau cakupan seluruh individu dalam suatu istilah). Kedua persoalan tersebut merupakan bagian dari pembahasan القضية الحملية, yaitu proposisi kategoris.
+
+Dosen menjelaskan bahwa pemahaman mengenai kedua persoalan itu penting karena akan digunakan ketika mempelajari القياس, yaitu silogisme atau penalaran yang disusun dari beberapa premis untuk menghasilkan kesimpulan. Salah satu aturan dalam القياس berkaitan dengan keharusan memperhatikan apakah suatu حد, yaitu istilah atau term yang menjadi bagian dari penalaran, mencakup seluruh individu atau hanya sebagian individu dalam premis dan kesimpulan.
+
+Karena itu, sebelum mempelajari القياس lebih jauh, mahasiswa harus memahami bentuk proposisi, kedudukan penafian di dalam proposisi, serta cakupan subjek dan predikatnya.
+
+Dosen juga mengingatkan bahwa setelah pembahasan mengenai القضية الحملية selesai, pembahasan berikutnya adalah القضية الشرطية, yaitu proposisi kondisional. Proposisi kondisional dibagi menjadi dua jenis utama, yakni المتصلة dan المنفصلة. Proposisi المنفصلة nantinya juga dibahas berdasarkan hubungan antara kedua bagiannya, termasuk bentuk yang disebut مانعة الجمع dan مانعة الخلو.
+
+Meskipun demikian, kuliah ini masih berfokus pada القضية الحملية. Pembahasannya dimulai dengan mengingat kembali struktur proposisi kategoris, dilanjutkan dengan الفرق بين المحصلة والمعدولة, kemudian masuk ke persoalan الاستغراق dan penerapannya dalam penalaran.
+
+---
+
+## II. PENGERTIAN القضية الحملية DAN BAGIAN-BAGIANNYA
+
+### 1. Pengertian القضية الحملية
+
+Dosen terlebih dahulu mengingatkan bahwa proposisi dalam ilmu mantiq dapat berupa القضية الحملية atau القضية الشرطية. Pada pertemuan ini, yang menjadi perhatian utama adalah القضية الحملية.
+
+Dosen menjelaskan pengertian القضية الحملية melalui rumusan:
+
+«الْحُكْمُ بِإِثْبَاتِ شَيْءٍ لِشَيْءٍ أَوْ نَفْيِهِ عَنْهُ».
+
+Artinya, proposisi kategoris merupakan suatu penilaian dengan menetapkan sesuatu kepada sesuatu yang lain atau menafikannya dari sesuatu tersebut.
+
+Dengan demikian, suatu القضية حملية dapat berisi penetapan atau penafian. Apabila seseorang menetapkan suatu sifat kepada sesuatu, proposisi tersebut bersifat موجبة. Sebaliknya, apabila ia menafikan sifat tersebut darinya, proposisi itu bersifat سالبة.
+
+Contohnya, apabila dikatakan:
+
+«مُحَمَّدٌ قَائِمٌ».
+
+Artinya, Muhammad berdiri.
+
+Pernyataan tersebut menetapkan sifat berdiri kepada Muhammad. Karena predikat berupa berdiri ditetapkan kepada subjek Muhammad, proposisi tersebut merupakan القضية الموجبة.
+
+Sebaliknya, apabila dikatakan:
+
+«مُحَمَّدٌ لَيْسَ بِقَائِمٍ».
+
+Artinya, Muhammad tidak berdiri.
+
+Pernyataan tersebut menafikan sifat berdiri dari Muhammad. Oleh karena itu, proposisi tersebut merupakan القضية السالبة.
+
+Perbedaan keduanya bukan sekadar terletak pada adanya suatu kata tertentu, melainkan pada fungsi yang dijalankan dalam penilaian: apakah menetapkan predikat kepada subjek atau menafikan predikat itu darinya.
+
+### 2. الموضوع، المحمول، dan الرابطة
+
+Dosen menjelaskan bahwa القضية الحملية mempunyai tiga unsur konseptual utama, yaitu الموضوع, المحمول, dan الرابطة.
+
+الموضوع adalah sesuatu yang dibicarakan atau sesuatu yang dikenai penilaian. Dalam istilah dosen, الموضوع merupakan المحكوم عليه, yaitu pihak yang menjadi objek penetapan atau penafian.
+
+المحمول adalah sifat atau predikat yang ditetapkan kepada subjek atau dinafikan darinya. Dengan kata lain, المحمول merupakan المحكوم به, yaitu sesuatu yang dijadikan isi penilaian.
+
+Adapun الرابطة adalah hubungan antara الموضوع dan المحمول, yaitu hubungan yang memungkinkan predikat dinyatakan berlaku atau tidak berlaku bagi subjek.
+
+Sebagai contoh, dalam kalimat:
+
+«مُحَمَّدٌ قَائِمٌ».
+
+محمد merupakan الموضوع, sedangkan قائم merupakan المحمول. Hubungan antara keduanya menunjukkan bahwa sifat berdiri ditetapkan kepada Muhammad.
+
+Dosen menjelaskan bahwa الرابطة dapat dinyatakan secara eksplisit melalui suatu kata atau partikel, tetapi dapat pula tidak disebutkan secara terpisah dalam redaksi kalimat. Dengan demikian, perlu dibedakan antara unsur-unsur konseptual dalam proposisi dan kata-kata yang benar-benar tampak dalam kalimat.
+
+### 3. الرابطة dan الأدوات
+
+Dalam penjelasan dosen, hubungan antara subjek dan predikat kadang-kadang dinyatakan melalui أداة atau kata penghubung. Alat tersebut dapat menunjukkan hubungan biasa atau hubungan yang berkaitan dengan waktu.
+
+Misalnya:
+
+«مُحَمَّدٌ هُوَ قَائِمٌ».
+
+Artinya, Muhammad adalah orang yang berdiri.
+
+Dalam contoh tersebut, هو disebut sebagai penanda hubungan dalam susunan kalimat yang dijelaskan dosen.
+
+Contoh berikutnya:
+
+«مُحَمَّدٌ كَانَ قَائِمًا».
+
+Artinya, Muhammad dahulu sedang berdiri atau Muhammad pernah berada dalam keadaan berdiri.
+
+Pada contoh kedua, كان memberikan keterangan waktu terhadap keadaan yang dinyatakan dalam proposisi.
+
+Dosen menjelaskan bahwa jika penanda hubungan tersebut dinyatakan tersendiri, proposisi dapat dipandang mempunyai tiga unsur dalam susunan lahiriahnya: subjek, penghubung, dan predikat.
+
+Sebaliknya, jika penghubung tidak disebutkan secara terpisah, kalimat seperti:
+
+«مُحَمَّدٌ قَائِمٌ».
+
+dapat dipandang mempunyai dua unsur lahiriah, yaitu subjek dan predikat. Meskipun demikian, hubungan penetapan antara keduanya tetap dapat dipahami.
+
+Dengan demikian, tidak disebutkannya الرابطة secara eksplisit tidak berarti bahwa hubungan antara الموضوع dan المحمول sama sekali tidak ada. Yang berbeda hanyalah cara hubungan tersebut dinyatakan dalam kalimat.
+
+### 4. الموضوع dan المحمول sebagai unsur penalaran
+
+Dosen mengingatkan bahwa ketika mempelajari القضية الحملية, mahasiswa harus mampu membedakan dengan tepat apa yang menjadi الموضوع dan apa yang menjadi المحمول.
+
+Dalam kalimat «مُحَمَّدٌ قَائِمٌ», subjeknya adalah Muhammad dan predikatnya adalah berdiri. Akan tetapi, apabila susunan kalimat berubah, subjek dan predikat harus ditentukan kembali berdasarkan apa yang sebenarnya dibicarakan dan apa yang dinyatakan tentangnya.
+
+Pembedaan ini nantinya sangat penting dalam pembahasan المعدولة, karena suatu kata yang mengandung penafian dapat menjadi bagian dari الموضوع atau المحمول. Jika mahasiswa tidak menentukan batas kedua unsur itu dengan tepat, ia dapat salah menentukan apakah suatu proposisi bersifat موجبة atau سالبة.
+
+---
+
+## III. PEMBAGIAN القضية الحملية BERDASARKAN الْكَمِّ وَالْكَيْفِ
+
+### 1. الكم dan الكيف
+
+Dosen mengingatkan bahwa القضية الحملية dapat dibagi berdasarkan dua aspek, yaitu الكم dan الكيف.
+
+الكم berkaitan dengan cakupan subjek dalam penilaian: apakah yang dibicarakan adalah seluruh individu atau hanya sebagian individu. Dalam pembahasan ini, bentuk utamanya adalah الكلية dan الجزئية.
+
+Adapun الكيف berkaitan dengan bentuk penilaian, yaitu apakah predikat ditetapkan kepada subjek atau dinafikan darinya. Dari aspek ini, proposisi dibagi menjadi الموجبة dan السالبة.
+
+Karena itu, ketika membahas suatu proposisi, mahasiswa perlu memeriksa dua persoalan sekaligus. Pertama, apakah proposisi itu bersifat universal atau partikular. Kedua, apakah proposisi tersebut menetapkan atau menafikan predikat.
+
+### 2. القضية الكلية
+
+القضية الكلية adalah proposisi universal, yaitu proposisi yang penilaiannya mencakup seluruh individu yang termasuk dalam subjeknya.
+
+Contohnya:
+
+«كُلُّ الطُّلَّابِ نَاجِحُونَ».
+
+Artinya, semua mahasiswa lulus.
+
+Dalam kalimat tersebut, penilaian tidak hanya diberikan kepada sebagian mahasiswa. Proposisi itu mencakup seluruh individu yang termasuk dalam kelompok mahasiswa yang dimaksud.
+
+Proposisi universal dapat berbentuk موجبة apabila predikat ditetapkan kepada seluruh subjek, dan dapat berbentuk سالبة apabila predikat dinafikan dari seluruh subjek.
+
+### 3. القضية الجزئية
+
+القضية الجزئية adalah proposisi partikular, yaitu proposisi yang penilaiannya hanya mencakup sebagian individu dari kelompok yang menjadi subjek.
+
+Contohnya:
+
+«بَعْضُ الطُّلَّابِ فَاهِمُونَ».
+
+Artinya, sebagian mahasiswa memahami.
+
+Pernyataan tersebut tidak menetapkan bahwa seluruh mahasiswa memahami. Pernyataan itu hanya menetapkan sifat memahami kepada sebagian mahasiswa.
+
+Proposisi partikular juga dapat berbentuk موجبة atau سالبة, bergantung pada apakah predikat ditetapkan atau dinafikan.
+
+Misalnya:
+
+«بَعْضُ الطُّلَّابِ لَيْسُوا حَاضِرِينَ».
+
+Artinya, sebagian mahasiswa tidak hadir.
+
+Proposisi ini bersifat partikular karena yang dibicarakan hanya sebagian mahasiswa, dan bersifat negatif karena kehadiran dinafikan dari bagian tersebut.
+
+### 4. القضية المهملة
+
+Dosen juga menjelaskan القضية المهملة, yaitu proposisi yang tidak menyebutkan secara eksplisit pembatas universal atau partikular melalui سور tertentu.
+
+Contohnya:
+
+«الطُّلَّابُ حَاضِرُونَ».
+
+Artinya, mahasiswa hadir.
+
+Dalam pernyataan ini tidak terdapat kata كل yang secara eksplisit menunjukkan bahwa seluruh mahasiswa hadir. Namun, kalimat tersebut juga tidak menyebutkan kata بعض yang membatasi penilaian kepada sebagian mahasiswa.
+
+Menurut penjelasan dosen, kalimat semacam ini dapat saja dimaksudkan untuk menyatakan bahwa semua mahasiswa hadir, tetapi juga dapat digunakan dengan maksud bahwa sebagian mahasiswa hadir.
+
+Karena kedua kemungkinan itu dapat muncul, dosen menjelaskan bahwa dalam penyusunan kaidah logika, القضية المهملة ditempatkan dalam kekuatan القضية الجزئية. Alasannya, cakupan paling terbatas yang dapat dipastikan dari pernyataan tanpa سور tersebut adalah sebagian individu.
+
+Dosen kembali menekankan bahwa penempatan المهملة dalam kekuatan الجزئية merupakan cara menetapkan kaidah berdasarkan cakupan yang dapat dipastikan, bukan berarti setiap orang yang mengucapkan kalimat tersebut selalu bermaksud hanya menyebut sebagian individu.
+
+### 5. القضية الشخصية atau القضية المخصوصة
+
+Selain الكلية, الجزئية, dan المهملة, dosen menyebut القضية الشخصية atau القضية المخصوصة, yaitu proposisi yang subjeknya merujuk kepada individu tertentu.
+
+Perbedaannya dengan القضية الكلية adalah bahwa القضية الشخصية membicarakan satu individu tertentu, sedangkan القضية الكلية mencakup seluruh individu dari suatu kelompok.
+
+Dosen menjelaskan bahwa القضية الشخصية ditempatkan dalam kekuatan القضية الكلية ketika kaidah distribusi sedang dibahas. Sebabnya, apabila subjeknya hanya satu individu tertentu dan penilaian benar-benar diarahkan kepada individu tersebut, cakupan subjek itu mencakup seluruh individu yang menjadi rujukan proposisi, yakni satu individu itu sendiri.
+
+Dalam transkripsi, terdapat keterangan tambahan mengenai penggunaan istilah الشخصية atau المخصوصة ketika subjeknya adalah Allah تعالى. Penjelasan tepatnya tidak sepenuhnya jelas dalam rekaman. Karena itu, keterangan tersebut tidak dapat diperluas lebih jauh.
+
+Dosen menjelaskan bahwa kaidah-kaidah logika biasanya dirumuskan terlebih dahulu berdasarkan الكلية dan الجزئية. Dalam banyak pembahasan, aturan yang berlaku bagi القضية الشخصية mengikuti aturan القضية الكلية, sedangkan aturan bagi المهملة mengikuti aturan القضية الجزئية.
+
+Namun, dosen mengingatkan bahwa hal tersebut tidak berarti keduanya selalu identik dalam seluruh persoalan logika. Pada beberapa pembahasan, seperti التناقض, dapat terdapat perbedaan antara القضية الشخصية dan القضية الكلية, atau antara القضية المهملة dan القضية الجزئية.
+
+### 6. Delapan bentuk dasar proposisi
+
+Dengan memperhitungkan empat bentuk dari aspek cakupan dan dua bentuk dari aspek kualitas, dosen menyebut delapan jenis dasar proposisi.
+
+Delapan jenis tersebut ialah:
+
+Pertama, كلية موجبة, yaitu proposisi universal afirmatif.
+
+Kedua, كلية سالبة, yaitu proposisi universal negatif.
+
+Ketiga, جزئية موجبة, yaitu proposisi partikular afirmatif.
+
+Keempat, جزئية سالبة, yaitu proposisi partikular negatif.
+
+Kelima, مهملة موجبة, yaitu proposisi tidak terkuantifikasi secara eksplisit yang bersifat afirmatif.
+
+Keenam, مهملة سالبة, yaitu proposisi tidak terkuantifikasi secara eksplisit yang bersifat negatif.
+
+Ketujuh, شخصية موجبة, yaitu proposisi mengenai individu tertentu yang bersifat afirmatif.
+
+Kedelapan, شخصية سالبة, yaitu proposisi mengenai individu tertentu yang bersifat negatif.
+
+Dosen menyebut delapan bentuk tersebut ketika mengingatkan kembali pembagian القضية الحملية berdasarkan الكم dan الكيف.
+
+Ia juga menyebut bahwa proposisi dapat berupa حقيقية, ذهنية, atau خارجية. Akan tetapi, kategori-kategori tersebut hanya disinggung dalam pembukaan dan tidak dijelaskan secara terperinci dalam rekaman ini.
+
+---
+
+# BAGIAN KEEMPAT: الْمُحَصَّلَةُ وَالْمَعْدُولَةُ
+
+## IV. PERTANYAAN UTAMA: APAKAH HURUF PENAFIAN MENAFIKAN PREDIKAT ATAU MENJADI BAGIAN DARI ISTILAH?
+
+Setelah mengingat kembali susunan dan pembagian القضية الحملية, dosen masuk kepada pembahasan العدول والتحصيل.
+
+Persoalan utamanya adalah bagaimana menilai suatu proposisi apabila di dalamnya terdapat kata yang menunjukkan penafian, misalnya لا atau غير.
+
+Dosen menekankan bahwa keberadaan kata yang menunjukkan penafian tidak otomatis membuat keseluruhan proposisi menjadi سالبة.
+
+Hal yang harus diperiksa adalah fungsi kata tersebut: apakah kata penafian benar-benar digunakan untuk menafikan predikat dari subjek, ataukah kata tersebut menjadi bagian dari الموضوع atau المحمول itu sendiri.
+
+Perbedaan inilah yang membedakan القضية المحصلة dan القضية المعدولة.
+
+## V. القضية المحصلة
+
+### 1. Pengertian القضية المحصلة
+
+القضية المحصلة adalah proposisi yang bentuk istilahnya tetap berada pada bentuk asalnya, tanpa mengubah kata penafian menjadi bagian dari subjek atau predikat.
+
+Dosen menjelaskan bahwa ketika tidak terdapat huruf penafian dalam istilah yang menjadi subjek atau predikat, proposisi berada dalam bentuk yang lazim atau محصلة.
+
+Contohnya:
+
+«مُحَمَّدٌ قَائِمٌ».
+
+«الطُّلَّابُ حَاضِرُونَ».
+
+«كُلُّ الطُّلَّابِ نَاجِحُونَ».
+
+«بَعْضُ الطُّلَّابِ فَاهِمُونَ».
+
+Kalimat-kalimat tersebut tidak memasukkan kata penafian ke dalam subjek atau predikat. Karena itu, dosen menyebutnya sebagai proposisi محصلة.
+
+Namun, apabila suatu kalimat mengandung kata penafian, masih perlu diperiksa bagaimana kata itu digunakan. Kata penafian dapat menjalankan fungsi biasa, yaitu menafikan predikat, atau dapat menjadi bagian dari salah satu unsur yang dinilai.
+
+### 2. القضية المحصلة الموجبة
+
+Contoh القضية المحصلة الموجبة adalah:
+
+«مُحَمَّدٌ قَائِمٌ».
+
+Dalam kalimat tersebut, الموضوع adalah محمد, sedangkan المحمول adalah قائم. Tidak terdapat unsur penafian dalam salah satu dari kedua istilah itu.
+
+Kalimat tersebut menetapkan berdiri kepada Muhammad. Karena tidak terdapat penafian yang mengubah istilahnya, proposisi ini merupakan محصلة موجبة.
+
+Contoh lain adalah:
+
+«الطُّلَّابُ حَاضِرُونَ».
+
+Kalimat tersebut menetapkan kehadiran kepada mahasiswa. Tidak terdapat unsur penafian yang menjadi bagian dari الموضوع atau المحمول.
+
+### 3. القضية المحصلة السالبة
+
+Contoh القضية المحصلة السالبة adalah:
+
+«مُحَمَّدٌ لَيْسَ بِقَائِمٍ».
+
+Dalam kalimat tersebut, subjeknya tetap محمد, sedangkan predikatnya قائم. Kata ليس tidak menjadi bagian dari istilah subjek atau predikat, tetapi berfungsi untuk menafikan hubungan antara keduanya.
+
+Dosen menekankan bahwa kata ليس dalam contoh itu digunakan untuk menafikan sifat berdiri dari Muhammad, bukan untuk membentuk istilah baru yang menjadi bagian dari subjek atau predikat.
+
+Karena itu, proposisi tersebut adalah سالبة محصلة.
+
+Contoh lain yang disebutkan adalah:
+
+«بَعْضُ الطُّلَّابِ لَيْسُوا حَاضِرِينَ».
+
+«لَا وَاحِدَ مِنَ الطُّلَّابِ حَاضِرٌ».
+
+Keduanya menggunakan penafian untuk meniadakan hubungan antara subjek dan predikat, meskipun kuantitas penilaiannya berbeda.
+
+Dosen menyebut القضية المحصلة السالبة sebagai bentuk yang mempertahankan fungsi asal huruf penafian dalam proposisi, yaitu menafikan predikat dari subjek.
+
+---
+
+## VI. القضية المعدولة
+
+### 1. Pengertian العدول
+
+Dosen kemudian menjelaskan bahwa kata عدل secara bahasa berkaitan dengan perubahan arah atau berpaling dari keadaan asal.
+
+Dalam pembahasan mantiq, القضية المعدولة adalah proposisi yang di dalamnya terdapat huruf atau kata penafian yang tidak lagi digunakan semata-mata untuk menafikan المحمول dari الموضوع, tetapi menjadi bagian dari الموضوع atau المحمول itu sendiri.
+
+Dosen menjelaskan bahwa أصل atau bentuk asal suatu proposisi adalah ketika kata penafian digunakan untuk menafikan suatu predikat dari subjek.
+
+Misalnya:
+
+«مُحَمَّدٌ لَيْسَ بِقَائِمٍ».
+
+Pada contoh ini, ليس digunakan untuk menafikan قيام dari محمد.
+
+Namun, apabila kata penafian dimasukkan ke dalam istilah yang menjadi subjek atau predikat, maka fungsi kalimat berubah. Kata penafian itu menjadi bagian dari sesuatu yang sedang dibicarakan atau menjadi bagian dari sifat yang dinyatakan.
+
+Dalam keadaan tersebut, proposisi disebut معدولة karena kata penafian telah beralih dari fungsi asalnya.
+
+### 2. Mengapa القضية المعدولة dapat bersifat موجبة?
+
+Dosen menekankan bahwa القضية المعدولة dapat bersifat موجبة ataupun سالبة.
+
+Hal ini penting karena mahasiswa mungkin mengira bahwa setiap proposisi yang mengandung kata لا atau غير otomatis bersifat negatif. Dosen menjelaskan bahwa anggapan tersebut tidak benar.
+
+Untuk menentukan apakah proposisi موجبة atau سالبة, seseorang harus terlebih dahulu memastikan fungsi kata penafian.
+
+Jika kata penafian menjadi bagian dari subjek atau predikat, tetapi kalimat tetap menetapkan predikat tersebut kepada subjek, proposisi itu dapat menjadi موجبة معدولة.
+
+Sebaliknya, jika di samping adanya kata penafian yang menjadi bagian dari suatu istilah, kalimat juga menafikan hubungan predikat dengan subjek, proposisi tersebut menjadi سالبة معدولة.
+
+Dengan demikian, dua pertanyaan harus dipisahkan.
+
+Pertama, apakah ada kata penafian yang menjadi bagian dari الموضوع atau المحمول? Jika ada, proposisi dapat tergolong معدولة.
+
+Kedua, apakah kalimat menetapkan hubungan predikat dengan subjek atau menafikannya? Jika ditetapkan, proposisi bersifat موجبة; jika dinafikan, proposisi bersifat سالبة.
+
+### 3. Tiga bentuk العدول
+
+Dosen menjelaskan bahwa العدول dapat terjadi dalam tiga bentuk.
+
+Pertama, العدول في الموضوع, yaitu ketika kata penafian menjadi bagian dari subjek.
+
+Kedua, العدول في المحمول, yaitu ketika kata penafian menjadi bagian dari predikat.
+
+Ketiga, العدول في الطرفين, yaitu ketika kata penafian menjadi bagian dari subjek sekaligus predikat.
+
+Masing-masing dari ketiga bentuk tersebut dapat bersifat موجبة atau سالبة. Oleh karena itu, terdapat enam bentuk yang muncul dari kombinasi ketiga letak العدول dengan dua kemungkinan kualitas proposisi.
+
+Bentuk-bentuk tersebut akan dijelaskan melalui contoh-contoh yang digunakan dosen.
+
+---
+
+## VII. CONTOH PERTAMA: الْجَمَادُ غَيْرُ نَامٍ
+
+Dosen memberikan contoh:
+
+«الْجَمَادُ غَيْرُ نَامٍ».
+
+Artinya, benda mati tidak bertumbuh atau benda mati bersifat tidak bertumbuh.
+
+Dosen bertanya kepada mahasiswa: apakah الموضوع dalam kalimat tersebut? Jawabannya adalah الجماد.
+
+Kemudian, apakah المحمول-nya? Jawabannya adalah غير نام, bukan hanya نام.
+
+Kata غير dalam contoh ini menjadi bagian dari predikat. Predikat yang ditetapkan bukan نام, melainkan غير نام.
+
+Pertanyaan berikutnya adalah apakah dosen hendak menafikan pertumbuhan dari الجماد, ataukah menetapkan sifat tidak bertumbuh kepada الجماد.
+
+Dosen menjelaskan bahwa dalam contoh yang sedang dibahas, maksudnya adalah menetapkan sifat tidak bertumbuh kepada benda mati. Karena itu, kalimat tersebut merupakan موجبة معدولة المحمول.
+
+Hal ini berbeda dari kalimat:
+
+«الْجَمَادُ لَيْسَ بِنَامٍ».
+
+Dalam kalimat kedua, maksudnya adalah menafikan sifat tumbuh dari benda mati. Kata ليس digunakan untuk menafikan hubungan predikat dengan subjek, bukan menjadi bagian dari predikat dalam bentuk istilah baru.
+
+Dengan demikian, dua kalimat tersebut dapat tampak serupa dalam bahasa sehari-hari, tetapi berbeda dalam struktur logisnya.
+
+Dosen menekankan bahwa mahasiswa tidak boleh hanya melihat apakah suatu kalimat mengandung kata yang berarti tidak. Mahasiswa harus menentukan apakah kata itu digunakan untuk menafikan predikat atau menjadi bagian dari predikat itu sendiri.
+
+### Catatan dosen mengenai kata غير
+
+Dosen menjelaskan bahwa dalam penggunaan para ahli mantiq, kata لا dan غير lazim digunakan dalam pembentukan القضية المعدولة, sedangkan ليس umumnya digunakan untuk menafikan hubungan predikat dengan subjek.
+
+Namun, dosen menegaskan bahwa hal itu bukan aturan yang tidak mempunyai pengecualian. Penggunaan kata-kata tersebut dapat berubah menurut susunan kalimat dan maksud pembicara.
+
+Dengan demikian, penggunaan لا atau غير tidak selalu menjadikan suatu proposisi معدولة secara otomatis, sebagaimana penggunaan ليس tidak selalu dapat dinilai hanya dari bentuk lahiriahnya tanpa memperhatikan struktur dan maksud kalimat.
+
+Yang menjadi dasar penilaian adalah fungsi kata penafian dalam proposisi.
+
+---
+
+## VIII. CONTOH KEDUA: غَيْرُ الْمُؤَدَّبِ مَكْرُوهٌ
+
+Dosen memberikan contoh:
+
+«غَيْرُ الْمُؤَدَّبِ مَكْرُوهٌ».
+
+Artinya, orang yang tidak beradab atau tidak sopan adalah orang yang dibenci atau tidak disukai.
+
+Dalam kalimat ini, الموضوع bukan المؤدب, melainkan غير المؤدب.
+
+Hal ini karena kata غير sudah menjadi bagian dari istilah yang sedang dibicarakan. Subjeknya adalah orang yang tidak beradab, bukan orang yang beradab.
+
+Adapun المحمول adalah مكروه, yaitu sifat tidak disukai atau dibenci dalam pengertian yang digunakan pada contoh tersebut.
+
+Dengan demikian, proposisi itu menetapkan sifat مكروه kepada kelompok yang disebut غير المؤدب.
+
+Karena kata غير menjadi bagian dari الموضوع dan proposisi tetap menetapkan المحمول kepada subjek, bentuknya adalah موجبة معدولة الموضوع.
+
+Dosen kemudian menunjukkan perbedaannya dengan susunan hipotetis ketika غير tidak dipahami sebagai bagian dari subjek, melainkan diperlakukan sebagai penafian biasa.
+
+Jika yang dimaksud adalah menafikan suatu predikat dari المؤدب, susunan dan makna penilaiannya akan berbeda. Oleh karena itu, harus ditentukan terlebih dahulu apakah pembicaraan diarahkan kepada orang yang beradab atau kepada orang yang tidak beradab.
+
+Dalam contoh pertama, yang menjadi subjek adalah غير المؤدب. Dengan demikian, unsur penafian telah menjadi bagian dari subjek itu sendiri.
+
+---
+
+## IX. CONTOH KETIGA: غَيْرُ الْمُؤَدَّبِ غَيْرُ مَحْبُوبٍ
+
+Dosen melanjutkan dengan contoh:
+
+«غَيْرُ الْمُؤَدَّبِ غَيْرُ مَحْبُوبٍ».
+
+Artinya, orang yang tidak beradab tidak disukai.
+
+Dalam proposisi ini, الموضوع adalah غير المؤدب, sedangkan المحمول adalah غير محبوب.
+
+Kata غير menjadi bagian dari kedua unsur tersebut.
+
+Pada subjek, غير merupakan bagian dari istilah غير المؤدب. Pada predikat, غير juga menjadi bagian dari istilah غير محبوب.
+
+Dosen menjelaskan bahwa proposisi tersebut tetap dapat bersifat موجبة karena maksudnya adalah menetapkan predikat غير محبوب kepada subjek غير المؤدب.
+
+Dengan kata lain, yang ditetapkan kepada orang yang tidak beradab adalah sifat tidak disukai. Kata غير bukan digunakan untuk menafikan hubungan antara subjek dan predikat, melainkan menjadi bagian dari kedua istilah itu.
+
+Karena kata penafian terdapat pada subjek dan predikat sekaligus, proposisi tersebut dinamakan موجبة معدولة الطرفين.
+
+Dosen menggunakan contoh ini untuk menunjukkan bahwa keberadaan kata غير pada kedua unsur tidak otomatis menjadikan proposisi سالبة.
+
+Yang menentukan kualitas proposisi tetaplah apakah hubungan antara الموضوع dan المحمول ditetapkan atau dinafikan.
+
+---
+
+## X. TIGA POSISI العدول DAN ENAM BENTUK PROPOSISI
+
+Berdasarkan ketiga contoh tersebut, dosen menjelaskan bahwa القضية المعدولة dapat dibentuk melalui tiga letak penafian.
+
+Jika penafian menjadi bagian dari الموضوع, proposisi disebut معدولة الموضوع.
+
+Jika penafian menjadi bagian dari المحمول, proposisi disebut معدولة المحمول.
+
+Jika penafian menjadi bagian dari الموضوع dan المحمول, proposisi disebut معدولة الطرفين.
+
+Karena masing-masing dapat berupa موجبة atau سالبة, terdapat enam kemungkinan bentuk:
+
+موجبة معدولة الموضوع.
+
+سالبة معدولة الموضوع.
+
+موجبة معدولة المحمول.
+
+سالبة معدولة المحمول.
+
+موجبة معدولة الطرفين.
+
+سالبة معدولة الطرفين.
+
+Dosen menekankan bahwa mahasiswa perlu mengidentifikasi dua hal dalam setiap contoh. Pertama, posisi kata penafian. Kedua, apakah hubungan predikasi pada keseluruhan proposisi ditegaskan atau dinafikan.
+
+Jika penafian hanya terdapat dalam istilah yang menjadi subjek, tetapi predikat tetap ditetapkan kepadanya, proposisi bersifat موجبة معدولة الموضوع.
+
+Jika penafian hanya terdapat dalam predikat, tetapi sifat yang dirumuskan melalui istilah tersebut tetap ditetapkan kepada subjek, proposisinya bersifat موجبة معدولة المحمول.
+
+Jika penafian berada pada kedua unsur dan keduanya tetap dihubungkan dalam bentuk afirmatif, proposisinya bersifat موجبة معدولة الطرفين.
+
+Namun, jika terdapat penafian terhadap hubungan predikat dengan subjek, proposisi dapat bersifat سالبة meskipun salah satu atau kedua unsur yang terlibat sudah mengandung kata penafian.
+
+---
+
+## XI. CONTOH PROPOSISI SALبة معدولة الموضوع: لَا شَيْءَ مِنَ اللَّاحَيِّ بِنَامٍ
+
+Dosen kemudian memberikan contoh:
+
+«لَا شَيْءَ مِنَ اللَّاحَيِّ بِنَامٍ».
+
+Maksud kalimat yang dijelaskan dosen adalah bahwa tidak ada sesuatu pun dari golongan اللاحي yang bertumbuh.
+
+Istilah اللاحي merupakan nama atau istilah bagi sesuatu yang tidak hidup dalam contoh tersebut. Kata لا telah menjadi bagian dari istilah الموضوع, yakni اللاحي.
+
+Dosen meminta mahasiswa menentukan apakah subjeknya adalah الحي atau اللاحي.
+
+Jawabannya adalah اللاحي, karena itulah istilah yang benar-benar dibicarakan dalam proposisi.
+
+Dengan demikian, لا yang terdapat dalam اللاحي bukan sekadar digunakan untuk menafikan predikat dari subjek, melainkan menjadi bagian dari nama atau istilah subjek itu sendiri.
+
+Sementara itu, frasa «لَا شَيْءَ مِنْ» digunakan untuk menafikan bahwa predikat berlaku bagi seluruh anggota subjek tersebut.
+
+Oleh karena itu, terdapat dua fungsi penafian dalam susunan kalimat yang dijelaskan dosen. Pertama, penafian yang menjadi bagian dari istilah اللاحي. Kedua, penafian yang digunakan untuk meniadakan predikat نام dari subjek.
+
+Karena keseluruhan proposisi menafikan hubungan antara subjek dan predikat, proposisi ini bersifat سالبة. Karena kata penafian juga menjadi bagian dari subjek, proposisi tersebut merupakan سالبة معدولة الموضوع.
+
+Dosen menekankan bahwa untuk menganalisis contoh ini, mahasiswa tidak cukup menghitung berapa kali muncul kata yang menunjukkan penafian. Yang terpenting adalah menentukan fungsi masing-masing kata dan membedakan unsur yang menjadi bagian dari الموضوع dari unsur yang menafikan hubungan antara الموضوع dan المحمول.
+
+---
+
+## XII. CONTOH PROPOSISI SALبة معدولة المحمول: لَا شَيْءَ مِنَ الْإِنْسَانِ غَيْرُ نَامٍ
+
+Dosen memberikan contoh lain:
+
+«لَا شَيْءَ مِنَ الْإِنْسَانِ غَيْرُ نَامٍ».
+
+Dalam konteks penjelasan dosen, istilah غير نام menjadi المحمول, sedangkan الإنسان menjadi الموضوع.
+
+Kata غير telah menjadi bagian dari predikat غير نام. Akan tetapi, pada saat yang sama, keseluruhan proposisi menafikan predikat tersebut dari subjek.
+
+Artinya, yang dilakukan kalimat itu bukan menetapkan غير نام kepada الإنسان, melainkan menafikan hubungan antara الإنسان dan غير نام.
+
+Karena itu, proposisi tersebut bersifat سالبة.
+
+Namun, karena غير menjadi bagian dari predikat yang dipakai dalam proposisi, kalimat tersebut juga merupakan معدولة المحمول.
+
+Dengan demikian, bentuknya adalah سالبة معدولة المحمول.
+
+Dosen menekankan bahwa penentuan tersebut memerlukan pemeriksaan terhadap fungsi penafian pada tingkat istilah dan fungsi penafian pada tingkat keseluruhan proposisi.
+
+Jika mahasiswa hanya melihat adanya kata غير, ia mungkin keliru menganggap proposisi tersebut موجبة. Padahal, yang harus dinilai adalah apakah hubungan antara predikat dan subjek ditegaskan atau dinafikan.
+
+---
+
+## XIII. CONTOH PROPOSISI SALبة معدولة الطرفين: لَا شَيْءَ مِنْ غَيْرِ الْمَيِّتِ غَيْرُ نَامٍ
+
+Dosen selanjutnya menyebut contoh:
+
+«لَا شَيْءَ مِنْ غَيْرِ الْمَيِّتِ غَيْرُ نَامٍ».
+
+Redaksi ini dipertahankan sebagaimana terdengar dalam transkripsi. Dosen membahasnya dengan memperhatikan dua istilah: غير الميت sebagai subjek dan غير نام sebagai predikat.
+
+Pada الموضوع, kata غير menjadi bagian dari istilah غير الميت. Pada المحمول, kata غير juga menjadi bagian dari istilah غير نام.
+
+Sementara itu, susunan لا شيء من digunakan untuk menafikan hubungan predikasi secara keseluruhan.
+
+Dengan demikian, kata penafian hadir sebagai bagian dari kedua istilah, sedangkan keseluruhan proposisi bersifat negatif.
+
+Proposisi ini karena itu tergolong سالبة معدولة الطرفين.
+
+Dosen menggunakan tiga contoh terakhir untuk menunjukkan bahwa pembentukan القضية المعدولة tidak terbatas pada proposisi afirmatif. Bentuk negatif juga dapat mengandung penafian yang telah menjadi bagian dari الموضوع, المحمول, atau keduanya.
+
+### Pentingnya membedakan fungsi setiap kata
+
+Dosen mengingatkan bahwa dalam proposisi seperti «لَا شَيْءَ مِنَ اللَّاحَيِّ بِنَامٍ», mahasiswa harus bertanya: apakah subjeknya الحي atau اللاحي? Jawabannya adalah اللاحي. Apakah penafian dalam اللاحي merupakan bagian dari istilah itu? Ya. Apakah proposisi itu menetapkan pertumbuhan kepada اللاحي atau menafikan pertumbuhan darinya? Dalam penjelasan dosen, pertumbuhan dinafikan darinya.
+
+Demikian pula, dalam «لَا شَيْءَ مِنَ الْإِنْسَانِ غَيْرُ نَامٍ», kata غير merupakan bagian dari predikat, tetapi keseluruhan proposisinya tetap negatif.
+
+Pemisahan fungsi-fungsi ini merupakan inti analisis القضية المعدولة dan القضية المحصلة.
+
+---
+
+## XIV. PERBEDAAN MAKNA BIASA DAN BENTUK LOGIS
+
+Dosen kemudian menekankan alasan mengapa persoalan العدول والتحصيل perlu dipelajari secara teliti.
+
+Dalam bahasa sehari-hari, dua pernyataan dapat tampak mempunyai maksud yang hampir sama. Misalnya, pernyataan bahwa benda mati tidak bertumbuh dan pernyataan bahwa benda mati bersifat tidak bertumbuh dapat digunakan untuk menyampaikan gagasan yang dekat.
+
+Namun, dalam ilmu mantiq, kedua susunan tersebut dapat berbeda dalam bentuk logisnya.
+
+Jika seseorang mengatakan:
+
+«الْجَمَادُ لَيْسَ بِنَامٍ».
+
+dan maksudnya adalah menafikan pertumbuhan dari benda mati, proposisi tersebut merupakan سالبة محصلة.
+
+Sebaliknya, jika seseorang mengatakan:
+
+«الْجَمَادُ غَيْرُ نَامٍ».
+
+dan maksudnya adalah menetapkan sifat غير نام kepada benda mati, proposisi tersebut merupakan موجبة معدولة المحمول.
+
+Dosen menjelaskan bahwa perbedaan ini penting karena aturan logika tidak hanya bergantung pada kemiripan terjemahan suatu pernyataan. Aturan juga bergantung pada bentuk proposisinya.
+
+Kualitas suatu proposisi menentukan bagaimana proposisi tersebut digunakan dalam القياس. Proposisi موجبة tidak selalu dapat digunakan dalam posisi yang sama dengan proposisi سالبة, sekalipun keduanya tampak menyampaikan makna yang hampir sama dalam bahasa sehari-hari.
+
+Sebagai contoh, ketika membahas القياس, dosen mengingatkan adanya ketentuan pada الشكل الأول mengenai sifat premis mayor dan premis minor. Dalam penjelasannya, syarat tersebut berkaitan dengan keuniversalan premis mayor serta keafirmatifan premis yang diperlukan dalam bentuk pertama.
+
+Jika suatu pernyataan sesungguhnya berfungsi sebagai proposisi negatif, tetapi diperlakukan sebagai afirmatif hanya karena mengandung kata seperti غير, penerapan kaidah silogismenya dapat menjadi keliru.
+
+Karena itu, dosen menegaskan bahwa memahami bentuk proposisi merupakan prasyarat untuk dapat menerapkan aturan penalaran secara benar.
+
+### Maksud pembicara menentukan analisis
+
+Dosen menjelaskan bahwa pembedaan antara العدول dan التحصيل pada akhirnya berkaitan dengan maksud yang hendak disampaikan oleh pembicara.
+
+Dalam transkripsi, dosen menyebut وجه لفظي dan وجه معنوي. Maksudnya, penilaian terhadap proposisi tidak cukup berdasarkan bentuk lahiriah suatu kata saja; makna dan fungsi yang dikehendaki pembicara juga perlu diperhatikan.
+
+Penggunaan لا, غير, dan ليس dapat berbeda menurut susunan kalimat dan maksud penggunaannya. Para ahli mantiq cenderung menggunakan لا dan غير dalam konstruksi المعدولة, sedangkan ليس lebih umum digunakan untuk menafikan predikasi. Namun, dosen menegaskan bahwa kecenderungan tersebut bukan hukum mutlak yang meniadakan seluruh kemungkinan penggunaan lain.
+
+Karena itu, mahasiswa harus menentukan terlebih dahulu apa yang sebenarnya dimaksud oleh kalimat, lalu mengidentifikasi الموضوع, المحمول, dan hubungan di antara keduanya.
+
+---
+
+## XV. CATATAN DOSEN MENGENAI KETERTIBAN SELAMA PERKULIAHAN
+
+Ketika menjelaskan contoh-contoh القضية المعدولة, dosen menyela pembahasan untuk menegur mahasiswa yang menggunakan telepon genggam untuk mengambil gambar atau merekamnya.
+
+Dosen menyatakan bahwa mahasiswa tidak diperkenankan mengangkat telepon untuk memotret atau merekam dirinya selama perkuliahan berlangsung tanpa izin. Ia juga membedakan tindakan memotret papan tulis untuk keperluan belajar dari merekam dosen secara langsung.
+
+Dalam penjelasannya, dosen mengingatkan mahasiswa agar tidak menjadikan nikmat Allah berupa telepon genggam sebagai sesuatu yang menimbulkan masalah bagi diri sendiri maupun orang lain.
+
+Ia menekankan bahwa tujuan dosen adalah menyampaikan materi dan membantu mahasiswa memahami persoalan yang sedang dipelajari. Oleh karena itu, mahasiswa diminta memperhatikan penjelasan dan tidak disibukkan dengan kegiatan yang dilarang selama perkuliahan.
+
+Pada bagian selanjutnya, dosen juga menegaskan bahwa mahasiswa tidak boleh meninggalkan ruang kelas selama perkuliahan berlangsung tanpa izin. Ia menjelaskan bahwa perkuliahan di fakultas berbeda dari pengajian umum atau kegiatan di masjid, sehingga mahasiswa harus mengikuti aturan perkuliahan.
+
+Teguran tersebut muncul di tengah pembahasan mengenai العدول والتحصيل, tetapi bukan merupakan bagian dari definisi teknis proposisi. Bagian ini merupakan komentar dosen mengenai ketertiban belajar dan penggunaan perangkat selama kelas.
+
+---
+
+# BAGIAN KELIMA: الِاسْتِغْرَاقُ — DISTRIBUSI TERM DALAM PROPOSISI
+
+## XVI. PENGERTIAN الِاسْتِغْرَاقُ
+
+Setelah menyelesaikan pembahasan العدول والتحصيل, dosen beralih kepada persoalan الاستغراق.
+
+Dosen menjelaskan bahwa الاستغراق berkaitan dengan الشمول, yaitu cakupan yang menyeluruh.
+
+Kata استغرق dalam bahasa Arab mengandung makna mencakup atau meliputi keseluruhan. Sebagai contoh, ketika dikatakan bahwa seseorang استغرق الوقت, maksudnya adalah ia menggunakan seluruh waktu yang tersedia.
+
+Dalam ilmu mantiq, الاستغراق berarti bahwa suatu term mencakup seluruh individu yang termasuk di dalamnya dalam konteks proposisi.
+
+Jika suatu proposisi membicarakan seluruh individu yang termasuk dalam suatu kelompok, term yang merujuk kepada kelompok itu dikatakan مستغرق. Sebaliknya, apabila penilaian hanya mencakup sebagian individu, term tersebut tidak مستغرق.
+
+Dosen menekankan bahwa persoalan ini berkaitan dengan dua unsur dalam القضية الحملية, yaitu الموضوع dan المحمول.
+
+الاستغراق dapat terjadi pada الموضوع, yaitu term yang menjadi subjek dan dikenai penilaian, atau pada المحمول, yaitu term yang predikatnya ditetapkan atau dinafikan dari subjek.
+
+Karena itu, mahasiswa perlu memeriksa apakah suatu proposisi mencakup seluruh individu dalam الموضوع dan apakah predikatnya juga mencakup seluruh individu yang dimaksud oleh المحمول.
+
+## XVII. MENGAPA الِاسْتِغْرَاقُ PENTING DALAM القياس?
+
+Dosen menjelaskan bahwa الاستغراق merupakan salah satu hal penting yang harus dipahami sebelum mempelajari القياس.
+
+Dalam القياس, suatu kesimpulan dibentuk dari beberapa premis. Hubungan antara term-term di dalam premis harus sesuai dengan aturan tertentu agar kesimpulan dapat dihasilkan secara sah.
+
+Dosen menyebut salah satu persyaratan القياس, yaitu bahwa suatu حد yang مستغرق dalam kesimpulan harus sudah مستغرق dalam premis tempat term itu berada.
+
+Dengan kata lain, apabila suatu term mencakup seluruh individu dalam kesimpulan, penalaran tidak boleh secara tiba-tiba memperluas cakupan term itu melampaui cakupan yang telah diberikan kepadanya dalam premis.
+
+Jika sebuah term hanya dibicarakan secara terbatas dalam premis, tetapi kemudian diperlakukan sebagai mencakup seluruh individu dalam kesimpulan, terdapat persoalan logis yang harus diperiksa.
+
+Karena itu, mahasiswa perlu menguasai الاستغراق sebelum menerapkan kaidah القياس.
+
+Dosen juga mengingatkan bahwa pembahasan yang sedang dipelajari belum mencakup seluruh bentuk proposisi. Setelah القضية الحملية, mahasiswa akan mempelajari القضية الشرطية, yang memiliki pembagian tambahan.
+
+---
+
+## XVIII. MENGENALI EMPAT BENTUK UTAMA DALAM PERSOALAN الِاسْتِغْرَاقُ
+
+Untuk menjelaskan الاستغراق, dosen mengajak mahasiswa memperhatikan empat bentuk utama proposisi yang dikenal berdasarkan الكم dan الكيف, yaitu:
+
+الكلية الموجبة.
+
+الكلية السالبة.
+
+الجزئية الموجبة.
+
+الجزئية السالبة.
+
+Dosen memberikan sejumlah contoh untuk memperjelas cakupan subjek dan predikat pada masing-masing bentuk.
+
+### 1. الكلية الموجبة: كُلُّ الْمُسْلِمِينَ صَادِقُونَ
+
+Contoh pertama adalah:
+
+«كُلُّ الْمُسْلِمِينَ صَادِقُونَ».
+
+Artinya, semua Muslim adalah orang-orang yang jujur.
+
+Dalam proposisi ini, الموضوع adalah المسلمون, sedangkan المحمول adalah صادقون.
+
+Karena terdapat kata كل, penilaian diarahkan kepada seluruh individu yang termasuk dalam kelompok Muslim. Oleh karena itu, الموضوع مستغرق.
+
+Dosen kemudian bertanya: apakah proposisi tersebut juga mencakup seluruh individu yang termasuk dalam predikat صادقون? Apakah maksudnya adalah bahwa tidak ada orang jujur selain Muslim?
+
+Jawabannya adalah tidak. Proposisi tersebut menetapkan sifat jujur kepada seluruh Muslim, tetapi tidak membatasi sifat jujur hanya kepada Muslim.
+
+Bisa saja terdapat orang yang jujur di luar kelompok Muslim. Pernyataan «كُلُّ الْمُسْلِمِينَ صَادِقُونَ» tidak dengan sendirinya menafikan kemungkinan itu.
+
+Karena itu, المحمول tidak مستغرق.
+
+Dosen memberikan contoh lain:
+
+«كُلُّ الطُّلَّابِ أَغْنِيَاءُ».
+
+Artinya, semua mahasiswa kaya.
+
+Dalam pernyataan ini, semua mahasiswa termasuk dalam cakupan penilaian. Akan tetapi, tidak berarti bahwa hanya mahasiswa yang kaya. Bisa saja terdapat orang kaya yang bukan mahasiswa.
+
+Proposisi tersebut hanya menyatakan bahwa seluruh mahasiswa adalah orang kaya, bukan bahwa seluruh orang kaya pasti merupakan mahasiswa.
+
+Dengan demikian, dalam الكلية الموجبة, الموضوع مستغرق, sedangkan المحمول tidak مستغرق.
+
+### 2. الجزئية الموجبة: بَعْضُ الْأَفَارِقَةِ أَغْنِيَاءُ
+
+Contoh kedua adalah:
+
+«بَعْضُ الْأَفَارِقَةِ أَغْنِيَاءُ».
+
+Artinya, sebagian orang Afrika adalah orang kaya.
+
+Dalam kalimat tersebut, الموضوع adalah الأفارقة, sedangkan المحمول adalah أغنياء.
+
+Karena proposisi hanya menyebut sebagian orang Afrika, ia tidak membicarakan seluruh anggota kelompok Afrika. Oleh karena itu, الموضوع tidak مستغرق.
+
+Dosen kemudian bertanya apakah predikat kaya juga mencakup seluruh orang kaya. Apakah kalimat «بَعْضُ الْأَفَارِقَةِ أَغْنِيَاءُ» berarti bahwa semua orang kaya adalah orang Afrika?
+
+Jawabannya adalah tidak. Proposisi tersebut hanya menyebut bahwa sebagian orang Afrika termasuk dalam kelompok orang kaya.
+
+Bisa saja terdapat orang kaya yang bukan orang Afrika. Proposisi itu juga tidak menyatakan bahwa seluruh orang Afrika kaya.
+
+Karena itu, المحمول tidak مستغرق.
+
+Dengan demikian, dalam الجزئية الموجبة, baik الموضوع maupun المحمول tidak مستغرق.
+
+### 3. الجزئية السالبة: لَيْسَ كُلُّ مُسْلِمٍ كَاذِبًا
+
+Contoh ketiga dalam penjelasan dosen adalah:
+
+«لَيْسَ كُلُّ مُسْلِمٍ كَاذِبًا».
+
+Dalam uraian kuliah, proposisi ini digunakan untuk membahas penilaian negatif yang tidak diarahkan kepada seluruh individu dalam kelompok subjek.
+
+Maksudnya adalah bahwa tidak semua Muslim merupakan pendusta. Dengan kata lain, terdapat sebagian Muslim yang tidak termasuk dalam kelompok pendusta.
+
+Dosen mengaitkan contoh ini dengan pertanyaan apakah penilaian diarahkan kepada seluruh Muslim atau hanya sebagian mereka.
+
+Dalam pembahasan الاستغراق, bentuk الجزئية السالبة tidak mencakup seluruh individu dalam الموضوع. Karena itu, الموضوع tidak مستغرق.
+
+Akan tetapi, karena proposisi bersifat سالبة, المحمول مستغرق. Untuk memahami hal ini, dosen mengajak mahasiswa memperhatikan apa yang terjadi ketika suatu predikat dinafikan dari subjek.
+
+Jika dikatakan bahwa sebagian mahasiswa tidak kaya, pernyataan tersebut bukan sekadar mengatakan bahwa sebagian mahasiswa tidak mempunyai satu jenis kekayaan tertentu sementara mereka tetap dipandang kaya dalam pengertian yang sama. Dalam konteks predikat yang sedang digunakan, penafian diarahkan kepada keseluruhan predikat.
+
+Dosen kemudian memperluas penjelasannya melalui contoh seseorang yang mempunyai mobil Mercedes-Benz tetapi tidak memiliki uang tunai di sakunya.
+
+Apakah orang itu kaya atau tidak?
+
+Jawaban bergantung pada arti kekayaan yang sedang digunakan. Seseorang bisa memiliki aset yang bernilai tinggi, tetapi tidak mempunyai uang tunai yang tersedia. Karena itu, penilaian mengenai apakah ia kaya harus memperjelas predikat yang dimaksud.
+
+Dosen menggunakan contoh tersebut untuk menunjukkan bahwa ketika seseorang menafikan suatu sifat, ia harus memperhatikan keseluruhan makna predikat yang hendak dinafikannya.
+
+Ia mengatakan bahwa agar penafian itu benar-benar berlaku dalam pengertian yang dimaksud, keseluruhan predikat perlu dinafikan dari subjek pada cakupan yang sedang dibicarakan.
+
+Dalam penjelasan dosen, hal itu dirumuskan dengan ungkapan menafikan «كُلَّ أَلْوَانِ الْغِنَى», yaitu seluruh bentuk atau pengertian kekayaan yang tercakup oleh predikat yang dimaksud.
+
+Dengan demikian, dalam الجزئية السالبة, الموضوع tidak مستغرق, tetapi المحمول مستغرق.
+
+### 4. الكلية السالبة: لَا وَاحِدَ مِنَ الْمُصَلِّينَ ...
+
+Contoh keempat dalam rekaman terdengar dalam bentuk:
+
+«لَا وَاحِدَةَ مِنَ الْمُصَلِّينَ ...».
+
+Redaksi lengkap predikat setelah frasa tersebut tidak terdengar secara pasti dalam transkripsi. Dosen kemudian membahas contoh tersebut sebagai proposisi yang menafikan suatu predikat dari seluruh individu dalam kelompok subjek.
+
+Bentuk yang sedang dibahas adalah الكلية السالبة, yakni proposisi universal negatif.
+
+Untuk menjelaskannya, dosen bertanya apakah penilaian diarahkan kepada seluruh orang yang termasuk dalam الموضوع atau hanya kepada sebagian mereka.
+
+Karena proposisi tersebut bersifat كلية, penilaiannya mencakup seluruh individu yang termasuk dalam subjek. Oleh karena itu, الموضوع مستغرق.
+
+Dosen kemudian menjelaskan bahwa proposisi negatif juga menafikan keseluruhan predikat yang dimaksud dari subjek. Jika pernyataan itu berbentuk «لَا وَاحِدَ مِنَ الْمُصَلِّينَ بِسَارِقٍ», maksudnya adalah tidak ada satu pun orang dari kelompok orang yang sedang salat yang mempunyai predikat pencuri.
+
+Namun, perlu diperhatikan bahwa tambahan «بِسَارِقٍ» di sini digunakan untuk memperjelas struktur bentuk yang sedang dibahas. Dalam rekaman, redaksi predikat contoh dosen tidak seluruhnya tertangkap dengan pasti.
+
+Inti penjelasan dosen adalah bahwa proposisi universal negatif tidak hanya mencakup semua individu dalam الموضوع, tetapi juga menafikan predikat secara menyeluruh dari subjek.
+
+Karena itu, baik الموضوع maupun المحمول مستغرق.
+
+---
+
+## XIX. KAIDAH UMUM الِاسْتِغْرَاقُ
+
+Setelah membahas keempat bentuk tersebut, dosen merumuskan kaidah umum الاستغراق.
+
+Kaidahnya adalah:
+
+«كُلُّ كُلِّيٍّ مُسْتَغْرِقُ الْمَوْضُوعِ، وَكُلُّ سَالِبَةٍ مُسْتَغْرِقَةُ الْمَحْمُولِ».
+
+Maksudnya, setiap proposisi كلية menjadikan الموضوع مستغرق, sedangkan setiap proposisi سالبة menjadikan المحمول مستغرق.
+
+Kaidah ini dapat dijelaskan melalui dua pertanyaan.
+
+Pertama, bagaimana menentukan apakah الموضوع مستغرق?
+
+Perhatikan الكم. Jika proposisinya كلية, الموضوع مستغرق. Hal ini berlaku baik proposisinya موجبة maupun سالبة.
+
+Sebaliknya, jika proposisinya جزئية, الموضوع tidak مستغرق karena penilaian hanya diarahkan kepada sebagian individu.
+
+Kedua, bagaimana menentukan apakah المحمول مستغرق?
+
+Perhatikan الكيف. Jika proposisi bersifat سالبة, المحمول مستغرق karena predikat dinafikan dari subjek.
+
+Sebaliknya, jika proposisi bersifat موجبة, المحمول tidak مستغرق karena predikat ditetapkan kepada subjek tanpa membatasi bahwa hanya individu dalam subjek itulah yang mempunyai sifat tersebut.
+
+Dengan demikian, الاستغراق pada الموضوع ditentukan oleh الكم, sedangkan الاستغراق pada المحمول ditentukan oleh الكيف.
+
+Dosen menekankan bahwa mahasiswa sebaiknya mengingat kaidah ini karena kaidah tersebut dapat digunakan untuk menentukan distribusi term dalam keempat bentuk dasar proposisi.
+
+### 1. الكلية الموجبة
+
+Pada الكلية الموجبة, الموضوع مستغرق karena proposisi mencakup seluruh individu subjek.
+
+Namun, المحمول tidak مستغرق karena predikat ditetapkan kepada seluruh subjek tanpa membatasi bahwa hanya anggota subjek itulah yang memiliki sifat tersebut.
+
+Contoh:
+
+«كُلُّ الْمُسْلِمِينَ صَادِقُونَ».
+
+Seluruh Muslim dinilai jujur, tetapi proposisi itu tidak menyatakan bahwa hanya Muslim yang jujur.
+
+### 2. الكلية السالبة
+
+Pada الكلية السالبة, الموضوع مستغرق karena penilaian berlaku bagi seluruh individu subjek.
+
+Adapun المحمول مستغرق karena predikat dinafikan secara menyeluruh dari subjek.
+
+Dengan demikian, kedua term dalam proposisi universal negatif sama-sama مستغرق.
+
+### 3. الجزئية الموجبة
+
+Pada الجزئية الموجبة, الموضوع tidak مستغرق karena proposisi hanya membahas sebagian individu.
+
+المحمول juga tidak مستغرق karena predikat ditetapkan kepada sebagian individu dalam subjek tanpa membatasi seluruh kelompok yang mempunyai predikat itu.
+
+Dengan demikian, tidak ada term yang مستغرق dalam proposisi partikular afirmatif.
+
+### 4. الجزئية السالبة
+
+Pada الجزئية السالبة, الموضوع tidak مستغرق karena penilaian hanya mencakup sebagian individu subjek.
+
+Namun, المحمول مستغرق karena proposisi negatif menafikan predikat secara keseluruhan dari individu yang sedang dinilai.
+
+Dengan demikian, dalam proposisi partikular negatif, hanya المحمول yang مستغرق.
+
+---
+
+## XX. MENERAPKAN KAIDAH PADA CONTOH BARU
+
+Dosen menekankan bahwa kaidah الاستغراق harus diterapkan, bukan hanya dihafalkan.
+
+Mahasiswa dapat memulai dengan menentukan jenis proposisi: apakah كلية atau جزئية, kemudian apakah موجبة atau سالبة.
+
+Setelah itu, kaidah dapat digunakan untuk menentukan term mana yang مستغرق.
+
+Apabila proposisi كلية موجبة, الموضوع مستغرق sedangkan المحمول tidak مستغرق.
+
+Apabila proposisi كلية سالبة, الموضوع dan المحمول sama-sama مستغرق.
+
+Apabila proposisi جزئية موجبة, tidak ada term yang مستغرق.
+
+Apabila proposisi جزئية سالبة, الموضوع tidak مستغرق sedangkan المحمول مستغرق.
+
+Dosen memberikan contoh:
+
+«بَعْضُ الطُّلَّابِ لَيْسُوا أَغْنِيَاءَ».
+
+Artinya, sebagian mahasiswa tidak kaya.
+
+Proposisi ini bersifat جزئية karena hanya sebagian mahasiswa yang dibicarakan. Oleh karena itu, الموضوع tidak مستغرق.
+
+Proposisi ini juga bersifat سالبة karena kekayaan dinafikan dari subjek. Karena itu, المحمول مستغرق.
+
+Dalam dialog dengan mahasiswa, dosen kembali bertanya apakah penafian tersebut diarahkan kepada semua mahasiswa atau sebagian mahasiswa.
+
+Jawabannya adalah sebagian mahasiswa. Akan tetapi, di dalam bagian yang dimaksud, predikat dinafikan secara menyeluruh menurut pengertian yang sedang digunakan.
+
+Dengan demikian, kaidah yang sama berlaku meskipun contoh proposisinya berbeda dari contoh awal.
+
+---
+
+## XXI. KEDUDUKAN القضية المهملة DAN القضية الشخصية DALAM الِاسْتِغْرَاقُ
+
+Dosen kemudian mengingatkan bahwa pembagian berdasarkan الكم juga berkaitan dengan القضية المهملة dan القضية الشخصية.
+
+Dalam pembahasan ini, القضية المهملة dianggap berada dalam kekuatan القضية الجزئية. Alasannya, meskipun kalimat tanpa سور dapat ditafsirkan sebagai pernyataan yang mencakup semua individu, hal yang dapat dipastikan dari bentuknya tanpa keterangan tambahan hanyalah bahwa setidaknya terdapat sebagian individu yang termasuk dalam penilaian.
+
+Contohnya:
+
+«الطُّلَّابُ حَاضِرُونَ».
+
+Kalimat ini bisa saja dimaksudkan untuk mengatakan bahwa semua mahasiswa hadir. Namun, tanpa keterangan tambahan, bentuk kalimat tersebut tidak menyatakan secara eksplisit bahwa كل mahasiswa hadir.
+
+Karena itu, dalam penyusunan kaidah umum logika, proposisi مهملة diperlakukan dalam kekuatan جزئية.
+
+Dosen juga mengingatkan bahwa القضية الشخصية diperlakukan dalam kekuatan القضية الكلية ketika membahas distribusi. Dalam proposisi yang subjeknya menunjuk satu individu tertentu, penilaian diarahkan kepada seluruh individu yang dirujuk oleh subjek tersebut.
+
+Meskipun demikian, dosen kembali menegaskan bahwa hubungan antara kategori-kategori tersebut tidak selalu identik dalam semua persoalan. Pada beberapa pembahasan logika lain, termasuk التناقض, perlu diperiksa kembali apakah aturan yang berlaku untuk الكلية dapat diterapkan secara sama kepada الشخصية, atau apakah aturan untuk الجزئية dapat diterapkan secara sama kepada المهملة.
+
+Karena itu, mahasiswa perlu mengetahui kaidah dasar, tetapi tetap memperhatikan konteks pembahasan ketika kaidah tersebut diterapkan.
+
+---
+
+## XXII. CONTOH LOGIKA DAN ALASAN KAIDAH TIDAK DIBANGUN BERDASARKAN KEMUNGKINAN SAJA
+
+Dosen menjelaskan bahwa kaidah-kaidah logika dirumuskan berdasarkan apa yang dapat dipastikan berlaku secara konsisten, bukan sekadar berdasarkan kemungkinan bahwa suatu kalimat mungkin mempunyai penafsiran tertentu.
+
+Sebagai contoh, kalimat «الطُّلَّابُ حَاضِرُونَ» dapat dimaksudkan untuk menyatakan bahwa seluruh mahasiswa hadir. Akan tetapi, kalimat tersebut juga dapat dipakai ketika hanya sebagian mahasiswa hadir.
+
+Karena kedua penafsiran itu mungkin, tidak tepat menjadikan cakupan universal sebagai sesuatu yang pasti hanya berdasarkan kalimat tanpa سور.
+
+Dosen menjelaskan bahwa dalam perumusan kaidah, logika harus menggunakan cakupan yang dapat dipastikan, yaitu cakupan yang tidak berubah hanya karena terdapat kemungkinan penafsiran yang lebih luas.
+
+Dengan demikian, القضية المهملة ditempatkan dalam kekuatan القضية الجزئية karena cakupan parsial merupakan batas yang lebih aman untuk ditetapkan berdasarkan bentuk kalimat tersebut.
+
+Penjelasan ini kemudian dihubungkan dengan القياس. Dosen menyatakan bahwa syarat-syarat penalaran dirumuskan untuk menjaga agar kesimpulan selalu dapat dipertanggungjawabkan jika premis-premisnya diterima.
+
+Jika suatu aturan hanya kadang-kadang menghasilkan kesimpulan yang benar, tetapi pada keadaan lain menghasilkan kesimpulan yang tidak mengikuti premis, aturan tersebut tidak cukup untuk menjadi prinsip umum penalaran yang menjamin kesimpulan.
+
+Karena itu, kaidah logika harus diterapkan sesuai cakupan proposisi dan distribusi term-term yang terdapat di dalamnya.
+
+---
+
+# BAGIAN KEENAM: KAITAN الْمُحَصَّلَةُ وَالْمَعْدُولَةُ DENGAN الِاسْتِغْرَاقُ
+
+## XXIII. MENGAPA PERBEDAAN BENTUK PROPOSISI MEMPENGARUHI KESIMPULAN?
+
+Dosen kemudian kembali menghubungkan pembahasan العدول والتحصيل dengan الاستغراق.
+
+Dalam pembahasan sebelumnya, telah dijelaskan bahwa suatu proposisi dapat tampak mengandung penafian, tetapi tetap bersifat موجبة jika kata penafian menjadi bagian dari subjek atau predikat.
+
+Hal ini mempunyai konsekuensi bagi distribusi term.
+
+Jika mahasiswa menganggap semua proposisi yang mengandung kata غير atau لا sebagai proposisi negatif, ia dapat salah menentukan الاستغراق pada المحمول.
+
+Misalnya, pernyataan:
+
+«الْجَمَادُ غَيْرُ نَامٍ».
+
+Dalam penggunaan yang dijelaskan dosen, kalimat tersebut merupakan موجبة معدولة المحمول. المحمول-nya adalah غير نام, dan sifat tersebut ditetapkan kepada الموضوع, yaitu الجماد.
+
+Karena kualitas proposisinya موجبة, المحمول tidak مستغرق menurut kaidah umum الاستغراق.
+
+Sebaliknya, jika kalimat tersebut dirumuskan sebagai proposisi negatif yang menafikan hubungan predikat dari subjek, المحمول menjadi مستغرق karena proposisinya سالبة.
+
+Dosen menggunakan contoh-contoh tersebut untuk mengingatkan bahwa mahasiswa tidak boleh menentukan kualitas proposisi hanya berdasarkan keberadaan kata penafian yang tampak dalam kalimat.
+
+Kualitas proposisi harus ditentukan setelah mahasiswa mengidentifikasi apakah penafian menjadi bagian dari istilah atau berfungsi untuk menafikan hubungan predikasi.
+
+Dengan demikian, العدول والتحصيل harus dikuasai sebelum الاستغراق diterapkan.
+
+---
+
+# BAGIAN KETUJUH: HUBUNGAN الِاسْتِغْرَاقُ DENGAN القياس
+
+## XXIV. SYARAT DISTRIBUSI TERM DALAM PENALARAN
+
+Dosen kembali menegaskan bahwa pengetahuan tentang الاستغراق diperlukan ketika mempelajari القياس.
+
+Dalam القياس, terdapat dua premis yang dihubungkan untuk menghasilkan kesimpulan. Term-term dalam kedua premis tersebut mempunyai kedudukan tertentu, dan cakupan term perlu dijaga agar kesimpulan benar-benar mengikuti premis.
+
+Dosen menyebut aturan bahwa suatu term yang مستغرق dalam kesimpulan harus sudah مستغرق dalam premis tempat term itu berada.
+
+Artinya, suatu istilah tidak boleh tiba-tiba memperoleh cakupan universal dalam kesimpulan apabila premis yang menjadi dasarnya tidak memberikan cakupan tersebut.
+
+Apabila dalam premis seseorang hanya membicarakan sebagian individu dari suatu kelompok, tetapi dalam kesimpulan ia memperlakukan term itu seolah-olah mencakup seluruh kelompok, kesimpulannya tidak dapat langsung diterima.
+
+Karena itu, ketika menerapkan القياس, mahasiswa tidak cukup hanya mengenali apakah suatu kalimat afirmatif atau negatif. Ia juga harus mengetahui apakah proposisi tersebut كلية atau جزئية serta term mana yang مستغرق.
+
+### 1. Contoh mengenai mahasiswa dan orang-orang yang hadir
+
+Dosen memberikan ilustrasi dengan dua pernyataan:
+
+«كُلُّ الطُّلَّابِ حَاضِرُونَ».
+
+«بَعْضُ الْحَاضِرِينَ فَاهِمُونَ».
+
+Pernyataan pertama menyatakan bahwa semua mahasiswa hadir. Pernyataan kedua menyatakan bahwa sebagian orang yang hadir memahami.
+
+Dosen kemudian menyinggung kemungkinan kesimpulan «بَعْضُ الطُّلَّابِ فَاهِمُونَ», yaitu sebagian mahasiswa memahami.
+
+Contoh ini digunakan ketika membahas hasil penalaran dan cakupan term. Bagian transkripsi tersebut tidak menguraikan secara lengkap seluruh relasi yang diperlukan antara dua premis itu, sehingga contoh ini dipertahankan sesuai penyampaiannya tanpa menambahkan pembuktian formal yang tidak terdapat dalam rekaman.
+
+Tujuan utama dosen adalah mengingatkan mahasiswa bahwa penentuan kesimpulan harus memperhatikan cakupan subjek dan predikat serta posisi term dalam premis.
+
+### 2. Hubungan dengan الشكل الأول
+
+Dosen juga menyinggung ketentuan pada الشكل الأول, yaitu bentuk pertama dalam القياس.
+
+Dalam transkripsi, penjelasan mengenai syarat الشكل الأول disampaikan secara tidak sepenuhnya jelas, tetapi inti yang terdengar berkaitan dengan keharusan memperhatikan universalitas premis mayor serta sifat afirmatif premis yang diperlukan dalam bentuk pertama.
+
+Dosen menjelaskan bahwa persyaratan tersebut dirumuskan supaya kesimpulan yang dihasilkan sesuai dengan premis-premisnya.
+
+Jika suatu premis tidak memenuhi syarat yang diperlukan, hasil yang keluar mungkin tampak benar dalam sebagian keadaan, tetapi tidak selalu benar dalam setiap keadaan yang dicakup oleh bentuk penalaran tersebut.
+
+Karena itu, kaidah bentuk pertama tidak cukup dihafal sebagai susunan premis. Mahasiswa juga harus memahami mengapa cakupan term dan kualitas proposisi memengaruhi sah atau tidaknya kesimpulan.
+
+---
+
+# BAGIAN KEDELAPAN: PERLUASAN JENIS PROPOSISI DAN JUMLAH KEMUNGKINAN BENTUKNYA
+
+## XXV. DARI DELAPAN BENTUK DASAR MENUJU BERBAGAI KOMBINASI
+
+Menjelang akhir kuliah, dosen mengingatkan kembali banyaknya bentuk proposisi yang dapat dikenali melalui penggabungan berbagai klasifikasi.
+
+Pada awal pembahasan, mahasiswa telah mempelajari delapan bentuk dasar القضية الحملية berdasarkan الكم dan الكيف: universal afirmatif, universal negatif, partikular afirmatif, partikular negatif, مهملة afirmatif, مهملة negatif, شخصية afirmatif, dan شخصية negatif.
+
+Kemudian, mahasiswa mempelajari القضية المعدولة yang dapat terjadi pada الموضوع, المحمول, atau keduanya. Masing-masing dari ketiga letak العدول dapat bersifat موجبة atau سالبة.
+
+Dengan demikian, terdapat enam bentuk المعدولة berdasarkan posisi penafian dan kualitas proposisinya.
+
+Dosen mula-mula menyebut bahwa setelah penambahan bentuk-bentuk tersebut, pembahasan dapat menghasilkan 14 jenis proposisi. Perhitungan ini muncul dalam rekaman sebagai penyebutan delapan bentuk awal ditambah enam bentuk المعدولة.
+
+Selanjutnya, dosen memperluas perhitungan dengan menggabungkan bentuk المعدولة dengan pembagian berdasarkan kuantitas. Ia menyebut tiga letak العدول, lalu mengalikannya dengan empat jenis kuantitas yang sedang dibahas, yaitu كلية, جزئية, مهملة, dan شخصية. Hasilnya disebut 12 kombinasi.
+
+Ketika 12 kombinasi tersebut dibedakan kembali menjadi موجبة dan سالبة, jumlahnya menjadi 24 bentuk. Setelah itu, dosen menambahkan delapan bentuk dasar dan menyatakan bahwa jumlahnya menjadi 32 proposisi.
+
+Dengan demikian, dalam penjelasan rekaman, muncul dua hitungan: 14 bentuk pada pengelompokan awal, kemudian 32 bentuk ketika berbagai klasifikasi digabungkan lebih terperinci.
+
+Penyebutan 14 dan 32 tersebut dipertahankan sebagaimana terdapat dalam rekaman. Dosen tidak menguraikan secara sistematis semua kemungkinan irisan antarkategori dalam bagian itu, sehingga rincian mengenai hubungan antara kedua perhitungan tidak dapat dipastikan hanya dari rekaman.
+
+Dosen juga menyebut bahwa ketika pembahasan diperluas kepada القضية الشرطية, kemungkinan bentuk proposisi akan semakin banyak. Ia menyebut angka 64 dalam kaitan dengan pengembangan klasifikasi tersebut, tetapi tidak memberikan perhitungan lengkap yang memungkinkan seluruh kemungkinan itu dirinci satu per satu.
+
+Inti penjelasan ini adalah bahwa kombinasi antara kuantitas, kualitas, dan letak penafian menghasilkan banyak bentuk proposisi. Oleh karena itu, mahasiswa perlu memahami prinsip pembentukannya daripada hanya menghafal satu per satu bentuk tanpa memahami hubungan antarklasifikasi.
+
+### 1. Menguji pemahaman dengan membuat contoh sendiri
+
+Dosen menyarankan agar mahasiswa berlatih dengan membuat contoh untuk setiap jenis proposisi.
+
+Mahasiswa dapat diminta membuat contoh القضية الشخصية الموجبة atau القضية الشخصية السالبة, kemudian membuat contoh موجبة معدولة المحمول dan سالبة معدولة المحمول.
+
+Ia juga dapat diminta membentuk proposisi معدولة الموضوع atau معدولة الطرفين, lalu menentukan apakah proposisi itu afirmatif atau negatif.
+
+Dengan latihan semacam itu, mahasiswa dapat memeriksa apakah ia benar-benar memahami الموضوع, المحمول, posisi penafian, dan kualitas proposisi.
+
+Dosen menegaskan bahwa belajar ilmu mantiq tidak cukup dengan mendengarkan penjelasan atau menghafal definisi. Mahasiswa harus menerapkan konsep tersebut pada contoh-contoh konkret.
+
+---
+
+## XXVI. MENGAPA PEMAHAMAN DASAR DIPERLUKAN SEBELUM MENGUASAI القياس?
+
+Pada bagian akhir, dosen membahas kembali urutan pembelajaran ilmu mantiq, khususnya hubungan antara التصورات dan التصديقات.
+
+Ia mengingatkan bahwa mahasiswa sebelumnya telah mempelajari التصورات. Dalam pembahasan tersebut, mereka mempelajari الدلالة, المفرد والمركب, الكليات الخمس, serta pengertian dan jenis-jenis istilah.
+
+Materi-materi tersebut mungkin terlihat sangat panjang apabila dibandingkan dengan definisi yang akhirnya hendak dijelaskan. Namun, dosen menegaskan bahwa seluruhnya merupakan landasan untuk memahami persoalan yang lebih kompleks.
+
+### 1. التصورات dan القول الشارح
+
+Dalam pembahasan التصورات, mahasiswa mempelajari berbagai hal mengenai kata, istilah, dan pengertian.
+
+Dosen mengingatkan pembahasan tentang القول الشارح dan التعريف, yaitu penjelasan dan definisi.
+
+Dalam paparan kuliah, definisi dibagi menjadi الحد dan الرسم. Masing-masing kemudian dibahas dalam bentuk تام dan ناقص.
+
+Dosen menjelaskan bahwa الحد berkaitan dengan الجنس والفصل, yaitu genus dan diferensia. Dalam definisi yang disebutnya sebagai الحد التام, definisi disusun dari الجنس القريب dan الفصل القريب.
+
+Adapun الحد الناقص dalam penjelasan kuliah dapat melibatkan الجنس البعيد dan الفصل القريب, atau الجنس القريب dan الفصل البعيد.
+
+Selanjutnya, الرسم juga dibahas sebagai bentuk definisi, termasuk bentuk yang menggunakan الجنس القريب dan الخاصّة.
+
+Dosen menyebut bahwa berbagai pembahasan tersebut dapat memakan banyak halaman. Namun, semua pembahasan itu merupakan dasar untuk memahami persoalan definisi dan pengertian secara tepat.
+
+Dalam rekaman, sebagian redaksi klasifikasi definisi tidak seluruhnya jelas, sehingga uraian tersebut dipertahankan sesuai kategori yang terdengar tanpa memperluasnya melampaui penjelasan dosen.
+
+### 2. التصديقات sebagai persiapan menuju القياس
+
+Setelah التصورات, pembahasan beralih kepada التصديقات.
+
+Dosen mengingatkan bahwa التصورات lebih banyak berkaitan dengan pembentukan dan pemahaman pengertian, sedangkan التصديقات berkaitan dengan proposisi dan penilaian yang dapat digunakan dalam penalaran.
+
+Ia menjelaskan bahwa القضية merupakan unsur mendasar yang digunakan untuk membentuk القياس.
+
+Dalam awal pembahasan التصديقات yang dirujuk dosen, ia menyebutkan rumusan yang berbunyi:
+
+«وَلَمَّا وَقَعَ الْفَرَاغُ عَنْ مَبَاحِثِ التَّصَوُّرَاتِ مَبَادِئِهَا وَمَقَاصِدِهَا شُرِعَ فِي التَّصْدِيقَاتِ، وَلَهَا أَيْضًا مَبَادِئُ وَمَقَاصِدُ».
+
+Dosen kemudian menjelaskan bahwa المبادئ adalah dasar atau langkah awal, sedangkan المقاصد adalah tujuan yang hendak dicapai.
+
+Dalam pembahasan التصديقات, المبادئ berkaitan dengan القضايا, pembagian proposisi, dan hukum-hukumnya. Adapun المقاصد berkaitan dengan القياس dan hal lain yang disebutkan dalam redaksi sumber, yang terdengar sebagai الحس. Rincian istilah terakhir tersebut tidak sepenuhnya jelas dalam rekaman.
+
+Gagasan utama yang ditekankan dosen adalah bahwa dasar-dasar harus dipahami sebelum seseorang dapat menguasai penerapannya.
+
+Jika seseorang belum memahami bentuk proposisi dan aturan distribusi term, ia akan kesulitan memahami aturan القياس. Sebaliknya, apabila dasar-dasarnya telah dikuasai, penerapan aturan penalaran akan menjadi lebih mudah.
+
+### 3. Mengapa belajar mantiq memerlukan waktu?
+
+Dosen menjelaskan bahwa mahasiswa mungkin merasa pembahasan tentang istilah, proposisi, dan klasifikasinya terlalu panjang. Namun, seluruh materi tersebut merupakan persiapan untuk memahami proses penalaran.
+
+Ia membandingkannya dengan التصورات yang telah dipelajari sebelumnya. Banyak pembahasan mengenai kata, pengertian, dan klasifikasi istilah digunakan untuk menjelaskan definisi. Hasil akhirnya mungkin hanya tampak dalam satu atau beberapa rumusan, tetapi pemahaman terhadap rumusan itu memerlukan landasan yang memadai.
+
+Hal yang sama berlaku dalam التصديقات. Pembahasan mengenai القضية الحملية, القضية الشرطية, العدول والتحصيل, dan الاستغراق merupakan persiapan agar mahasiswa dapat memahami القياس.
+
+Karena itu, dosen menekankan bahwa mahasiswa tidak boleh menganggap pembahasan awal tidak penting hanya karena tujuan akhirnya baru akan terlihat dalam bab berikutnya.
+
+---
+
+## XXVII. RANGKUMAN AKHIR PEMBAHASAN
+
+Dalam perkuliahan ini, dosen membahas dua persoalan utama: العدول والتحصيل dan الاستغراق.
+
+Pembahasan العدول والتحصيل menjelaskan perbedaan antara القضية المحصلة dan القضية المعدولة. القضية المحصلة mempertahankan bentuk istilah tanpa menjadikan penafian sebagai bagian dari الموضوع atau المحمول, sedangkan القضية المعدولة mengandung unsur penafian yang menjadi bagian dari subjek, predikat, atau keduanya.
+
+القضية المعدولة dapat bersifat موجبة atau سالبة. Oleh karena itu, keberadaan kata لا atau غير tidak otomatis menjadikan seluruh proposisi negatif. Mahasiswa harus menentukan fungsi kata tersebut serta apakah hubungan predikat dengan subjek ditegaskan atau dinafikan.
+
+Tiga bentuk العدول ialah المعدولة الموضوع, المعدولة المحمول, dan المعدولة الطرفين. Masing-masing dapat berbentuk موجبة atau سالبة.
+
+Adapun الاستغراق berkaitan dengan cakupan seluruh individu dari suatu term dalam proposisi. Dosen merumuskan kaidahnya sebagai berikut:
+
+«كُلُّ كُلِّيٍّ مُسْتَغْرِقُ الْمَوْضُوعِ، وَكُلُّ سَالِبَةٍ مُسْتَغْرِقَةُ الْمَحْمُولِ».
+
+Artinya, الموضوع مستغرق apabila proposisinya كلية, sedangkan المحمول مستغرق apabila proposisinya سالبة.
+
+Berdasarkan kaidah tersebut, الكلية الموجبة mempunyai الموضوع yang مستغرق tetapi المحمول tidak مستغرق. الكلية السالبة mempunyai kedua term yang مستغرق. الجزئية الموجبة tidak mempunyai term yang مستغرق. Adapun الجزئية السالبة mempunyai المحمول yang مستغرق, tetapi الموضوع tidak مستغرق.
+
+Dosen juga mengingatkan bahwa القضية المهملة diperlakukan dalam kekuatan الجزئية, sedangkan القضية الشخصية diperlakukan dalam kekuatan الكلية ketika membahas kaidah distribusi. Namun, ia menegaskan bahwa kesamaan tersebut terutama berlaku dalam banyak kaidah umum dan tidak harus berlaku tanpa pengecualian dalam semua pembahasan.
+
+Seluruh materi ini penting karena menjadi dasar penerapan القياس. Salah satu aturan yang disebut dosen adalah bahwa term yang مستغرق dalam kesimpulan harus sudah مستغرق dalam premis tempat term tersebut berada.
+
+Pada akhir kuliah, dosen kembali menegaskan bahwa ilmu mantiq tidak hanya berisi definisi yang harus dihafal. Mahasiswa perlu membuat contoh sendiri, membedakan bentuk proposisi, menentukan الموضوع dan المحمول, memeriksa fungsi kata penafian, serta menerapkan kaidah الاستغراق pada berbagai contoh.
+
+Dengan cara tersebut, pembahasan yang semula tampak rumit dapat dipahami sebagai rangkaian prinsip yang saling berhubungan: mengenali struktur proposisi, menentukan bentuk afirmatif atau negatifnya, memeriksa apakah penafian menjadi bagian dari istilah, menentukan distribusi term, dan akhirnya menggunakan seluruh pemahaman itu dalam القياس.
