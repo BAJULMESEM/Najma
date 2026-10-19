@@ -60,6 +60,11 @@
               "name": "6.txt",
               "type": "file",
               "path": "texts/LITERAL MUHADOROH/FALSAFAH AMMAH/6.txt"
+            },
+            {
+              "name": "7.txt",
+              "type": "file",
+              "path": "texts/LITERAL MUHADOROH/FALSAFAH AMMAH/7.txt"
             }
           ]
         },
@@ -375,6 +380,11 @@
               "name": "5.txt",
               "type": "file",
               "path": "texts/LITERAL MUHADOROH/SYUBUHAT HAULAL HADITS/5.txt"
+            },
+            {
+              "name": "6.txt",
+              "type": "file",
+              "path": "texts/LITERAL MUHADOROH/SYUBUHAT HAULAL HADITS/6.txt"
             }
           ]
         },
@@ -463,6 +473,11 @@
               "name": "6.txt",
               "type": "file",
               "path": "texts/LITERAL MUHADOROH/ULUMUL QURAN/6.txt"
+            },
+            {
+              "name": "7.txt",
+              "type": "file",
+              "path": "texts/LITERAL MUHADOROH/ULUMUL QURAN/7.txt"
             }
           ]
         },
@@ -510,6 +525,11 @@
               "name": "6.txt",
               "type": "file",
               "path": "texts/PELAJARAN/FALSAFAH AMMAH/6.txt"
+            },
+            {
+              "name": "7.txt",
+              "type": "file",
+              "path": "texts/PELAJARAN/FALSAFAH AMMAH/7.txt"
             }
           ]
         },
@@ -691,6 +711,11 @@
               "name": "5.txt",
               "type": "file",
               "path": "texts/PELAJARAN/SYUBUHAT HAULAL HADITS/5.txt"
+            },
+            {
+              "name": "6.txt",
+              "type": "file",
+              "path": "texts/PELAJARAN/SYUBUHAT HAULAL HADITS/6.txt"
             }
           ]
         },
@@ -779,6 +804,11 @@
               "name": "6.txt",
               "type": "file",
               "path": "texts/PELAJARAN/ulumul quran/6.txt"
+            },
+            {
+              "name": "7.txt",
+              "type": "file",
+              "path": "texts/PELAJARAN/ulumul quran/7.txt"
             }
           ]
         },
