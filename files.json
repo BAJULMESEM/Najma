@@ -90,6 +90,104 @@
           ]
         },
         {
+          "name": "Folder Baru",
+          "type": "folder",
+          "children": [
+            {
+              "name": "MANTIQ",
+              "type": "folder",
+              "children": [
+                {
+                  "name": "1.txt",
+                  "type": "file",
+                  "path": "texts/LITERAL MUHADOROH/Folder Baru/MANTIQ/1.txt"
+                },
+                {
+                  "name": "10.txt",
+                  "type": "file",
+                  "path": "texts/LITERAL MUHADOROH/Folder Baru/MANTIQ/10.txt"
+                },
+                {
+                  "name": "2.txt",
+                  "type": "file",
+                  "path": "texts/LITERAL MUHADOROH/Folder Baru/MANTIQ/2.txt"
+                },
+                {
+                  "name": "3.txt",
+                  "type": "file",
+                  "path": "texts/LITERAL MUHADOROH/Folder Baru/MANTIQ/3.txt"
+                },
+                {
+                  "name": "4.txt",
+                  "type": "file",
+                  "path": "texts/LITERAL MUHADOROH/Folder Baru/MANTIQ/4.txt"
+                },
+                {
+                  "name": "5.txt",
+                  "type": "file",
+                  "path": "texts/LITERAL MUHADOROH/Folder Baru/MANTIQ/5.txt"
+                },
+                {
+                  "name": "6.txt",
+                  "type": "file",
+                  "path": "texts/LITERAL MUHADOROH/Folder Baru/MANTIQ/6.txt"
+                },
+                {
+                  "name": "7.txt",
+                  "type": "file",
+                  "path": "texts/LITERAL MUHADOROH/Folder Baru/MANTIQ/7.txt"
+                },
+                {
+                  "name": "8.txt",
+                  "type": "file",
+                  "path": "texts/LITERAL MUHADOROH/Folder Baru/MANTIQ/8.txt"
+                },
+                {
+                  "name": "9.txt",
+                  "type": "file",
+                  "path": "texts/LITERAL MUHADOROH/Folder Baru/MANTIQ/9.txt"
+                }
+              ]
+            },
+            {
+              "name": "muntug",
+              "type": "folder",
+              "children": [
+                {
+                  "name": "1.txt",
+                  "type": "file",
+                  "path": "texts/LITERAL MUHADOROH/Folder Baru/muntug/1.txt"
+                },
+                {
+                  "name": "2.txt",
+                  "type": "file",
+                  "path": "texts/LITERAL MUHADOROH/Folder Baru/muntug/2.txt"
+                },
+                {
+                  "name": "3.txt",
+                  "type": "file",
+                  "path": "texts/LITERAL MUHADOROH/Folder Baru/muntug/3.txt"
+                },
+                {
+                  "name": "4.txt",
+                  "type": "file",
+                  "path": "texts/LITERAL MUHADOROH/Folder Baru/muntug/4.txt"
+                },
+                {
+                  "name": "5.txt",
+                  "type": "file",
+                  "path": "texts/LITERAL MUHADOROH/Folder Baru/muntug/5.txt"
+                },
+                {
+                  "name": "6.txt",
+                  "type": "file",
+                  "path": "texts/LITERAL MUHADOROH/Folder Baru/muntug/6.txt"
+                }
+              ]
+            }
+          ]
+        },
+        {
           "name": "HADITS TAHLILI",
           "type": "folder",
           "children": [
@@ -151,6 +249,11 @@
               "path": "texts/LITERAL MUHADOROH/MANTIQ/10.txt"
             },
             {
+              "name": "11.txt",
+              "type": "file",
+              "path": "texts/LITERAL MUHADOROH/MANTIQ/11.txt"
+            },
+            {
               "name": "2.txt",
               "type": "file",
               "path": "texts/LITERAL MUHADOROH/MANTIQ/2.txt"
@@ -189,6 +292,42 @@
               "name": "9.txt",
               "type": "file",
               "path": "texts/LITERAL MUHADOROH/MANTIQ/9.txt"
+            }
+          ]
+        },
+        {
+          "name": "muntug",
+          "type": "folder",
+          "children": [
+            {
+              "name": "1.txt",
+              "type": "file",
+              "path": "texts/LITERAL MUHADOROH/muntug/1.txt"
+            },
+            {
+              "name": "2.txt",
+              "type": "file",
+              "path": "texts/LITERAL MUHADOROH/muntug/2.txt"
+            },
+            {
+              "name": "3.txt",
+              "type": "file",
+              "path": "texts/LITERAL MUHADOROH/muntug/3.txt"
+            },
+            {
+              "name": "4.txt",
+              "type": "file",
+              "path": "texts/LITERAL MUHADOROH/muntug/4.txt"
+            },
+            {
+              "name": "5.txt",
+              "type": "file",
+              "path": "texts/LITERAL MUHADOROH/muntug/5.txt"
+            },
+            {
+              "name": "6.txt",
+              "type": "file",
+              "path": "texts/LITERAL MUHADOROH/muntug/6.txt"
             }
           ]
         },
@@ -460,6 +599,11 @@
               "name": "10.txt",
               "type": "file",
               "path": "texts/PELAJARAN/maantiq/10.txt"
+            },
+            {
+              "name": "11.txt",
+              "type": "file",
+              "path": "texts/PELAJARAN/maantiq/11.txt"
             },
             {
               "name": "2.txt",

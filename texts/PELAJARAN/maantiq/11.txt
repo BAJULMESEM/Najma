@@ -1,0 +1,681 @@
+# ILMU MANTIQ: الْعَكْسُ الْمُسْتَوِي — PENGERTIAN, KAIDAH, PEMBAGIAN, DAN PENERAPANNYA PADA EMPAT BENTUK PROPOSISI
+
+## BAGIAN PERTAMA: PEMBUKAAN DAN KEDUDUKAN الْعَكْسُ الْمُسْتَوِي DALAM ILMU MANTIQ
+
+### I. Pembukaan perkuliahan dan doa
+
+Dosen membuka perkuliahan dengan salam, menyambut para mahasiswa, serta mendoakan agar mereka selalu memperoleh kesehatan, keselamatan, dan keberhasilan. Ia memohon kepada Allah agar memberikan taufik, membimbing mereka kepada perkara yang diridai-Nya, mengajarkan ilmu yang bermanfaat, menjadikan ilmu yang telah diperoleh bermanfaat bagi mereka, dan menambahkan ilmu kepada mereka. Dosen juga berdoa agar Allah menjaga manusia, negeri-negeri, serta Universitas Al-Azhar beserta para pemimpin, ulama, dan seluruh orang yang menjadi bagian darinya.
+
+Setelah pembukaan tersebut, dosen mengingatkan materi yang telah dibahas dalam beberapa pertemuan sebelumnya. Ia menjelaskan bahwa الاستدلال, yaitu penalaran atau pengambilan kesimpulan, dibagi menjadi الاستدلال المباشر dan الاستدلال غير المباشر.
+
+Pada pembahasan الاستدلال المباشر, mahasiswa telah mempelajari dua bentuk utama. Bentuk pertama adalah penalaran melalui تقابل القضايا, yaitu hubungan pertentangan atau oposisi di antara proposisi. Dosen mengingatkan empat bentuk yang telah dibahas, yakni التناقض، والتضاد، والدخول تحت التضاد، dan التداخل. Sebagian pengucapan istilah dalam transkripsi tidak terdengar jelas, tetapi nama-nama tersebut merupakan istilah yang sesuai dengan urutan pembagian yang disebutkan dalam perkuliahan.
+
+Bentuk kedua adalah penalaran melalui العكس, yaitu konversi atau pembalikan proposisi. Pembahasan inilah yang menjadi pokok perkuliahan sekarang.
+
+Dosen mengingatkan bahwa العكس mempunyai tiga jenis yang akan dipelajari, yaitu العكس المستوي، وعكس النقيض الموافق، وعكس النقيض المخالف. Dalam perkuliahan ini, pembahasan difokuskan pada العكس المستوي. Adapun dua jenis عكس النقيض akan diperlukan dalam pembahasan dan penerapan metode penalaran berikutnya, khususnya ketika mahasiswa mempelajari cara memeriksa صحة الأقيسة, yaitu validitas silogisme.
+
+Dosen menegaskan bahwa ketiga jenis tersebut tidak boleh dicampuradukkan. Masing-masing mempunyai prosedur yang perlu dipahami. Untuk saat ini, mahasiswa harus terlebih dahulu menguasai pengertian العكس المستوي, aturan yang mengaturnya, dan hasil pembalikan yang dapat diterima secara logis.
+
+## II. Pengertian العَكْسُ الْمُسْتَوِي
+
+### 1. Definisi العكس المستوي
+
+Dosen mendefinisikan العكس المستوي sebagai:
+
+«تَبْدِيلُ طَرَفَيِ الْقَضِيَّةِ بِجَعْلِ الْمَوْضُوعِ مَحْمُولًا وَالْمَحْمُولِ مَوْضُوعًا مَعَ بَقَاءِ الصِّدْقِ وَالْكَيْفِ بِحَالِهِمَا».
+
+Artinya, membalik kedua sisi suatu proposisi dengan menjadikan الموضوع sebagai المحمول dan المحمول sebagai الموضوع, sambil mempertahankan kebenaran serta kualitas proposisi sebagaimana mestinya.
+
+Dosen meminta mahasiswa memahami definisi tersebut kata demi kata. Dalam suatu proposisi, terdapat dua طرفان, yaitu dua sisi atau dua unsur utama. Kedua unsur itu adalah الموضوع dan المحمول.
+
+الموضوع adalah sesuatu yang dibicarakan atau menjadi pihak yang dikenai penilaian. Adapun المحمول adalah sifat, keterangan, atau hukum yang dinisbatkan kepada الموضوع.
+
+Sebagai contoh, dalam proposisi:
+
+«كُلُّ الطُّلَّابِ حَاضِرُونَ».
+
+Artinya, semua mahasiswa hadir.
+
+Kata «الطلاب» adalah الموضوع, sedangkan «حاضرون» adalah المحمول. Proposisi tersebut menetapkan sifat hadir kepada seluruh mahasiswa yang dimaksud.
+
+Ketika dilakukan العكس المستوي, posisi kedua unsur itu dibalik: الموضوع yang semula menjadi pihak yang dibicarakan dijadikan المحمول, sedangkan المحمول yang semula merupakan sifat atau keterangan dijadikan الموضوع.
+
+Karena itulah proses tersebut disebut عكس مستوي. Dosen menjelaskan bahwa istilah المستوي berkaitan dengan pertukaran posisi kedua طرفان: الطرف الأول menjadi الطرف الثاني, dan sebaliknya.
+
+### 2. Proposisi asli dan proposisi hasil pembalikan
+
+Untuk menjelaskan proses pembalikan, dosen membedakan dua proposisi.
+
+Proposisi sebelum dibalik disebut القضية الأصلية atau الأصل. Proposisi ini juga dapat disebut المقدمة, yaitu premis.
+
+Adapun proposisi yang dihasilkan melalui pembalikan disebut العكس atau النتيجة, yakni kesimpulan yang diperoleh dari pembalikan tersebut.
+
+Dengan demikian, dalam suatu penerapan العكس المستوي, terdapat proposisi asli yang menjadi dasar dan proposisi hasil pembalikan yang harus diperiksa kebenarannya.
+
+Misalnya, proposisi asli:
+
+«كُلُّ الطُّلَّابِ حَاضِرُونَ».
+
+Kemudian dilakukan pembalikan sehingga menghasilkan:
+
+«بَعْضُ الْحَاضِرِينَ طُلَّابٌ».
+
+Artinya, sebagian orang yang hadir adalah mahasiswa.
+
+Proposisi pertama menjadi الأصل atau المقدمة, sedangkan proposisi kedua menjadi العكس atau النتيجة.
+
+Dosen menekankan bahwa hasil pembalikan tidak boleh dibuat secara sembarangan. Membalik kedua sisi kalimat saja belum cukup. Hasilnya harus tetap memenuhi ketentuan logis agar dapat dijadikan kesimpulan yang sah.
+
+### 3. Makna بقاء الصدق dalam definisi
+
+Bagian berikutnya dari definisi adalah:
+
+«مَعَ بَقَاءِ الصِّدْقِ».
+
+Artinya, dengan mempertahankan kebenaran.
+
+Dosen menjelaskan bahwa apabila proposisi asli benar, pembalikan yang sah harus menghasilkan proposisi yang benar pula. Inilah salah satu ketentuan mendasar dalam العكس المستوي.
+
+Pembalikan bukan sekadar kegiatan mengganti urutan kata. Tujuannya adalah menghasilkan proposisi lain yang kebenarannya tetap terjamin ketika proposisi asli benar dan kaidah pembalikan yang tepat digunakan.
+
+Dalam diskusi kelas, muncul pula penjelasan mengenai hubungan antara صدق dan كذب. Bagian percakapan mengenai hal ini dalam rekaman terdengar terputus-putus. Namun, penjelasan utama dosen jelas menekankan bahwa kebenaran proposisi asli harus dijaga dalam pembalikan yang sah.
+
+Artinya, suatu bentuk pembalikan tidak dapat diterima hanya karena kedua kalimat terlihat serupa atau karena keduanya mungkin benar dalam suatu keadaan tertentu. Pembalikan harus menghasilkan kesimpulan yang tetap benar berdasarkan bentuk proposisi aslinya, bukan hanya menghasilkan kalimat yang kebetulan benar.
+
+### 4. Makna بقاء الكيف
+
+Definisi selanjutnya menyebut:
+
+«وَالْكَيْفِ بِحَالِهِمَا».
+
+Artinya, kualitas proposisi tetap sebagaimana semula.
+
+Dosen mengingatkan bahwa الْكَيْف dalam pembahasan proposisi berkaitan dengan الإيجاب dan السلب, yakni penetapan dan penafian. Dalam istilah yang digunakan selama perkuliahan, proposisi dapat berupa موجبة atau سالبة.
+
+القضية الموجبة adalah proposisi yang menetapkan suatu hubungan atau sifat. Contohnya:
+
+«كُلُّ الطُّلَّابِ حَاضِرُونَ».
+
+Adapun القضية السالبة adalah proposisi yang menafikan suatu hubungan atau sifat. Contohnya akan dibahas melalui bentuk seperti:
+
+«لَا شَيْءَ مِنَ الْحَدِيدِ بِنَبَاتٍ».
+
+Artinya, tidak satu pun besi merupakan tumbuhan.
+
+Menurut ketentuan العكس المستوي, jika proposisi asli موجبة, hasil pembalikan yang sah harus tetap موجبة. Jika proposisi asli سالبة, hasil pembalikannya yang sah harus tetap سالبة.
+
+Jadi, yang dipertahankan bukan hanya kebenaran, melainkan juga kualitas proposisi, yaitu positif atau negatif.
+
+### 5. Mengapa definisi tidak mensyaratkan بقاء الكم?
+
+Dosen kemudian mengingatkan bahwa proposisi juga mempunyai الْكَمّ, yaitu cakupan atau kuantitas. Dari segi الكم, proposisi dapat berupa كلية atau جزئية, di samping pembahasan شخصية dan مهملة.
+
+Namun, dalam definisi العكس المستوي, dosen menekankan بقاء الصدق dan بقاء الكيف, bukan بقاء الكم.
+
+Alasannya adalah bahwa kuantitas proposisi dapat berubah ketika dilakukan pembalikan. Proposisi كلية موجبة, misalnya, dapat dibalik menjadi جزئية موجبة. Dengan demikian, perubahan dari universal menjadi partikular tidak otomatis membatalkan pembalikan.
+
+Contohnya:
+
+«كُلُّ الطُّلَّابِ حَاضِرُونَ».
+
+Dibalik menjadi:
+
+«بَعْضُ الْحَاضِرِينَ طُلَّابٌ».
+
+Proposisi pertama bersifat كلية موجبة, sedangkan hasil pembalikannya جزئية موجبة. Kuantitas berubah dari universal menjadi partikular, tetapi kualitasnya tetap positif.
+
+Karena itu, dosen menegaskan bahwa definisi العكس المستوي mensyaratkan terpeliharanya kebenaran dan kualitas, tetapi tidak mengharuskan kuantitas selalu sama.
+
+Inilah alasan penting mengapa mahasiswa tidak boleh menganggap bahwa pembalikan berarti menukar الموضوع dan المحمول sambil mempertahankan seluruh sifat formal proposisi tanpa perubahan. Yang dipertahankan adalah unsur-unsur yang memang dipersyaratkan oleh definisi, sedangkan الكم dapat berubah mengikuti kaidah pembalikan.
+
+---
+
+# BAGIAN KEDUA: EMPAT BENTUK PROPOSISI DAN KAIDAH العكس المستوي
+
+## III. المحصورات الأربع: EMPAT PROPOSISI BERKUANTITAS
+
+### 1. Pengertian المحصورات الأربع
+
+Dosen mengingatkan kembali empat jenis proposisi yang telah dipelajari mahasiswa, yaitu المحصورات الأربع. Disebut demikian karena proposisi-proposisi tersebut mempunyai سور, yakni penanda kuantitas yang menunjukkan cakupan individu atau anggota yang dikenai hukum.
+
+Empat bentuk itu adalah:
+
+القضية الكلية الموجبة، والقضية الكلية السالبة، والقضية الجزئية الموجبة، والقضية الجزئية السالبة.
+
+Dalam bahasa Indonesia, keempatnya dapat dipahami sebagai proposisi universal positif, universal negatif, partikular positif, dan partikular negatif.
+
+السور adalah lafaz atau penanda yang menunjukkan cakupan kuantitas individu dalam proposisi. Melalui penanda tersebut, kita dapat mengetahui apakah hukum yang dinyatakan berlaku untuk seluruh individu atau hanya sebagian individu.
+
+Dosen mengingatkan bahwa pembagian ini telah dipelajari sebelumnya. Karena itu, sebelum menentukan hasil العكس المستوي, mahasiswa perlu mengenali terlebih dahulu jenis proposisi aslinya.
+
+### 2. القَضِيَّة الكُلِّيَّة الْمُوجَبَة
+
+القضية الكلية الموجبة adalah proposisi yang menetapkan suatu hukum kepada seluruh individu atau anggota yang termasuk dalam الموضوع.
+
+Contohnya:
+
+«كُلُّ الطُّلَّابِ حَاضِرُونَ».
+
+Artinya, semua mahasiswa hadir.
+
+Kata «كل» menunjukkan bahwa hukum tidak hanya berlaku bagi sebagian mahasiswa, melainkan bagi semua mahasiswa yang tercakup dalam proposisi.
+
+Dosen menjelaskan bahwa proposisi ini tidak dapat dibalik begitu saja menjadi:
+
+«كُلُّ الْحَاضِرِينَ طُلَّابٌ».
+
+Artinya, semua orang yang hadir adalah mahasiswa.
+
+Pembalikan tersebut tidak sah sebagai hasil yang dijamin benar. Alasannya, orang-orang yang hadir dapat mencakup mahasiswa dan juga orang lain yang bukan mahasiswa. Oleh sebab itu, jika subjek dan predikat langsung ditukar sambil mempertahankan sifat universal, hasilnya dapat menjadi keliru.
+
+Hasil pembalikan yang sah adalah:
+
+«بَعْضُ الْحَاضِرِينَ طُلَّابٌ».
+
+Artinya, sebagian orang yang hadir adalah mahasiswa.
+
+Dengan demikian, pembalikan القضية الكلية الموجبة menghasilkan القضية الجزئية الموجبة.
+
+Dosen meminta mahasiswa menghafal aturan tersebut sekaligus memahami alasan mengapa kuantitas berubah dari كلية menjadi جزئية.
+
+### 3. القَضِيَّة الكُلِّيَّة السَّالِبَة
+
+القضية الكلية السالبة adalah proposisi yang menafikan suatu sifat atau hubungan dari seluruh individu yang termasuk dalam الموضوع.
+
+Dosen memberikan contoh:
+
+«لَا شَيْءَ مِنَ الْحَدِيدِ بِنَبَاتٍ».
+
+Artinya, tidak satu pun besi merupakan tumbuhan.
+
+Proposisi ini menyatakan bahwa tidak ada satu anggota kelompok besi yang termasuk ke dalam kelompok tumbuhan.
+
+Ketika dilakukan pembalikan, hasilnya adalah:
+
+«لَا شَيْءَ مِنَ النَّبَاتِ بِحَدِيدٍ».
+
+Artinya, tidak satu pun tumbuhan merupakan besi.
+
+Dalam contoh ini, pembalikan tetap berbentuk كلية سالبة. Kualitas negatif dipertahankan dan kuantitas universal juga tetap sesuai dengan kaidah yang berlaku untuk proposisi tersebut.
+
+Dosen menjelaskan bahwa hubungan yang dinyatakan adalah penafian sepenuhnya antara dua kelompok. Jika tidak ada anggota besi yang merupakan tumbuhan, maka tidak ada anggota tumbuhan yang merupakan besi dalam hubungan yang sedang dibicarakan.
+
+Dengan demikian, القضية الكلية السالبة dapat dibalik menjadi كلية سالبة.
+
+### 4. القَضِيَّة الْجُزْئِيَّة الْمُوجَبَة
+
+القضية الجزئية الموجبة adalah proposisi yang menetapkan suatu sifat atau hubungan hanya bagi sebagian individu dari الموضوع.
+
+Dosen memberikan contoh:
+
+«بَعْضُ الْعَرَبِ أَفْرِيقِيٌّ».
+
+Artinya, sebagian orang Arab adalah orang Afrika.
+
+Proposisi tersebut tidak menyatakan bahwa seluruh orang Arab adalah orang Afrika. Proposisi itu hanya menyatakan bahwa sebagian orang Arab termasuk dalam kelompok orang Afrika.
+
+Pembalikan yang sah adalah:
+
+«بَعْضُ الْأَفَارِقَةِ عَرَبٌ».
+
+Artinya, sebagian orang Afrika adalah orang Arab.
+
+Dosen menjelaskan bahwa hasil pembalikan tersebut tetap berupa جزئية موجبة. Kuantitasnya tetap partikular dan kualitasnya tetap positif.
+
+Alasannya, jika memang ada sebagian orang Arab yang juga orang Afrika, maka kelompok orang yang merupakan Arab-Afrika tersebut sekaligus termasuk sebagian dari kelompok orang Afrika. Dengan demikian, hubungan yang dinyatakan dalam proposisi pertama memungkinkan proposisi kedua yang bersifat partikular.
+
+Namun, pembalikan ini tidak boleh diubah menjadi pernyataan universal. Proposisi «sebagian orang Arab adalah orang Afrika» tidak membuktikan bahwa semua orang Arab adalah orang Afrika, dan tidak pula membuktikan bahwa semua orang Afrika adalah orang Arab.
+
+Karena itu, hasil pembalikan tetap harus berupa pernyataan tentang sebagian anggota.
+
+### 5. القَضِيَّة الْجُزْئِيَّة السَّالِبَة
+
+القضية الجزئية السالبة adalah proposisi yang menafikan suatu sifat atau hubungan hanya dari sebagian individu yang termasuk dalam الموضوع.
+
+Menurut penjelasan dosen, bentuk ini tidak mempunyai عكس مستوي yang berlaku secara pasti untuk semua keadaan.
+
+Alasannya, suatu proposisi جزئية سالبة dapat benar, sementara hasil pertukaran الموضوع dan المحمول dalam bentuk yang sama dapat menjadi salah. Pada keadaan lain, hasil pembalikan dapat kebetulan benar, tetapi tidak selalu dijamin benar oleh proposisi asal.
+
+Dosen menegaskan bahwa ilmu mantiq membutuhkan kaidah penalaran yang hasilnya dapat diandalkan secara tetap, bukan hanya benar pada sebagian kesempatan dan salah pada kesempatan lain.
+
+Karena itu, dalam aturan العكس المستوي yang diajarkan, القضية الجزئية السالبة tidak mempunyai pembalikan yang sah.
+
+Dosen meminta mahasiswa mengingat kesimpulan ini agar mereka tidak memaksakan pembalikan terhadap seluruh jenis proposisi tanpa memeriksa kaidahnya.
+
+---
+
+# BAGIAN KETIGA: ALASAN LOGIS DI BALIK KAIDAH PEMBALIKAN
+
+## IV. MENGAPA الْكُلِّيَّة الْمُوجَبَة HANYA DIBALIK MENJADI جُزْئِيَّة مُوجَبَة?
+
+### 1. Hubungan antara الموضوع dan المحمول
+
+Dosen kemudian memperdalam alasan mengapa proposisi universal positif hanya dapat dibalik menjadi proposisi partikular positif.
+
+Ia menggunakan kembali contoh:
+
+«كُلُّ الطُّلَّابِ حَاضِرُونَ».
+
+Dalam kalimat tersebut, الطلاب adalah الموضوع dan حاضرون adalah المحمول.
+
+Dosen mengajak mahasiswa menentukan mana kelompok yang lebih khusus dan mana kelompok yang lebih umum. Menurut penjelasannya, kelompok mahasiswa merupakan bagian dari kelompok orang yang hadir, sedangkan kelompok orang yang hadir dapat mencakup mahasiswa dan orang-orang lain.
+
+Dengan demikian, الطلاب adalah kelompok yang lebih khusus, sedangkan الحاضرون merupakan kelompok yang lebih umum dalam contoh tersebut.
+
+Setiap mahasiswa yang termasuk dalam kelompok الطلاب dinyatakan hadir. Namun, tidak semua orang yang hadir harus termasuk kelompok mahasiswa.
+
+### 2. Mengapa pembalikan universal menjadi keliru?
+
+Jika proposisi «كل الطلاب حاضرون» dibalik menjadi «كل الحاضرين طلاب», cakupan hubungan berubah. Dalam proposisi asli, kelompok yang lebih khusus—mahasiswa—masuk ke dalam kelompok yang lebih umum—orang yang hadir.
+
+Namun, dalam pembalikan universal tersebut, seolah-olah semua orang yang hadir diwajibkan menjadi mahasiswa.
+
+Dosen menjelaskan bahwa hal ini membalik hubungan antara yang أخص dan yang أعم. Kelompok yang semula lebih umum diperlakukan seolah-olah lebih khusus, sedangkan kelompok yang lebih khusus diperlakukan seolah-olah mencakup seluruh kelompok yang lebih umum.
+
+Akibatnya, proposisi tersebut tidak dijamin benar.
+
+Karena itulah pembalikan tidak boleh menghasilkan «كل الحاضرين طلاب». Yang dapat disimpulkan secara sah adalah bahwa sebagian orang yang hadir merupakan mahasiswa.
+
+### 3. Hubungan dengan استغراق الحدود
+
+Dosen menghubungkan pembahasan ini dengan konsep استغراق الحدود, yaitu cakupan atau penyertaan seluruh anggota suatu batas atau term dalam proposisi.
+
+Ia mengingatkan bahwa القضية الكلية الموجبة mempunyai استغراق pada الموضوع, sedangkan المحمول tidak tercakup secara universal dalam pengertian yang sama.
+
+Dalam contoh «كل الطلاب حاضرون», seluruh kelompok mahasiswa tercakup oleh hukum hadir, tetapi proposisi itu tidak menetapkan bahwa seluruh kelompok orang yang hadir hanya terdiri atas mahasiswa.
+
+Dosen menggunakan konsep tersebut untuk menjelaskan mengapa pembalikan universal positif tidak dapat mempertahankan universalitas.
+
+Jika mahasiswa memahami hubungan antara yang lebih khusus dan lebih umum, serta memperhatikan استغراق الحدود, mereka akan memahami mengapa hasil pembalikan harus berupa جزئية موجبة.
+
+---
+
+## V. MENGAPA الْكُلِّيَّة السَّالِبَة DAPAT DIBALIK MENJADI الْكُلِّيَّة السَّالِبَة?
+
+### 1. Contoh الحديد dan النبات
+
+Dosen kembali menggunakan contoh:
+
+«لَا شَيْءَ مِنَ الْحَدِيدِ بِنَبَاتٍ».
+
+Artinya, tidak satu pun besi merupakan tumbuhan.
+
+Dalam proposisi tersebut, hubungan antara besi dan tumbuhan dinafikan sepenuhnya. Tidak ada individu yang termasuk dalam kelompok besi sekaligus termasuk dalam kelompok tumbuhan menurut pengertian proposisi itu.
+
+Jika hubungan tersebut dibalik, hasilnya:
+
+«لَا شَيْءَ مِنَ النَّبَاتِ بِحَدِيدٍ».
+
+Artinya, tidak satu pun tumbuhan merupakan besi.
+
+Dosen menegaskan bahwa pembalikan ini tetap berbentuk universal negatif. Penafian hubungan antara kedua kelompok tidak berubah hanya karena posisi الموضوع dan المحمول ditukar.
+
+### 2. Perbedaan dari pembalikan proposisi universal positif
+
+Dosen menggunakan perbandingan dengan contoh semua mahasiswa yang hadir.
+
+Pada proposisi universal positif, kelompok yang lebih khusus berada di dalam kelompok yang lebih umum. Oleh karena itu, penukaran kedua term tidak menjamin bahwa pernyataan universal tetap benar.
+
+Sebaliknya, pada proposisi universal negatif yang dibahas melalui contoh besi dan tumbuhan, kedua kelompok dinyatakan tidak mempunyai anggota yang saling bertumpang tindih. Karena hubungan keduanya telah dinafikan sepenuhnya, pembalikan tetap menghasilkan penafian yang sama dalam cakupan universal.
+
+Dosen menggunakan contoh tersebut agar mahasiswa memahami bahwa setiap bentuk proposisi mempunyai aturan pembalikan tersendiri. Aturan itu mengikuti hubungan logis yang dinyatakan oleh proposisi, bukan sekadar mengikuti keinginan pembicara untuk menukar posisi dua kata.
+
+---
+
+## VI. MENGAPA الْجُزْئِيَّة الْمُوجَبَة DAPAT DIBALIK MENJADI الْجُزْئِيَّة الْمُوجَبَة?
+
+### 1. Contoh العرب dan الأفارقة
+
+Dosen kemudian kembali kepada contoh:
+
+«بَعْضُ الْعَرَبِ أَفْرِيقِيٌّ».
+
+Artinya, sebagian orang Arab adalah orang Afrika.
+
+Ia menjelaskan bahwa terdapat bagian dari kelompok العرب yang juga termasuk dalam kelompok الأفارقة. Hubungan tersebut tidak berarti bahwa seluruh orang Arab adalah orang Afrika, dan tidak berarti bahwa seluruh orang Afrika adalah orang Arab.
+
+Dengan membalik proposisi tersebut, diperoleh:
+
+«بَعْضُ الْأَفَارِقَةِ عَرَبٌ».
+
+Artinya, sebagian orang Afrika adalah orang Arab.
+
+Proposisi kedua tetap dapat benar karena orang-orang yang termasuk dalam irisan kedua kelompok itu tetap merupakan bagian dari kelompok Arab dan kelompok Afrika.
+
+### 2. Hubungan العموم والخصوص الوجهي
+
+Untuk menjelaskan bentuk hubungan antarkelompok tersebut, dosen mengingatkan materi yang pernah dipelajari mahasiswa mengenai hubungan antara الكليات.
+
+Ia menyebut beberapa jenis hubungan, antara lain التباين, الترادف, dan العموم والخصوص الوجهي.
+
+التباين adalah hubungan dua kelompok yang tidak mempunyai anggota bersama dalam pengertian yang sedang dibahas. Dosen menghubungkannya dengan contoh besi dan tumbuhan. Dalam contoh itu, tidak ada individu yang sekaligus merupakan besi dan tumbuhan.
+
+Adapun الترادف adalah hubungan kesamaan atau kesepadanan dua istilah sebagaimana contoh yang disebutkan dalam kuliah, yaitu «بُرّ» dan «قَمْح». Kedua kata tersebut digunakan dosen sebagai contoh istilah yang merujuk pada sesuatu yang sama dalam konteks yang dijelaskan.
+
+Jenis yang menjadi perhatian dalam contoh Arab dan Afrika adalah العموم والخصوص الوجهي.
+
+Dosen menjelaskan hubungan ini melalui gambaran dua lingkaran yang saling beririsan. Sebagian anggota kelompok Arab termasuk kelompok Afrika, tetapi sebagian anggota kelompok Arab lainnya tidak termasuk kelompok Afrika. Demikian pula, sebagian orang Afrika termasuk kelompok Arab, sementara sebagian lainnya bukan orang Arab.
+
+Dengan demikian, kedua kelompok mempunyai anggota yang sama pada bagian irisan, tetapi masing-masing juga mempunyai anggota yang tidak termasuk dalam kelompok lainnya.
+
+### 3. Mengapa pembalikan tetap partikular?
+
+Karena ada sebagian orang Arab yang termasuk orang Afrika, proposisi «بعض العرب أفريقي» dapat dibalik menjadi «بعض الأفارقة عرب».
+
+Namun, hubungan itu tidak membenarkan pernyataan bahwa semua orang Afrika adalah orang Arab ataupun bahwa semua orang Arab adalah orang Afrika.
+
+Dosen menekankan bahwa mahasiswa harus memahami batas kesimpulan yang dapat diambil. Pembalikan yang sah mempertahankan hubungan partikular yang telah dijamin oleh proposisi asli, bukan memperluasnya menjadi klaim universal.
+
+Inilah sebabnya القضية الجزئية الموجبة dapat dibalik menjadi جزئية موجبة.
+
+---
+
+## VII. MENGAPA الْجُزْئِيَّة السَّالِبَة TIDAK MEMPUNYAI عَكْسٌ مُسْتَوٍ YANG SAH?
+
+Dosen menegaskan kembali bahwa القضية الجزئية السالبة tidak mempunyai pembalikan yang selalu benar.
+
+Dalam proposisi jenis ini, hubungan antara sebagian anggota الموضوع dan المحمول dinafikan. Namun, pertukaran posisi kedua term tidak menjamin bahwa penafian yang sama berlaku pada sebagian anggota kelompok sebaliknya.
+
+Dengan kata lain, dari pernyataan bahwa sebagian anggota suatu kelompok bukan anggota kelompok lainnya, tidak dapat dipastikan bahwa setelah kedua kelompok ditukar, penafian tersebut tetap berlaku pada sebagian anggota kelompok yang baru menjadi الموضوع.
+
+Dosen menjelaskan bahwa dalam mantiq, suatu aturan harus menghasilkan kesimpulan yang dapat diandalkan secara konsisten. Jika bentuk pembalikan hanya benar dalam beberapa keadaan, sementara dalam keadaan lain menjadi salah, bentuk itu tidak dapat ditetapkan sebagai kaidah العكس المستوي yang sah.
+
+Karena itulah جزئية سالبة dinyatakan tidak mempunyai عكس مستوي.
+
+Dosen meminta mahasiswa memahami alasan ini, bukan sekadar menghafal kalimat bahwa “جزئية سالبة tidak mempunyai عكس”.
+
+---
+
+# BAGIAN KEEMPAT: القَضَايَا الشَّخْصِيَّة DAN القَضَايَا الْمُهْمَلَة
+
+## VIII. PENGERTIAN القَضِيَّة الشَّخْصِيَّة
+
+### 1. Proposisi mengenai satu individu
+
+Setelah membahas empat proposisi berkuantitas, dosen mengingatkan bahwa mahasiswa juga telah mempelajari dua bentuk lain, yaitu القضية الشخصية dan القضية المهملة.
+
+القضية الشخصية adalah proposisi yang subjeknya menunjuk kepada satu individu atau satu hal tertentu.
+
+Dosen memberikan contoh:
+
+«مُحَمَّدٌ عَالِمٌ».
+
+Artinya, Muhammad adalah seorang alim atau orang yang berilmu.
+
+Proposisi ini disebut شخصية karena pembicaraan diarahkan kepada seseorang yang tertentu, yaitu Muhammad, bukan kepada semua orang yang termasuk dalam suatu kelompok umum.
+
+Contoh lain yang disampaikan dosen adalah pernyataan mengenai Al-Azhar al-Syarif sebagai benteng pemikiran moderat di dunia. Dalam contoh itu, yang menjadi pokok pembicaraan juga merupakan satu lembaga tertentu.
+
+Dosen menjelaskan bahwa meskipun proposisi tersebut hanya membicarakan satu individu atau satu hal tertentu, aturan hukumnya dapat dipahami sejalan dengan pembahasan proposisi universal dalam konteks العكس المستوي.
+
+### 2. Mengapa الشخصية berada dalam قوة الكلية?
+
+Dosen menerangkan bahwa القضية الشخصية berada dalam قوة الكلية, yaitu setara dengan proposisi universal dari segi penerapan aturan pembalikan yang sedang dibahas.
+
+Alasannya, proposisi personal hanya mempunyai satu individu yang menjadi الموضوع. Jika suatu hukum ditetapkan atau dinafikan terhadap satu individu tertentu itu, cakupan subjeknya tidak mencakup banyak individu yang berbeda-beda.
+
+Sebagai contoh, dalam:
+
+«مُحَمَّدٌ عَالِمٌ».
+
+Hukum menjadi orang berilmu ditetapkan kepada Muhammad, yang merupakan satu individu tertentu. Tidak ada kelompok besar yang harus diperiksa satu per satu dalam subjek tersebut.
+
+Karena itu, dosen mengatakan bahwa proposisi شخصية diperlakukan dalam قوة الكلية ketika aturan العكس المستوي diterapkan.
+
+Dengan demikian, apabila القضية الشخصية موجبة, bentuknya diperlakukan sesuai dengan كلية موجبة; dan jika شخصية سالبة, bentuknya diperlakukan sesuai dengan كلية سالبة.
+
+## IX. PENERAPAN العكس المستوي PADA القَضِيَّة الشَّخْصِيَّة
+
+### 1. الشخصية الموجبة
+
+Jika proposisi شخصية bersifat موجبة, ia berada dalam قوة الكلية الموجبة. Oleh karena itu, pembalikan yang sah menghasilkan جزئية موجبة.
+
+Contohnya:
+
+«مُحَمَّدٌ عَالِمٌ».
+
+Artinya, Muhammad adalah seorang alim.
+
+Hasil pembalikan yang sah adalah:
+
+«بَعْضُ الْعُلَمَاءِ مُحَمَّدٌ».
+
+Artinya, sebagian orang alim adalah Muhammad.
+
+Dosen menggunakan contoh ini untuk menunjukkan bahwa ketika suatu hukum positif ditetapkan terhadap individu tertentu, pembalikan tidak menghasilkan klaim bahwa semua orang alim adalah Muhammad. Yang dihasilkan adalah proposisi partikular yang menyatakan bahwa Muhammad merupakan salah satu orang alim.
+
+Dengan demikian, pembalikan الشخصية الموجبة mengikuti kaidah pembalikan كلية موجبة, yaitu menghasilkan جزئية موجبة.
+
+### 2. الشخصية السالبة
+
+Jika proposisi شخصية bersifat سالبة, ia berada dalam قوة الكلية السالبة. Karena itu, pembalikan yang sah mengikuti aturan كلية سالبة, yakni menjadi كلية سالبة.
+
+Dalam penjelasan dosen, jika dinyatakan bahwa Muhammad bukan orang berilmu, proposisi itu merupakan penafian terhadap satu individu tertentu. Dalam kerangka klasifikasi yang diajarkan, ia diperlakukan sejalan dengan universal negatif.
+
+Penerapan pembalikannya mengikuti kaidah كلية سالبة, yakni kedua term ditukar dan kualitas negatif tetap dipertahankan dalam bentuk universal negatif.
+
+Dosen meminta mahasiswa memahami hubungan ini: الشخصية tidak menghasilkan aturan baru yang terpisah, melainkan mengikuti aturan العكس yang sesuai dengan قوة proposisinya.
+
+---
+
+## X. PENGERTIAN القَضِيَّة الْمُهْمَلَة
+
+القضية المهملة adalah proposisi yang tidak menampilkan سور secara eksplisit dan tidak memberikan penentuan kuantitas yang jelas sebagaimana proposisi كلية atau جزئية yang mempunyai penanda khusus.
+
+Dosen menjelaskan bahwa القضية المهملة berada dalam قوة الجزئية. Dengan demikian, untuk menerapkan العكس المستوي, proposisi مهملة diperlakukan sejalan dengan proposisi partikular.
+
+Jika القضية المهملة موجبة, ia mengikuti aturan جزئية موجبة. Jika القضية المهملة سالبة, ia mengikuti aturan جزئية سالبة.
+
+Konsekuensinya, pembalikan proposisi مهملة موجبة menghasilkan جزئية موجبة, sedangkan proposisi مهملة سالبة tidak mempunyai pembalikan yang dapat dijamin benar.
+
+Dosen menekankan bahwa mahasiswa perlu membedakan antara الشخصية dan المهملة. Yang pertama menunjuk kepada satu individu tertentu, sedangkan yang kedua tidak memberikan pembatasan kuantitas yang jelas melalui سور.
+
+## XI. PENERAPAN العكس المستوي PADA القَضِيَّة الْمُهْمَلَة
+
+### 1. المهملة الموجبة
+
+Jika proposisi مهملة bersifat positif, ia berada dalam قوة الجزئية الموجبة. Oleh sebab itu, pembalikan yang sah menghasilkan proposisi partikular positif.
+
+Dosen menghubungkannya dengan kaidah dasar:
+
+«الْجُزْئِيَّةُ الْمُوجَبَةُ تَنْعَكِسُ جُزْئِيَّةً مُوجَبَةً».
+
+Dengan demikian, mahasiswa tidak perlu membuat kaidah pembalikan yang sepenuhnya baru untuk مهملة موجبة. Mereka cukup memahami bahwa bentuk tersebut mengikuti aturan جزئية موجبة.
+
+### 2. المهملة السالبة
+
+Jika proposisi مهملة bersifat negatif, ia berada dalam قوة الجزئية السالبة.
+
+Karena جزئية سالبة tidak mempunyai عكس مستوي yang selalu benar, proposisi مهملة سالبة juga tidak menghasilkan pembalikan yang dapat dipastikan sah melalui kaidah tersebut.
+
+Dosen menggunakan bagian ini untuk kembali menekankan pentingnya menerapkan pembagian sesuai dengan jenis proposisi asalnya.
+
+---
+
+# BAGIAN KELIMA: EMPAT KAIDAH UTAMA العكس المستوي
+
+## XII. EMPAT KAIDAH YANG HARUS DIKUASAI
+
+Setelah seluruh pembagian dijelaskan, dosen mengulang empat kaidah utama العكس المستوي.
+
+Pertama, كلية موجبة berbalik menjadi جزئية موجبة.
+
+Kedua, كلية سالبة berbalik menjadi كلية سالبة.
+
+Ketiga, جزئية موجبة berbalik menjadi جزئية موجبة.
+
+Keempat, جزئية سالبة tidak mempunyai pembalikan yang sah secara pasti.
+
+Dosen kemudian memperluas penerapan empat kaidah ini kepada القضية الشخصية dan القضية المهملة melalui prinsip قوة.
+
+القضية الشخصية berada dalam قوة الكلية. Karena itu, الشخصية الموجبة mengikuti aturan كلية موجبة, sedangkan الشخصية السالبة mengikuti aturan كلية سالبة.
+
+القضية المهملة berada dalam قوة الجزئية. Karena itu, المهملة الموجبة mengikuti aturan جزئية موجبة, sedangkan المهملة السالبة mengikuti aturan جزئية سالبة.
+
+Dengan cara ini, mahasiswa dapat menerapkan empat kaidah dasar kepada proposisi yang memiliki struktur berbeda tanpa harus menghafal aturan terpisah untuk setiap bentuk.
+
+## XIII. RINGKASAN PENERAPAN BERDASARKAN KEKUATAN PROPOSISI
+
+Dosen menjelaskan bahwa hubungan antara empat proposisi berkuantitas dan dua bentuk lain dapat dirumuskan secara logis.
+
+Jika الأصل كلية موجبة, العكس-nya جزئية موجبة.
+
+Jika الأصل كلية سالبة, العكس-nya كلية سالبة.
+
+Jika الأصل جزئية موجبة, العكس-nya جزئية موجبة.
+
+Jika الأصل جزئية سالبة, tidak ada عكس مستوي yang sah secara pasti.
+
+Jika الأصل شخصية موجبة, ia diperlakukan dalam قوة كلية موجبة sehingga dibalik menjadi جزئية موجبة.
+
+Jika الأصل شخصية سالبة, ia diperlakukan dalam قوة كلية سالبة sehingga dibalik menjadi كلية سالبة.
+
+Jika الأصل مهملة موجبة, ia diperlakukan dalam قوة جزئية موجبة sehingga dibalik menjadi جزئية موجبة.
+
+Jika الأصل مهملة سالبة, ia diperlakukan dalam قوة جزئية سالبة sehingga tidak mempunyai pembalikan yang dijamin benar.
+
+Dosen menegaskan bahwa penguasaan kaidah tersebut sangat penting untuk materi selanjutnya, karena mahasiswa akan memerlukan kemampuan membalik proposisi ketika mengerjakan berbagai bentuk penalaran.
+
+---
+
+# BAGIAN KEENAM: PENJELASAN MAHASISWA DAN LATIHAN KELAS
+
+## XIV. PRESENTASI MAHASISWA MENGENAI DEFINISI العكس المستوي
+
+Setelah menerangkan materi, dosen meminta salah seorang mahasiswa maju untuk mencoba menjelaskan pengertian العكس المستوي.
+
+Seorang mahasiswi memperkenalkan dirinya sebagai ‘Izzah Muhammad dari Mesir. Ia kemudian mengulang definisi العكس المستوي, yaitu:
+
+«تَبْدِيلُ طَرَفَيِ الْقَضِيَّةِ بِجَعْلِ الْمَوْضُوعِ مَحْمُولًا وَالْمَحْمُولِ مَوْضُوعًا مَعَ بَقَاءِ الصِّدْقِ وَالْكَيْفِ بِحَالِهِمَا».
+
+Dalam penjelasannya, ia menyatakan bahwa proposisi pertama disebut المقدمة atau الأصل, sedangkan proposisi kedua disebut النتيجة atau العكس.
+
+Ia juga menerangkan bahwa suatu proposisi tersusun dari الموضوع dan المحمول, lalu kedua unsur tersebut ditukar tempatnya ketika dilakukan pembalikan.
+
+Mahasiswi tersebut kemudian mengulang bahwa apabila proposisi asal benar, hasil pembalikan yang sah juga harus benar, dan apabila proposisi asal positif, hasil pembalikan tetap positif; apabila proposisi asal negatif, hasil pembalikan tetap negatif.
+
+Ia juga menjelaskan bahwa definisi menyebut بقاء الكيف, bukan بقاء الكم, karena dalam pembalikan kuantitas dapat berubah. Sebagai contoh, proposisi كلية موجبة dapat berbalik menjadi جزئية موجبة.
+
+Dosen menggunakan presentasi tersebut sebagai kesempatan untuk memastikan bahwa mahasiswa memahami makna setiap bagian dari definisi, bukan hanya menghafal bunyinya.
+
+## XV. PENJELASAN MAHASISWA KEDUA TENTANG SUBJECT DAN PREDICATE
+
+Setelah presentasi tersebut, mahasiswa lain bernama Fadl memberikan penjelasan. Ia mengulang bahwa الاستدلال terbagi menjadi langsung dan tidak langsung. Dalam pembahasan langsung, mahasiswa sebelumnya telah mempelajari تقابل القضايا, sedangkan pembahasan sekarang berfokus pada العكس المستوي.
+
+Ia juga menyebut bahwa terdapat tiga jenis العكس, yaitu العكس المستوي، وعكس النقيض الموافق، وعكس النقيض المخالف.
+
+Dalam penjelasannya, ia menyatakan bahwa العكس المستوي disebut demikian karena adanya pertukaran posisi الطرفين: الموضوع menjadi المحمول, sedangkan المحمول menjadi الموضوع.
+
+Ia kemudian menjelaskan kembali struktur proposisi. الموضوع berkaitan dengan individu atau kelompok yang menjadi dasar pembicaraan, sedangkan المحمول adalah الحكم atau sifat yang diberikan kepada individu tersebut.
+
+Contohnya, dalam:
+
+«كُلُّ الطُّلَّابِ حَاضِرُونَ».
+
+الطلاب merupakan الموضوع, sedangkan حاضرون merupakan المحمول atau الحكم yang ditetapkan kepada mereka.
+
+Mahasiswa tersebut juga menjelaskan bahwa kuantitas dan kualitas proposisi merupakan dua hal berbeda. Kuantitas berkaitan dengan كلية dan جزئية, sedangkan kualitas berkaitan dengan إيجاب dan سلب.
+
+Dalam bagian presentasinya, mahasiswa mencoba menjelaskan bahwa definisi العكس المستوي mempertahankan kebenaran serta kualitas proposisi, bukan mengharuskan kuantitasnya tetap sama. Namun, beberapa kalimat dalam presentasi ini terdengar kurang jelas atau terputus pada transkripsi. Karena itu, rincian kata-kata persis yang digunakannya tidak dapat dipastikan seluruhnya.
+
+Dosen kemudian mengarahkan kembali pembicaraan kepada contoh-contoh yang telah dibahas, terutama «كل الطلاب حاضرون» dan «بعض الحاضرين طلاب», untuk memperjelas hubungan antara الموضوع dan المحمول.
+
+## XVI. CONTOH «كُلُّ الطُّلَّابِ حَاضِرُونَ»
+
+Dosen kembali menuliskan:
+
+«كُلُّ الطُّلَّابِ حَاضِرُونَ».
+
+Ia meminta mahasiswa menentukan الموضوع dan المحمول dalam proposisi tersebut.
+
+الطلاب adalah الموضوع, yaitu kelompok yang dibicarakan. Adapun حاضرون adalah المحمول, yaitu hukum atau sifat yang ditetapkan kepada kelompok mahasiswa.
+
+Hasil pembalikan yang sah adalah:
+
+«بَعْضُ الْحَاضِرِينَ طُلَّابٌ».
+
+Dosen menekankan agar mahasiswa tidak menjawab «بعض الطلاب حاضرون» sebagai hasil pembalikan. Pernyataan tersebut bukan hasil tukar posisi kedua term, karena الموضوع dan المحمول tidak ditukar.
+
+Dalam العكس المستوي, kata yang semula menjadi الموضوع harus berubah menjadi المحمول, dan kata yang semula menjadi المحمول harus menjadi الموضوع.
+
+Karena itu, hasil yang benar dalam contoh ini adalah «بعض الحاضرين طلاب», bukan sekadar mengubah «كل» menjadi «بعض» tanpa menukar kedua term.
+
+Dosen menyatakan bahwa ketelitian seperti ini sangat penting. Mahasiswa harus mengikuti seluruh unsur definisi, bukan hanya satu bagian yang mudah diingat.
+
+## XVII. CONTOH «مُحَمَّدٌ عَالِمٌ»
+
+Dosen kembali membahas contoh:
+
+«مُحَمَّدٌ عَالِمٌ».
+
+Proposisi tersebut شخصية موجبة karena pembicara menetapkan sifat berilmu kepada individu tertentu bernama Muhammad.
+
+Karena الشخصية berada dalam قوة الكلية, pembalikan mengikuti aturan كلية موجبة dan menghasilkan جزئية موجبة:
+
+«بَعْضُ الْعُلَمَاءِ مُحَمَّدٌ».
+
+Artinya, sebagian orang alim adalah Muhammad.
+
+Dosen menggunakan contoh ini agar mahasiswa memahami bahwa yang dibalik adalah posisi الموضوع dan المحمول, sementara kuantitas hasilnya mengikuti aturan yang berlaku.
+
+## XVIII. CONTOH PROPOSISI NEGATIF MENGENAI MUHAMMAD
+
+Dosen juga menyebut contoh ketika Muhammad bukan orang berilmu. Dalam kerangka pembahasan, pernyataan itu merupakan قضية شخصية سالبة.
+
+Karena الشخصية السالبة berada dalam قوة كلية سالبة, kaidah pembalikannya sama dengan كلية سالبة. Oleh karena itu, pembalikan yang sah tetap berupa proposisi كلية سالبة.
+
+Dosen meminta mahasiswa tidak menganggap bahwa setiap proposisi yang membicarakan satu orang harus selalu dibalik menjadi جزئية. Mereka perlu menentukan dahulu apakah proposisinya موجبة atau سالبة, kemudian menerapkan aturan yang tepat.
+
+---
+
+# BAGIAN KETUJUH: HUBUNGAN العكس المستوي DENGAN MATERI PENALARAN BERIKUTNYA
+
+## XIX. MENGAPA العكس المستوي DIPERLUKAN DALAM الاستدلال?
+
+Pada bagian menjelang akhir perkuliahan, dosen menjelaskan bahwa materi العكس المستوي bukan pembahasan yang berdiri sendiri. Mahasiswa akan memerlukannya ketika mempelajari metode penalaran yang lebih kompleks, terutama dalam memeriksa صحة الأقيسة.
+
+Dosen menjelaskan bahwa ketika seseorang hendak menguji validitas suatu silogisme, ia membutuhkan berbagai kaidah penalaran, termasuk تناقض dan العكس المستوي.
+
+Ia juga menyebut bahwa dalam langkah-langkah praktis yang akan dipelajari untuk memeriksa validitas penalaran, mahasiswa akan menggunakan عكس النقيض الموافق dan عكس النقيض المخالف.
+
+Karena itu, dosen mengingatkan bahwa memahami العكس المستوي merupakan dasar penting sebelum beralih kepada bentuk penalaran lainnya.
+
+Ia menegaskan bahwa mahasiswa perlu mengetahui cara menentukan الأصل, cara membalik الموضوع dan المحمول, dan cara memeriksa apakah hasil pembalikan benar-benar mengikuti kaidah.
+
+Pembahasan ini tidak hanya menuntut mahasiswa mengetahui definisi, tetapi juga mampu mengerjakan contoh. Dosen meminta mereka berlatih menerapkan aturan pada berbagai proposisi agar pemahaman yang diperoleh tidak berhenti pada hafalan.
+
+---
+
+# BAGIAN KEDELAPAN: TUGAS DAN LATIHAN UNTUK PERTEMUAN BERIKUTNYA
+
+## XX. SOAL YANG DIBERIKAN DOSEN
+
+Pada akhir perkuliahan, dosen memberikan tugas kepada mahasiswa. Ia meminta mereka mengerjakan soal berikut:
+
+«كُلُّ حَدِيدٍ مَعْدِنٌ».
+
+Artinya, semua besi adalah logam.
+
+Dosen meminta mahasiswa menjelaskan القضايا المتقابلة dengan proposisi tersebut serta menentukan حكمها من الصدق والكذب, yaitu status kebenaran atau kesalahannya dalam pembahasan تقابل القضايا yang telah dipelajari sebelumnya.
+
+Selain itu, mahasiswa diminta menentukan العكس المستوي dari proposisi tersebut dan menjelaskan ketentuan pembalikannya.
+
+Dengan demikian, tugas itu menggabungkan dua materi yang telah dipelajari: hubungan oposisi antarproposisi dan kaidah العكس المستوي.
+
+Dosen meminta mahasiswa menuliskan pertanyaan dan menyelesaikannya di rumah untuk kemudian diperiksa pada pertemuan berikutnya. Ia mengingatkan bahwa mahasiswa perlu mengerjakan sendiri dan tidak cukup hanya menyalin definisi dari catatan.
+
+Sumber tidak memberikan jawaban lengkap terhadap soal tersebut pada bagian akhir perkuliahan. Karena itu, materi yang dapat dipastikan dari rekaman adalah bunyi tugas dan tuntutan agar mahasiswa menentukan bentuk proposisi yang beroposisi, status kebenaran atau kesalahannya, serta pembalikan yang sah.
+
+## XXI. PENUTUP PERKULIAHAN
+
+Dosen mengakhiri materi dengan mengingatkan bahwa pembahasan hari itu telah menjelaskan pengertian العكس المستوي, empat bentuk proposisi berkuantitas, aturan pembalikan untuk masing-masing bentuk, serta penerapannya terhadap القضايا الشخصية dan القضايا المهملة.
+
+Ia menegaskan kembali empat kaidah pokok: كلية موجبة menjadi جزئية موجبة; كلية سالبة menjadi كلية سالبة; جزئية موجبة menjadi جزئية موجبة; dan جزئية سالبة tidak mempunyai pembalikan yang dijamin benar.
+
+Dosen juga menekankan bahwa الشخصية berada dalam قوة الكلية, sedangkan المهملة berada dalam قوة الجزئية. Karena itu, kedua bentuk tersebut mengikuti aturan pembalikan sesuai dengan kekuatan atau cakupan proposisinya.
+
+Dosen kemudian menghubungkan pembahasan hari itu dengan materi yang akan datang, yaitu penerapan العكس dan عكس النقيض dalam penalaran serta pemeriksaan validitas الأقيسة.
+
+Perkuliahan diakhiri dengan ucapan terima kasih kepada para mahasiswa dan salam:
+
+«السَّلَامُ عَلَيْكُمْ وَرَحْمَةُ اللَّهِ وَبَرَكَاتُهُ».
