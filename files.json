@@ -560,6 +560,11 @@
               "name": "7.txt",
               "type": "file",
               "path": "texts/PELAJARAN/FALSAFAH AMMAH/7.txt"
+            },
+            {
+              "name": "8.txt",
+              "type": "file",
+              "path": "texts/PELAJARAN/FALSAFAH AMMAH/8.txt"
             }
           ]
         },
@@ -586,6 +591,11 @@
               "name": "4.txt",
               "type": "file",
               "path": "texts/PELAJARAN/FIKIH/4.txt"
+            },
+            {
+              "name": "5.txt",
+              "type": "file",
+              "path": "texts/PELAJARAN/FIKIH/5.txt"
             }
           ]
         },
@@ -633,6 +643,11 @@
               "name": "5.txt",
               "type": "file",
               "path": "texts/PELAJARAN/KHITOBAH/5.txt"
+            },
+            {
+              "name": "6.txt",
+              "type": "file",
+              "path": "texts/PELAJARAN/KHITOBAH/6.txt"
             }
           ]
         },
@@ -654,6 +669,11 @@
               "name": "11.txt",
               "type": "file",
               "path": "texts/PELAJARAN/maantiq/11.txt"
+            },
+            {
+              "name": "12.txt",
+              "type": "file",
+              "path": "texts/PELAJARAN/maantiq/12.txt"
             },
             {
               "name": "2.txt",
@@ -705,6 +725,11 @@
               "name": "1.txt",
               "type": "file",
               "path": "texts/PELAJARAN/NUDZUM ISLAMIYAH/1.txt"
+            },
+            {
+              "name": "2.txt",
+              "type": "file",
+              "path": "texts/PELAJARAN/NUDZUM ISLAMIYAH/2.txt"
             }
           ]
         },
@@ -798,6 +823,11 @@
               "name": "4.txt",
               "type": "file",
               "path": "texts/PELAJARAN/tauhid/4.txt"
+            },
+            {
+              "name": "5.txt",
+              "type": "file",
+              "path": "texts/PELAJARAN/tauhid/5.txt"
             }
           ]
         },

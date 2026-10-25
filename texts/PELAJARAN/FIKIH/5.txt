@@ -1,0 +1,635 @@
+# HUKUM IKRAR, WASIAT, DAN TANGGUNG JAWAB ANAK KECIL DALAM FIKIH
+
+## 1. Pengantar: Pembahasan tentang Tindakan Hukum Anak Kecil
+
+Perkuliahan ini melanjutkan pembahasan sebelumnya mengenai hukum tindakan anak kecil atau الصبي, khususnya anak yang sudah mampu membedakan sesuatu dengan baik (الصبي المميز). Pada pertemuan sebelumnya, dosen telah membahas hukum tindakan anak kecil dalam persoalan harta. Kali ini, pembahasan beralih kepada tiga persoalan yang berkaitan dengan kedudukan hukum anak kecil, yaitu hukum ikrar atau pengakuan, hukum wasiat, dan tanggung jawab atas kerusakan harta milik orang lain.
+
+Ketiga persoalan ini berhubungan dengan pertanyaan mendasar: sejauh mana perkataan dan tindakan anak kecil mempunyai akibat hukum? Apakah pengakuannya dapat mengikat dirinya? Apakah ia dapat membuat wasiat? Apabila ia merusak barang milik orang lain, siapa yang harus menanggung kerugian tersebut?
+
+Dosen menjelaskan bahwa para fuqaha sepakat mengenai adanya pembatasan terhadap tindakan hukum anak kecil, tetapi mereka tidak selalu sepakat mengenai akibat hukum dari setiap perkataan dan perbuatannya. Oleh sebab itu, setiap persoalan perlu dibahas secara terpisah, dengan memperhatikan perbedaan pendapat mazhab dan alasan yang mendasari setiap pendapat.
+
+# BAGIAN PERTAMA: HUKUM IKRAR ANAK KECIL
+
+## 2. Pengertian Ikrar secara Bahasa
+
+Dosen memulai dengan meminta mahasiswa menjelaskan pengertian الإقرار, yaitu ikrar atau pengakuan.
+
+Secara bahasa, الإقرار berarti الاعتراف, yaitu pengakuan. Seseorang melakukan ikrar ketika ia mengakui adanya hak orang lain yang menjadi tanggung jawabnya. Misalnya, seseorang mengatakan bahwa si Fulan mempunyai sejumlah uang yang harus ia bayarkan, atau ia mengakui telah melakukan suatu tindakan terhadap orang lain.
+
+Dengan demikian, ikrar berbeda dari sekadar menyampaikan informasi umum. Dalam ikrar, seseorang mengakui sesuatu yang mempunyai konsekuensi terhadap dirinya sendiri, terutama pengakuan mengenai hak orang lain atas dirinya.
+
+Dosen juga menyebut bahwa salah satu makna bahasa yang berkaitan dengan الإقرار adalah الإثبات, yaitu menetapkan atau mengukuhkan sesuatu. Dalam ungkapan Arab, seseorang dapat disebut أقرّ بالشيء ketika ia mengakui atau menetapkan sesuatu.
+
+Jadi, pengertian bahasa الإقرار yang dibicarakan dalam perkuliahan mencakup pengakuan dan penetapan. Namun, dalam pembahasan fikih yang sedang berlangsung, pengertian pengakuan terhadap hak orang lain menjadi titik tekan utama.
+
+## 3. Pengertian Ikrar secara Istilah
+
+Setelah menjelaskan makna bahasa, dosen menyampaikan bahwa para ulama memberikan lebih dari satu definisi ikrar secara istilah. Namun, untuk memudahkan pembahasan, ia memilih definisi yang dinisbatkan kepada Imam al-Syafi‘i karena dinilai paling sederhana dan mudah dipahami.
+
+Definisi yang disebutkan adalah:
+
+«إخبار الشخص بحق عليه»
+
+Artinya, pemberitahuan atau pengakuan seseorang mengenai suatu hak yang menjadi tanggung jawabnya.
+
+Definisi ini singkat, tetapi maknanya luas. Seseorang memberitahukan bahwa terdapat hak yang harus ia tunaikan kepada orang lain. Misalnya, ia mengakui mempunyai utang kepada seseorang, mengakui bahwa ia menerima barang milik orang lain, atau mengakui adanya kewajiban yang harus dipenuhi.
+
+Inti ikrar terletak pada pengakuan seseorang terhadap hak yang menjadi tanggung jawabnya sendiri. Oleh sebab itu, ikrar tidak sama dengan perkataan yang hanya menyangkut hak orang lain tanpa mengakui tanggung jawab pribadi.
+
+Dosen menekankan bahwa definisi ini perlu dipahami karena pembahasan selanjutnya akan menilai apakah pengakuan yang disampaikan oleh anak kecil dapat menimbulkan konsekuensi hukum.
+
+## 4. Perbedaan antara Ikrar, Syahadah, dan Dakwaan
+
+Dosen kemudian membedakan tiga istilah yang terkadang terlihat serupa, yaitu الإقرار, الشهادة, dan الدعوى.
+
+Perbedaan ketiganya terletak pada hubungan antara orang yang berbicara, hak yang dibicarakan, dan pihak yang memperoleh manfaat dari pernyataan tersebut.
+
+### A. Ikrar: Pengakuan terhadap Hak yang Menjadi Tanggungan Diri Sendiri
+
+Dalam ikrar, seseorang mengakui adanya hak orang lain atas dirinya. Dengan kata lain, pengakuan tersebut diarahkan terhadap diri orang yang berbicara.
+
+Sebagai contoh, seseorang mengatakan, “Saya mempunyai utang kepada Fulan sebesar sejumlah uang.” Dalam kasus ini, ia mengakui bahwa Fulan mempunyai hak atas dirinya. Karena pengakuan tersebut menetapkan suatu kewajiban pada dirinya, pernyataannya disebut ikrar.
+
+### B. Syahadah: Kesaksian untuk Orang Lain terhadap Orang Lain
+
+Adapun الشهادة, yaitu kesaksian, merupakan pernyataan seseorang untuk kepentingan pihak lain terhadap pihak lainnya.
+
+Contohnya, seseorang berkata, “Saya bersaksi bahwa Fulan mempunyai hak atas Fulan yang lain.” Saksi tersebut tidak sedang mengakui utang yang menjadi tanggung jawab dirinya sendiri. Ia memberikan keterangan untuk membuktikan suatu hak bagi orang lain terhadap orang lain.
+
+Dengan demikian, syahadah berbeda dari ikrar karena saksi bukan pihak yang mengakui tanggungan atas dirinya sendiri.
+
+### C. Dakwaan: Pernyataan Seseorang untuk Menetapkan Hak bagi Dirinya
+
+Istilah ketiga adalah الدعوى, yaitu dakwaan atau klaim. Dalam pembahasan ini, dakwaan berarti seseorang menyatakan bahwa ia mempunyai hak atas orang lain.
+
+Misalnya, seseorang datang ke hadapan hakim dan berkata, “Fulan mempunyai utang kepada saya sebesar sejumlah uang.” Ia sedang mengajukan klaim atas hak yang menurutnya menjadi miliknya.
+
+Dengan demikian, dalam dakwaan seseorang menyatakan hak untuk dirinya sendiri terhadap orang lain. Hal ini berbeda dari ikrar, ketika seseorang mengakui hak orang lain atas dirinya.
+
+Dosen merangkum perbedaan tersebut melalui arah pernyataannya. Dalam ikrar, seseorang mengakui hak orang lain atas dirinya. Dalam syahadah, seseorang memberikan kesaksian untuk orang lain terhadap orang lain. Dalam dakwaan, seseorang mengklaim hak untuk dirinya sendiri terhadap pihak lain, biasanya melalui proses di hadapan hakim.
+
+Pembedaan ini penting karena pembahasan hukum ikrar anak kecil tidak boleh dicampur dengan hukum kesaksian atau dakwaan. Yang sedang dibicarakan adalah apakah anak kecil dapat mengakui suatu hak yang menjadi tanggung jawab dirinya sendiri.
+
+## 5. Persoalan Fikih: Apakah Ikrar Anak Kecil Sah?
+
+Setelah menjelaskan pengertian dan perbedaan ikrar, dosen membahas hukum ikrar anak kecil.
+
+Para fuqaha sepakat bahwa anak kecil berada di bawah الحجر dalam tindakan-tindakan tertentu, khususnya tindakan pengelolaan harta yang menjadi pembahasan sebelumnya. الحجر berarti pembatasan atau penghalangan terhadap pelaksanaan tindakan hukum tertentu karena seseorang belum memenuhi syarat yang diperlukan.
+
+Namun, muncul perbedaan pendapat mengenai apakah pembatasan tersebut juga berlaku terhadap ikrar anak kecil yang mengakui adanya hak finansial orang lain atas dirinya.
+
+Persoalannya adalah apakah anak kecil dapat dibebani konsekuensi pengakuannya sendiri, ataukah pengakuan itu tidak dapat diterima karena ia belum mempunyai kecakapan hukum yang sempurna.
+
+Dosen menjelaskan adanya beberapa pendapat. Pendapat pertama dinisbatkan kepada mazhab Hanafi dan Hanbali. Pendapat kedua dinisbatkan kepada mazhab Syafi‘i dan Zhahiri. Sementara itu, mazhab Maliki memberikan ketentuan tersendiri mengenai pengakuan anak kecil yang menyatakan bahwa dirinya telah balig.
+
+## 6. Pendapat Pertama: Ikrar Anak Kecil Mumayyiz Dapat Sah Menurut Mazhab Hanafi dan Hanbali
+
+Mazhab Hanafi dan Hanbali berpendapat bahwa ikrar anak kecil yang sudah mumayyiz dapat dinilai sah, dengan syarat anak tersebut telah mendapatkan izin untuk melakukan tindakan hukum tertentu.
+
+Anak yang sudah mumayyiz ialah anak yang telah mencapai kemampuan membedakan sesuatu dengan baik, tetapi belum otomatis memiliki seluruh kecakapan hukum sebagaimana orang dewasa.
+
+Dalam pendapat ini, keabsahan ikrar anak kecil bergantung pada adanya izin untuk melakukan transaksi atau pengelolaan harta. Anak tersebut harus مأذون له بالتصرف, yaitu telah diberi izin untuk melakukan tindakan hukum tertentu oleh pihak yang berwenang, seperti wali.
+
+Mazhab Hanafi dan Hanbali menghubungkan keabsahan ikrar tersebut dengan kebutuhan dalam kegiatan perdagangan. Jika seorang anak mumayyiz telah diberi izin untuk melakukan transaksi, ia dapat melakukan jual beli, menerima barang, memberikan pembayaran, dan melakukan berbagai pertukaran harta.
+
+Dalam kegiatan semacam itu, tidak mungkin hanya ada hak yang menguntungkan anak tersebut. Ada kalanya ia memiliki hak atas orang lain, tetapi ada kalanya ia juga mempunyai kewajiban terhadap pihak lain.
+
+Sebagai contoh, anak yang telah diberi izin untuk berdagang mungkin menerima barang dari seseorang dengan kewajiban membayar kemudian. Dalam keadaan lain, ia dapat memberikan barang kepada seseorang dengan pembayaran yang belum diterimanya. Oleh sebab itu, kegiatan jual beli dapat melahirkan hak dan kewajiban pada kedua belah pihak.
+
+Dosen menegaskan bahwa pengakuan terhadap hak dan kewajiban merupakan bagian yang diperlukan dalam kegiatan perdagangan. Jika anak yang sudah diberi izin untuk berdagang sama sekali tidak dapat mengakui hak yang menjadi tanggungannya, transaksi yang telah dilakukannya akan menimbulkan persoalan serius.
+
+Dengan alasan tersebut, mazhab Hanafi dan Hanbali menerima ikrar anak mumayyiz apabila pengakuan itu berkaitan dengan konsekuensi transaksi yang memang berada dalam lingkup izin yang diberikan kepadanya.
+
+## 7. Mengapa Ikrar yang Berkaitan dengan Perdagangan Dapat Diterima?
+
+Alasan utama pendapat pertama adalah bahwa ikrar tertentu merupakan konsekuensi yang tidak dapat dipisahkan dari perdagangan.
+
+Dosen menjelaskan bahwa kegiatan perdagangan pada dasarnya merupakan pertukaran harta dengan harta. Seseorang menjual barang, membeli barang, menerima pembayaran, memberikan pembayaran, atau melakukan pertukaran yang menimbulkan hak dan kewajiban.
+
+Jika anak mumayyiz telah diberi izin untuk melakukan kegiatan tersebut, ia harus dapat mengakui konsekuensi yang muncul dari tindakan yang dilakukannya dalam batas izin itu.
+
+Misalnya, anak tersebut menerima barang dagangan dari seseorang dan mengakui bahwa ia masih mempunyai kewajiban membayar barang tersebut. Pengakuan semacam ini berkaitan langsung dengan transaksi perdagangan.
+
+Sebaliknya, apabila pengakuan tersebut menyangkut persoalan yang tidak berhubungan dengan perdagangan, alasan yang digunakan untuk membenarkan ikrar dalam kegiatan perdagangan tidak otomatis berlaku.
+
+Dosen menyebut mahar, jinayah atau tindak pidana, serta kafalah atau penjaminan sebagai contoh persoalan yang tidak termasuk kebutuhan pokok perdagangan.
+
+Perdagangan merupakan pertukaran harta dengan harta, sedangkan mahar, jinayah, dan kafalah tidak semuanya termasuk pertukaran harta yang menjadi kegiatan perdagangan itu sendiri. Oleh sebab itu, menurut penjelasan dosen, ikrar anak mumayyiz tidak otomatis sah dalam seluruh persoalan tersebut.
+
+Dengan demikian, pendapat Hanafi dan Hanbali bukanlah bahwa setiap pengakuan anak kecil pasti sah. Keabsahannya berkaitan dengan izin yang diberikan dan jenis persoalan yang menjadi isi pengakuannya.
+
+## 8. Contoh Mahar, Jinayah, dan Kafalah
+
+Untuk memperjelas batasan tersebut, dosen membicarakan beberapa contoh.
+
+Pertama, mahar atau المهر. Pengakuan anak kecil mengenai mahar yang menjadi tanggungannya tidak termasuk konsekuensi perdagangan yang menjadi alasan dibolehkannya ikrar. Oleh sebab itu, contoh tersebut tidak dapat langsung disamakan dengan pengakuan mengenai pembayaran barang dagangan.
+
+Kedua, الجناية, yaitu tindakan pelanggaran atau tindak pidana yang menimbulkan tanggung jawab. Dalam transkripsi, dosen menyebut persoalan jinayah terhadap pihak lain sebagai salah satu hal yang tidak termasuk dalam kebutuhan perdagangan. Karena itu, pengakuan mengenai jinayah tidak otomatis memperoleh hukum yang sama dengan pengakuan terhadap tanggungan dari transaksi jual beli.
+
+Ketiga, الكفالة, yaitu penjaminan atau kafalah, yang dalam penjelasan dosen juga dihubungkan dengan الضمان, yaitu jaminan atau tanggungan.
+
+Dosen menerangkan bahwa penjaminan bukan pertukaran harta dengan harta sebagaimana jual beli. Karena itu, kafalah tidak dapat dimasukkan begitu saja ke dalam hal-hal yang merupakan konsekuensi pokok perdagangan.
+
+Dengan demikian, contoh mahar, jinayah, dan kafalah digunakan untuk menunjukkan bahwa alasan yang mendasari keabsahan ikrar anak mumayyiz menurut mazhab Hanafi dan Hanbali memiliki ruang lingkup tertentu. Ikrar yang berkaitan dengan kegiatan perdagangan berbeda dari ikrar yang berkaitan dengan kewajiban lain yang tidak termasuk dalam lingkup izin perdagangan.
+
+## 9. Syarat Tambahan Mazhab Hanbali: Ikrar Harus Berada dalam Batas Izin
+
+Dosen kemudian menjelaskan bahwa mazhab Hanbali memberikan syarat tambahan: pengakuan anak mumayyiz harus berada dalam حدود الإذن, yaitu batas-batas izin yang diberikan kepadanya.
+
+Artinya, sekalipun anak telah diberi izin untuk melakukan transaksi, keabsahan ikrarnya tidak otomatis mencakup semua persoalan. Pengakuan tersebut harus berkaitan dengan hal-hal yang memang diizinkan untuk dilakukan anak itu.
+
+Jika wali hanya memberikan izin terhadap kegiatan tertentu, lalu anak mengakui suatu kewajiban yang berada di luar ruang lingkup izin itu, menurut penjelasan dosen, ikrar tersebut tidak sah berdasarkan ketentuan mazhab Hanbali yang sedang dibicarakan.
+
+Dengan demikian, perlu dibedakan dua keadaan. Jika pengakuan berkaitan dengan transaksi yang berada dalam lingkup izin, ikrar dapat diterima. Namun, jika pengakuan keluar dari batas izin, syarat yang ditetapkan mazhab Hanbali tidak terpenuhi.
+
+Dosen menegaskan bahwa syarat tersebut membatasi akibat hukum ikrar anak mumayyiz. Pengakuan tidak dapat diperlakukan seolah-olah anak tersebut telah mempunyai kewenangan hukum tanpa batas.
+
+## 10. Pendapat Kedua: Ikrar Anak Kecil Tidak Sah Menurut Mazhab Syafi‘i dan Zhahiri
+
+Pendapat kedua dinisbatkan kepada mazhab Syafi‘i dan Zhahiri. Keduanya berpendapat bahwa ikrar anak kecil tidak sah secara mutlak, baik anak itu telah mendapat izin untuk melakukan transaksi maupun belum.
+
+Dalam pendapat ini, izin melakukan transaksi tidak mengubah kedudukan anak kecil hingga ia dapat dibebani akibat hukum ikrarnya sebagaimana orang dewasa.
+
+Dosen menjelaskan alasan yang digunakan, yaitu bahwa anak kecil dianggap مسلوب العبارة. Istilah ini digunakan untuk menunjukkan bahwa pernyataannya tidak mempunyai akibat hukum yang mengikat dalam persoalan yang sedang dibahas.
+
+Menurut pendapat tersebut, anak kecil belum mempunyai kecakapan yang diperlukan untuk melakukan ikrar yang mengakibatkan hak finansial orang lain ditetapkan atas dirinya. Karena itu, pengakuannya tidak dapat dijadikan dasar untuk membebankan kewajiban kepadanya.
+
+Dengan demikian, mazhab Syafi‘i dan Zhahiri tidak membedakan keabsahan ikrar anak kecil berdasarkan adanya izin perdagangan. Bagi keduanya, pengakuan anak kecil tidak sah secara mutlak sebagaimana diterangkan dalam perkuliahan.
+
+Dosen menyebut bahwa perbedaan ini merupakan perbedaan mendasar dengan pendapat Hanafi dan Hanbali, yang menerima ikrar anak mumayyiz dalam keadaan tertentu karena kebutuhan yang berkaitan dengan transaksi.
+
+## 11. Pendapat Mazhab Maliki: Ikrar Dapat Diterima jika Anak Mengaku Telah Balig melalui Ihtilam
+
+Mazhab Maliki memberikan ketentuan tersendiri. Menurut penjelasan dosen, ikrar anak kecil yang masih berada di bawah الحجر tidak sah, kecuali dalam keadaan ia mengaku telah mencapai balig melalui ihtilam pada usia ketika hal tersebut memang mungkin terjadi.
+
+Dalam redaksi yang disampaikan di perkuliahan, ketentuannya berbunyi:
+
+«إلا إذا ادعى أنه بلغ بالاحتلام في وقت إمكان حصوله»
+
+Artinya, kecuali apabila ia mengaku telah balig melalui ihtilam pada waktu yang memungkinkan terjadinya hal tersebut.
+
+Ihtilam atau الاحتلام dalam pembahasan ini berkaitan dengan tanda balig. Mazhab Maliki, sebagaimana dijelaskan dosen, menerima pengakuan tersebut jika usia anak sesuai dengan kemungkinan terjadinya ihtilam.
+
+Apabila anak masih sangat kecil dan mengaku telah mengalami ihtilam, sedangkan usia tersebut tidak memungkinkan terjadinya keadaan itu menurut penjelasan yang diberikan, pengakuannya tidak diterima hanya berdasarkan klaimnya.
+
+Sebaliknya, jika usianya sudah memungkinkan terjadinya ihtilam dan ia menyatakan telah mengalaminya, pengakuan mengenai balig dapat diterima karena tanda tersebut merupakan sesuatu yang diketahui oleh orang yang mengalaminya.
+
+Dosen membandingkan hal ini dengan persoalan yang berkaitan dengan keadaan biologis yang hanya diketahui secara langsung oleh orang yang mengalaminya. Dalam rekaman, ia menggunakan contoh mengenai menstruasi perempuan dan berakhirnya masa haid. Orang lain tidak dapat mengamati secara langsung seluruh keadaan tersebut, sehingga pernyataan perempuan yang bersangkutan mempunyai peran penting dalam penetapan keadaan dirinya.
+
+Demikian pula dalam perkara ihtilam: orang lain tidak selalu menyaksikan keadaan yang dialami oleh anak tersebut. Jika ia mengaku telah mengalami ihtilam pada usia yang memungkinkan, pengakuannya dapat diterima dalam kerangka pendapat Maliki yang diterangkan dosen.
+
+Dengan demikian, pendapat Maliki tidak sama dengan pendapat Hanafi dan Hanbali maupun pendapat Syafi‘i dan Zhahiri. Mazhab Maliki memberikan ketentuan khusus yang berkaitan dengan pengakuan anak mengenai balig melalui ihtilam.
+
+## 12. Pendapat yang Dinilai Lebih Kuat oleh Dosen tentang Ikrar Anak Kecil
+
+Setelah menguraikan perbedaan pendapat tersebut, dosen menanyakan pendapat mana yang lebih kuat.
+
+Pilihan yang dibandingkan adalah pendapat Hanafi dan Hanbali yang menerima ikrar anak mumayyiz apabila ia telah diberi izin melakukan transaksi, pendapat Syafi‘i dan Zhahiri yang menolak ikrar anak kecil secara mutlak, serta ketentuan Maliki yang menerima pengakuan balig melalui ihtilam dalam keadaan tertentu.
+
+Dosen menyatakan bahwa pendapat yang menurutnya lebih kuat adalah pendapat pertama, yaitu pendapat mazhab Hanafi dan Hanbali yang mengakui keabsahan ikrar anak mumayyiz apabila ia telah mendapat izin melakukan tindakan hukum yang berkaitan.
+
+Alasan pertama adalah bahwa wali tidak seharusnya memberi izin kepada anak untuk berdagang kecuali jika ia menilai anak tersebut telah mempunyai kemampuan yang memadai. Izin itu diberikan setelah wali melihat bahwa anak cukup mampu melakukan transaksi dengan cara yang sesuai.
+
+Karena anak telah diberi izin untuk berdagang, pengakuan terhadap kewajiban yang timbul dari perdagangan merupakan bagian yang berkaitan dengan tindakan yang telah diizinkan kepadanya.
+
+Alasan kedua adalah bahwa ikrar merupakan salah satu konsekuensi kegiatan perdagangan. Anak yang melakukan jual beli dapat mempunyai tanggungan, menerima barang, memberikan pembayaran, atau mengakui adanya hak pihak lain atas dirinya. Dengan demikian, pengakuan tersebut mempunyai hubungan langsung dengan kegiatan yang telah diberi izin.
+
+Dosen juga menambahkan bahwa wali biasanya tidak memberikan izin perdagangan kepada anak yang masih sangat kecil. Izin diberikan ketika anak telah mendekati balig dan dianggap cukup mampu untuk melakukan transaksi.
+
+Alasan ketiga berkaitan dengan perlindungan hak orang lain. Dosen mengingatkan bahwa jika ikrar anak kecil sama sekali tidak diterima, hak orang yang bertransaksi dengannya dapat hilang. Orang yang telah memberikan barang atau uang kepada anak dapat kehilangan haknya apabila anak tersebut dapat menyangkal seluruh kewajibannya hanya karena statusnya sebagai anak kecil.
+
+Karena itu, menurut dosen, menerima ikrar anak mumayyiz yang memang telah diberi izin untuk berdagang merupakan pendapat yang lebih kuat. Penerimaan itu membantu menjaga hak orang lain dan sejalan dengan kenyataan bahwa anak tersebut telah diberi kewenangan melakukan transaksi dalam lingkup tertentu.
+
+# BAGIAN KEDUA: HUKUM WASIAT ANAK KECIL
+
+## 13. Pengertian Wasiat secara Bahasa
+
+Setelah menyelesaikan pembahasan mengenai ikrar anak kecil, dosen beralih kepada الفرع الرابع, yaitu cabang pembahasan keempat: حكم وصية الصبي, atau hukum wasiat anak kecil.
+
+Sebelum membahas hukumnya, dosen menjelaskan terlebih dahulu pengertian الوصية, yaitu wasiat.
+
+Secara bahasa, الوصية berkaitan dengan العهد, yaitu janji, pesan, atau amanat. Ungkapan seseorang yang mengatakan «أوصيتك بكذا» dapat dipahami sebagai “Aku berpesan atau mengamanatkan kepadamu sesuatu.”
+
+Dosen juga menghubungkan istilah tersebut dengan ungkapan Al-Qur'an yang berkaitan dengan saling berpesan:
+
+«وَتَوَاصَوْا بِالْحَقِّ وَتَوَاصَوْا بِالصَّبْرِ»
+
+Artinya, mereka saling berpesan dengan kebenaran dan saling berpesan dengan kesabaran.
+
+Dari segi bahasa, penggunaan kata الوصية dengan demikian berkaitan dengan pesan, amanat, dan penyerahan tanggung jawab kepada pihak lain.
+
+Dosen kemudian menjelaskan bahwa istilah wasiat mempunyai hubungan erat dengan kematian. Seseorang dapat memberikan pesan sebelum meninggal agar suatu tindakan dilakukan atau suatu hak dipenuhi setelah ia meninggal. Karena itu, orang yang menerima wasiat mempunyai tanggung jawab untuk melaksanakan pesan tersebut sesuai dengan isi wasiat.
+
+Hubungan dengan keadaan orang yang meninggal inilah yang disebut dosen sebagai salah satu alasan istilah الوصية digunakan dalam pembahasan hukum wasiat.
+
+## 14. Pengertian Wasiat secara Istilah Menurut Mazhab Maliki
+
+Dosen menyampaikan beberapa kemungkinan definisi wasiat, tetapi memilih definisi yang dinisbatkan kepada mazhab Maliki karena dianggap singkat dan mudah dipahami.
+
+Dalam transkripsi, definisi tersebut terdengar sebagai:
+
+«عقد يوجب حقا في ثلث مال العاقد يلزم بموته أو نيابة عنه بعده»
+
+Redaksi tepat pada bagian tertentu tidak sepenuhnya jelas dalam rekaman, terutama setelah kata ثلث. Maksud penjelasannya adalah bahwa wasiat merupakan suatu akad yang menetapkan hak dalam batas sepertiga harta orang yang berwasiat, berlaku setelah kematiannya, atau berkaitan dengan penunjukan seseorang untuk mewakilinya setelah ia meninggal.
+
+Dosen menjelaskan bahwa wasiat dalam pengertian tersebut mencakup dua bentuk yang perlu dibedakan.
+
+Bentuk pertama adalah seseorang berwasiat agar sebagian hartanya diberikan kepada pihak lain setelah ia meninggal. Dalam bentuk ini, wasiat berkaitan dengan hak penerima atas sebagian harta peninggalan orang yang berwasiat.
+
+Bentuk kedua adalah seseorang menunjuk atau mengamanatkan orang lain untuk menjalankan tugas tertentu setelah ia meninggal. Tugas tersebut dapat berhubungan dengan pengurusan anak-anak, pengelolaan harta peninggalan, pembayaran utang, penagihan piutang, atau urusan lain yang membutuhkan orang untuk mewakili kepentingannya setelah kematiannya.
+
+Dengan demikian, definisi wasiat menurut penjelasan dosen tidak hanya mencakup pemberian harta, tetapi juga penunjukan orang yang menjalankan tanggung jawab tertentu setelah orang yang memberi amanat meninggal dunia.
+
+## 15. Wasiat Harta Dibatasi Sepertiga Harta Peninggalan
+
+Dosen menjelaskan bahwa bentuk pertama wasiat berkaitan dengan pemberian sebagian harta kepada orang lain. Akan tetapi, wasiat tersebut tidak boleh dipahami sebagai pemberian tanpa batas yang dapat menghabiskan seluruh harta peninggalan.
+
+Dalam definisi yang digunakan dalam perkuliahan, wasiat berkaitan dengan sepertiga harta, yaitu ثلث المال. Dengan kata lain, bagian harta yang menjadi objek wasiat dibatasi hingga sepertiga menurut penjelasan dosen.
+
+Sebagai ilustrasi, seseorang mempunyai harta yang banyak dan mempunyai kerabat, tetapi ia juga ingin memberikan sebagian hartanya kepada orang miskin atau pihak lain. Ia dapat membuat wasiat agar sebagian hartanya diberikan kepada mereka dalam batas yang dibahas, yaitu sepertiga harta peninggalannya.
+
+Dosen menekankan bahwa wasiat tersebut tidak langsung berlaku seperti pemberian yang dilakukan ketika pemberi masih hidup. Pelaksanaan wasiat baru berlangsung setelah kematian orang yang berwasiat.
+
+Karena itu, jika seseorang memberikan harta kepada orang lain ketika ia masih hidup dan pemberian itu berlaku pada saat tersebut, transaksi itu bukan wasiat dalam pengertian yang sedang dibahas, melainkan dapat menjadi هبة, yaitu hibah atau pemberian.
+
+Perbedaan ini penting. Wasiat berkaitan dengan pelaksanaan setelah kematian, sedangkan hibah merupakan pemberian yang dilakukan selama kehidupan pemberi. Dengan demikian, waktu berlakunya hak menjadi salah satu pembeda antara wasiat dan hibah.
+
+## 16. Wasiat Berupa Penunjukan Orang untuk Menjalankan Tugas Setelah Kematian
+
+Bentuk kedua wasiat adalah penunjukan seseorang agar menjalankan tugas tertentu atas nama orang yang berwasiat setelah ia meninggal.
+
+Dosen memberikan contoh seseorang yang akan bepergian atau memperkirakan bahwa ia mungkin segera meninggal. Ia lalu berpesan kepada orang lain agar ketika ia sudah tidak ada, orang tersebut mengurus anak-anaknya, memperhatikan urusan keluarga, dan menyelesaikan kewajiban yang masih tersisa.
+
+Tugas tersebut dapat mencakup pengurusan harta peninggalan, pembayaran utang yang harus dibayarkan oleh orang yang meninggal, serta penagihan piutang yang masih menjadi haknya.
+
+Misalnya, seseorang meninggal dunia dengan meninggalkan utang kepada pihak lain dan pada saat yang sama mempunyai piutang dari orang lain. Orang yang ditunjuk untuk mengurus kepentingannya dapat diberi amanat untuk menyelesaikan pembayaran utang dan menagih piutang sesuai dengan isi wasiat.
+
+Dengan demikian, wasiat tidak selalu berbentuk perintah untuk memberikan sejumlah harta kepada penerima tertentu. Wasiat juga dapat berupa amanat agar seseorang menjalankan pekerjaan atau mewakili kepentingan orang yang meninggal setelah kematiannya.
+
+Dosen menekankan bahwa kedua jenis ini harus dibedakan ketika memahami definisi wasiat. Bentuk pertama berkaitan dengan hak atas harta peninggalan, sedangkan bentuk kedua berkaitan dengan perwakilan atau pelaksanaan tugas setelah kematian.
+
+## 17. Hukum Wasiat Anak Kecil yang Belum Mumayyiz
+
+Setelah menjelaskan pengertian wasiat, dosen membahas hukum wasiat anak kecil.
+
+Para fuqaha sepakat bahwa wasiat anak kecil yang belum mumayyiz tidak sah. Kesepakatan ini dibahas secara khusus untuk membedakan anak yang belum mampu memahami tindakan dan konsekuensinya dari anak yang sudah mencapai kemampuan membedakan.
+
+Anak kecil yang belum mumayyiz tidak mempunyai kemampuan yang diperlukan untuk memahami pemberian harta melalui wasiat dan akibatnya terhadap dirinya maupun orang lain.
+
+Karena itu, menurut kesepakatan yang disebutkan dalam perkuliahan, apabila anak yang belum mumayyiz berwasiat agar sebagian hartanya diberikan kepada orang lain setelah ia meninggal, wasiat tersebut tidak berlaku.
+
+Namun, setelah menetapkan kesepakatan mengenai anak yang belum mumayyiz, dosen membahas perbedaan pendapat tentang wasiat anak yang sudah mumayyiz.
+
+## 18. Pendapat Pertama: Wasiat Anak Mumayyiz Tidak Sah Menurut Mazhab Hanafi, Syafi‘i, dan Zhahiri
+
+Pendapat pertama dinisbatkan kepada mazhab Hanafi, Syafi‘i, dan Zhahiri. Menurut pendapat ini, wasiat anak mumayyiz tidak sah.
+
+Alasan utamanya ialah bahwa wasiat merupakan bentuk تبرع, yaitu pemberian sukarela tanpa adanya imbalan yang sebanding. Orang yang berwasiat melepaskan sebagian manfaat hartanya untuk kepentingan pihak lain, tanpa menerima penggantian sebagai imbalan langsung.
+
+Dosen menjelaskan bahwa تبرع juga mencakup tindakan seperti hibah dan sedekah. Dalam tindakan-tindakan tersebut, seseorang memberikan hartanya kepada orang lain tanpa mengadakan pertukaran harta yang sebanding sebagaimana jual beli.
+
+Menurut mazhab yang disebutkan, pihak yang melakukan تبرع harus memenuhi syarat tertentu, termasuk telah balig dan berakal. Anak kecil belum memenuhi syarat tersebut, sehingga tidak dapat melakukan wasiat yang menyebabkan hartanya diberikan kepada orang lain.
+
+Dengan demikian, meskipun anak sudah mumayyiz dan mampu membedakan suatu tindakan, kemampuan tersebut belum otomatis menjadikannya orang yang memenuhi syarat untuk melakukan pemberian sukarela berupa wasiat.
+
+Dosen menekankan bahwa persoalan ini berbeda dari tindakan perdagangan yang dibahas dalam hukum ikrar. Dalam perdagangan, anak mumayyiz yang diberi izin dapat melakukan transaksi sebagai pertukaran harta. Adapun wasiat merupakan pemberian tanpa imbalan, sehingga alasan yang digunakan untuk membolehkan perdagangan tidak otomatis berlaku.
+
+## 19. Wasiat Anak Mumayyiz Menurut Mazhab Syafi‘i dan Kedudukan Orang Safih
+
+Dosen secara khusus menyebut pendapat mazhab Syafi‘i mengenai perbedaan antara الصبي dan السفيه.
+
+Menurut penjelasan dalam perkuliahan, wasiat orang safih dapat diterima, sedangkan wasiat anak kecil tidak diterima. Orang safih yang dimaksud adalah orang yang sudah balig dan berakal, tetapi tidak cakap mengelola harta dengan baik karena perilakunya yang boros atau tidak mampu menjaga kekayaannya.
+
+Dosen menjelaskan bahwa orang safih mempunyai kebutuhan untuk memperoleh pahala melalui amal kebajikan. Karena ia sudah balig, ia dipandang memiliki tanggung jawab keagamaan dan dapat melakukan tindakan yang berkaitan dengan pahala di akhirat.
+
+Sebaliknya, anak kecil belum berada pada kedudukan yang sama dengan orang dewasa. Dalam penjelasan dosen, hal ini menjadi salah satu alasan mengapa mazhab Syafi‘i membedakan wasiat orang safih dari wasiat anak kecil.
+
+Dosen juga menghubungkan penolakan terhadap wasiat anak dengan anggapan bahwa anak kecil masih مسلوب العبارة dalam persoalan yang sedang dibahas. Artinya, pernyataannya tidak dianggap mempunyai kekuatan hukum yang diperlukan untuk mengikat harta melalui wasiat.
+
+Selain itu, anak kecil tidak mempunyai kewenangan penuh atas dirinya sendiri atau atas orang lain. Karena itu, ia tidak dapat memberikan wasiat dalam segala hal sebagaimana orang dewasa.
+
+Dosen menegaskan bahwa hal tersebut tidak berarti seluruh perkataan anak mumayyiz selalu tidak mempunyai konsekuensi. Ada tindakan yang dapat diizinkan dalam batas tertentu, seperti kegiatan perdagangan yang telah dibahas sebelumnya. Namun, wasiat merupakan jenis tindakan yang berbeda karena termasuk تبرع.
+
+## 20. Dalil Pendapat Pertama: Larangan Menyerahkan Harta kepada Orang yang Tidak Cakap dan Hadis tentang Anak Kecil
+
+Dosen menyebut firman Allah sebagai salah satu dalil pendapat yang menolak wasiat anak kecil:
+
+«وَلَا تُؤْتُوا السُّفَهَاءَ أَمْوَالَكُمُ الَّتِي جَعَلَ اللَّهُ لَكُمْ قِيَامًا»
+
+Ayat ini digunakan dalam konteks pembahasan mengenai harta dan orang yang belum memiliki kecakapan yang diperlukan untuk mengelolanya.
+
+Dosen juga menyebut hadis:
+
+«رُفِعَ الْقَلَمُ عَنْ ثَلَاثٍ»
+
+Dalam rekaman, bagian yang relevan adalah anak kecil sampai ia mencapai balig. Hadis ini digunakan sebagai dalil bahwa anak kecil belum diperlakukan sebagaimana orang dewasa dalam hal tanggung jawab yang dibahas.
+
+Di samping dalil naqli, dosen kembali kepada alasan rasional yang telah dijelaskan, yaitu bahwa wasiat termasuk تبرع. Karena anak kecil belum balig dan belum memenuhi syarat pemberian sukarela menurut pendapat ini, wasiatnya tidak sah.
+
+Dengan demikian, pendapat pertama dibangun melalui tiga sisi penjelasan: status anak kecil yang belum memenuhi syarat kedewasaan hukum, sifat wasiat sebagai pemberian tanpa imbalan, serta dalil yang dibahas mengenai harta dan keadaan anak yang belum balig.
+
+## 21. Pendapat Kedua: Wasiat Anak Mumayyiz Sah Menurut Mazhab Maliki dan Hanbali
+
+Pendapat kedua dinisbatkan kepada mazhab Maliki dan Hanbali. Kedua mazhab ini menerima keabsahan wasiat anak yang sudah mumayyiz, tetapi dengan beberapa syarat.
+
+Syarat pertama adalah wasiat tersebut tidak mengandung تناقض, yaitu pertentangan atau kontradiksi. Anak tidak boleh membuat wasiat yang sekaligus menetapkan dan meniadakan hak yang sama untuk dua pihak dengan cara yang tidak mungkin dilaksanakan bersamaan.
+
+Syarat berikutnya adalah wasiat tidak digunakan untuk sesuatu yang bukan قربى, yaitu perbuatan yang dapat mendekatkan diri kepada Allah. Dosen memberi contoh wasiat untuk sesuatu yang berkaitan dengan khamar atau minuman yang diharamkan. Menurut penjelasan tersebut, anak tidak dapat membuat wasiat untuk perbuatan yang bukan bentuk ketaatan atau pendekatan diri kepada Allah.
+
+Syarat berikutnya adalah anak telah berusia lebih dari sepuluh tahun. Dalam rekaman, syarat ini disebut dengan ungkapan:
+
+«أن يجاوز الصبي عشر سنين»
+
+Artinya, anak harus telah melewati usia sepuluh tahun.
+
+Dengan demikian, menurut pendapat Maliki dan Hanbali yang dijelaskan dosen, tidak semua anak mumayyiz otomatis dapat membuat wasiat. Ada batasan mengenai isi wasiat dan usia anak yang harus dipenuhi.
+
+## 22. Penjelasan tentang Wasiat yang Mengandung Kontradiksi
+
+Dosen mengulang syarat tidak adanya تناقض karena mahasiswa tampaknya masih belum memahami maksudnya secara tepat.
+
+Kontradiksi terjadi ketika seseorang membuat dua ketetapan yang saling meniadakan mengenai hak yang sama. Misalnya, ia mewasiatkan seluruh benda tertentu kepada seseorang, tetapi pada saat yang sama mewasiatkan seluruh benda yang sama kepada orang lain, tanpa membuat pembagian yang memungkinkan keduanya memperoleh hak sesuai dengan isi wasiat.
+
+Jika benda yang sama diberikan seluruhnya kepada orang pertama, benda itu tidak mungkin pada saat yang sama diberikan seluruhnya kepada orang kedua. Karena itu, isi wasiat tersebut bertentangan secara internal.
+
+Dosen kemudian menjelaskan bahwa tidak setiap wasiat untuk dua orang merupakan kontradiksi. Jika seseorang bermaksud membagi suatu harta di antara dua orang dengan bagian yang jelas, hal itu tidak otomatis menimbulkan pertentangan.
+
+Sebagai contoh, jika suatu harta memang dimaksudkan untuk dibagi antara dua orang, masing-masing menerima bagian sesuai dengan kehendak pewasiat, isi wasiat tersebut dapat dilaksanakan. Namun, jika pewasiat bermaksud memberikan seluruh objek yang sama kepada dua orang secara penuh, lalu masing-masing tidak memungkinkan menerima seluruh objek itu bersamaan, maka terdapat kontradiksi.
+
+Dosen menekankan bahwa mahasiswa harus memahami makna kontradiksi dalam konteks wasiat. Persoalannya bukan sekadar adanya dua penerima, melainkan adanya ketentuan yang tidak dapat berlaku bersamaan.
+
+## 23. Dalil Riwayat tentang Umar bin al-Khattab dan Wasiat Anak Kecil
+
+Untuk mendukung pendapat yang menerima wasiat anak mumayyiz, dosen menyebut sebuah riwayat yang dikaitkan dengan Umar bin al-Khattab رضي الله عنه.
+
+Dalam rekaman, kisah tersebut berkaitan dengan seorang anak yang belum mengalami ihtilam, tetapi sudah dianggap cukup besar atau yafi‘. Disebutkan bahwa anak itu mempunyai harta atau warisan yang berada di Syam, sementara anak itu sendiri berada di tempat lain. Dalam transkripsi, hubungan antara lokasi, ahli waris, dan orang yang dituju oleh wasiat tidak seluruhnya jelas.
+
+Riwayat tersebut menyebut bahwa Umar memberikan arahan agar anak itu membuat wasiat, dengan ungkapan yang terdengar sebagai:
+
+«فَلْيُوصِ»
+
+atau «فليوصي لها», yakni agar ia berwasiat.
+
+Dosen menjelaskan bahwa riwayat tersebut digunakan oleh mazhab Maliki dan Hanbali sebagai dalil bahwa wasiat anak mumayyiz dapat diterima dalam keadaan tertentu. Jika wasiat anak kecil sama sekali tidak sah, menurut argumentasi yang disampaikan, tidak ada alasan Umar memberikan arahan untuk membuat wasiat tersebut.
+
+Dalam kisah itu, harta yang disebut berkaitan dengan sebuah sumur atau properti yang dalam transkripsi terdengar sebagai «بئر جشم» atau nama yang mirip dengannya. Kemudian disebut bahwa seorang bernama Ibn Amr bin Sulaim menjual harta tersebut.
+
+Angka hasil penjualan dalam transkripsi tidak konsisten. Pada satu bagian terdengar angka tiga ribu, sedangkan dalam pengulangan berikutnya dosen menyebut tiga puluh ribu. Karena sumber tidak memberikan kejelasan yang cukup untuk menentukan angka mana yang benar, kedua penyebutan tersebut perlu dicatat sebagai ketidakkonsistenan rekaman, bukan diperbaiki secara diam-diam.
+
+Inti kisah yang digunakan dosen adalah bahwa Umar membolehkan anak tersebut melakukan wasiat dalam keadaan yang dibicarakan. Riwayat ini dipakai sebagai bukti bahwa wasiat anak mumayyiz tidak harus ditolak dalam semua keadaan.
+
+Namun, rincian nama, jumlah uang, hubungan penerima, serta lokasi harta tidak seluruhnya dapat dipastikan dari transkripsi. Karena itu, kisah tersebut tidak dapat direkonstruksi lebih jauh tanpa menambahkan informasi yang tidak jelas dalam sumber.
+
+## 24. Dalil Rasional Pendapat Kedua: Wasiat Memberi Manfaat Akhirat kepada Anak
+
+Selain riwayat yang dinisbatkan kepada Umar bin al-Khattab, dosen menyampaikan alasan rasional untuk mendukung keabsahan wasiat anak mumayyiz.
+
+Menurut penjelasan tersebut, wasiat merupakan tindakan yang mengandung manfaat bagi anak, khususnya manfaat ukhrawi berupa pahala. Meskipun harta yang diwasiatkan diberikan kepada orang lain, anak yang membuat wasiat dapat memperoleh pahala karena melakukan tindakan kebajikan.
+
+Karena itu, dosen membandingkan wasiat dengan beberapa tindakan keagamaan anak kecil yang juga dapat dinilai sah. Ia menyebut Islamnya anak kecil dan salatnya sebagai contoh.
+
+Apabila anak kecil masuk Islam, pengakuan Islamnya dapat diterima dalam konteks pembahasan yang disampaikan. Begitu pula, jika anak kecil melakukan salat, salatnya dapat dianggap sah meskipun ia belum balig.
+
+Dosen menggunakan analogi ini untuk menunjukkan bahwa status anak kecil tidak selalu menghalangi semua perbuatan yang mempunyai manfaat keagamaan. Jika suatu tindakan mengandung manfaat bagi dirinya dari segi pahala dan tidak memunculkan kerugian yang tidak diperbolehkan, tindakan itu dapat dibahas dengan hukum yang berbeda dari tindakan finansial biasa.
+
+Menurut argumentasi mazhab Maliki dan Hanbali yang dijelaskan dosen, wasiat anak mumayyiz dapat diterima karena mengandung manfaat ukhrawi baginya. Karena itu, alasan bahwa ia belum balig tidak otomatis cukup untuk menolak wasiatnya dalam segala keadaan.
+
+## 25. Batas Sepertiga Harta sebagai Salah Satu Pertimbangan
+
+Dosen juga mengingatkan bahwa wasiat berkaitan dengan batas sepertiga harta peninggalan. Dengan demikian, pemberian melalui wasiat tidak sama dengan tindakan menyerahkan seluruh harta sesuka hati tanpa batas.
+
+Dalam penjelasan perkuliahan, batas tersebut disebut sebagai salah satu karakteristik wasiat. Hak yang ditetapkan melalui wasiat berkaitan dengan sepertiga harta, sedangkan pelaksanaannya baru berlaku setelah kematian orang yang berwasiat.
+
+Keterangan ini digunakan dalam konteks pembahasan mengenai wasiat anak mumayyiz karena wasiat berbeda dari transaksi yang dilakukan dengan menyerahkan seluruh harta secara langsung.
+
+Namun, dosen tidak menguraikan secara lengkap bagaimana batas sepertiga berhubungan dengan seluruh jenis wasiat anak mumayyiz dalam setiap keadaan. Karena itu, yang dapat dipastikan adalah bahwa batas sepertiga disebut sebagai bagian dari definisi umum wasiat yang dijelaskan sebelum pembahasan mengenai hukum anak kecil.
+
+## 26. Pendapat yang Dinilai Lebih Kuat tentang Wasiat Anak Mumayyiz
+
+Setelah menjelaskan dua pendapat, dosen meminta mahasiswa mempertimbangkan pendapat mana yang lebih kuat.
+
+Pendapat pertama, yang dinisbatkan kepada Hanafi, Syafi‘i, dan Zhahiri, menolak wasiat anak mumayyiz karena wasiat merupakan تبرع dan anak belum memenuhi syarat untuk melakukan pemberian sukarela.
+
+Pendapat kedua, yang dinisbatkan kepada Maliki dan Hanbali, menerima wasiat anak mumayyiz dengan syarat isi wasiat tidak kontradiktif, berkaitan dengan قربى, dan anak telah melewati usia sepuluh tahun.
+
+Dosen menyatakan bahwa pendapat yang dinilainya lebih kuat adalah pendapat kedua, yaitu pendapat yang menerima wasiat anak mumayyiz dalam keadaan dan syarat yang telah dijelaskan.
+
+Salah satu alasan yang dikemukakan ialah bahwa keabsahan wasiat dapat menjadi latihan bagi anak untuk melakukan kebaikan sejak kecil. Anak yang diberi kesempatan untuk membuat wasiat yang benar dapat belajar menyukai pemberian, kemurahan hati, dan kepedulian kepada orang lain.
+
+Dosen menggunakan gagasan bahwa anak sebaiknya dibiasakan untuk melakukan perbuatan baik sejak dini, sehingga ketika tumbuh dewasa ia tidak hanya mencintai pengumpulan harta untuk dirinya sendiri.
+
+Dalam penjelasan dosen, pembiasaan semacam itu berhubungan dengan nilai البذل, yaitu kesediaan memberikan atau mengeluarkan harta untuk kebaikan, serta الجود والكرم, yaitu kemurahan hati. Dosen juga menghubungkannya dengan kerja sama dalam kebajikan dan ketakwaan.
+
+Karena itu, menurut pendapat yang dipilih dosen, menerima wasiat anak mumayyiz dalam batas yang ditentukan dapat memberikan manfaat pendidikan moral sekaligus manfaat keagamaan.
+
+## 27. Penjelasan tentang Safih, Ma‘tuh, dan Perbedaan Keduanya dari Anak Kecil
+
+Dalam sesi tanya jawab, seorang mahasiswa bertanya mengenai pernyataan bahwa wasiat orang safih dapat diterima karena ia membutuhkan pahala.
+
+Dosen mengoreksi pemahaman mahasiswa mengenai istilah السفيه. Menurut penjelasannya, safih dalam konteks ini adalah orang yang telah balig dan berakal, tetapi tidak mampu mengelola harta dengan baik. Ia mungkin boros dan menghamburkan hartanya ke berbagai arah tanpa perencanaan yang memadai.
+
+Dengan demikian, safih bukanlah orang yang tidak mempunyai akal. Ia telah mencapai kedewasaan dan mempunyai akal, tetapi tidak memiliki kecakapan yang cukup dalam pengelolaan harta.
+
+Dosen membedakannya dari المعتوه. Dalam penjelasan rekaman, ma‘tuh berkaitan dengan kekurangan atau gangguan akal, yaitu keadaan ketika kemampuan berpikir seseorang tidak sempurna atau mengalami kelemahan yang memengaruhi pemahamannya.
+
+Perbedaan istilah ini penting karena orang safih yang dibahas dalam persoalan wasiat telah balig dan berakal, meskipun perilaku finansialnya tidak baik. Anak kecil, sebaliknya, belum mencapai usia balig.
+
+Dosen kemudian mengingatkan mahasiswa agar memperhatikan istilah tersebut ketika membaca kitab fikih. Kesalahan memahami istilah السفيه dan المعتوه dapat menyebabkan kekeliruan dalam memahami alasan suatu pendapat.
+
+# BAGIAN KETIGA: TANGGUNG JAWAB ANAK KECIL ATAS KERUSAKAN HARTA ORANG LAIN
+
+## 28. Persoalan Baru: Apakah Anak Kecil Wajib Mengganti Harta yang Dirusaknya?
+
+Setelah menyelesaikan pembahasan wasiat anak kecil, dosen berpindah ke persoalan lain, yaitu hukum إتلاف الصبي أموال الغير, yakni tindakan anak kecil yang merusak atau menghilangkan harta milik orang lain.
+
+Persoalannya adalah apakah anak kecil harus mengganti kerugian apabila ia merusak atau menghilangkan barang yang bukan miliknya.
+
+Sebagai contoh, anak kecil mungkin merusak sebuah barang milik orang lain, menghabiskan makanan yang bukan miliknya, atau menghancurkan suatu benda yang berada dalam penguasaannya.
+
+Dalam keadaan tersebut, muncul pertanyaan apakah statusnya sebagai anak kecil menghapus kewajiban mengganti kerugian, ataukah harta yang dirusaknya tetap menjadi tanggungan yang harus dibayar.
+
+Dosen menjelaskan bahwa persoalan ini diperselisihkan oleh para fuqaha. Ia menguraikan pendapat dalam mazhab Hanafi, termasuk perbedaan antara Imam Muhammad bin al-Hasan dan Abu Yusuf, lalu membandingkannya dengan pendapat mazhab Maliki, Syafi‘i, dan Hanbali.
+
+## 29. Pendapat Imam Muhammad bin al-Hasan: Anak Kecil Menanggung Kerusakan pada Saat Itu
+
+Dalam pendapat yang dinisbatkan kepada Imam Muhammad bin al-Hasan, anak kecil yang merusak harta orang lain harus menanggung ganti rugi pada saat kerusakan itu terjadi.
+
+Dalam rekaman, dosen menyampaikan prinsip umum yang berbunyi kurang lebih bahwa siapa yang merusak sesuatu harus menanggung perbaikannya atau mengganti kerusakan tersebut.
+
+Menurut pandangan ini, status anak sebagai orang yang berada di bawah pembatasan dalam tindakan hukum tidak otomatis menghapus tanggung jawab atas kerusakan harta milik orang lain.
+
+Dosen menjelaskan bahwa terdapat perbedaan antara tindakan hukum yang memerlukan kecakapan tertentu dan perbuatan merusak harta orang lain. الحجر terhadap anak kecil dalam transaksi tidak dengan sendirinya membuat barang milik orang lain menjadi tidak terlindungi ketika dirusak oleh anak tersebut.
+
+Dengan demikian, dalam pendapat Imam Muhammad bin al-Hasan sebagaimana diterangkan dosen, anak kecil menanggung tanggung jawab finansial terhadap barang yang dirusaknya, meskipun ia belum balig.
+
+## 30. Pengecualian: Harta yang Berada dalam Titipan atau Wadi‘ah
+
+Dosen kemudian menyebut pengecualian yang berkaitan dengan الوديعة, yaitu barang atau harta titipan.
+
+Dalam transkripsi, dijelaskan bahwa apabila barang tersebut merupakan titipan yang disimpan pada anak kecil, kemudian barang itu dikonsumsi atau dirusak, terdapat ketentuan yang membedakannya dari keadaan ketika anak merusak barang milik orang lain tanpa hubungan titipan.
+
+Dosen menyebut bahwa dalam keadaan titipan tersebut, anak tidak dibebani ganti rugi berdasarkan penjelasan yang diberikan. Alasannya, orang yang menerima titipan berada pada kedudukan الأمين, yaitu orang yang dipercaya menjaga barang milik pihak lain.
+
+Dosen kemudian menyebut kaidah yang dalam rekaman terdengar sebagai:
+
+«لا ضمان على الأمين»
+
+Artinya, tidak ada tanggungan ganti rugi atas orang yang memegang amanah, dalam keadaan yang dimaksud dalam pembahasan.
+
+Namun, redaksi sumber pada bagian ini tidak sepenuhnya jelas mengenai batas penerapan pengecualian tersebut, terutama karena ia menyebut barang titipan yang dikonsumsi atau dirusak. Karena itu, uraian ini mempertahankan bahwa dosen menyebut pengecualian mengenai wadi‘ah, tanpa memperluas hukum tersebut ke seluruh keadaan yang tidak dijelaskan dalam rekaman.
+
+Pokoknya, dosen membedakan antara kerusakan biasa terhadap harta orang lain dan keadaan ketika harta tersebut berada pada anak dalam hubungan titipan atau amanah.
+
+## 31. Pendapat Abu Yusuf: Tanggung Jawab Ada, tetapi Pelaksanaannya Ditunda
+
+Dosen kemudian menyebut pendapat Abu Yusuf, yang juga merupakan tokoh mazhab Hanafi.
+
+Menurut Abu Yusuf sebagaimana dijelaskan dalam perkuliahan, anak kecil tetap mempunyai tanggung jawab ganti rugi apabila ia merusak harta orang lain. Namun, tuntutan pembayaran tidak dilaksanakan pada saat itu, melainkan ditunda hingga الحجر terhadapnya berakhir dan ia mencapai keadaan yang memungkinkan kewajiban tersebut ditunaikan.
+
+Dengan demikian, perbedaan antara pendapat Imam Muhammad bin al-Hasan dan Abu Yusuf terletak pada waktu pelaksanaan tanggung jawab. Dalam pendapat Imam Muhammad bin al-Hasan, ganti rugi menjadi tanggungan pada saat kerusakan terjadi. Adapun Abu Yusuf menerima adanya tanggung jawab, tetapi menunda penagihan atau pelaksanaan sampai anak tidak lagi berada dalam keadaan الحجر.
+
+Dosen menegaskan bahwa perbedaan ini tidak boleh disederhanakan menjadi seolah-olah Abu Yusuf menolak kewajiban ganti rugi. Menurut penjelasan dalam rekaman, Abu Yusuf tetap menetapkan bahwa anak mempunyai tanggungan, tetapi pelaksanaannya ditunda.
+
+Dalam pembahasan berikutnya, dosen menyebut bahwa pendapat yang menempatkan tanggungan pada saat itu dinyatakan sebagai pendapat mu‘tamad dalam mazhab Hanafi, sedangkan pendapat Abu Yusuf menunda pelaksanaannya hingga الحجر berakhir. Redaksi transkripsi pada bagian penetapan pendapat mu‘tamad tidak seluruhnya jelas, tetapi pembedaan antara kedua posisi tersebut dapat dikenali.
+
+## 32. Alasan Rasional bagi Kewajiban Ganti Rugi
+
+Dosen kemudian menjelaskan alasan yang mendasari kewajiban ganti rugi pada anak kecil.
+
+Alasan pertama adalah bahwa pembatasan terhadap anak kecil tidak berarti ia sama sekali tidak dapat melakukan perbuatan yang menimbulkan kerugian. Dalam penjelasan dosen, anak kecil tidak dianggap terhalang dari seluruh perbuatan secara fisik. Ia tetap dapat melakukan tindakan yang menyebabkan harta orang lain rusak.
+
+Jika anak kecil dapat merusak harta tetapi tidak ada tanggung jawab apa pun, hak pemilik harta berisiko hilang. Karena itu, kewajiban ganti rugi digunakan untuk menjaga hak pihak yang dirugikan.
+
+Dosen menghubungkan prinsip ini dengan perlindungan terhadap hak orang lain. Status anak kecil tidak boleh menyebabkan pemilik harta kehilangan haknya hanya karena pelaku kerusakan belum mencapai usia balig.
+
+Alasan kedua berkaitan dengan الذمة, yaitu tanggungan atau kapasitas hukum yang memungkinkan hak dan kewajiban melekat pada seseorang.
+
+Dalam penjelasan dosen, manusia mempunyai ذمة yang menjadi tempat melekatnya hak dan kewajiban. Seseorang dapat memiliki hak sekaligus mempunyai kewajiban, meskipun pada suatu keadaan ia belum mampu memenuhi kewajiban tersebut secara langsung.
+
+Dosen memberikan analogi orang yang berutang tetapi tidak mempunyai kemampuan untuk membayar pada saat itu. Utangnya tidak otomatis hilang hanya karena ia sedang tidak mampu melunasinya. Utang tersebut tetap menjadi tanggungan sampai ia mempunyai kemampuan untuk membayarnya.
+
+Dengan analogi tersebut, dosen menjelaskan bahwa tanggung jawab finansial anak kecil dapat tetap berada dalam ذمّة-nya, sekalipun penagihan atau pelaksanaan pembayaran ditunda sampai ia mampu memenuhi kewajiban.
+
+Karena itu, pembatasan anak kecil dari transaksi tertentu tidak otomatis menghapus semua hak dan kewajiban yang dapat melekat padanya.
+
+## 33. Perbedaan antara Adanya Tanggungan dan Waktu Pembayaran
+
+Dosen menekankan bahwa keberadaan suatu tanggungan dan waktu pelaksanaan pembayaran merupakan dua persoalan yang berbeda.
+
+Seseorang dapat mempunyai utang, tetapi tidak dituntut membayarnya sebelum ia mampu. Dalam keadaan demikian, utangnya tetap ada, sedangkan pelaksanaan pembayaran ditunda.
+
+Demikian pula, menurut pendapat Abu Yusuf yang dijelaskan dosen, anak kecil dapat mempunyai kewajiban mengganti harta yang dirusaknya, tetapi pembayaran tidak dituntut saat ia masih berada di bawah الحجر.
+
+Sebaliknya, menurut pendapat Imam Muhammad bin al-Hasan yang disebut sebelumnya, tanggung jawab ganti rugi diwajibkan pada saat kerusakan terjadi.
+
+Perbedaan kedua pendapat itu perlu dipahami secara tepat. Keduanya dibicarakan dalam konteks penetapan kewajiban, tetapi berbeda mengenai apakah pelaksanaan atau pembayaran ganti rugi harus dilakukan segera atau setelah hambatan hukum berakhir.
+
+Dosen menggunakan analogi orang yang tidak mampu membayar utang untuk memperjelas perbedaan tersebut. Ketidakmampuan untuk membayar tidak selalu membuat hak kreditur hilang. Akan tetapi, waktu tuntutan pembayaran dapat berkaitan dengan kemampuan orang yang mempunyai kewajiban.
+
+## 34. Pendapat Mazhab Maliki, Syafi‘i, dan Hanbali tentang Kerusakan Harta oleh Anak
+
+Dosen kemudian menjelaskan pendapat mazhab Maliki, Syafi‘i, dan Hanbali.
+
+Menurut penjelasan yang disampaikan dalam perkuliahan, jika anak kecil merusak harta milik orang lain, kerusakan tersebut menjadi tanggungan dari hartanya sendiri apabila ia mempunyai harta. Ketentuan ini disebut berlaku sekalipun anak yang merusak belum mumayyiz, sebagaimana bunyi transkripsi yang menggunakan ungkapan «ولو كان ... مميز» dalam konteks tanggung jawab anak. Namun, bagian istilah mengenai apakah yang dimaksud “mumayyiz” atau “belum mumayyiz” tidak sepenuhnya jelas pada kata tersebut.
+
+Inti penjelasan dosen adalah bahwa kewajiban ganti rugi tidak otomatis hilang hanya karena anak belum dewasa. Jika anak mempunyai harta, penggantian dapat diambil dari hartanya.
+
+Jika anak tidak mempunyai harta, tanggungan tersebut tetap berada dalam ذمّة-nya sampai ia mempunyai harta yang memungkinkan pembayaran dilakukan.
+
+Dengan demikian, pendapat ini membedakan antara keadaan anak yang mempunyai harta dan keadaan anak yang tidak mempunyai harta. Pada keadaan pertama, ganti rugi diambil dari hartanya. Pada keadaan kedua, kewajiban tetap ada sebagai tanggungan sampai ia memiliki kemampuan untuk membayarnya.
+
+Dosen menjelaskan bahwa ketentuan ini bertujuan melindungi hak pemilik harta yang dirusak. Hak orang yang mengalami kerugian tidak seharusnya hilang hanya karena orang yang menimbulkan kerugian masih kecil.
+
+## 35. Pengecualian bagi Anak yang Hanya Memegang Harta sebagai Orang yang Dipercaya
+
+Mazhab Maliki, Syafi‘i, dan Hanbali, menurut penjelasan dosen, memberikan pengecualian apabila anak menerima harta dalam kedudukan sebagai orang yang dipercaya atau أمين.
+
+Jika pemilik harta menyerahkan barang kepada anak untuk dijaga sebagai amanah, kemudian barang tersebut rusak dalam keadaan yang dibicarakan, tanggung jawab tidak otomatis dibebankan kepada anak. Dosen menjelaskan bahwa kewajiban dalam keadaan ini dapat berpindah kepada pihak yang menyerahkan barang dan menjadikan anak sebagai orang yang dipercaya untuk menjaganya.
+
+Alasannya berkaitan dengan kedudukan orang yang dipercaya sebagai الأمين. Hubungan amanah berbeda dari keadaan ketika anak mengambil atau merusak barang orang lain tanpa hak.
+
+Menurut penjelasan dosen, apabila pemilik harta sendiri menyerahkan barang kepada anak dan menempatkannya sebagai pemegang amanah, maka pemilik tersebut memikul tanggung jawab yang berkaitan dengan keputusannya mempercayakan barang itu kepada anak.
+
+Namun, ketentuan ini mempunyai batas. Dosen menyebut bahwa apabila anak menggunakan harta titipan itu untuk kepentingannya sendiri, persoalan hukumnya menjadi berbeda.
+
+Misalnya, seorang anak memegang uang atau harta yang dipercayakan kepadanya, kemudian ia menggunakan harta tersebut untuk membeli makanan bagi dirinya sendiri atau membeli pakaian untuk kepentingan pribadinya. Dalam keadaan tersebut, dosen menjelaskan bahwa anak dapat dikenai tanggung jawab karena telah memanfaatkan harta itu untuk dirinya sendiri.
+
+Jadi, harus dibedakan antara kerusakan yang berkaitan dengan posisi anak sebagai pemegang amanah dan penggunaan harta titipan untuk kepentingan pribadi. Pembedaan ini menjadi bagian penting dari penjelasan mazhab Maliki, Syafi‘i, dan Hanbali dalam perkuliahan.
+
+## 36. Contoh Uang Titipan yang Dipakai untuk Makanan atau Pakaian
+
+Dosen memberikan ilustrasi untuk menjelaskan perbedaan antara amanah dan penggunaan harta untuk kepentingan sendiri.
+
+Bayangkan sebuah uang atau harta disimpan pada anak untuk dijaga. Anak tersebut mempunyai tugas untuk memegangnya, bukan menggunakannya bagi dirinya sendiri.
+
+Kemudian, anak mengambil uang tersebut dan membelikan makanan untuk dirinya sendiri. Atau ia menggunakan uang itu untuk membeli pakaian ketika dirinya membutuhkan pakaian.
+
+Menurut penjelasan dosen, jika anak menggunakan harta titipan untuk kepentingannya sendiri, ia tidak lagi sekadar memegang harta sebagai amanah, tetapi telah memanfaatkan harta orang lain untuk dirinya sendiri. Dalam keadaan tersebut, kewajiban ganti rugi dapat berlaku.
+
+Bagian rekaman juga menyebut keadaan ketika anak menggunakan uang untuk melindungi dirinya dari kelaparan atau membeli pakaian karena tidak mempunyai pakaian yang memadai. Contoh ini muncul dalam konteks penggunaan harta titipan untuk diri sendiri, tetapi rincian yang mengatur seluruh kemungkinan keadaan tersebut tidak dijelaskan secara sistematis.
+
+Karena itu, yang dapat dipastikan dari sumber adalah bahwa dosen membedakan antara menyimpan barang sebagai amanah dan menggunakan barang tersebut untuk kepentingan pribadi. Penggunaan untuk diri sendiri dipandang sebagai keadaan yang dapat menimbulkan kewajiban ganti rugi.
+
+## 37. Orang yang Menitipkan Barang dan Tanggung Jawab atas Amanah
+
+Dosen kemudian menegaskan bahwa jika anak hanya memegang barang sebagai amanah dan tidak menggunakan harta tersebut untuk dirinya sendiri, persoalan tanggung jawab perlu dilihat dari hubungan penitipan itu.
+
+Dalam penjelasan mazhab Maliki, Syafi‘i, dan Hanbali yang disampaikan, apabila pihak yang memiliki harta telah menyerahkan barang kepada anak dengan menjadikannya sebagai pemegang amanah, pemilik tersebut mempunyai peran dalam menentukan siapa yang seharusnya menanggung akibat apabila barang itu rusak dalam keadaan yang dikecualikan.
+
+Dosen menghubungkan prinsip ini dengan kaidah bahwa orang yang dipercaya memegang amanah tidak otomatis menanggung setiap kerusakan. Akan tetapi, jika ia melampaui batas amanah atau menggunakan barang untuk kepentingannya sendiri, ketentuan tersebut berubah.
+
+Dengan demikian, penilaian tidak hanya bergantung pada kenyataan bahwa anaklah yang memegang barang ketika kerusakan terjadi. Perlu diketahui bagaimana barang tersebut sampai kepadanya, apa tujuan penyerahannya, apakah ia bertindak sebagai orang yang dipercaya, dan apakah ia menggunakan harta itu bagi dirinya sendiri.
+
+Dosen menggunakan penjelasan ini untuk memperlihatkan pentingnya membedakan keadaan hukum secara terperinci. Tidak semua kerusakan memiliki hukum yang sama karena hubungan antara pemilik barang, pemegang amanah, dan pelaku kerusakan dapat berbeda.
+
+## 38. Pendapat yang Dinilai Lebih Kuat tentang Kerusakan Harta Anak Kecil
+
+Setelah menguraikan pendapat-pendapat tersebut, dosen menyatakan bahwa pendapat yang dinilainya lebih kuat adalah pendapat jumhur yang dinisbatkan kepada mazhab Maliki, Syafi‘i, dan Hanbali.
+
+Menurut penjelasan dosen, dalam pendapat ini perlu dibedakan keadaan ketika harta diserahkan kepada anak sebagai amanah atau dengan izin pemiliknya, dari keadaan ketika anak merusak harta milik orang lain tanpa hubungan amanah tersebut.
+
+Apabila pemilik telah menyerahkan harta kepada anak untuk dijaga atau mempercayakannya kepadanya, kewajiban ganti rugi tidak otomatis dibebankan kepada anak dalam setiap keadaan. Hal ini berhubungan dengan kedudukannya sebagai orang yang dipercaya.
+
+Sebaliknya, jika anak merusak harta orang lain tanpa adanya hubungan penitipan atau izin yang menjadikannya pemegang amanah, kewajiban ganti rugi dapat dibebankan kepadanya menurut uraian yang diberikan dosen.
+
+Namun, pada kalimat penutup penetapan pendapat yang lebih kuat, redaksi transkripsi memuat rumusan yang tampak tidak selaras dengan rincian sebelumnya. Secara literal, dosen terdengar menyatakan bahwa anak tidak menanggung ganti rugi “kecuali apabila harta dititipkan kepadanya atau ia memperolehnya dengan izin pemilik”, lalu menambahkan bahwa jika harta tidak dititipkan atau tidak diberikan dengan izin dan kemudian rusak, tanggung jawab berada pada anak.
+
+Rumusan literal tersebut bertentangan dengan penjelasan sebelumnya mengenai pengecualian amanah. Oleh karena itu, ketidakkonsistenan redaksi ini tidak dapat diselesaikan secara pasti berdasarkan transkripsi saja. Pokok yang dapat dikenali dari keseluruhan pembahasan adalah bahwa dosen memilih pendapat jumhur dan menekankan pentingnya membedakan kerusakan dalam hubungan amanah dengan kerusakan yang dilakukan tanpa adanya hubungan tersebut.
+
+## 39. Mengapa Hak Pemilik Harta Tetap Harus Diperhatikan?
+
+Dari seluruh pembahasan tentang kerusakan harta oleh anak kecil, dosen menekankan prinsip perlindungan terhadap hak orang lain.
+
+Anak kecil mungkin belum mempunyai kecakapan hukum yang sama dengan orang dewasa, terutama dalam tindakan transaksi tertentu. Akan tetapi, pembatasan itu tidak berarti bahwa pemilik barang yang rusak kehilangan haknya.
+
+Jika anak mempunyai harta sendiri, harta tersebut dapat menjadi sumber pembayaran ganti rugi menurut pendapat yang dibahas. Jika ia tidak mempunyai harta, tanggungan dapat tetap berada dalam ذمّة-nya hingga ia memiliki kemampuan untuk membayar.
+
+Namun, jika barang berada pada anak sebagai amanah, terdapat ketentuan khusus yang perlu diperhatikan. Tidak semua kerusakan atau kehilangan barang titipan langsung dibebankan kepada pemegang amanah, terutama jika ia tidak melanggar batas amanah yang diberikan kepadanya.
+
+Oleh karena itu, dosen mengajak mahasiswa memahami setiap keadaan secara terperinci. Pertanyaannya bukan hanya apakah anak kecil melakukan tindakan, tetapi juga apakah ia merusak harta milik orang lain, apakah harta itu merupakan titipan, apakah ia mempunyai izin untuk memegangnya, dan apakah ia menggunakan harta tersebut bagi kepentingannya sendiri.
+
+Dengan demikian, hukum ganti rugi pada anak kecil berkaitan dengan perlindungan harta orang lain, keberadaan tanggungan dalam ذمّة, kemampuan pembayaran, serta hubungan amanah antara pemilik barang dan orang yang memegangnya.
+
+## 40. Penutup Perkuliahan
+
+Setelah menjelaskan hukum ikrar anak kecil, wasiat anak mumayyiz, dan tanggung jawab atas kerusakan harta orang lain, dosen mengakhiri perkuliahan pada batas materi yang telah dicapai.
+
+Dalam rekaman, dosen menyampaikan bahwa pertemuan akan dilanjutkan pada perkuliahan berikutnya. Ia juga menjelaskan bahwa dirinya sedang mengalami احتقان dan التهاب في اللوزتين, yaitu gangguan berupa pembengkakan atau peradangan pada tenggorokan dan amandel. Meskipun keadaannya kurang sehat dan ia hampir tidak hadir, ia tetap berusaha datang karena keinginannya untuk melaksanakan pengajaran lebih kuat daripada keinginan untuk tidak hadir.
+
+Para mahasiswa kemudian menyampaikan terima kasih. Dosen mengakhiri pertemuan dengan ungkapan penutup yang berkaitan dengan penyucian Allah dari sifat-sifat yang tidak layak dinisbatkan kepada-Nya:
+
+«سُبْحَانَ رَبِّكَ رَبِّ الْعِزَّةِ عَمَّا يَصِفُونَ»
+
+## 41. Kesimpulan Umum
+
+Perkuliahan ini membahas tiga persoalan fikih yang saling berkaitan dengan kedudukan hukum anak kecil.
+
+Pertama, ikrar anak mumayyiz. Mazhab Hanafi dan Hanbali menerima ikrar dalam keadaan tertentu apabila anak telah diberi izin melakukan transaksi. Keabsahan tersebut berkaitan dengan kebutuhan perdagangan dan hak yang muncul dari transaksi. Mazhab Hanbali menambahkan bahwa ikrar harus berada dalam batas izin yang diberikan. Mazhab Syafi‘i dan Zhahiri menolak ikrar anak kecil secara mutlak, sedangkan mazhab Maliki menerima pengakuan mengenai balig melalui ihtilam apabila usia anak memungkinkan keadaan tersebut. Dosen memilih pendapat Hanafi dan Hanbali sebagai pendapat yang lebih kuat karena wali hanya memberikan izin perdagangan kepada anak yang dinilai cukup mampu, ikrar merupakan salah satu konsekuensi perdagangan, dan penerimaan ikrar membantu melindungi hak orang yang bertransaksi dengannya.
+
+Kedua, wasiat anak kecil. Para fuqaha sepakat bahwa wasiat anak yang belum mumayyiz tidak sah. Mazhab Hanafi, Syafi‘i, dan Zhahiri menolak wasiat anak mumayyiz karena wasiat merupakan تبرع, yaitu pemberian sukarela tanpa imbalan, sedangkan anak belum memenuhi syarat untuk melakukan pemberian tersebut. Mazhab Maliki dan Hanbali menerima wasiat anak mumayyiz dengan syarat tidak mengandung kontradiksi, tidak berkaitan dengan hal yang bukan قربى, dan anak telah melewati usia sepuluh tahun. Mereka menggunakan riwayat mengenai Umar bin al-Khattab dan alasan bahwa wasiat dapat memberi manfaat pahala kepada anak sebagai dasar pendapatnya. Dosen memilih pendapat kedua karena wasiat yang dibolehkan dapat menjadi latihan bagi anak untuk mencintai kebaikan, kemurahan hati, dan pemberian kepada orang lain sejak kecil.
+
+Ketiga, kerusakan harta oleh anak kecil. Menurut pendapat Imam Muhammad bin al-Hasan, anak kecil menanggung ganti rugi ketika merusak harta orang lain, dengan pengecualian mengenai barang titipan yang disebut dalam penjelasan. Abu Yusuf menetapkan adanya tanggungan, tetapi menunda pembayaran hingga anak keluar dari keadaan الحجر. Mazhab Maliki, Syafi‘i, dan Hanbali juga menyatakan bahwa kerusakan harta dapat menjadi tanggungan anak, diambil dari hartanya jika ia memiliki harta, atau tetap berada dalam ذمّة-nya sampai ia mampu membayar. Namun, terdapat ketentuan khusus apabila anak hanya memegang harta sebagai pemegang amanah, terutama jika ia tidak menggunakan harta tersebut untuk kepentingannya sendiri.
+
+Dalam penutup, dosen memilih pendapat jumhur mengenai tanggung jawab atas kerusakan harta. Akan tetapi, redaksi akhir dalam transkripsi tampak bertentangan dengan rincian sebelumnya tentang harta titipan, sehingga ketidakjelasan tersebut tidak dapat dipastikan penyelesaiannya hanya dari sumber yang tersedia.
+
+Secara keseluruhan, materi ini menunjukkan bahwa status anak kecil memengaruhi keabsahan perkataan dan tindakan hukumnya, tetapi tidak berarti bahwa semua pengakuan, wasiat, atau kerusakan harta memperoleh hukum yang sama. Para fuqaha membedakan antara ikrar, wasiat, transaksi perdagangan, tanggungan atas kerusakan, dan hubungan amanah. Untuk memahami perbedaan tersebut, mahasiswa harus mempelajari definisi, pendapat mazhab, syarat, dalil, serta alasan yang mendasari setiap pendapat.

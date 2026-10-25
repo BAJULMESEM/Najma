@@ -1,0 +1,819 @@
+# ILMU MANTIQ: BENTUK DAN MATERI QIYAS, JENIS-JENIS ARGUMENTASI, DAN ENAM SUMBER PREMIS BURHANI
+
+## 1. Tujuan Mempelajari Mantiq
+
+Perkuliahan ini membahas salah satu persoalan paling penting dalam ilmu mantiq, yaitu mengapa kita mempelajari mantiq dan apa manfaatnya dalam membangun argumentasi. Dosen menjelaskan bahwa pembahasan ini sebenarnya ditempatkan agak belakangan dalam susunan kitab, tetapi dianggap penting untuk dipelajari sejak sekarang. Alasannya, mahasiswa perlu memahami tujuan mempelajari mantiq sebelum melanjutkan pembahasan mengenai berbagai bentuk qiyas dan cara membuktikan suatu pendapat.
+
+Dengan mempelajari mantiq, seseorang diharapkan mampu membedakan argumentasi yang menghasilkan kepastian dari argumentasi yang hanya menghasilkan dugaan atau sekadar meyakinkan pendengar. Mantiq juga membantu seseorang mengetahui bagaimana suatu dalil disusun, jenis argumentasi apa yang sedang digunakan, serta apakah premis-premisnya dapat menghasilkan kesimpulan yang benar-benar dapat dipertanggungjawabkan.
+
+Dosen memberikan gambaran bahwa apabila seseorang hendak membuktikan suatu pendapat, ia perlu mengetahui apakah bukti yang digunakannya merupakan burhan atau bukan. Apabila ia hendak membuat suatu qiyas, ia juga perlu memahami bagaimana qiyas itu dibentuk dan dari mana materi premis-premisnya berasal.
+
+Karena itu, mempelajari mantiq tidak hanya berarti menghafal definisi dan istilah. Tujuannya ialah agar seseorang mampu menilai argumentasi, menyusun pembuktian, dan mengetahui tingkat kepastian kesimpulan yang diperoleh. Hal ini terutama penting dalam pembahasan akidah, sebab dalam penjelasan dosen, persoalan akidah harus dibangun di atas argumentasi yang menghasilkan keyakinan, bukan sekadar dugaan.
+
+Untuk mencapai tujuan tersebut, dosen memulai dengan membedakan dua aspek utama dalam qiyas, yaitu bentuk atau susunan qiyas dan materi yang mengisi susunan tersebut.
+
+## 2. Bentuk Qiyas dan Materi Qiyas
+
+Dosen meminta mahasiswa membuka bagian kitab yang dibicarakan pada sekitar halaman 24. Dalam rekaman disebutkan pembahasan mengenai bentuk dan materi qiyas, yaitu شكل القياس dan مادة القياس.
+
+Keduanya harus dibedakan karena suatu qiyas mempunyai susunan tertentu, tetapi susunan itu juga harus diisi dengan premis-premis yang mempunyai kandungan tertentu.
+
+شكل القياس berarti bentuk atau susunan qiyas. Adapun مادة القياس berarti materi atau isi yang digunakan untuk membentuk qiyas tersebut.
+
+Dosen menjelaskan bahwa setiap qiyas terdiri atas dua premis yang menghasilkan suatu kesimpulan. Kedua premis itu masing-masing terdiri atas dua bagian atau حدّين. Dari dua premis tersebut, diperoleh hasil yang disebut نتيجة.
+
+Dengan demikian, qiyas mempunyai susunan yang dapat dikenali: terdapat مقدمّة صغرى atau premis minor, مقدّمة كبرى atau premis mayor, lalu نتيجة atau kesimpulan. Setiap premis terdiri atas dua unsur, sedangkan kesimpulan dibentuk dari bagian-bagian tertentu dalam kedua premis tersebut.
+
+Susunan inilah yang disebut bentuk qiyas. Namun, bentuk tersebut belum menjelaskan seluruh isi argumentasi. Untuk mengetahui jenis argumentasi dan kekuatan hasilnya, kita juga harus melihat materi yang dimasukkan ke dalam susunan itu.
+
+Dosen kemudian menjelaskan istilah-istilah yang digunakan dalam susunan qiyas, yaitu الحد الأصغر, الحد الأكبر, dan الحد الأوسط. Ketiganya mempunyai fungsi yang berbeda.
+
+الحد الأصغر adalah batas atau term minor, yaitu term yang menjadi bagian dari premis minor dan muncul kembali dalam kesimpulan. الحد الأكبر adalah term mayor, yang juga muncul dalam kesimpulan. Adapun الحد الأوسط adalah term tengah yang menghubungkan kedua premis, tetapi tidak muncul sebagai bagian dari kesimpulan akhir.
+
+Hubungan antara ketiga term itu akan dijelaskan melalui contoh qiyas.
+
+## 3. Contoh Susunan Qiyas: العالم متغير وكل متغير حادث
+
+Dosen menggunakan contoh:
+
+«العالم متغير»
+
+Alam mengalami perubahan.
+
+Kemudian:
+
+«وكل متغير حادث»
+
+Setiap sesuatu yang berubah adalah baru atau memiliki permulaan.
+
+Dari kedua premis tersebut dihasilkan kesimpulan:
+
+«العالم حادث»
+
+Alam adalah sesuatu yang baru atau memiliki permulaan.
+
+Contoh tersebut memperlihatkan bagaimana suatu qiyas dibentuk dari dua premis. Premis pertama adalah premis minor, yaitu العالم متغير. Premis kedua adalah premis mayor, yaitu كل متغير حادث. Kesimpulannya adalah العالم حادث.
+
+Dalam contoh ini, الحد الأصغر adalah العالم, karena term tersebut terdapat dalam premis minor dan muncul kembali dalam kesimpulan. الحد الأكبر adalah حادث, karena itulah term yang menjadi bagian lain dari kesimpulan. Adapun الحد الأوسط adalah متغير, sebab term tersebut muncul dalam kedua premis dan berfungsi menghubungkan term minor dengan term mayor.
+
+Term tengah memungkinkan kita menghubungkan alam dengan sifat berubah, kemudian menghubungkan sifat berubah dengan keadaan baru. Melalui hubungan tersebut, diperoleh kesimpulan bahwa alam adalah sesuatu yang baru.
+
+Dosen menekankan bahwa kesimpulan tidak muncul secara acak. Kesimpulan diperoleh melalui hubungan antara kedua premis. Jika susunan qiyas benar, term-term tersebut berhubungan sesuai dengan bentuk argumentasinya.
+
+Karena itu, mahasiswa perlu memahami mana premis minor, mana premis mayor, mana term minor, mana term mayor, dan mana term tengah. Memahami istilah-istilah tersebut merupakan dasar untuk mempelajari bentuk-bentuk qiyas selanjutnya.
+
+## 4. Bentuk Qiyas Tidak Selalu Sama: Kedudukan الحد الأوسط
+
+Dosen menjelaskan bahwa kedudukan الحد الأوسط tidak selalu berada dalam susunan yang sama. Term tengah dapat menempati posisi yang berbeda dalam premis-premis qiyas. Perbedaan posisi tersebut menghasilkan bentuk-bentuk qiyas yang akan dibahas kemudian.
+
+Dalam contoh sebelumnya, term tengah متغير menjadi predikat dalam premis minor dan subjek dalam premis mayor. Dosen menerangkan bahwa pada bentuk pertama, term tengah diletakkan sebagai محمول dalam premis minor dan موضوع dalam premis mayor. Bentuk ini menjadi salah satu susunan yang digunakan untuk menjelaskan أشكال القياس, yaitu bentuk-bentuk atau figur-figur qiyas.
+
+Dengan demikian, bentuk qiyas berkaitan dengan cara term tengah ditempatkan di antara term minor dan term mayor. Yang menjadi perhatian bukan hanya term apa yang digunakan, tetapi juga bagaimana term tersebut ditempatkan dalam kedua premis.
+
+Dosen mengatakan bahwa term tengah dapat mempunyai sejumlah posisi yang berbeda. Perbedaan penempatan itu akan dipelajari lebih lanjut melalui pembahasan bentuk-bentuk qiyas. Namun, pada tahap ini, mahasiswa cukup memahami bahwa bentuk qiyas berkaitan dengan susunan dan hubungan term-term dalam premis.
+
+Dosen kembali menegaskan pengertian dasarnya: qiyas terdiri atas dua premis yang menghasilkan kesimpulan, setiap premis terdiri atas dua term, dan term tengah berfungsi menghubungkan term minor dengan term mayor.
+
+## 5. Analogi Ruang Kuliah untuk Memahami Bentuk dan Materi Qiyas
+
+Agar mahasiswa dapat membedakan bentuk dan materi qiyas, dosen menggunakan ilustrasi ruangan.
+
+Dosen bertanya kepada mahasiswa mengenai tempat mereka sedang belajar. Tempat itu disebut مدرّج, yaitu ruangan atau aula yang digunakan untuk perkuliahan dan dilengkapi susunan tempat duduk.
+
+Kemudian dosen mengajak mahasiswa membayangkan bahwa seluruh susunan tempat duduk tersebut dikeluarkan dan diganti dengan rak-rak serta buku. Jika isi ruangan menjadi seperti itu, tempat tersebut dapat digunakan sebagai perpustakaan.
+
+Apabila susunan tempat duduk dan rak buku kemudian dikeluarkan, lalu diisi dengan sebuah meja besar dan banyak kursi yang mengelilinginya, ruangan tersebut dapat digunakan sebagai ruang pertemuan atau rapat.
+
+Begitu juga jika isi ruangan diganti dengan tempat tidur, lemari, dan perlengkapan lain yang digunakan untuk tidur, ruangan itu dapat berfungsi sebagai kamar tidur.
+
+Dari ilustrasi tersebut, dosen membedakan struktur suatu ruangan dari benda-benda yang mengisinya. Ruangan mempunyai bentuk fisik berupa dinding, langit-langit, pintu, dan jendela. Benda-benda yang ditempatkan di dalamnya dapat berbeda-beda sehingga fungsi ruangannya pun berubah.
+
+Bentuk dasar ruangan dan materi yang mengisinya merupakan dua hal berbeda. Ruangan yang sama dapat digunakan sebagai ruang kuliah, perpustakaan, ruang pertemuan, atau kamar tidur, bergantung pada apa yang ditempatkan di dalamnya.
+
+Dosen menghubungkan analogi ini dengan qiyas. Bentuk qiyas adalah susunan yang menjadi kerangka argumentasi, sedangkan materi qiyas adalah isi yang dimasukkan ke dalam susunan tersebut.
+
+Kerangka qiyas dapat dipertahankan, tetapi materi premisnya dapat berbeda. Perbedaan materi inilah yang ikut menentukan jenis argumentasi dan kekuatan kesimpulan yang dihasilkan.
+
+## 6. Materi Qiyas Menentukan Jenis Argumentasi
+
+Setelah menjelaskan bentuk qiyas, dosen beralih kepada مادة القياس. Yang dimaksud dengan materi qiyas adalah isi atau pernyataan yang dimasukkan ke dalam premis-premisnya.
+
+Jika bentuk qiyas adalah susunan premis dan kesimpulan, maka materi qiyas adalah kandungan premis yang digunakan untuk mengisi susunan tersebut.
+
+Dosen bertanya kepada mahasiswa: apa yang dimasukkan ke dalam term-term dan premis-premis qiyas agar terbentuk suatu argumentasi? Jawabannya adalah materi berupa proposisi atau قضية yang menjadi premis qiyas.
+
+Dengan kata lain, kita tidak cukup mengetahui bahwa suatu qiyas terdiri atas dua premis dan satu kesimpulan. Kita juga harus mengetahui jenis premis yang digunakan. Apakah premis-premisnya merupakan pernyataan yang pasti benar? Apakah hanya diterima secara luas? Apakah didasarkan pada sesuatu yang meyakinkan pendengar? Ataukah premis-premis itu keliru tetapi tampak benar?
+
+Perbedaan materi tersebut berkaitan dengan lima jenis qiyas yang dibahas dalam perkuliahan, yaitu qiyas burhani, jadali, khithabi, serta dua jenis lainnya yang redaksi istilahnya kurang jelas pada beberapa bagian transkripsi, tetapi pembahasannya berkaitan dengan qiyas safshathai dan qiyas syi'ri.
+
+Dosen menjelaskan bahwa jika seseorang ingin menghasilkan qiyas burhani, ia harus menggunakan premis-premis yang benar dan pasti. Sebab, qiyas burhani dimaksudkan untuk menghasilkan kesimpulan yang meyakinkan.
+
+Jika premis-premisnya tidak pasti atau mengandung kekeliruan, kekuatan kesimpulannya tidak akan sama dengan kesimpulan yang diperoleh melalui burhan.
+
+Karena itu, pertanyaan mengenai materi qiyas menjadi dasar bagi pembahasan selanjutnya: apa saja jenis materi yang dapat menghasilkan kepastian, dan apa perbedaan tingkat argumentasi yang terbentuk dari materi-materi tersebut?
+
+## 7. Lima Jenis Qiyas dan Gambaran Umum Tingkat Kepastiannya
+
+Dalam perkuliahan, dosen menjelaskan bahwa qiyas mempunyai lima jenis berdasarkan materi dan fungsi argumentasinya. Jenis-jenis tersebut dibedakan berdasarkan kekuatan premis dan hasil yang hendak dicapai.
+
+Jenis pertama adalah القياس البرهاني, yaitu qiyas burhani. Jenis ini menggunakan premis-premis yang pasti dan benar sehingga menghasilkan kesimpulan yang pasti.
+
+Jenis kedua adalah القياس الجدلي, yaitu qiyas jadali. Premisnya tidak berada pada tingkat kepastian yang sama dengan materi burhani, tetapi digunakan dalam argumentasi dialektis.
+
+Jenis ketiga adalah القياس الخطابي, yaitu qiyas khithabi. Jenis ini berkaitan dengan argumentasi retoris yang mempunyai daya meyakinkan atau memengaruhi pendengar.
+
+Jenis keempat disebut dengan istilah yang kurang jelas dalam transkripsi. Penjelasannya berkaitan dengan argumentasi yang materi atau bentuknya dapat menimbulkan kesan yang menyesatkan. Karena rekaman pada bagian penamaan ini tidak jelas, istilah persis yang dimaksud tidak dapat dipastikan hanya berdasarkan teks yang tersedia.
+
+Jenis kelima adalah القياس الشعري, yaitu qiyas syi'ri atau argumentasi yang berkaitan dengan daya imajinasi dan penggambaran. Dosen juga menjelaskan bahwa jenis ini dapat membuat seseorang membayangkan atau merasakan sesuatu dengan cara tertentu, meskipun tujuan utamanya tidak sama dengan pembuktian yang menghasilkan kepastian.
+
+Kelima jenis ini dibahas untuk menunjukkan bahwa argumentasi tidak selalu menghasilkan efek yang sama. Ada yang menghasilkan kepastian, ada yang berfungsi dalam perdebatan, ada yang ditujukan untuk meyakinkan pendengar, dan ada yang bekerja melalui kesan atau daya imajinasi.
+
+Dalam bagian berikutnya, dosen menggunakan perumpamaan emas untuk menjelaskan perbedaan kualitas materi yang digunakan dalam qiyas.
+
+## 8. Penjelasan Imam al-Ghazali tentang Emas sebagai Perumpamaan Materi Qiyas
+
+Dosen menyebut Imam Abu Hamid al-Ghazali رحمه الله sebagai tokoh yang menggunakan perumpamaan emas untuk menjelaskan perbedaan kualitas materi. Perumpamaan itu digunakan untuk memperlihatkan bahwa sesuatu dapat tampak sebagai emas, tetapi tingkat kemurnian dan keasliannya berbeda-beda.
+
+Dosen juga menjelaskan secara singkat hubungan pembahasan logika dengan karya-karya al-Ghazali. Menurut penjelasan dalam perkuliahan, para filsuf dan sejumlah ulama memulai pembahasan mereka dengan ilmu mantiq karena ilmu tersebut dianggap sebagai pintu masuk bagi pembelajaran berbagai ilmu.
+
+Al-Ghazali disebut menyusun kitab berjudul مقاصد الفلاسفة, yaitu *Maqāṣid al-Falāsifah*. Judul itu diterangkan sebagai pembahasan mengenai maksud, tujuan, atau pokok persoalan para filsuf.
+
+Dosen mengatakan bahwa bagian awal kitab tersebut berkaitan dengan ilmu mantiq. Dalam rekaman, proses penyusunan karya itu digambarkan berlangsung selama tiga tahun: dua tahun untuk menyusun dan tahun ketiga untuk memeriksa atau meninjau ulang isinya. Detail waktu tersebut disampaikan sebagaimana terdapat dalam perkuliahan.
+
+Setelah mengkaji berbagai persoalan filsafat, al-Ghazali kemudian disebut menulis karya yang dalam rekaman terdengar sebagai تهافت الفلاسفة, yakni *Tahāfut al-Falāsifah*. Dosen menjelaskan bahwa al-Ghazali menilai bagian-bagian yang dianggap kuat dan lemah dalam pandangan para filsuf.
+
+Dalam pembahasan tersebut, dosen menyebut adanya dua puluh persoalan yang dibahas. Tiga persoalan di antaranya dikaitkan dengan pengkafiran para filsuf, sedangkan persoalan lainnya dikaitkan dengan penilaian bidah. Redaksi dan angka setelah penyebutan tiga persoalan dalam transkripsi tidak seluruhnya jelas, tetapi jumlah keseluruhan yang disebut adalah dua puluh masalah dan tiga masalah dikaitkan dengan pengkafiran.
+
+Penjelasan mengenai karya-karya al-Ghazali ini menjadi pengantar kepada analogi emas. Dosen menggunakan perumpamaan tersebut untuk menjelaskan bahwa materi argumentasi juga mempunyai tingkatan. Sebagaimana emas dapat berbeda dalam kemurniannya, premis-premis qiyas juga berbeda dalam kualitas dan tingkat kepastiannya.
+
+## 9. Lima Jenis Emas sebagai Perumpamaan Lima Jenis Qiyas
+
+Dosen menjelaskan lima keadaan emas. Contoh ini digunakan untuk membantu mahasiswa membayangkan perbedaan antara materi yang benar-benar murni, materi yang tercampur, dan benda yang sekadar menyerupai sesuatu yang bernilai.
+
+### A. Emas Murni tanpa Campuran
+
+Jenis pertama adalah emas murni yang benar-benar asli dan tidak mengandung campuran. Dalam rekaman, jenis ini disebut dengan istilah yang terdengar sebagai إبريز خالص محقق, yaitu emas murni yang kemurniannya terjamin.
+
+Dosen menyebut bahwa di Mesir terdapat istilah kadar emas seperti 24 karat atau 21 karat ketika menjelaskan contoh emas murni. Penyebutan itu digunakan sebagai gambaran mengenai emas yang memiliki tingkat kemurnian tinggi.
+
+Menurut perumpamaan dosen, emas jenis pertama dapat digunakan sebagai gambaran bagi qiyas burhani. Qiyas burhani merupakan jenis argumentasi yang menggunakan materi yang benar dan pasti, sebagaimana emas murni yang tidak bercampur dengan bahan lain.
+
+Jika premis-premis qiyas burhani benar-benar pasti, kesimpulan yang diperoleh melalui susunan qiyas yang sah juga menghasilkan kepastian. Dengan demikian, emas murni menggambarkan materi argumentasi yang dapat diandalkan untuk mendapatkan hasil yang pasti.
+
+### B. Emas yang Mengandung Campuran, tetapi Campurannya Hanya Diketahui Ahli
+
+Jenis kedua adalah emas yang tidak semurni jenis pertama karena mengandung campuran atau unsur lain. Namun, campuran tersebut hanya dapat diketahui secara jelas oleh orang yang teliti dan berpengalaman dalam perdagangan emas.
+
+Menurut dosen, orang biasa mungkin melihat benda itu sebagai emas, sementara orang yang memahami emas dapat mengenali bahwa emas tersebut tidak sepenuhnya murni.
+
+Jenis ini digunakan untuk menggambarkan qiyas jadali. Materi argumentasi tersebut tidak berada pada tingkat kemurnian atau kepastian yang sama dengan materi burhani, tetapi masih mempunyai karakter yang dapat digunakan dalam perdebatan.
+
+Perumpamaan ini menunjukkan bahwa tidak semua materi qiyas sama kuatnya. Ada materi yang mendekati tingkat kepastian, tetapi masih memiliki keterbatasan yang dapat dikenali oleh orang yang mempunyai keahlian tertentu.
+
+### C. Emas yang Campurannya Dapat Diketahui oleh Orang yang Mengerti maupun Orang Biasa
+
+Jenis ketiga adalah emas yang mengandung campuran yang dapat diketahui bukan hanya oleh ahli, tetapi juga oleh orang lain yang memperhatikannya.
+
+Dalam penjelasan dosen, benda ini masih dapat tampak seperti emas, tetapi ketidakmurniannya lebih mudah dikenali. Bahkan, orang yang bukan ahli perdagangan emas pun dapat menyadari bahwa benda tersebut tidak sepenuhnya murni.
+
+Jenis ini dipakai untuk menggambarkan qiyas khithabi. Materi qiyas khithabi memiliki daya untuk memengaruhi atau meyakinkan pendengar, tetapi tidak mempunyai tingkat kepastian yang sama dengan qiyas burhani.
+
+Melalui perumpamaan tersebut, dosen ingin menunjukkan bahwa argumentasi yang meyakinkan pendengar tidak otomatis menghasilkan kepastian. Seseorang mungkin menerima suatu perkataan karena perkataan tersebut tampak masuk akal, dikenal luas, atau disampaikan dengan cara yang menarik. Namun, keadaan itu berbeda dari pembuktian burhani yang menggunakan premis-premis pasti.
+
+### D. Tembaga yang Dibuat Menyerupai Emas
+
+Jenis keempat adalah benda yang sebenarnya bukan emas, seperti tembaga, tetapi dibuat dengan keterampilan tertentu sehingga tampak seperti emas.
+
+Dosen menjelaskan bahwa benda semacam itu dapat dibuat dengan sangat baik sehingga orang yang melihatnya mungkin menyangka bahwa benda tersebut adalah emas. Penampilannya menyerupai emas, tetapi hakikat materinya berbeda.
+
+Dalam contoh tersebut, perbedaannya terletak pada penampilan dan kenyataan. Benda itu seolah-olah memiliki karakter emas, padahal sebenarnya terbuat dari bahan lain.
+
+Dosen menggunakan gambaran ini untuk menerangkan materi argumentasi yang dapat menimbulkan kesan benar, tetapi sebenarnya mengandung kekeliruan. Dalam rangkaian pembahasan lima jenis qiyas, jenis ini berkaitan dengan argumentasi yang menyesatkan atau menampilkan sesuatu secara seolah-olah benar.
+
+Nama persis jenis qiyas pada bagian ini kurang jelas dalam transkripsi. Karena itu, uraian ini mempertahankan maksud perumpamaannya tanpa memastikan redaksi istilah yang tidak terdengar jelas.
+
+### E. Benda Palsu yang Hanya Menyerupai Emas dari Segi Penampilan
+
+Jenis kelima adalah benda yang bentuknya menyerupai emas, tetapi sebenarnya bukan emas. Benda seperti itu dapat ditemukan dalam bentuk perhiasan murah yang dijual oleh pedagang tertentu.
+
+Dosen memberikan contoh gelang atau aksesori yang tampak berwarna emas. Ia menyebut bahwa jika seseorang mendatangi kawasan Sayyidina al-Husain, mungkin terdapat pedagang yang menjual gelang atau aksesori semacam itu untuk perempuan atau anak perempuan.
+
+Benda tersebut mungkin memiliki warna dan penampilan yang menyerupai emas, tetapi sebenarnya bukan emas murni. Dosen menyebut contoh logam atau lembaran yang dalam transkripsi terdengar sebagai صفيح, yaitu bahan logam tipis yang digunakan sebagai contoh benda yang menyerupai emas.
+
+Melalui contoh ini, dosen menunjukkan perbedaan antara sesuatu yang sungguh-sungguh merupakan emas dan benda yang sekadar menyerupainya. Perumpamaan tersebut dipakai untuk menggambarkan materi argumentasi yang tidak menghasilkan kepastian dan dapat bekerja melalui kesan atau imajinasi.
+
+Dengan demikian, lima jenis emas dalam penjelasan dosen menggambarkan lima tingkat kualitas materi qiyas. Ada materi yang murni dan pasti, ada yang mengandung campuran yang hanya diketahui ahli, ada yang campurannya mudah dikenali, dan ada pula benda yang hanya menyerupai emas.
+
+## 10. Jenis Pertama: Qiyas Burhani
+
+Setelah menyampaikan analogi emas, dosen menjelaskan jenis-jenis qiyas dengan lebih terperinci.
+
+Jenis pertama adalah القياس البرهاني, yaitu qiyas burhani. Dalam perkuliahan, qiyas burhani didefinisikan sebagai qiyas yang premis-premisnya benar dan pasti sehingga menghasilkan kesimpulan yang pasti.
+
+Dosen menegaskan bahwa jika seseorang ingin memperoleh kesimpulan yang pasti, ia harus menggunakan premis-premis yang benar dan pasti. Kesimpulan yang dihasilkan oleh qiyas bergantung pada materi premis yang digunakan dan cara premis tersebut disusun.
+
+Karena itu, qiyas burhani tidak cukup hanya mempunyai bentuk yang benar. Materi atau kandungan premisnya juga harus memenuhi syarat kepastian.
+
+Dalam penjelasan dosen, premis-premis yang pasti dapat menghasilkan kesimpulan yang pasti apabila hubungan logisnya benar. Sebaliknya, jika materi premisnya tidak pasti atau salah, maka kesimpulannya tidak dapat diklaim mempunyai tingkat kepastian yang sama.
+
+Qiyas burhani disebut sebagai jenis qiyas yang paling tinggi dalam pembahasan ini. Dosen menghubungkannya dengan keyakinan yang mencapai tingkat yakin, yakni seratus persen dalam ilustrasi persentase yang digunakan di kelas.
+
+Angka seratus persen tersebut dipakai sebagai gambaran tingkat kepastian, bukan sebagai hasil pengukuran statistik. Maksudnya, keyakinan yang dihasilkan oleh burhan bukan sekadar dugaan yang lebih kuat daripada dugaan lain, melainkan kepastian menurut kerangka argumentasi yang dijelaskan.
+
+Dosen juga menegaskan bahwa dalam persoalan akidah, penggunaan qiyas burhani sangat penting karena kesimpulan akidah harus didasarkan pada argumentasi yang menghasilkan kepastian.
+
+## 11. Jenis Kedua: Qiyas Jadali
+
+Jenis kedua adalah القياس الجدلي, yaitu qiyas jadali.
+
+Dosen menjelaskan bahwa materi qiyas jadali tidak berada pada tingkat kepastian yang sama dengan materi burhani. Dalam analogi emas, jenis ini diumpamakan sebagai emas yang mengandung campuran, tetapi campuran tersebut hanya dapat diketahui secara jelas oleh orang yang ahli atau teliti.
+
+Dengan demikian, materi jadali dapat digunakan dalam perdebatan atau pembahasan dialektis, tetapi tidak sama dengan materi burhani yang benar-benar pasti.
+
+Dosen memperlihatkan perbedaan antara kedua jenis qiyas melalui kualitas materi yang digunakan. Burhan bergantung pada premis yang pasti, sedangkan jadali menggunakan materi yang tidak mempunyai tingkat kemurnian atau kepastian yang sama.
+
+Penjelasan dalam rekaman tidak menguraikan secara lengkap seluruh kategori premis yang membentuk qiyas jadali. Namun, konteksnya menunjukkan bahwa dosen sedang membandingkan tingkat kepastian dan kekuatan materi yang digunakan pada masing-masing jenis qiyas.
+
+Karena itu, mahasiswa harus memahami bahwa kemampuan seseorang memenangkan perdebatan tidak otomatis berarti ia telah menghasilkan pembuktian burhani. Argumentasi dalam perdebatan dapat menggunakan premis dengan karakter berbeda dari premis yang menghasilkan kepastian mutlak.
+
+## 12. Jenis Ketiga: Qiyas Khithabi
+
+Jenis ketiga adalah القياس الخطابي, yaitu qiyas khithabi atau argumentasi retoris.
+
+Dosen menjelaskan bahwa jenis ini tidak berada pada tingkat kepastian yang sama dengan burhan. Dalam analogi emas, qiyas khithabi digambarkan dengan emas yang mengandung campuran yang dapat diketahui oleh orang yang memahami maupun orang yang tidak mempunyai keahlian khusus.
+
+Dalam penjelasan dosen, materi khithabi mempunyai kecenderungan untuk meyakinkan pendengar. Namun, daya meyakinkan tersebut berbeda dari kepastian yang dihasilkan oleh premis burhani.
+
+Seseorang mungkin menerima suatu pernyataan karena pernyataan itu terasa masuk akal, banyak diterima orang, atau disampaikan dengan gaya yang efektif. Akan tetapi, penerimaan tersebut tidak dengan sendirinya menunjukkan bahwa premis-premisnya mencapai tingkat kepastian yang diperlukan dalam burhan.
+
+Dalam rekaman, dosen menyatakan bahwa premis jenis ini termasuk yang umumnya diterima atau mempunyai kecenderungan yang membuat jiwa menerimanya, tetapi masih terbuka terhadap kemungkinan kesalahan atau sanggahan.
+
+Karena itu, khatib atau pembicara perlu mengetahui perbedaan antara meyakinkan pendengar dan membuktikan suatu perkara secara pasti. Keduanya dapat berhubungan, tetapi tidak identik.
+
+Dalam ilmu khutbah, argumentasi retoris mempunyai kegunaan dalam menyampaikan pesan kepada masyarakat. Namun, jika tujuan pembicaraan adalah menetapkan persoalan akidah dengan kepastian, daya retoris saja tidak dapat menggantikan burhan.
+
+## 13. Jenis Keempat dan Kelima: Argumentasi yang Menyesatkan dan Argumentasi Imajinatif
+
+Setelah membahas qiyas burhani, jadali, dan khithabi, dosen melanjutkan kepada jenis keempat dan kelima.
+
+Nama persis jenis keempat tidak dapat dipastikan dari bagian transkripsi yang memuat penjelasan awal, sebab kata yang terdengar tidak jelas. Namun, isi penjelasannya berkaitan dengan materi yang dapat membuat sesuatu tampak benar meskipun sebenarnya salah. Dalam analogi emas, jenis tersebut digambarkan dengan logam seperti tembaga yang dibuat menyerupai emas sehingga orang mungkin tertipu oleh penampilannya.
+
+Jenis kelima disebut القياس الشعري, yaitu qiyas syi'ri. Dosen juga menjelaskan unsur تخييل atau daya imajinasi dalam jenis argumentasi ini.
+
+Dalam penjelasannya, qiyas syi'ri tidak terutama ditujukan untuk menghasilkan kepastian, tetapi berkaitan dengan penggambaran dan daya imajinatif yang membuat sesuatu tampak dalam suatu citra tertentu.
+
+Dosen menghubungkan kedua jenis terakhir tersebut dengan perbedaan antara yakin, dugaan, ragu, dan waham. Ia mengilustrasikan tingkat penilaian dengan skala dari nol hingga seratus persen.
+
+Menurut ilustrasi dosen, keyakinan seratus persen disebut يقين. Tingkat yakin ini menjadi gambaran bagi hasil qiyas burhani.
+
+Jika tingkat keyakinan belum mencapai kepastian, seseorang mungkin berada pada wilayah ظن, yaitu dugaan. Dosen menghubungkan dugaan tersebut dengan qiyas khithabi dan jadali dalam ilustrasi yang disampaikan.
+
+Adapun الشك adalah keraguan, sedangkan الوهم adalah waham atau dugaan yang lebih lemah. Dalam penjelasan dosen, qiyas syi'ri dan argumentasi yang menyesatkan disebut ketika ia membahas jenis penalaran yang tidak menghasilkan kepastian.
+
+Skala persentase yang digunakan dosen merupakan ilustrasi untuk membantu mahasiswa memahami perbedaan tingkat kepastian. Rekaman tidak memberikan ukuran matematis yang terperinci untuk setiap jenis qiyas, sehingga angka-angka tersebut tidak boleh dipahami sebagai rumus statistik yang pasti.
+
+Pokoknya, tidak semua argumentasi mempunyai kekuatan yang sama. Ada argumentasi yang menghasilkan kepastian, ada yang mengandalkan premis yang diterima dalam perdebatan, ada yang ditujukan untuk meyakinkan, dan ada yang memengaruhi melalui kesan atau imajinasi.
+
+## 14. Mengapa Qiyas Burhani Penting dalam Pembahasan Akidah?
+
+Dosen menegaskan bahwa persoalan akidah harus dibangun melalui argumentasi yang mencapai tingkat keyakinan. Dalam penjelasan perkuliahan, qiyas burhani menjadi jenis argumentasi yang sesuai untuk tujuan tersebut karena menggunakan premis-premis yang pasti.
+
+Dosen menghubungkan keyakinan dengan kepastian yang digambarkan sebagai seratus persen. Pada tingkat ini, seseorang bukan sekadar lebih condong kepada suatu pendapat, tetapi mempunyai kepastian berdasarkan materi premis yang digunakan dan susunan argumentasinya.
+
+Sebaliknya, jika suatu argumentasi hanya menghasilkan dugaan atau sekadar membuat pendengar menerima suatu kesimpulan, argumentasi tersebut belum tentu cukup untuk menetapkan suatu persoalan dengan tingkat kepastian yang dituntut dalam pembahasan akidah.
+
+Karena itu, mempelajari materi qiyas merupakan bagian penting dari mempelajari mantiq. Mahasiswa harus mengetahui dari mana premis-premis yang pasti berasal dan bagaimana premis tersebut dapat digunakan untuk menyimpulkan sesuatu.
+
+Dosen kemudian mulai membahas مواد القياس البرهاني, yaitu jenis-jenis proposisi atau premis yang dapat digunakan untuk membentuk qiyas burhani dan menghasilkan kepastian.
+
+## 15. Enam Jenis Materi Qiyas Burhani
+
+Dalam perkuliahan, dosen menyebut enam jenis materi yang dapat digunakan untuk membentuk qiyas burhani. Daftar yang terdengar dalam transkripsi adalah الأوليات, المحسوسات, المشاهدات الباطنية, المجربات, المتواترات, dan القضايا التي قياساتها معها بالطبع.
+
+Istilah pada jenis terakhir terdengar sebagai perkara-perkara yang qiyasnya menyertai atau melekat padanya secara alamiah. Nama baku yang dimaksud tidak dapat dipastikan hanya dari redaksi yang tersedia, sehingga penjelasan berikut mempertahankan istilah sebagaimana terdengar dalam perkuliahan.
+
+Keenam jenis tersebut digunakan untuk menunjukkan sumber atau dasar yang dapat menghasilkan proposisi pasti. Sebagian diperoleh melalui pemahaman langsung terhadap makna, sebagian melalui pengamatan pancaindra, sebagian melalui pengalaman batin, sebagian melalui pengulangan pengalaman, sebagian melalui pemberitaan yang diterima secara luas dengan cara tertentu, dan sebagian lagi melalui perkara yang hubungan pembuktiannya dianggap menyertai pemahamannya.
+
+Dosen menjelaskan jenis pertama secara panjang lebar, kemudian membahas masing-masing jenis berikutnya melalui contoh.
+
+## 16. Jenis Pertama: الأوليات atau Proposisi Primer yang Bersifat Niscaya
+
+Jenis pertama adalah الأوليات, yaitu proposisi primer atau kebenaran yang diketahui secara langsung setelah makna istilah-istilahnya dipahami.
+
+Dosen menjelaskan bahwa الأوليات merupakan perkara-perkara بدهيّة يقينيّة, yakni hal-hal yang jelas dan pasti bagi akal. Ketika seseorang telah memahami makna unsur-unsur yang terdapat dalam suatu proposisi, akal dapat langsung menerima kebenarannya tanpa memerlukan bukti tambahan.
+
+Dalam rekaman, dosen menjelaskan bahwa proposisi jenis ini tidak memerlukan دليل atau pembuktian dari luar untuk membuat seseorang menerima kebenarannya. Penerimaan itu muncul karena hubungan antara makna-makna di dalam proposisi tersebut langsung dipahami oleh akal.
+
+### A. Contoh Ayah Lebih Tua daripada Anak
+
+Salah satu contoh yang disebut dosen adalah:
+
+«الأب أكبر من الابن»
+
+Ayah lebih tua daripada anak.
+
+Dosen menjelaskan bahwa apabila seseorang telah memahami makna الأب, الابن, dan أكبر, ia dapat memahami hubungan tersebut secara langsung. Ayah tidak mungkin lebih muda daripada anaknya dalam pengertian hubungan yang sedang dibicarakan.
+
+Ketika makna istilah-istilah itu dipahami, akal menerima kebenaran proposisi tanpa harus melakukan percobaan atau pengamatan tambahan untuk setiap kasus.
+
+### B. Contoh Keseluruhan Lebih Besar daripada Bagian
+
+Dosen juga memberikan contoh:
+
+«الكل أعظم من الجزء»
+
+Keseluruhan lebih besar daripada bagiannya.
+
+Ketika seseorang memahami arti الكل dan الجزء, ia dapat memahami bahwa keseluruhan yang mencakup bagian-bagian lebih besar daripada satu bagian yang menjadi unsur di dalamnya.
+
+Dosen menjelaskan bahwa proposisi ini diterima melalui pemahaman langsung terhadap konsep keseluruhan dan bagian, bukan karena harus terlebih dahulu melihat setiap benda secara khusus.
+
+### C. Contoh Satu Benda Tidak Berada di Dua Tempat pada Waktu yang Sama
+
+Contoh lainnya adalah bahwa satu benda yang sama tidak mungkin berada di dua tempat berbeda pada waktu yang sama, dalam pengertian yang digunakan oleh dosen.
+
+Dosen mengilustrasikan dirinya sedang berada di Mesir ketika mengajar. Apakah ia dapat berada di tempat yang sama dan pada waktu yang sama, sekaligus berada di Aljazair atau di tempat lain?
+
+Menurut penjelasan dosen, akal memahami bahwa satu benda yang sama tidak dapat menempati dua tempat berbeda pada waktu yang sama dalam pengertian tersebut.
+
+Proposisi ini digunakan untuk menunjukkan bahwa ada hubungan yang dapat dipahami secara langsung oleh akal tanpa memerlukan pembuktian melalui pengamatan berulang.
+
+### D. Contoh Dua Merupakan Setengah dari Empat
+
+Dosen kemudian menyebut bahwa dua merupakan setengah dari empat. Ketika angka dan hubungan aritmetisnya dipahami, proposisi tersebut dapat diterima secara langsung sebagai kebenaran yang jelas.
+
+Contoh-contoh ini digunakan untuk menunjukkan bahwa الأوليات merupakan sumber pengetahuan yang penting bagi qiyas burhani. Proposisi semacam ini menjadi dasar dalam menyusun pembuktian yang menghasilkan kepastian.
+
+## 17. Mengapa الأوليات Tidak Memerlukan Bukti Tambahan?
+
+Dosen menjelaskan bahwa proposisi primer diterima oleh akal setelah makna unsur-unsurnya dipahami. Penerimaan itu tidak bergantung pada pengamatan terhadap setiap kasus atau pengalaman berulang.
+
+Sebagai contoh, seseorang tidak harus mendatangi semua keluarga di dunia untuk memeriksa apakah ayah lebih tua daripada anak. Yang dibutuhkan adalah memahami makna hubungan ayah dan anak serta hubungan usia yang dimaksud dalam proposisi tersebut.
+
+Begitu pula, seseorang tidak perlu memeriksa setiap benda yang pernah ada untuk memahami bahwa keseluruhan lebih besar daripada bagiannya. Pemahaman terhadap konsep keseluruhan dan bagian sudah memungkinkan akal menerima hubungan tersebut.
+
+Hal yang sama dijelaskan melalui contoh satu benda yang tidak berada di dua tempat dalam waktu yang sama. Ketika konsep benda, tempat, dan waktu dipahami, akal menerima hubungan yang dimaksud.
+
+Karena itu, الأوليات digunakan sebagai dasar pembuktian. Ia termasuk sumber yang kuat bagi materi qiyas burhani sebab proposisinya diterima melalui pemahaman langsung, bukan hanya berdasarkan dugaan atau kebiasaan.
+
+Dosen menyebut bahwa ketika mahasiswa hendak membangun qiyas burhani, mereka perlu mengetahui dari mana premis yang pasti dapat diperoleh. الأوليات menjadi sumber pertama yang dijelaskan karena mempunyai sifat jelas dan niscaya dalam kerangka pembahasan ini.
+
+## 18. Contoh Qiyas tentang Sesuatu yang Dilahirkan dan Ketuhanan
+
+Dalam perkuliahan, dosen memberikan contoh qiyas yang berbunyi kurang lebih:
+
+«المولود محتاج»
+
+Sesuatu yang dilahirkan atau yang mempunyai asal kejadian adalah membutuhkan.
+
+Kemudian:
+
+«وكل محتاج ليس بإله»
+
+Setiap sesuatu yang membutuhkan bukanlah Tuhan.
+
+Maka kesimpulannya:
+
+«المولود ليس بإله»
+
+Sesuatu yang dilahirkan atau yang membutuhkan bukanlah Tuhan.
+
+Contoh ini digunakan untuk memperlihatkan bagaimana dua premis dihubungkan hingga menghasilkan kesimpulan. Dosen menanyakan apakah premis yang menyatakan bahwa sesuatu yang membutuhkan bukanlah Tuhan memerlukan pembuktian tambahan dalam kerangka contoh yang sedang diberikan. Mahasiswa diarahkan untuk memahami bahwa jika premis-premisnya diterima, kesimpulannya diperoleh melalui hubungan logis antara kedua premis tersebut.
+
+Contoh ini juga memperlihatkan fungsi الأوليات sebagai dasar yang digunakan dalam pembuktian. Materi yang dipakai dalam qiyas harus dipahami terlebih dahulu, lalu dihubungkan dengan premis lainnya untuk memperoleh kesimpulan.
+
+Dalam transkripsi, redaksi yang menghubungkan المولود, المحتاج, dan الإله terdengar agak tidak stabil pada beberapa tempat. Karena itu, contoh di atas mempertahankan inti susunan yang dapat dikenali tanpa menambahkan argumentasi lain yang tidak disampaikan dalam rekaman.
+
+## 19. Perbedaan Pengetahuan Indrawi dan Pengetahuan Akal
+
+Setelah menjelaskan الأوليات, dosen membahas perbedaan antara pengetahuan yang diperoleh melalui pancaindra dan pengetahuan yang diperoleh melalui akal.
+
+Pancaindra manusia berhubungan dengan hal-hal tertentu atau جزئيات. Seseorang melihat individu tertentu, mendengar suara tertentu, atau menyentuh benda tertentu. Pengetahuan indrawi dengan demikian berhubungan dengan objek individual yang sedang diamati.
+
+Namun, manusia juga dapat mengetahui konsep yang bersifat umum atau كليّات. Konsep universal ini tidak diperoleh dengan melihat satu individu lalu berhenti pada individu tersebut. Akal dapat membandingkan beberapa individu dan menangkap kesamaan di antara mereka sehingga membentuk pengertian yang bersifat umum.
+
+Dosen menggunakan contoh manusia. Jika ia bertanya, “Di mana manusia?”, sebagian mahasiswa mungkin menunjuk orang-orang yang berada di ruangan: orang ini, orang itu, dan orang lainnya.
+
+Pancaindra melihat individu-individu tersebut. Setiap individu adalah orang tertentu yang dapat diamati secara langsung. Akan tetapi, konsep الإنسان atau manusia secara umum tidak sama dengan satu orang tertentu.
+
+Dari pengamatan terhadap berbagai individu, akal mengabstraksikan kesamaan yang terdapat pada mereka, kemudian membentuk konsep umum tentang manusia. Konsep tersebut menjadi pengertian yang dapat digunakan untuk berbicara tentang manusia secara umum, tidak hanya tentang satu individu.
+
+Dosen menjelaskan bahwa konsep universal sebagai konsep akal berada dalam الذهن, yaitu pikiran atau benak. Sementara itu, individu-individu yang diamati berada di luar pikiran sebagai objek tertentu.
+
+Bagian ini digunakan untuk menunjukkan bahwa pancaindra tidak dengan sendirinya menghasilkan seluruh bentuk pengetahuan yang digunakan dalam argumentasi. Indra memberikan pengenalan terhadap individu, sedangkan akal mampu menyusun kesamaan di antara individu-individu itu dan membentuk pengertian universal.
+
+Karena itu, penyusunan qiyas membutuhkan kerja akal. Akal menghubungkan informasi yang diperoleh, menyusun proposisi, dan menghasilkan kesimpulan berdasarkan hubungan yang dipahaminya.
+
+## 20. Pengetahuan Universal dan Fungsi Akal dalam Mantiq
+
+Dosen kemudian menegaskan kembali bahwa pengetahuan melalui indra berbeda dari pengetahuan mengenai konsep universal.
+
+Indra memberikan informasi tentang sesuatu yang tertentu, seperti orang tertentu atau benda yang sedang dilihat. Setelah memperoleh informasi dari beberapa objek, akal dapat mengenali sifat-sifat yang sama di antara mereka dan membentuk konsep yang lebih umum.
+
+Proses tersebut penting dalam ilmu mantiq karena argumentasi sering menggunakan term yang bersifat universal. Ketika seseorang mengatakan, misalnya, “Setiap yang berubah adalah baru,” ia tidak sedang membicarakan hanya satu benda tertentu. Ia menggunakan konsep umum tentang sesuatu yang berubah.
+
+Begitu pula ketika dikatakan “Setiap khamar memabukkan,” proposisi tersebut berbentuk umum. Agar proposisi umum dapat digunakan dalam qiyas, term-term yang terkandung di dalamnya harus dipahami dan hubungan di antara keduanya harus dikenali.
+
+Dosen menjelaskan bahwa manusia memadukan pengetahuan tentang berbagai individu sehingga dapat membentuk pemahaman yang berlaku secara umum. Kemampuan akal tersebut memungkinkan manusia menyusun proposisi dan menggunakan proposisi itu sebagai premis.
+
+Karena itu, pembahasan tentang الأوليات tidak terpisah dari pembahasan mengenai cara manusia mengetahui sesuatu. Akal mampu menerima sejumlah hubungan secara langsung, sekaligus menggunakan konsep umum yang dibentuk melalui pemahaman terhadap berbagai objek.
+
+## 21. Jenis Kedua: المحسوسات atau Proposisi yang Didasarkan pada Indra Lahiriah
+
+Jenis kedua dari materi qiyas burhani yang dijelaskan dalam perkuliahan adalah المحسوسات, yaitu proposisi yang diketahui melalui pancaindra lahiriah.
+
+Dosen menerangkan bahwa jenis ini berkaitan dengan hal-hal yang dapat diamati melalui indra. Pengetahuan diperoleh dengan melihat, mendengar, atau menggunakan pancaindra lain terhadap sesuatu yang berada di hadapan kita.
+
+Contoh yang dipakai berhubungan dengan perubahan alam. Dosen menyampaikan proposisi bahwa العالم متغير, yaitu alam mengalami perubahan.
+
+Ketika manusia mengamati keadaan alam, ia melihat adanya perubahan. Inilah dasar pengamatan yang digunakan untuk mendukung proposisi bahwa alam berubah.
+
+Dosen kemudian menghubungkannya dengan argumentasi yang dipelajari dalam pembahasan tauhid. Ia menyebut susunan:
+
+«العالم متغير»
+
+Alam berubah.
+
+«وكل متغير حادث»
+
+Setiap yang berubah adalah baru atau memiliki permulaan.
+
+Kesimpulannya:
+
+«العالم حادث»
+
+Alam adalah sesuatu yang baru atau memiliki permulaan.
+
+Dosen menjelaskan bahwa pengamatan terhadap perubahan menjadi bagian dari dasar argumentasi ini. Ketika manusia mengamati perubahan, ia memperoleh pengetahuan mengenai keadaan alam yang berubah. Pengetahuan tersebut kemudian digunakan bersama premis lainnya untuk menyusun qiyas.
+
+Menurut arah penjelasan dalam perkuliahan, qiyas mengenai alam dan perubahan ini digunakan sebagai bagian dari pembuktian yang dibahas dalam ilmu tauhid. Dosen menekankan bahwa premis yang menyatakan perubahan didasarkan pada pengamatan terhadap keadaan alam.
+
+Dengan demikian, المحسوسات menjadi salah satu sumber materi yang dapat digunakan dalam qiyas burhani.
+
+## 22. Contoh Alam Berubah dan Alam Bersifat Baru
+
+Dosen menghubungkan pembahasan المحسوسات dengan pertanyaan mengenai dalil atas حدوث العالم, yaitu kebaruan atau kebermulaan alam.
+
+Ia meminta mahasiswa menyebutkan susunan argumentasi yang telah mereka pelajari:
+
+«العالم متغير، وكل متغير حادث، فالعالم حادث».
+
+Dalam argumentasi tersebut, premis pertama mengatakan bahwa alam berubah. Dosen menjelaskan bahwa perubahan ini diketahui melalui pengamatan. Manusia melihat bahwa keadaan di alam tidak selalu tetap, melainkan mengalami perubahan.
+
+Premis kedua menyatakan bahwa setiap yang berubah adalah baru. Setelah kedua premis tersebut digunakan bersama dalam qiyas, kesimpulan yang diperoleh adalah bahwa alam bersifat حادث.
+
+Dosen mengingatkan bahwa pengetahuan mengenai perubahan dalam contoh tersebut diperoleh melalui pengamatan, sehingga mempunyai hubungan dengan المحسوسات. Inilah salah satu cara materi yang diperoleh melalui indra dapat digunakan dalam argumentasi.
+
+Namun, contoh ini juga memperlihatkan bahwa satu qiyas dapat menggabungkan premis yang berasal dari sumber berbeda. Satu premis dapat berasal dari pengamatan, sedangkan premis lainnya mempunyai dasar tersendiri. Keduanya kemudian dihubungkan melalui susunan logis untuk menghasilkan kesimpulan.
+
+## 23. Jenis Ketiga: المشاهدات الباطنية atau Pengamatan Batin
+
+Jenis ketiga yang disebut dalam perkuliahan adalah المشاهدات الباطنية, yaitu pengamatan batin atau pengalaman yang diketahui melalui keadaan internal manusia.
+
+Dosen membedakan antara الحواس الظاهرة, yakni pancaindra lahiriah, dan الحس الباطن, yakni pengenalan terhadap keadaan batin.
+
+Pancaindra lahiriah digunakan untuk mengetahui hal-hal yang dapat dilihat, didengar, diraba, dicium, atau dikecap. Akan tetapi, ada pula keadaan yang diketahui seseorang melalui pengalaman batinnya sendiri.
+
+Dosen memberikan contoh seseorang yang merasa gembira, sedih, lapar, haus, kenyang, takut, atau mengalami keadaan batin lainnya. Seseorang mengetahui secara langsung bahwa dirinya sedang lapar atau haus tanpa harus terlebih dahulu melihat keadaan itu pada orang lain.
+
+Begitu pula, seseorang dapat mengetahui bahwa dirinya sedang sedih atau senang. Keadaan tersebut merupakan pengalaman yang diketahui melalui pengenalan batin, bukan semata-mata melalui penglihatan terhadap objek di luar diri.
+
+Dalam penjelasan dosen, proposisi yang dibentuk berdasarkan pengalaman batin semacam ini dapat mempunyai sifat yakin. Ketika seseorang mengetahui dirinya sedang lapar, ia tidak sekadar menduga berdasarkan pengamatan terhadap orang lain. Ia mengalami keadaan itu secara langsung.
+
+Dosen menjelaskan bahwa jenis proposisi ini dapat dipakai untuk membentuk pernyataan tentang keadaan seseorang. Misalnya, seseorang dapat mengatakan, “Saya sedang lapar,” “Saya merasa haus,” atau “Saya sedang takut.”
+
+Pengetahuan seperti ini menjadi salah satu sumber proposisi yang dapat digunakan dalam argumentasi, karena manusia dapat mengetahui keadaan batinnya sendiri secara langsung.
+
+## 24. Perbedaan المشاهدات الباطنية dari المحسوسات
+
+Dosen kembali menekankan perbedaan antara pengamatan lahiriah dan pengalaman batin.
+
+المحسوسات berkaitan dengan apa yang diketahui melalui pancaindra lahiriah, misalnya melihat perubahan suatu benda atau mengamati keadaan alam. Sementara itu, المشاهدات الباطنية berkaitan dengan keadaan internal, seperti lapar, haus, sedih, senang, dan takut.
+
+Perbedaan ini memperlihatkan bahwa sumber pengetahuan manusia tidak terbatas pada objek-objek yang dapat diamati dari luar. Manusia juga mempunyai pengetahuan langsung mengenai keadaan dirinya sendiri.
+
+Dosen menggunakan contoh pengalaman lapar dan haus untuk menjelaskan bahwa seseorang dapat membentuk proposisi yang benar mengenai dirinya sendiri berdasarkan pengenalan batin tersebut. Pengetahuan ini tidak harus diperoleh melalui pengamatan orang lain.
+
+Dalam konteks qiyas burhani, المشاهدات الباطنية menjadi salah satu jenis materi yang disebut sebagai sumber proposisi pasti. Dosen tidak mengembangkan seluruh rincian epistemologisnya dalam rekaman, tetapi menekankan bahwa keadaan batin dapat diketahui secara langsung dan digunakan sebagai dasar suatu pernyataan.
+
+## 25. Jenis Keempat: المجربات atau Proposisi yang Diperoleh melalui Pengalaman Berulang
+
+Jenis keempat dalam daftar materi qiyas burhani adalah المجربات, yaitu proposisi yang diperoleh melalui pengalaman atau percobaan yang berulang.
+
+Dosen menjelaskan bahwa pengetahuan jenis ini tidak hanya berasal dari satu pengamatan sesaat. Seseorang mengalami suatu kejadian, mengamati hasilnya, lalu mendapati hubungan serupa berulang kali. Setelah pengulangan itu diperhatikan, akal menangkap adanya hubungan yang tetap antara dua hal.
+
+Dengan demikian, المجربات berkaitan dengan perpaduan antara pengalaman indrawi dan penalaran akal. Indra memberikan informasi bahwa suatu peristiwa terjadi, sedangkan akal memperhatikan pengulangan dan membentuk pengetahuan mengenai hubungan yang ditemukan.
+
+### A. Contoh Api Membakar
+
+Dosen menyebut contoh api yang membakar. Jika seseorang meletakkan tangannya pada api, ia akan mengalami panas dan terbakar. Apabila kejadian tersebut diamati berulang kali dalam keadaan yang serupa, pengalaman tersebut membentuk pengetahuan bahwa api mempunyai sifat membakar.
+
+Pengalaman satu kali dapat menjadi pengenalan awal, tetapi dalam penjelasan dosen, pengulangan pengalaman membantu akal menetapkan hubungan tersebut. Setelah berkali-kali melihat akibat yang serupa, seseorang memperoleh pengetahuan yang lebih kuat mengenai hubungan antara api dan pembakaran.
+
+### B. Contoh Obat untuk Menghilangkan Sakit Kepala
+
+Dosen juga memberikan contoh seseorang yang mengalami sakit kepala dan menggunakan obat. Dalam rekaman, disebutkan aspirin dan Panadol sebagai contoh obat yang digunakan untuk mengatasi sakit kepala.
+
+Pertanyaannya ialah bagaimana seseorang mengetahui bahwa obat tertentu dapat membantu menghilangkan sakit kepala. Dalam contoh yang dijelaskan, pengetahuan itu diperoleh melalui pengalaman. Seseorang melihat bahwa setelah obat digunakan dalam keadaan tertentu, sakit kepala berkurang. Apabila pengalaman semacam itu terjadi berulang kali, akal menangkap hubungan antara obat dan hasil yang diamati.
+
+Dosen menggunakan contoh ini untuk menerangkan bahwa المجربات bukan sekadar informasi yang didengar dari satu orang, tetapi pengetahuan yang tumbuh melalui pengalaman berulang dan pengenalan hubungan oleh akal.
+
+Contoh tersebut disampaikan sebagaimana adanya dalam perkuliahan. Rekaman tidak membahas dosis, indikasi medis, atau kondisi penggunaan masing-masing obat; yang dibicarakan hanya fungsi contoh tersebut dalam menjelaskan pengetahuan berbasis pengalaman.
+
+### C. Contoh Minuman Memabukkan
+
+Contoh lain yang disebut adalah الخمر, yaitu minuman beralkohol atau minuman yang memabukkan dalam pembahasan yang digunakan dosen.
+
+Dosen menghubungkan pengalaman mengenai sifat memabukkan dengan pembentukan proposisi umum. Setelah seseorang melihat pengalaman yang berulang, akal menangkap hubungan antara minuman tersebut dan sifat memabukkan.
+
+Kemudian proposisi itu dapat digunakan dalam qiyas, misalnya:
+
+«كل مسكر حرام»
+
+Setiap sesuatu yang memabukkan adalah haram.
+
+Jika suatu benda diketahui termasuk dalam kategori yang memabukkan, premis tersebut dapat digunakan untuk menarik kesimpulan mengenai hukumnya dalam susunan argumentasi yang sesuai.
+
+Dosen menggunakan contoh ini untuk memperlihatkan bahwa pengetahuan tentang sifat tertentu dapat diperoleh melalui pengalaman, kemudian dimasukkan ke dalam penalaran.
+
+## 26. Bagaimana Pengalaman Berulang Menghasilkan Pengetahuan?
+
+Dosen menjelaskan bahwa ketika suatu peristiwa berlangsung berulang kali, manusia dapat memperhatikan kesamaan antara pengalaman-pengalaman tersebut. Indra mencatat peristiwa, sedangkan akal melihat keterkaitan di antara kejadian-kejadian itu.
+
+Sebagai contoh, seseorang mengamati beberapa kali bahwa api membakar benda yang disentuhnya. Dari pengulangan tersebut, akal mengenali hubungan antara api dan pembakaran.
+
+Begitu pula, seseorang memperhatikan bahwa obat tertentu berkaitan dengan berkurangnya rasa sakit kepala. Dengan mengulang pengamatan, ia membentuk pengetahuan berdasarkan pengalaman.
+
+Dosen menegaskan bahwa المجربات merupakan salah satu jenis materi dalam qiyas burhani. Hal ini memperlihatkan bahwa sebagian proposisi yang digunakan untuk membangun argumentasi diperoleh melalui pengamatan yang berulang dan proses pemahaman akal terhadap hubungan yang terjadi.
+
+Namun, pengalaman berulang tidak sama dengan pengetahuan primer yang langsung diterima setelah memahami konsep. Dalam الأوليات, hubungan dipahami secara langsung melalui makna yang terkandung dalam proposisi, sedangkan dalam المجربات, pengetahuan diperoleh melalui pengalaman dan pengulangan.
+
+Perbedaan tersebut penting karena keenam jenis materi qiyas burhani mempunyai dasar yang berlainan, meskipun semuanya dibahas sebagai sumber bagi proposisi yang dapat menghasilkan kepastian dalam kerangka ilmu mantiq yang diajarkan.
+
+## 27. Jenis Kelima: المتواترات atau Berita yang Diriwayatkan secara Mutawatir
+
+Jenis kelima dalam daftar materi qiyas burhani adalah المتواترات, yaitu berita atau proposisi yang diketahui melalui transmisi banyak orang dengan cara yang tidak memungkinkan mereka bersepakat untuk berdusta menurut ketentuan yang dijelaskan dalam perkuliahan.
+
+Dosen menerangkan bahwa suatu berita dapat diterima melalui penyampaian sekelompok orang kepada kelompok lainnya, kemudian diteruskan kembali oleh kelompok lain, hingga berita tersebut sampai kepada generasi berikutnya.
+
+Dalam pembahasan ini, المتواترات bukan sekadar informasi yang dikatakan oleh satu orang. Berita tersebut diterima melalui banyak orang pada rangkaian penyampaiannya, sehingga menurut definisi yang digunakan dalam perkuliahan, tidak masuk akal bahwa seluruh pihak itu bersepakat untuk membuat kebohongan yang sama.
+
+Dosen menguraikan definisinya dengan redaksi yang intinya menyatakan bahwa suatu perkara diketahui melalui pemberitaan kelompok dari kelompok, dengan keadaan yang membuat kesepakatan mereka untuk berdusta tidak mungkin terjadi.
+
+Karena itu, tawatur mempunyai peran penting dalam membentuk pengetahuan yang diyakini. Banyak hal yang diketahui manusia tidak berasal dari pengalaman langsung mereka sendiri. Seseorang dapat mengetahui keadaan sebuah negara, suatu kota, atau peristiwa sejarah melalui berita yang disampaikan secara luas dan berkesinambungan.
+
+Dosen kemudian memberikan beberapa contoh untuk menjelaskan fungsi المتواترات dalam kehidupan sehari-hari maupun dalam perkara agama.
+
+## 28. Contoh Pengetahuan tentang Negara Swedia dan Ibu Kotanya
+
+Dosen bertanya kepada mahasiswa apakah mereka pernah pergi ke Swedia. Ketika mahasiswa menjawab bahwa mereka belum pernah mengunjunginya, dosen mengajukan pertanyaan berikutnya: bagaimana mereka mengetahui bahwa Swedia merupakan sebuah negara dan bahwa negara tersebut mempunyai ibu kota?
+
+Dalam rekaman, nama ibu kota terdengar sebagai “Skol” atau bunyi yang kurang jelas. Karena penulisannya tidak pasti dalam transkripsi, nama tersebut tidak dapat ditetapkan secara harfiah berdasarkan rekaman ini.
+
+Tujuan contoh tersebut adalah menunjukkan bahwa seseorang dapat mengetahui keberadaan suatu negara dan ibu kotanya tanpa melihatnya sendiri. Pengetahuan itu diperoleh dari pemberitaan yang diterima dari banyak orang melalui berbagai sumber.
+
+Dosen menggunakan contoh ini untuk memperlihatkan bahwa tidak semua pengetahuan pasti bergantung pada pengamatan langsung. Seseorang dapat memperoleh pengetahuan tentang suatu tempat yang belum pernah dikunjunginya melalui transmisi berita.
+
+Pengetahuan seperti ini merupakan contoh fungsi المتواترات. Apabila berita telah sampai melalui jalur pemberitaan yang memenuhi ketentuan tawatur, seseorang dapat mengetahui suatu perkara meskipun tidak pernah mengalaminya secara langsung.
+
+## 29. Contoh Tokyo, Madinah, dan Peristiwa Keagamaan
+
+Selain contoh mengenai Swedia, dosen menyebut Tokyo sebagai ibu kota Jepang. Ia juga menyebut Madinah sebagai kota tempat Nabi Muhammad ﷺ berhijrah.
+
+Contoh-contoh ini digunakan untuk menunjukkan bahwa manusia dapat mengetahui fakta tentang sebuah kota atau peristiwa tanpa pernah hadir langsung di tempat tersebut.
+
+Seseorang yang tidak pernah pergi ke Tokyo dapat mengetahui kota itu melalui pemberitaan. Demikian pula, seseorang yang tidak hidup pada masa hijrah Nabi Muhammad ﷺ dapat mengetahui bahwa beliau berhijrah ke Madinah melalui transmisi pengetahuan yang diwariskan.
+
+Dosen juga menyebut contoh mukjizat Nabi Muhammad ﷺ, seperti air yang memancar dari sela-sela jari beliau. Contoh ini dimasukkan ke dalam pembahasan tentang berbagai perkara yang diketahui melalui pemberitaan dari generasi ke generasi.
+
+Dengan demikian, المتواترات digunakan untuk menjelaskan bagaimana suatu pengetahuan dapat diperoleh melalui transmisi yang luas. Orang yang hidup pada masa kemudian tidak harus menyaksikan sendiri peristiwa yang diberitakan untuk mengetahui bahwa peristiwa tersebut pernah terjadi, selama jalur pengetahuan yang diterimanya memenuhi ketentuan yang dibahas.
+
+## 30. Definisi Tawatur: Berita dari Banyak Orang kepada Banyak Orang
+
+Dosen kembali menekankan bahwa tawatur bukan sekadar pemberitaan yang banyak beredar. Dalam definisi yang disampaikan di kelas, inti tawatur adalah suatu berita yang diriwayatkan oleh sekelompok orang dari sekelompok orang lainnya, dengan keadaan yang membuat kesepakatan mereka untuk berdusta dianggap mustahil.
+
+Berita tersebut diteruskan melalui rangkaian penyampaian, dari sumber awal hingga sampai kepada orang yang menerima berita pada masa berikutnya.
+
+Dosen mengulang bahwa struktur pemberitaan itu perlu mencakup banyak orang pada rangkaian transmisi, bukan hanya muncul sebagai satu laporan dari seorang individu.
+
+Dalam pembahasan ini, jumlah dan keadaan para penyampai menjadi bagian penting dari alasan mengapa berita itu dianggap menghasilkan pengetahuan. Jika suatu berita hanya diterima dari satu orang, jenis pengetahuan yang dihasilkan tidak otomatis sama dengan berita yang diterima melalui jalur mutawatir.
+
+Dosen menyebut bahwa tawatur menjadi dasar bagi banyak pengetahuan manusia. Ia tidak hanya digunakan dalam persoalan agama, tetapi juga dalam berbagai perkara yang berkaitan dengan sejarah, geografi, dan kehidupan sehari-hari.
+
+Tanpa berita yang diteruskan melalui orang lain, manusia akan mengalami kesulitan mengetahui berbagai hal yang tidak dapat mereka saksikan sendiri. Karena itu, tawatur mempunyai peran penting dalam pengetahuan yang melampaui pengalaman langsung seseorang.
+
+## 31. Tawatur dan Pembuktian Kenabian Nabi Muhammad ﷺ
+
+Dosen menghubungkan المتواترات dengan pembuktian kenabian Nabi Muhammad ﷺ.
+
+Ia meminta mahasiswa memikirkan bagaimana orang yang hidup sekarang mengetahui bahwa Nabi Muhammad ﷺ benar-benar menyampaikan risalah dan bahwa kenabian beliau mempunyai bukti.
+
+Dalam rekaman, dosen menunjukkan bentuk argumentasi yang dapat disusun mengenai kenabian. Ia menyebut bahwa Muhammad ﷺ mengaku membawa risalah dan Allah mendukung beliau dengan mukjizat. Kemudian, dalam susunan yang diberikan sebagai contoh, seseorang dapat menggunakan premis umum mengenai orang yang mengaku sebagai rasul dan mendapatkan dukungan berupa mukjizat untuk menarik kesimpulan tertentu tentang kenabian.
+
+Namun, dosen kemudian menekankan bahwa salah satu hal yang harus diketahui secara pasti adalah apakah Nabi Muhammad ﷺ memang mengaku sebagai utusan Allah.
+
+Bagaimana kita mengetahui pengakuan tersebut jika kita tidak hidup pada zaman beliau? Jawaban yang ditekankan dosen adalah bahwa berita tentang munculnya seorang laki-laki bernama Muhammad di Jazirah Arab, yang menyatakan dirinya sebagai Rasul Allah, sampai kepada kita melalui tawatur.
+
+Dosen menjelaskan bahwa berita tersebut tidak hanya disampaikan oleh seorang individu. Berita itu diteruskan oleh banyak orang melalui rangkaian transmisi. Karena itu, informasi mengenai kemunculan Nabi Muhammad ﷺ dan pengakuan beliau sebagai Rasul Allah menjadi bagian dari pengetahuan yang diterima oleh generasi kemudian melalui pemberitaan.
+
+Dosen menggunakan contoh ini untuk menunjukkan peran tawatur dalam pembahasan akidah. Kita tidak perlu menyaksikan secara langsung setiap peristiwa masa lalu untuk mengetahui bahwa peristiwa tersebut terjadi, tetapi kita memerlukan dasar transmisi yang dapat diandalkan.
+
+Bagian argumentasi dalam rekaman tidak menguraikan seluruh premis dan persyaratan pembuktian kenabian secara lengkap. Yang ditekankan adalah fungsi tawatur dalam membuktikan bahwa Nabi Muhammad ﷺ benar-benar muncul, menyampaikan pengakuan kenabian, dan dikenal melalui berita yang diwariskan kepada generasi berikutnya.
+
+## 32. Tawatur dalam Pembuktian bahwa Al-Fatihah Termasuk Al-Qur'an
+
+Dosen memberikan contoh lain yang berkaitan dengan agama, yaitu bahwa Surah al-Fatihah merupakan bagian dari Al-Qur'an.
+
+Dalam penjelasan perkuliahan, pengetahuan bahwa al-Fatihah termasuk Al-Qur'an diterima melalui tawatur. Berita mengenai kedudukannya sebagai bagian dari Al-Qur'an tidak berasal hanya dari laporan seorang individu yang baru dikenal oleh generasi sekarang, tetapi diteruskan secara luas dari generasi ke generasi.
+
+Dosen menggunakan contoh ini untuk memperlihatkan bahwa banyak pengetahuan keagamaan diterima melalui transmisi yang luas. Pengetahuan tersebut tidak semata-mata bergantung pada pengamatan individual seseorang.
+
+Ia kemudian menghubungkan tawatur dengan pengetahuan mengenai ajaran dan praktik agama yang diterima secara berkelanjutan. Dalam rekaman, terdapat penjelasan mengenai Surah al-Fatihah dan ketentuan membaca Al-Qur'an, tetapi susunan redaksi lengkap pada bagian tersebut tidak seluruhnya jelas.
+
+Pokoknya adalah bahwa tawatur dapat menjadi dasar kepastian dalam banyak perkara agama. Pengetahuan tentang suatu bagian Al-Qur'an, peristiwa sejarah keagamaan, dan berbagai berita yang diteruskan melalui generasi merupakan contoh yang digunakan untuk menjelaskan jenis materi ini.
+
+## 33. Tawatur dalam Pembahasan Akidah Menurut Penjelasan Dosen
+
+Dosen juga menyebut pandangan ulama Ahlusunah mengenai penggunaan hadis mutawatir dalam persoalan akidah.
+
+Dalam rekaman, dosen menyatakan bahwa ulama Ahlusunah menekankan penggunaan berita mutawatir dalam pembahasan akidah. Redaksi yang terdengar menyatakan bahwa dalil mengenai persoalan akidah tidak diterima melalui hadis ahad, melainkan melalui hadis mutawatir.
+
+Pernyataan ini harus dipahami sebagai penjelasan dosen sebagaimana terekam dalam perkuliahan. Bagian tersebut tidak memuat uraian lengkap tentang berbagai perincian pendapat ulama atau pembagian hadis, sehingga tidak tepat menambahkan rincian perdebatan yang tidak disampaikan dalam rekaman.
+
+Inti yang ditekankan dosen adalah kedudukan tawatur dalam menghasilkan pengetahuan yang pasti. Karena akidah berkaitan dengan keyakinan, materi yang digunakan untuk membuktikannya harus mempunyai tingkat kepastian yang sesuai.
+
+Dosen mencontohkan bahwa pengetahuan mengenai Al-Fatihah sebagai bagian dari Al-Qur'an dan pengetahuan mengenai sejumlah peristiwa yang diberitakan secara luas diperoleh melalui transmisi yang memenuhi sifat tawatur.
+
+Dengan demikian, المتواترات merupakan salah satu jenis materi yang penting dalam qiyas burhani, terutama ketika membahas berbagai fakta yang tidak dapat diamati sendiri oleh manusia pada masa sekarang.
+
+## 34. Jenis Keenam: القضايا التي قياساتها معها بالطبع
+
+Dalam daftar materi qiyas burhani, dosen menyebut jenis keenam dengan redaksi:
+
+«القضايا التي قياساتها معها بالطبع»
+
+Maknanya secara harfiah berkaitan dengan proposisi-proposisi yang qiyas atau pembuktiannya menyertai proposisi tersebut secara alami.
+
+Namun, istilah dalam transkripsi tidak sepenuhnya jelas dan tidak disertai penyebutan nama baku yang dapat dipastikan. Karena itu, uraian berikut mengikuti redaksi yang terdengar dalam perkuliahan, tanpa menetapkan nama lain yang tidak disebutkan secara jelas.
+
+Dosen menjelaskan bahwa jenis proposisi ini dapat dipahami dengan mudah setelah unsur-unsurnya diketahui, tetapi pada kasus tertentu tetap memerlukan sedikit kerja akal untuk melihat hubungan yang digunakan dalam pembuktiannya.
+
+Untuk membedakan jenis ini dari الأوليات, dosen menggunakan contoh aritmetika. Pernyataan bahwa dua merupakan setengah dari empat dapat dipahami secara langsung. Ketika seseorang mendengar bahwa dua adalah setengah dari empat, ia segera dapat menerima hubungan tersebut tanpa proses perhitungan yang panjang.
+
+Namun, ketika angka yang digunakan menjadi lebih besar, seseorang mungkin perlu melakukan perhitungan sebelum menentukan apakah hubungan yang dinyatakan benar. Dosen menyebut contoh bilangan 36 dan 64 dalam transkripsi, tetapi susunan pertanyaan dan hubungan angka yang hendak diterangkan tidak sepenuhnya jelas.
+
+Karena itu, contoh angka tersebut tidak dapat direkonstruksi secara pasti sebagai suatu persamaan tertentu. Yang dapat dipastikan adalah bahwa dosen sedang membandingkan hubungan aritmetika sederhana yang langsung dipahami dengan hubungan angka yang lebih besar dan membutuhkan pemeriksaan melalui perhitungan.
+
+## 35. Mengapa Sebagian Proposisi Memerlukan Kerja Akal Meskipun Tampak Jelas?
+
+Dosen menjelaskan bahwa tidak semua proposisi yang dianggap jelas mempunyai cara pemahaman yang sama. Ada pernyataan yang segera diterima setelah maknanya dipahami, sedangkan yang lain memerlukan pengamatan lebih lanjut terhadap hubungan antara unsur-unsurnya.
+
+Contoh dua sebagai setengah dari empat digunakan untuk menunjukkan hubungan yang dapat segera dimengerti. Namun, jika seseorang diminta menghitung hubungan antara angka yang lebih besar, ia mungkin perlu membagi atau membandingkan angka tersebut untuk memastikan hasilnya.
+
+Dalam penjelasan ini, dosen menekankan bahwa pada sebagian proposisi, pembuktian atau hubungan yang mendukungnya seakan-akan sudah melekat secara alami pada proposisi tersebut. Akan tetapi, orang yang hendak memahaminya tetap dapat membutuhkan proses penalaran agar hubungan itu terlihat jelas.
+
+Bagian tentang angka 36 dan 64 dalam transkripsi tidak sepenuhnya konsisten atau jelas. Karena itu, contoh tersebut dipertahankan sebagai ilustrasi mengenai angka yang lebih besar dan kebutuhan untuk melakukan perhitungan, bukan digunakan untuk menetapkan suatu hasil aritmetika yang tidak dapat dipastikan dari sumber.
+
+Dosen kemudian menghubungkan pembahasan ini dengan jenis materi qiyas burhani secara keseluruhan. Semua jenis materi yang disebutkan dapat menjadi dasar bagi proposisi dalam qiyas, tetapi cara seseorang memperoleh atau mengenalinya berbeda-beda.
+
+## 36. Enam Materi Burhani dan Hubungannya dengan Cara Memperoleh Pengetahuan
+
+Setelah menjelaskan jenis keenam, dosen kembali mengajak mahasiswa melihat keseluruhan daftar materi qiyas burhani.
+
+Materi pertama adalah الأوليات, yaitu proposisi yang diterima secara langsung setelah konsep-konsepnya dipahami. Materi kedua adalah المحسوسات, yaitu proposisi yang diketahui melalui pancaindra lahiriah. Materi ketiga adalah المشاهدات الباطنية, yaitu proposisi yang berhubungan dengan pengalaman batin seperti lapar, haus, senang, sedih, atau takut.
+
+Materi keempat adalah المجربات, yakni proposisi yang diperoleh melalui pengalaman berulang dan pengenalan akal terhadap hubungan yang terjadi. Materi kelima adalah المتواترات, yaitu proposisi yang diketahui melalui berita yang disampaikan oleh banyak orang melalui rangkaian transmisi yang tidak memungkinkan kesepakatan untuk berdusta menurut definisi yang digunakan dalam perkuliahan. Materi keenam adalah proposisi yang disebut sebagai القضايا التي قياساتها معها بالطبع, yang penjelasan istilah dan contoh lengkapnya tidak sepenuhnya jelas dalam transkripsi.
+
+Dosen menekankan bahwa materi-materi ini menjadi dasar bagi penyusunan qiyas burhani. Dengan mengetahui jenis premis yang digunakan, seseorang dapat memahami dari mana kepastian suatu argumentasi diperoleh.
+
+Pembahasan ini juga berkaitan dengan definisi mantiq yang dipelajari sebelumnya, yaitu ilmu yang membantu manusia bergerak dari pengetahuan yang telah dimiliki menuju pengetahuan yang belum diketahui. Dosen meminta mahasiswa mengingat bahwa pengetahuan yang sudah diketahui menjadi dasar untuk memperoleh pengetahuan baru.
+
+Dengan demikian, materi qiyas burhani tidak hanya menjelaskan jenis-jenis pernyataan. Materi itu juga menerangkan bagaimana manusia memperoleh informasi, bagaimana informasi digunakan sebagai premis, dan bagaimana premis-premis tersebut membentuk argumentasi untuk mencapai kesimpulan.
+
+## 37. Mengingat Kembali Definisi Mantiq: Dari Maklumat Menuju Majhul
+
+Dosen mengajak mahasiswa mengingat definisi mantiq yang telah dipelajari, yaitu pembahasan mengenai maklumat atau pengetahuan yang diketahui dan digunakan untuk mencapai sesuatu yang belum diketahui.
+
+Dalam rekaman, dosen mengucapkan rumusan yang berkaitan dengan المعلومات التصورية والتصديقية من حيث إنها توصل إلى مجهول تصوري أو تصديقي.
+
+Maksudnya, mantiq membahas pengetahuan konseptual dan pengetahuan pembenaran dari sisi bagaimana keduanya dapat digunakan untuk mencapai sesuatu yang belum diketahui, baik berupa pengertian maupun pembenaran.
+
+Dosen kemudian bertanya kepada mahasiswa: jika kita telah mengetahui suatu hal dan ingin mencapai pengetahuan lain yang belum diketahui, melalui apa kita sampai kepada pengetahuan baru tersebut?
+
+Jawaban yang ditekankan adalah melalui pengetahuan yang telah dimiliki. Seseorang memulai dari معلوم, yaitu sesuatu yang sudah diketahui, lalu menggunakan pengetahuan tersebut untuk memperoleh مجهول, yaitu sesuatu yang belum diketahui.
+
+Dosen membedakan antara الوصول إلى المجهول التصوري dan الوصول إلى المجهول التصديقي. Untuk mencapai sesuatu yang belum diketahui berupa konsep, diperlukan cara yang berkaitan dengan taṣawwur. Dalam rekaman, dosen menyinggung التعريف atau definisi sebagai cara untuk menjelaskan pengertian.
+
+Adapun untuk mencapai sesuatu yang belum diketahui berupa pembenaran atau penetapan suatu proposisi, digunakan القياس, yaitu qiyas. Melalui qiyas, seseorang menghubungkan premis-premis yang telah diketahui untuk memperoleh suatu kesimpulan.
+
+Karena itu, pembahasan tentang materi qiyas burhani langsung berhubungan dengan tujuan mantiq. Kita memerlukan pengetahuan yang diketahui sebagai dasar, lalu menggunakan susunan penalaran untuk sampai kepada sesuatu yang sebelumnya belum diketahui.
+
+## 38. Bagaimana Premis yang Diketahui Menghasilkan Kesimpulan yang Belum Diketahui?
+
+Dosen menggunakan contoh qiyas mengenai alam untuk mengingatkan mahasiswa tentang proses memperoleh kesimpulan.
+
+Seseorang telah mengetahui bahwa العالم متغير, yaitu alam berubah. Ia juga menggunakan premis bahwa كل متغير حادث, yaitu setiap yang berubah adalah baru atau mempunyai permulaan.
+
+Kedua premis tersebut digabungkan dalam qiyas sehingga menghasilkan kesimpulan العالم حادث.
+
+Dosen menekankan bahwa kesimpulan itu tidak berdiri sendiri. Ia diperoleh melalui hubungan antara dua pengetahuan yang digunakan sebagai premis.
+
+Dengan demikian, dalam penalaran, seseorang bergerak dari informasi yang telah diketahui menuju informasi yang belum diketahui. Apabila premis dan hubungan logisnya benar, qiyas dapat digunakan untuk menghasilkan kesimpulan yang sesuai dengan dasar-dasarnya.
+
+Namun, agar kesimpulan itu mencapai kepastian, materi premis harus berasal dari jenis yang dapat memberikan kepastian. Inilah alasan mengapa dosen membahas enam jenis materi burhani secara terperinci.
+
+Jika seseorang tidak mengetahui asal dan kualitas premis yang digunakan, ia mungkin menganggap semua argumen mempunyai kekuatan yang sama. Padahal, dalam pembahasan mantiq, premis yang diperoleh melalui pemahaman langsung berbeda dari premis yang hanya diterima berdasarkan dugaan atau kesan.
+
+## 39. Mengapa Materi Premis Penting dalam Menilai Qiyas?
+
+Dosen kembali menegaskan bahwa setiap qiyas mempunyai bentuk dan materi. Bentuk menunjukkan susunan premis dan hubungan antara term-termnya, sedangkan materi menunjukkan kandungan premis yang digunakan.
+
+Seseorang dapat menyusun argumentasi dengan bentuk yang tampak benar, tetapi jika premisnya tidak pasti atau salah, ia tidak dapat menganggap kesimpulannya pasti benar. Sebaliknya, apabila materi premisnya benar dan pasti serta disusun melalui hubungan yang benar, qiyas dapat menghasilkan kesimpulan burhani.
+
+Karena itu, mempelajari bentuk qiyas saja belum mencukupi. Mahasiswa juga perlu mengetahui jenis materi yang dapat digunakan untuk menyusun premis-premis yang pasti.
+
+Dosen menggunakan perumpamaan emas untuk memperjelas hal ini. Emas murni berbeda dari emas yang mengandung campuran, dan keduanya berbeda dari benda lain yang hanya menyerupai emas. Walaupun penampilannya mungkin serupa, kualitas dan hakikatnya tidak sama.
+
+Begitu pula, dua argumentasi dapat tampak sama dari segi susunan, tetapi mempunyai kualitas berbeda apabila materi premis yang digunakan tidak sama. Satu argumentasi dapat menghasilkan kepastian, sedangkan argumentasi lain hanya meyakinkan atau bahkan menyesatkan.
+
+Inilah salah satu manfaat utama mempelajari mantiq: seseorang dapat menilai bukan hanya susunan argumen, tetapi juga materi yang mendasarinya dan tingkat kepastian yang dihasilkan.
+
+## 40. Dialog Kelas: Memahami Qiyas melalui Contoh
+
+Dalam bagian akhir perkuliahan, dosen mengajak mahasiswa kembali mengidentifikasi susunan qiyas melalui contoh:
+
+«العالم متغير»
+
+«وكل متغير حادث»
+
+Kesimpulan:
+
+«العالم حادث»
+
+Dosen meminta mahasiswa menyebutkan mana premis minor, mana premis mayor, dan mana kesimpulannya. Ia juga bertanya mengenai الحد الأصغر dan الحد الأوسط.
+
+Mahasiswa diarahkan untuk mengenali bahwa العالم merupakan term minor, حادث merupakan term mayor, dan متغير merupakan term tengah yang muncul dalam kedua premis.
+
+Dosen kemudian mengingatkan bahwa qiyas dipelajari karena manusia ingin membangun pembuktian yang benar. Mantiq bukan hanya soal menggunakan istilah Arab, melainkan cara untuk menyusun pengetahuan dan memperoleh kesimpulan.
+
+Dalam dialog tersebut, mahasiswa juga menyebut bahwa qiyas burhani memiliki beberapa jenis materi, yaitu الأوليات, المحسوسات, المشاهدات الباطنية, المجربات, المتواترات, dan jenis keenam yang berkaitan dengan proposisi yang pembuktiannya menyertai proposisi tersebut secara alami.
+
+Dosen membenarkan bahwa itulah daftar materi yang telah dibahas, lalu kembali menegaskan bahwa qiyas burhani harus menggunakan materi yang memungkinkan tercapainya kepastian.
+
+## 41. Contoh Mahasiswa tentang Enam Jenis Materi Burhani
+
+Dalam bagian dialog, seorang mahasiswa mencoba mengulang pembahasan dengan memberikan contoh bagi beberapa jenis materi.
+
+Untuk الأوليات, mahasiswa menyebut contoh yang langsung diterima oleh akal. Untuk المحسوسات, ia menghubungkannya dengan hal-hal yang dapat dilihat atau dirasakan oleh indra. Untuk المشاهدات الباطنية, ia mengacu pada keadaan seperti lapar. Untuk المجربات, ia menyebut pengalaman mengenai khamar yang memabukkan dan api yang membakar. Untuk المتواترات, ia menghubungkannya dengan pengetahuan mengenai kenabian Nabi Muhammad ﷺ dan Al-Fatihah sebagai bagian dari Al-Qur'an.
+
+Jawaban mahasiswa tersebut menunjukkan bahwa daftar jenis materi burhani dipelajari melalui contoh-contoh konkret. Dosen membiarkan mahasiswa mencoba menjelaskan kembali materi, lalu mengarahkan pembicaraan kepada pentingnya mengetahui fungsi setiap jenis premis dalam penyusunan qiyas.
+
+Namun, karena dialog pada bagian ini memuat potongan ujaran yang tidak selalu jelas dan ada beberapa pengulangan, tidak semua rincian jawaban mahasiswa dapat direkonstruksi secara harfiah. Pokok substansinya adalah bahwa mahasiswa diminta memahami daftar materi burhani dan memberikan contoh bagaimana setiap jenis materi digunakan untuk memperoleh pengetahuan.
+
+## 42. Contoh Tambahan tentang Pengalaman dan Tawatur dalam Qiyas
+
+Dosen dan mahasiswa kemudian kembali menyebut sejumlah contoh yang telah dibahas.
+
+Untuk المجربات, mereka menyebut api yang membakar dan khamar yang memabukkan. Contoh-contoh tersebut berkaitan dengan pengalaman berulang yang digunakan untuk mengenali hubungan tertentu.
+
+Untuk المتواترات, mereka kembali menyebut bahwa pengetahuan mengenai Nabi Muhammad ﷺ sebagai Rasul Allah dan Al-Fatihah sebagai bagian dari Al-Qur'an diterima melalui transmisi yang luas.
+
+Dosen menekankan bahwa materi semacam ini sering digunakan dalam pembentukan pengetahuan, termasuk dalam penalaran yang berkaitan dengan persoalan agama.
+
+Contoh-contoh tersebut juga memperlihatkan bahwa tidak semua pengetahuan diperoleh dengan cara yang sama. Ada pengetahuan yang diterima langsung melalui pemahaman, ada yang diperoleh melalui pengamatan, ada yang lahir dari pengalaman berulang, dan ada yang diterima melalui pemberitaan banyak orang.
+
+Akan tetapi, semuanya dibahas dalam hubungan dengan pertanyaan utama perkuliahan: bagaimana kita memperoleh premis-premis yang dapat digunakan untuk membentuk qiyas burhani dan menghasilkan kesimpulan yang pasti?
+
+## 43. Kembali kepada Pertanyaan Utama: Mengapa Kita Mempelajari Mantiq?
+
+Menjelang akhir perkuliahan, dosen kembali kepada pertanyaan yang menjadi dasar pembahasan sejak awal, yaitu mengapa kita mempelajari mantiq.
+
+Jawaban yang ditekankan adalah agar mahasiswa mampu mengetahui jenis argumentasi yang sedang digunakan dan menilai apakah argumentasi itu menghasilkan kepastian atau tidak.
+
+Ketika seseorang mendengar suatu dalil, ia perlu mengetahui apakah dalil tersebut burhani, jadali, khithabi, atau termasuk jenis argumentasi lainnya. Ia juga harus memahami materi apa yang digunakan dalam premis-premisnya.
+
+Jika suatu dalil diklaim sebagai burhan, mahasiswa harus menilai apakah premis-premisnya benar dan pasti. Jika premisnya hanya menghasilkan dugaan atau penerimaan yang tidak pasti, dalil tersebut tidak boleh begitu saja dianggap setara dengan qiyas burhani.
+
+Dosen juga menekankan bahwa untuk menyusun dalil burhani, seseorang harus mengetahui jenis materi yang dapat menghasilkan kepastian. Oleh sebab itu, ia menjelaskan enam jenis materi yang dibahas dalam perkuliahan.
+
+Dengan memahami bentuk qiyas, materi premis, serta berbagai sumber proposisi pasti, seseorang dapat lebih teratur dalam membangun argumentasi. Ia tidak hanya mengucapkan kesimpulan, tetapi juga mampu menjelaskan dasar dan hubungan logis yang membuat kesimpulan itu diperoleh.
+
+Inilah fungsi mantiq yang ditekankan dosen: memberikan alat untuk menata pemikiran, menilai argumen, membedakan tingkat kepastian, dan menyusun pembuktian secara benar.
+
+## 44. Penutup
+
+Perkuliahan ini dimulai dengan pertanyaan mengenai tujuan mempelajari mantiq dan kemudian menjelaskan perbedaan antara شكل القياس dan مادة القياس. Bentuk qiyas berkaitan dengan susunan premis dan kesimpulan, sedangkan materi qiyas berkaitan dengan kandungan yang digunakan dalam susunan tersebut.
+
+Dosen menggunakan analogi ruangan untuk menjelaskan bahwa suatu struktur dapat diisi dengan materi yang berbeda, sebagaimana sebuah qiyas dapat mempertahankan susunan tertentu tetapi menggunakan materi premis yang berlainan.
+
+Melalui analogi lima jenis emas, dosen menggambarkan perbedaan antara materi yang benar-benar murni, materi yang mengandung campuran, dan benda yang hanya menyerupai sesuatu yang asli. Perumpamaan tersebut digunakan untuk menjelaskan perbedaan kualitas qiyas burhani, jadali, khithabi, serta dua jenis lainnya yang nama persisnya tidak seluruhnya jelas dalam transkripsi.
+
+Dosen kemudian menekankan kedudukan qiyas burhani sebagai argumentasi yang menghasilkan kepastian. Materi qiyas burhani dijelaskan melalui enam jenis yang disebut dalam perkuliahan, yaitu الأوليات, المحسوسات, المشاهدات الباطنية, المجربات, المتواترات, dan القضايا التي قياساتها معها بالطبع.
+
+الأوليات merupakan proposisi yang dipahami secara langsung setelah konsep-konsepnya dimengerti. المحسوسات diperoleh melalui pancaindra lahiriah. المشاهدات الباطنية berhubungan dengan keadaan batin manusia. المجربات diperoleh melalui pengalaman berulang yang diperhatikan dan dipahami oleh akal. المتواترات diketahui melalui berita yang disampaikan oleh banyak orang dengan rangkaian transmisi yang membuat kesepakatan untuk berdusta dianggap mustahil. Adapun jenis keenam dibicarakan melalui gagasan bahwa pembuktiannya menyertai proposisi secara alami, tetapi rincian istilah dan contohnya tidak seluruhnya jelas dalam rekaman.
+
+Semua pembahasan tersebut dihubungkan dengan tujuan ilmu mantiq, yaitu bergerak dari pengetahuan yang telah diketahui menuju pengetahuan yang belum diketahui. Untuk mencapai pengetahuan baru berupa pengertian, digunakan cara yang berkaitan dengan taṣawwur dan definisi. Untuk memperoleh pembenaran atau kesimpulan baru melalui premis, digunakan qiyas.
+
+Dosen akhirnya menegaskan bahwa mempelajari mantiq memungkinkan mahasiswa menilai apakah suatu argumentasi benar-benar menghasilkan kepastian atau sekadar memberikan dugaan dan kesan meyakinkan. Kemampuan ini sangat penting dalam pembahasan akidah, ketika argumentasi dituntut memiliki dasar yang kuat dan menghasilkan keyakinan.
+
+Dengan demikian, keseluruhan perkuliahan mengajarkan bahwa penalaran yang baik memerlukan dua hal sekaligus: bentuk argumentasi yang benar dan materi premis yang sesuai. Tanpa bentuk yang benar, premis-premis tidak terhubung secara logis. Tanpa materi yang pasti, susunan yang tampak benar belum tentu menghasilkan kesimpulan yang pasti. Memahami hubungan antara keduanya merupakan salah satu tujuan utama mempelajari ilmu mantiq.
