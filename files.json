@@ -369,6 +369,11 @@
               "name": "1.txt",
               "type": "file",
               "path": "texts/LITERAL MUHADOROH/NUDZUM ISLAMIYAH/1.txt"
+            },
+            {
+              "name": "2.txt",
+              "type": "file",
+              "path": "texts/LITERAL MUHADOROH/NUDZUM ISLAMIYAH/2.txt"
             }
           ]
         },
