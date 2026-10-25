@@ -612,6 +612,11 @@
               "name": "2.txt",
               "type": "file",
               "path": "texts/PELAJARAN/hadits tahlili/2.txt"
+            },
+            {
+              "name": "3.txt",
+              "type": "file",
+              "path": "texts/PELAJARAN/hadits tahlili/3.txt"
             }
           ]
         },
