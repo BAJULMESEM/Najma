@@ -220,6 +220,11 @@
               "name": "3.txt",
               "type": "file",
               "path": "texts/LITERAL MUHADOROH/HADITS TAHLILI/3.txt"
+            },
+            {
+              "name": "4.txt",
+              "type": "file",
+              "path": "texts/LITERAL MUHADOROH/HADITS TAHLILI/4.txt"
             }
           ]
         },
@@ -503,6 +508,11 @@
               "name": "7.txt",
               "type": "file",
               "path": "texts/LITERAL MUHADOROH/ULUMUL QURAN/7.txt"
+            },
+            {
+              "name": "8.txt",
+              "type": "file",
+              "path": "texts/LITERAL MUHADOROH/ULUMUL QURAN/8.txt"
             }
           ]
         },
@@ -612,6 +622,11 @@
               "name": "3.txt",
               "type": "file",
               "path": "texts/PELAJARAN/hadits tahlili/3.txt"
+            },
+            {
+              "name": "4.txt",
+              "type": "file",
+              "path": "texts/PELAJARAN/hadits tahlili/4.txt"
             }
           ]
         },
@@ -797,6 +812,11 @@
               "name": "4.txt",
               "type": "file",
               "path": "texts/PELAJARAN/tafsirr/4.txt"
+            },
+            {
+              "name": "5.txt",
+              "type": "file",
+              "path": "texts/PELAJARAN/tafsirr/5.txt"
             }
           ]
         },
@@ -869,6 +889,11 @@
               "name": "7.txt",
               "type": "file",
               "path": "texts/PELAJARAN/ulumul quran/7.txt"
+            },
+            {
+              "name": "8.txt",
+              "type": "file",
+              "path": "texts/PELAJARAN/ulumul quran/8.txt"
             }
           ]
         },
