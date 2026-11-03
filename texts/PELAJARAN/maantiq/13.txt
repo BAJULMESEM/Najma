@@ -1,0 +1,1267 @@
+MATERI ILMU MANTIQ: MATERI-MATERI QIYAS JADALI, KHITABI, DAN SAWFASATHA'I
+
+A. PENGANTAR: PERBEDAAN ANTARA BENTUK DAN MATERI QIYAS
+
+1. Setiap qiyas tersusun dari bentuk dan materi
+
+Dosen membuka perkuliahan dengan menyapa para mahasiswa dan mendoakan agar Allah memberikan kesehatan, keberkahan, serta ilmu yang bermanfaat. Setelah itu, beliau mengingatkan kembali pembahasan pada pertemuan sebelumnya mengenai dua unsur yang harus terdapat dalam setiap qiyas, yaitu شكل القياس (bentuk atau struktur qiyas) dan مادة القياس (materi qiyas).
+
+Bentuk qiyas adalah susunan atau kerangka yang menjadi tempat bagi premis-premis untuk menghasilkan suatu kesimpulan. Sementara itu, materi qiyas adalah isi yang dimasukkan ke dalam kerangka tersebut, yaitu proposisi-proposisi atau premis yang digunakan dalam penyusunan qiyas.
+
+Untuk memudahkan pemahaman, dosen memberikan analogi sebuah ruangan. Sebuah ruangan mempunyai bentuk dan konstruksi tertentu. Agar dapat disebut ruangan, ia harus mempunyai bagian-bagian seperti dinding, atap, dan pintu. Bentuk ruangan tersebut dapat bermacam-macam: ada yang berbentuk persegi, persegi panjang, atau bentuk lainnya.
+
+Setelah bentuk ruangan tersedia, seseorang dapat memasukkan berbagai benda ke dalamnya. Apabila ruangan diisi dengan sebuah meja dan beberapa kursi yang disusun mengelilinginya, ruangan tersebut dapat digunakan sebagai ruang rapat. Apabila diisi dengan kursi-kursi yang tersusun seperti tempat duduk kuliah atau tribun, ruangan itu dapat menjadi ruang perkuliahan. Apabila diisi dengan perlengkapan tertentu, ruangan tersebut dapat digunakan sebagai tempat kegiatan lainnya. Bahkan, jika di dalamnya ditempatkan tempat tidur dan perlengkapan yang sesuai, ruangan tersebut dapat berfungsi sebagai kamar tidur.
+
+Dengan demikian, bentuk ruangan dapat tetap sama, tetapi fungsi dan karakter penggunaannya berubah sesuai dengan benda-benda yang dimasukkan ke dalamnya.
+
+Dosen menggunakan analogi tersebut untuk menjelaskan hubungan antara شكل القياس dan مادة القياس. Bentuk qiyas merupakan kerangkanya, sedangkan materi qiyas adalah isi yang dimasukkan ke dalam kerangka itu. Jenis qiyas yang dihasilkan ditentukan oleh materi atau premis-premis yang digunakan.
+
+Jadi, setiap qiyas terdiri atas dua unsur: bentuk dan materi. Bentuk menentukan susunan penalarannya, sedangkan materi menentukan jenis qiyas berdasarkan karakter proposisi yang digunakan.
+
+2. Lima jenis qiyas berdasarkan materinya
+
+Dosen mengingatkan bahwa berdasarkan materi yang digunakan, qiyas terbagi menjadi lima jenis, yaitu:
+
+الْبُرْهَانُ، وَالْجَدَلُ، وَالْخِطَابَةُ، وَالشِّعْرُ، وَالسَّفْسَطَةُ
+
+Kelima jenis tersebut adalah:
+
+Pertama, القياس البرهاني, yaitu qiyas demonstratif atau pembuktian yang menggunakan materi-materi yang menghasilkan keyakinan.
+
+Kedua, القياس الجدلي, yaitu qiyas dialektis yang menggunakan proposisi-proposisi yang diterima karena kemasyhuran atau karena diakui oleh lawan debat.
+
+Ketiga, القياس الخطابي, yaitu qiyas retoris yang menggunakan materi-materi yang berfungsi memengaruhi pendengar dan menggerakkan mereka menuju suatu sikap atau tindakan.
+
+Keempat, القياس الشعري, yaitu qiyas puitis yang menggunakan materi yang berkaitan dengan daya imajinasi dan penggambaran.
+
+Kelima, القياس السفسطائي atau القياس المغالطي, yaitu qiyas sofistik atau sesat yang menggunakan materi-materi yang menimbulkan gambaran keliru dan membuat sesuatu yang salah tampak benar.
+
+Dosen mengingatkan bahwa di antara lima jenis tersebut, ada tiga yang disebut sebagai الاقيسة المقبولة dalam pembahasan yang sedang dipelajari, yaitu burhan, jadal, dan khitabah. Sementara itu, syair dan safasthah memiliki karakter materi yang berbeda.
+
+Pada pertemuan sebelumnya, mahasiswa telah mempelajari القياس البرهاني. Dosen mengingatkan bahwa materi qiyas burhani memiliki enam jenis bahan atau materi yang akan dipelajari dalam pembahasan khususnya.
+
+Adapun pada pertemuan ini, pembahasan diarahkan kepada jenis-jenis materi yang belum selesai dipelajari, dimulai dari materi القياس الجدلي, dilanjutkan dengan القياس الخطابي, lalu القياس السفسطائي atau المغالطة.
+
+B. MATERI QIYAS JADALI: الْمَشْهُورَات DAN الْمُسَلَّمَات
+
+3. Pengertian umum materi qiyas jadali
+
+Dosen meminta seorang mahasiswa membacakan bagian kitab yang menjelaskan materi qiyas jadali.
+
+Dalam kitab disebutkan:
+
+مَادَّةُ الْقِيَاسِ الْجَدَلِيِّ مَوَادُّ تَكُونُ مِنَ الْمَشْهُورَاتِ وَالْمُسَلَّمَاتِ
+
+Artinya, materi qiyas jadali tersusun dari perkara-perkara yang termasuk dalam kategori المشهورات dan المسلمات.
+
+Dengan demikian, qiyas jadali memiliki dua sumber utama materi, yaitu proposisi yang terkenal atau diterima secara luas dan proposisi yang diakui oleh pihak tertentu, khususnya lawan debat.
+
+Dosen kemudian menjelaskan masing-masing secara terperinci.
+
+4. المشهورات: proposisi yang diterima karena kemasyhurannya
+
+المشهورات adalah proposisi-proposisi yang diterima karena telah dikenal luas dan menjadi sesuatu yang dianggap benar oleh masyarakat.
+
+Dalam kitab dijelaskan bahwa proposisi tersebut diterima لمجرد الشهرة, yaitu semata-mata karena kemasyhurannya.
+
+Artinya, suatu pernyataan dapat diterima oleh masyarakat bukan karena setiap orang telah membuktikannya secara demonstratif, melainkan karena pernyataan itu sudah dikenal, sering didengar, dan menjadi sesuatu yang dianggap wajar dalam lingkungan masyarakat.
+
+Dosen menjelaskan bahwa المشهورات merupakan proposisi yang diterima oleh masyarakat umum. Ketika suatu pernyataan dianggap terkenal dan benar oleh orang-orang pada umumnya, pernyataan tersebut dapat digunakan sebagai materi dalam qiyas jadali.
+
+Dalam pembahasan kitab, disebutkan pula bahwa menurut kalangan ahli ilmu, beberapa proposisi masyhur memiliki kedudukan yang mendekati الأوليات, yaitu proposisi-proposisi yang diterima secara mendasar dalam akal.
+
+Namun, dosen memberikan penegasan bahwa المشهورات tidak boleh begitu saja disamakan dengan الأوليات. Dalam penjelasannya, para ulama dapat memberikan kedudukan yang dekat dengan proposisi-proposisi mendasar kepada sebagian perkara masyhur, tetapi secara teknis perkara tersebut tetap bukan bagian dari الأوليات.
+
+Jadi, ada perbedaan antara sesuatu yang diterima karena telah tertanam kuat dalam masyarakat dan sesuatu yang diketahui secara langsung sebagai kebenaran mendasar oleh akal.
+
+5. Contoh المشهورات: keadilan, kezaliman, kejujuran, dan kebohongan
+
+Dosen memberikan beberapa contoh proposisi yang dianggap masyhur dalam masyarakat, di antaranya:
+
+الْعَدْلُ وَاجِبٌ
+
+“Keadilan itu wajib.”
+
+الظُّلْمُ قَبِيحٌ
+
+“Kezaliman itu buruk.”
+
+الصِّدْقُ وَاجِبٌ
+
+“Kejujuran itu wajib.”
+
+الْكَذِبُ قَبِيحٌ
+
+“Kebohongan itu buruk.”
+
+الرَّحْمَةُ وَاجِبَةٌ
+
+“Kasih sayang itu wajib.”
+
+Dalam rekaman terdapat pula penyebutan ungkapan الأيام محدودة. Namun, kedudukannya dalam rangkaian contoh tidak diterangkan lebih lanjut.
+
+Dosen kemudian bertanya kepada mahasiswa apakah ada orang yang akan membantah proposisi-proposisi tersebut. Secara umum, orang-orang biasanya menerima bahwa keadilan merupakan sesuatu yang baik, kezaliman merupakan sesuatu yang buruk, kejujuran merupakan sesuatu yang wajib, dan kebohongan merupakan sesuatu yang tercela.
+
+Akan tetapi, dosen mengingatkan bahwa ketika beberapa proposisi tersebut diperiksa secara lebih mendalam, ternyata terdapat persoalan yang tidak sederhana. Tidak semua perkara yang secara umum dianggap benar dapat diterapkan tanpa pengecualian dalam setiap keadaan.
+
+6. Contoh kebohongan: apakah selalu buruk?
+
+Dosen mengambil contoh pernyataan:
+
+الْكَذِبُ قَبِيحٌ
+
+“Kebohongan itu buruk.”
+
+Apabila pernyataan ini didengar secara umum, hampir semua orang akan menerimanya. Namun, dosen mengajak mahasiswa membayangkan suatu keadaan tertentu.
+
+Misalnya, mereka sedang berada di dalam sebuah tempat. Tiba-tiba masuk seseorang yang mengatakan bahwa ada orang-orang yang sedang mencari seseorang untuk dibunuh. Setelah itu, datang orang lain yang bertanya apakah ada seseorang yang masuk ke tempat tersebut.
+
+Apabila mereka menjawab dengan jujur bahwa orang yang dicari memang berada di sana, jawaban itu dapat mengakibatkan terbunuhnya orang tersebut.
+
+Dalam keadaan seperti ini, apakah kejujuran tetap harus disampaikan, atau justru kebohongan diperbolehkan?
+
+Mahasiswa menjawab bahwa kebohongan dalam keadaan tersebut diperbolehkan.
+
+Dosen menjelaskan bahwa hukum kebohongan dapat berbeda berdasarkan keadaan. Ada keadaan tertentu ketika kebohongan dibolehkan oleh syariat, bahkan ada keadaan ketika seseorang diwajibkan melakukan kebohongan untuk menghindari bahaya yang lebih besar.
+
+Dosen menyebut beberapa keadaan yang berkaitan dengan kebolehan atau pengecualian kebohongan, yaitu:
+
+Pertama, ketika seseorang berusaha mendamaikan dua pihak yang sedang berselisih.
+
+Kedua, dalam hubungan suami istri sebagaimana disebut dalam pembahasan mengenai kebolehan perkataan tertentu untuk menjaga keharmonisan.
+
+Ketiga, ketika menghadapi musuh dalam keadaan perang.
+
+Dosen memberikan contoh seseorang yang ditawan musuh. Para musuh bertanya mengenai persenjataan, perlengkapan, dan informasi yang dimiliki kelompoknya. Dalam keadaan seperti itu, ia tidak boleh memberikan informasi yang akan membahayakan kaum muslimin. Dosen menyatakan bahwa kebohongan dalam keadaan ini bahkan dapat menjadi wajib.
+
+Dari contoh tersebut, dosen menarik satu kesimpulan penting: kewajiban atau kebolehan berbohong dalam keadaan tertentu bukan ditetapkan oleh akal secara mandiri, melainkan oleh syariat.
+
+Dengan demikian, kebohongan yang secara umum dianggap buruk dapat memperoleh hukum yang berbeda dalam keadaan tertentu karena adanya ketentuan syariat.
+
+Hal ini menunjukkan bahwa proposisi yang diterima secara umum tidak selalu dapat diterapkan tanpa memperhatikan keadaan. Ketika dilakukan penelitian lebih mendalam, sebagian proposisi masyhur ternyata membutuhkan perincian.
+
+7. Mengapa proposisi masyhur diterima masyarakat?
+
+Dosen kemudian menjelaskan mengapa proposisi-proposisi tersebut dapat menjadi sesuatu yang diterima secara luas.
+
+Sebagian proposisi dikenal manusia karena sering didengar sejak kecil. Seseorang mendengarnya berulang kali dari masyarakat, keluarga, lingkungan sosial, dan orang-orang yang hidup di sekitarnya.
+
+Karena sering diulang, proposisi tersebut menjadi sesuatu yang terasa wajar dan diterima tanpa banyak dipertanyakan.
+
+Dosen menyebut bahwa proposisi masyhur dapat diterima karena:
+
+Pertama, كثرة التكرار, yaitu seringnya suatu pernyataan diulang.
+
+Kedua, kebiasaan masyarakat yang terus-menerus menggunakan atau menerima pernyataan tersebut.
+
+Ketiga, kesesuaiannya dengan tuntutan اخلاق, yaitu nilai-nilai moral yang berlaku dalam masyarakat.
+
+Dengan demikian, kemasyhuran tidak selalu terbentuk melalui penelitian demonstratif. Ada proposisi yang diterima karena pengulangan dan kebiasaan sosial, kemudian menjadi sesuatu yang dianggap benar oleh masyarakat.
+
+Namun, ada pula perkara yang ketika dibahas memerlukan penelitian dan penjelasan lebih lanjut. Dalam persoalan seperti itu, seseorang mungkin perlu menghadirkan dalil atau mengandalkan keterangan dari orang yang memiliki otoritas dan pengetahuan.
+
+Dosen memberikan contoh mengenai perkara akidah yang sangat penting, yaitu pernyataan:
+
+اللَّهُ قَادِرٌ عَلَى كُلِّ شَيْءٍ
+
+“Allah Mahakuasa atas segala sesuatu.”
+
+Pernyataan ini merupakan salah satu proposisi yang sangat masyhur dalam masyarakat muslim. Jika seseorang mengingkari bahwa Allah Mahakuasa, secara umum pengingkaran tersebut merupakan perkara yang sangat berbahaya dalam akidah.
+
+Namun, dosen kemudian mengajak mahasiswa memeriksa makna kalimat tersebut melalui pembahasan sifat القدرة.
+
+C. PEMBAHASAN SIFAT الْقُدْرَة DAN HUBUNGANNYA DENGAN KONSEP الْمُمْكِن وَالْمُسْتَحِيل
+
+8. Definisi sifat القدرة
+
+Dosen bertanya apakah para mahasiswa masih mengingat definisi sifat القدرة.
+
+Dalam rekaman, definisi tersebut terdengar dengan redaksi yang sebagian kurang jelas, tetapi maknanya adalah:
+
+صِفَةٌ قَائِمَةٌ بِذَاتِهِ تَعَالَى يَتَأَتَّى بِهَا إِيجَادُ كُلِّ مُمْكِنٍ وَإِعْدَامُهُ عَلَى وَفْقِ مَشِيئَتِهِ تَعَالَى
+
+Maksudnya, القدرة merupakan sifat yang berdiri pada Zat Allah Taala, yang dengannya Allah dapat mewujudkan atau meniadakan segala sesuatu yang mungkin, sesuai dengan kehendak-Nya.
+
+Dosen kemudian menanyakan: terhadap apa sifat القدرة berkaitan?
+
+Jawabannya adalah:
+
+الْمُمْكِنَاتُ
+
+Yaitu perkara-perkara yang mungkin.
+
+Sifat القدرة berkaitan dengan إيجاد الممكنات dan إعدامها, yakni mewujudkan atau meniadakan segala sesuatu yang mungkin.
+
+Dosen menegaskan bahwa sifat القدرة tidak berkaitan dengan perkara yang wajib dan tidak pula berkaitan dengan perkara yang mustahil.
+
+Dengan demikian, terdapat tiga kategori yang harus dibedakan:
+
+الْوَاجِبُ, yaitu sesuatu yang keberadaannya niscaya.
+
+الْمُمْكِنُ, yaitu sesuatu yang secara akal dapat ada dan dapat tidak ada.
+
+الْمُسْتَحِيلُ, yaitu sesuatu yang keberadaannya tidak mungkin secara akal.
+
+Menurut penjelasan dosen, kemampuan Allah berkaitan dengan الممكنات, bukan dengan hal-hal yang mustahil secara akal.
+
+9. Apakah berarti ada sesuatu yang tidak mampu dilakukan Allah?
+
+Setelah mendengar penjelasan bahwa القدرة tidak berkaitan dengan perkara mustahil, dosen mengajukan pertanyaan kepada mahasiswa: apakah itu berarti terdapat sesuatu yang Allah tidak mampu melakukannya?
+
+Mahasiswa menjawab bahwa tidak ada sesuatu yang membatasi kekuasaan Allah.
+
+Dosen menjelaskan bahwa persoalan tersebut harus dipahami dengan membedakan antara ketidakmampuan karena kelemahan dan ketidakmungkinan yang melekat pada sesuatu itu sendiri.
+
+Apabila suatu tindakan tidak dapat dilakukan manusia karena keterbatasan kemampuan, itu merupakan ketidakmampuan pelaku. Namun, apabila sesuatu mustahil pada dirinya sendiri, maka perkara tersebut memang bukan sesuatu yang dapat diwujudkan.
+
+Dosen ingin menegaskan bahwa Allah tidak dikatakan lemah karena tidak melakukan sesuatu yang mustahil secara akal. Kemustahilan itu bukan disebabkan kelemahan pada Allah, melainkan karena objek yang dibicarakan memang tidak mungkin ada.
+
+10. Contoh matematika: kemungkinan susunan angka satu, dua, dan tiga
+
+Untuk menjelaskan perbedaan antara ketidakmampuan dan kemustahilan, dosen memberikan contoh matematika.
+
+Ia meminta mahasiswa memperhatikan angka:
+
+1، 2، 3
+
+Jika ketiga angka tersebut disusun dalam urutan yang berbeda, berapa kemungkinan susunan yang dapat dibuat?
+
+Dosen kemudian menyebut beberapa susunan:
+
+1، 2، 3
+
+1، 3، 2
+
+2، 1، 3
+
+2، 3، 1
+
+3، 1، 2
+
+3، 2، 1
+
+Jumlah seluruh kemungkinan susunan adalah enam.
+
+Dosen kemudian bertanya: apabila para ahli matematika dari seluruh sejarah dikumpulkan dan diminta menemukan susunan ketujuh dari ketiga angka tersebut, apakah mereka mampu menemukannya?
+
+Jawabannya adalah tidak.
+
+Akan tetapi, apakah ketidakmampuan tersebut disebabkan karena para ahli matematika kurang cerdas atau kurang berusaha?
+
+Bukan. Penyebabnya adalah bahwa tidak ada susunan ketujuh yang mungkin dibuat dari tiga angka berbeda tersebut. Seluruh kemungkinan telah tercakup dalam enam susunan tadi.
+
+Jadi, ketidakmampuan menemukan susunan ketujuh bukanlah kelemahan para matematikawan, melainkan karena hal yang diminta memang mustahil.
+
+Dosen kemudian menghubungkan contoh tersebut dengan pembahasan sifat القدرة. Allah tidak dikatakan lemah karena tidak mewujudkan sesuatu yang mustahil pada dirinya sendiri.
+
+11. Kemustahilan adanya Tuhan lain bersama Allah
+
+Dosen kemudian menyebut perkara yang menjadi contoh khusus dalam pembahasan ini, yaitu:
+
+إِيجَادُ إِلَهٍ آخَرَ مَعَ اللَّهِ
+
+Mewujudkan Tuhan lain bersama Allah.
+
+Menurut penjelasan dosen, adanya Tuhan lain yang diciptakan oleh Allah merupakan perkara yang mustahil secara akal.
+
+Mengapa?
+
+Karena sesuatu yang diciptakan oleh pihak lain tidak mungkin menjadi Tuhan dalam pengertian yang sedang dibahas. Sesuatu yang diciptakan pasti memiliki permulaan dan membutuhkan pihak yang menciptakannya. Dengan demikian, ia bukanlah واجب الوجود بالذات.
+
+Dosen kemudian menjelaskan makna واجب الوجود بالذات. Tuhan harus merupakan sesuatu yang keberadaannya berasal dari diri-Nya sendiri, tidak membutuhkan pihak lain untuk mewujudkan-Nya, dan bersifat قديم.
+
+Artinya, keberadaan-Nya tidak bergantung kepada sesuatu di luar diri-Nya.
+
+Apabila ada sesuatu yang diciptakan oleh Allah, maka sesuatu tersebut adalah makhluk dan bergantung kepada pencipta. Karena itu, ia tidak dapat menjadi Tuhan lain yang memiliki kedudukan sebagaimana Allah.
+
+Dengan demikian, kemustahilan menciptakan Tuhan lain bukanlah karena Allah tidak memiliki kekuasaan, melainkan karena konsep Tuhan yang diciptakan mengandung pertentangan dalam dirinya sendiri.
+
+Dosen mengulangi bahwa kemampuan Allah berkaitan dengan perkara الممكن, sedangkan perkara المستحيل tidak termasuk objek yang dapat diwujudkan.
+
+12. Kisah perdebatan antara kerajaan yang menyembah Allah dan kerajaan yang menyembah selain Allah
+
+Untuk menggambarkan persoalan tersebut, dosen menceritakan sebuah kisah.
+
+Beliau terlebih dahulu mengatakan bahwa kisah tersebut mungkin benar dan mungkin tidak, tetapi dapat digunakan untuk mengambil pelajaran mengenai jawaban terhadap suatu syubhat.
+
+Dalam kisah itu terdapat dua kerajaan. Penduduk salah satu kerajaan menyembah Allah dan merupakan kaum muslimin. Sementara itu, kerajaan yang berada di sekitar mereka menyembah sesuatu selain Allah.
+
+Suatu ketika, sekelompok orang dari kerajaan yang menyembah selain Allah datang bersama sebagian ahli ilmu dari kerajaan muslim. Mereka mengusulkan agar kedua kelompok mengadakan perdebatan.
+
+Mereka membuat kesepakatan: apabila kelompok yang satu mampu menunjukkan kebenaran, kelompok lain akan mengikuti mereka. Sebaliknya, apabila pihak yang lain lebih mampu menunjukkan kebenaran, mereka akan mengikuti pihak tersebut.
+
+Setelah pertemuan itu, kelompok yang menyembah Allah kembali kepada pemimpin mereka dan melaporkan bahwa mereka telah ditantang berdebat. Pemimpin tersebut kemudian memerintahkan agar sejumlah ulama dan ahli fikih disiapkan untuk menghadapi perdebatan itu.
+
+Ketika perdebatan dimulai, pihak yang menyembah selain Allah mengajukan pertanyaan:
+
+“Kalian mengaku menyembah satu Tuhan. Apa sifat Tuhan yang kalian sembah?”
+
+Pihak muslim menjawab:
+
+“Allah adalah Tuhan Yang Mahakuasa.”
+
+Mereka kemudian bertanya:
+
+“Apakah Tuhan kalian mampu menciptakan Tuhan lain?”
+
+Pertanyaan itu disusun sebagai jebakan.
+
+Apabila orang muslim menjawab “ya”, mereka akan mengatakan bahwa berarti terdapat dua Tuhan: Tuhan yang pertama dan Tuhan yang diciptakan.
+
+Namun, apabila mereka menjawab “tidak”, pihak lawan akan mengatakan bahwa Tuhan tersebut tidak mampu melakukan sesuatu.
+
+Dengan demikian, pertanyaan tersebut dimaksudkan untuk menjadikan kedua kemungkinan jawaban tampak bermasalah.
+
+13. Jawaban ahli ilmu terhadap syubhat tersebut
+
+Setelah perdebatan itu, kelompok yang ditantang kembali kepada pemimpin mereka dan melaporkan pertanyaan yang diajukan lawan.
+
+Pemimpin mereka bertanya siapa yang dapat menjawab syubhat tersebut. Mereka kemudian mendatangi para ahli ilmu kalam.
+
+Dalam kisah tersebut, disebutkan bahwa ada kelompok mutakallimin yang kemudian memberikan jawaban. Seorang dari mereka mendatangi pihak yang meminta penjelasan dan mengatakan bahwa bahkan murid paling rendah di antara mereka mampu menjawab persoalan itu.
+
+Jawabannya adalah bahwa Tuhan lain yang diciptakan oleh Allah tidak mungkin disebut Tuhan dalam pengertian yang sebenarnya.
+
+Sebab, apabila sesuatu diciptakan, berarti ia merupakan makhluk. Sesuatu yang menjadi makhluk tidak dapat menjadi واجب الوجود بالذات, karena keberadaannya bergantung kepada pihak yang menciptakannya.
+
+Sementara itu, Tuhan haruslah واجب الوجود بالذات, yakni keberadaan-Nya berasal dari diri-Nya sendiri dan tidak bergantung kepada pihak lain.
+
+Dengan demikian, jawaban “ya” tidak tepat apabila yang dimaksud ialah menciptakan Tuhan lain yang benar-benar memiliki sifat ketuhanan. Sesuatu yang diciptakan tidak akan menjadi Tuhan yang wajib wujud dengan sendirinya.
+
+Adapun jawaban “tidak” juga tidak menunjukkan kelemahan Allah, sebab hal yang diminta memang mustahil secara akal.
+
+Dosen menghubungkan jawaban tersebut dengan contoh angka satu, dua, dan tiga. Tidak adanya susunan ketujuh bukan karena kelemahan ahli matematika, melainkan karena kemungkinan susunannya memang terbatas pada enam. Demikian pula, tidak mungkin ada Tuhan lain yang diciptakan karena konsep Tuhan yang diciptakan bertentangan dengan hakikat واجب الوجود بالذات.
+
+14. Pentingnya memahami الحكم العقلي
+
+Dosen kemudian menegaskan bahwa persoalan tersebut menunjukkan pentingnya mempelajari الحكم العقلي, yaitu pembagian hukum akal.
+
+Beliau menyatakan bahwa hukum akal merupakan dasar bagi pemahaman berbagai ilmu, terutama العلوم العقلية.
+
+Apa pun sesuatu yang dapat dibayangkan atau dipikirkan, baik sesuatu itu benar-benar ada maupun tidak ada, pada akhirnya dapat dinilai melalui salah satu kategori hukum akal.
+
+Karena itu, memahami pembagian hukum akal sangat penting untuk mempelajari berbagai persoalan ilmu.
+
+Dosen juga mengingatkan bahwa pembahasan mengenai sifat القدرة tidak boleh dipahami hanya melalui ungkapan populer “Allah Mahakuasa atas segala sesuatu” tanpa memahami makna segala sesuatu dalam konteks pembagian hukum akal.
+
+Kekuasaan Allah berkaitan dengan segala sesuatu yang mungkin. Adapun perkara yang mustahil secara akal bukan merupakan objek yang dapat diwujudkan.
+
+15. Mengapa persoalan ini tidak sebaiknya dijelaskan kepada masyarakat umum tanpa persiapan?
+
+Dosen kemudian memberikan peringatan mengenai cara menyampaikan persoalan tersebut.
+
+Beliau mengatakan bahwa persoalan ini termasuk pembahasan akidah yang tidak selalu cocok disampaikan kepada masyarakat umum tanpa persiapan dan penjelasan yang memadai.
+
+Dalam rekaman, dosen menyebut perlunya إبعاد العوام عن علم الكلام, yaitu menjauhkan orang awam dari pembahasan ilmu kalam tertentu yang dapat membuat mereka salah memahami persoalan.
+
+Maksudnya bukan bahwa masyarakat umum dilarang mempelajari akidah, tetapi bahwa pembahasan teknis mengenai hubungan sifat القدرة dengan mustahil secara akal memerlukan pemahaman istilah yang baik.
+
+Jika seseorang hanya mendengar bahwa “Allah tidak mampu melakukan sesuatu”, ia mungkin langsung memahami kalimat tersebut sebagai pengakuan kelemahan. Padahal, yang sedang dibicarakan adalah sesuatu yang mustahil secara akal, bukan sesuatu yang mungkin tetapi gagal diwujudkan.
+
+Dosen menyatakan bahwa apabila persoalan itu dijelaskan kepada orang yang belum memahami pembagian الحكم العقلي, ia mungkin justru menuduh orang yang menjelaskannya sebagai pengingkar kekuasaan Allah.
+
+Oleh karena itu, pembahasan semacam ini lebih tepat disampaikan kepada orang yang telah memiliki dasar ilmu yang memadai.
+
+16. Kedudukan المشهورات dalam pembahasan sifat القدرة
+
+Dosen kembali menghubungkan persoalan tersebut dengan proposisi:
+
+اللَّهُ قَادِرٌ عَلَى كُلِّ شَيْءٍ
+
+Pernyataan ini merupakan sesuatu yang masyhur dan diterima oleh masyarakat muslim.
+
+Namun, ketika seseorang menelaahnya dengan lebih teliti, ia akan memahami bahwa القدرة berhubungan dengan الممكنات, bukan dengan المستحيلات.
+
+Jadi, dalam penggunaan umum, pernyataan tersebut diterima sebagai penegasan kekuasaan Allah. Akan tetapi, dalam pembahasan teknis ilmu kalam, istilah كل شيء harus dipahami berdasarkan kategori hukum akal.
+
+Dosen juga kembali menegaskan bahwa perkara masyhur mempunyai tingkatan kekuatan yang berbeda-beda. Ada yang sangat kuat kemasyhurannya, ada yang lebih lemah, dan ada yang hanya dikenal dalam kelompok masyarakat tertentu.
+
+D. PERBEDAAN KEKUATAN المشهورات BERDASARKAN KEBIASAAN DAN LINGKUNGAN
+
+17. المشهورات tidak memiliki kekuatan yang sama
+
+Setelah membahas contoh sifat القدرة, dosen kembali kepada karakter umum proposisi masyhur.
+
+Beliau menjelaskan bahwa:
+
+الْقَضَايَا الْمَشْهُورَةُ تَتَفَاوَتُ قُوَّةً وَضَعْفًا
+
+Proposisi-proposisi masyhur memiliki tingkat kekuatan yang berbeda-beda.
+
+Perbedaan kekuatan itu bergantung kepada berbagai hal, antara lain:
+
+اختلاف الشهرة, yaitu perbedaan tingkat kemasyhuran.
+
+اختلاف العادات, yaitu perbedaan kebiasaan.
+
+اختلاف الأخلاق, yaitu perbedaan nilai dan perilaku yang berlaku dalam suatu masyarakat.
+
+اختلاف الأماكن, yaitu perbedaan tempat atau lingkungan.
+
+اختلاف الحرف, yaitu perbedaan pekerjaan atau profesi.
+
+اختلاف الأزمان, yaitu perbedaan zaman.
+
+Dosen menjelaskan bahwa sesuatu dapat dianggap wajar dan benar oleh satu kelompok masyarakat, tetapi tidak diterima dengan cara yang sama oleh kelompok masyarakat lain.
+
+Karena itu, seseorang yang menggunakan المشهورات dalam perdebatan harus memahami lingkungan dan kebiasaan lawan bicara. Ia tidak boleh menganggap bahwa semua proposisi yang diterima di satu tempat pasti diterima dengan cara yang sama di tempat lain.
+
+18. Contoh budaya Mesir: laki-laki berjalan sambil bergandengan tangan
+
+Dosen kemudian bertanya kepada salah seorang mahasiswa dari Mesir mengenai kebiasaan masyarakatnya.
+
+Beliau memberikan contoh dua orang sahabat laki-laki yang berjalan bersama sambil saling memegang tangan atau berjalan dengan tangan saling terkait.
+
+Di Mesir, tindakan tersebut dapat menjadi tanda kedekatan dan persahabatan yang kuat. Apabila dua orang sahabat berjalan sambil saling memegang tangan, masyarakat setempat dapat memahaminya sebagai tanda hubungan persahabatan yang erat.
+
+Dosen juga menyebut tindakan meletakkan tangan di pundak sahabat sebagai salah satu bentuk kedekatan yang dapat dijumpai dalam kehidupan masyarakat Mesir.
+
+Namun, dosen mengingatkan bahwa tindakan yang sama belum tentu memiliki makna yang sama di tempat lain.
+
+Dalam masyarakat lain, laki-laki yang berjalan sambil bergandengan tangan atau melakukan tindakan yang sama mungkin dinilai secara berbeda. Dalam percakapan kelas, dosen menyebut bahwa tindakan tersebut di tempat lain dapat diasosiasikan dengan الشذوذ والمثلية.
+
+Dengan demikian, satu tindakan fisik dapat memiliki makna sosial yang berbeda bergantung pada kebiasaan dan budaya masyarakat.
+
+Dosen menegaskan bahwa kebiasaan dan tradisi harus diperhatikan. Seseorang tidak boleh langsung membawa penilaiannya sendiri ke negara lain, lalu menganggap bahwa semua masyarakat memberikan makna yang sama terhadap suatu tindakan.
+
+Contoh tersebut digunakan untuk menunjukkan bahwa proposisi yang masyhur dalam suatu lingkungan belum tentu masyhur dalam lingkungan lainnya.
+
+19. Perbedaan makna kata di berbagai bahasa
+
+Setelah membahas perbedaan makna tindakan berdasarkan budaya, percakapan kelas beralih kepada perbedaan makna kata dalam berbagai bahasa.
+
+Dosen menanyakan sebuah kata yang dalam rekaman terdengar sebagai سَمْرَة atau bentuk lain yang pengucapannya tidak terlalu jelas. Beberapa mahasiswa kemudian mencoba menjelaskan makna kata tersebut dalam bahasa masing-masing.
+
+Ada yang menyinggung bahasa Melayu dan ada pula yang menyebut bahasa Bengali atau Bangladesh. Dalam percakapan tersebut juga muncul penyebutan suatu kata yang berkaitan dengan sampah atau hari pembuangan sampah, tetapi bunyi kata dan arti persisnya tidak dapat dipastikan dari rekaman.
+
+Dosen kemudian menyinggung bahwa terdapat kata-kata yang dapat mempunyai makna berbeda di berbagai tempat.
+
+Namun, beliau membedakan dua keadaan.
+
+Pertama, satu lafaz atau kata yang sama digunakan di beberapa tempat, tetapi memiliki makna yang berbeda.
+
+Kedua, satu makna yang sama diungkapkan dengan lafaz yang berbeda dalam bahasa yang berbeda.
+
+Keduanya tidak boleh dicampuradukkan.
+
+Jika kata yang sama digunakan di dua lingkungan, tetapi di satu lingkungan berarti sesuatu dan di lingkungan lain berarti sesuatu yang berbeda, maka persoalannya adalah perbedaan دلالة اللفظ, yakni perbedaan petunjuk makna suatu lafaz.
+
+Namun, jika satu benda atau makna yang sama disebut dengan kata berbeda dalam bahasa Melayu, Bengali, atau bahasa lain, itu hanya merupakan perbedaan bahasa dan kosakata, bukan perbedaan makna pada satu lafaz yang sama.
+
+Dosen mengarahkan mahasiswa agar memahami bahwa pembahasan المشهورات berkaitan dengan perkara yang dikenal dan diterima dalam suatu lingkungan. Karena itu, perbedaan budaya dan bahasa dapat memengaruhi kemasyhuran serta penerimaan suatu pernyataan.
+
+Karena kualitas rekaman pada contoh kata tersebut kurang jelas, kata dan arti spesifik yang sedang dibahas tidak dapat dipastikan. Yang dapat dipahami ialah pembedaan antara lafaz yang sama dengan makna berbeda dan makna yang sama dengan lafaz berbeda.
+
+20. المشهورات tidak identik dengan kebenaran dan tidak pula identik dengan kebatilan
+
+Dosen kemudian memberikan penegasan penting: sesuatu yang masyhur tidak selalu berarti benar, sebagaimana sesuatu yang tidak masyhur tidak otomatis berarti salah.
+
+Dengan kata lain, kemasyhuran dan kebenaran merupakan dua hal yang harus dibedakan.
+
+Ada perkara yang dikenal luas dan memang benar. Ada pula perkara yang dikenal luas, tetapi setelah diteliti ternyata mengandung kekeliruan atau membutuhkan pembatasan.
+
+Sebaliknya, ada kebenaran yang belum tentu dikenal oleh masyarakat luas.
+
+Dosen mengingatkan bahwa suatu pernyataan tidak boleh dinilai benar hanya karena semua orang mengatakannya.
+
+Dalam rekaman, dosen menggunakan ungkapan mengenai hubungan antara المشهور, الباطل, الحق, dan الشنيع. Redaksi persis ungkapan tersebut tidak seluruhnya jelas. Namun, inti penjelasannya adalah bahwa المشهور bukan lawan langsung dari الباطل, dan ketidakmasyhuran tidak otomatis menjadi bukti kesalahan.
+
+Kebenaran, kemasyhuran, dan keburukan merupakan kategori yang berbeda. Suatu hal dapat masyhur, tetapi perlu diperiksa apakah ia benar. Sesuatu dapat dianggap tidak baik oleh suatu masyarakat, tetapi penilaian itu juga tidak otomatis menjadikannya salah secara mutlak.
+
+Dengan demikian, ketika menggunakan proposisi masyhur dalam qiyas jadali, seseorang tetap harus mengetahui batas dan kekuatan proposisi tersebut.
+
+E. MATERI KEDUA QIYAS JADALI: الْمُسَلَّمَات
+
+21. Pengertian المسلمات
+
+Setelah menjelaskan المشهورات, dosen berpindah kepada jenis materi kedua dalam qiyas jadali, yaitu المسلمات.
+
+Dalam kitab disebutkan bahwa المسلمات merupakan proposisi-proposisi yang diterima dan diakui oleh lawan debat atau kelompok tertentu.
+
+Berbeda dari المشهورات yang diterima oleh masyarakat umum, المسلمات tidak harus diterima oleh semua orang.
+
+Suatu pernyataan dapat menjadi مسلمة apabila pihak yang sedang diajak berdebat telah mengakuinya atau menerimanya.
+
+Karena itu, cakupan المسلمات dapat berkaitan dengan:
+
+Pertama, الخصم, yaitu lawan debat.
+
+Kedua, فئة معينة, yaitu kelompok tertentu.
+
+Ketiga, أهل تخصص معين, yaitu orang-orang yang memiliki bidang keahlian tertentu.
+
+Keempat, أهل علم معين, yaitu kalangan yang menguasai ilmu tertentu.
+
+Contohnya, dalam suatu perdebatan, seseorang mengemukakan sebuah pernyataan. Lawannya menerima dan mengakui pernyataan tersebut. Selama perdebatan berlangsung, pernyataan itu menjadi sesuatu yang telah disepakati oleh lawan.
+
+Karena lawan telah menerimanya, ia tidak semestinya membantah pernyataan tersebut di tengah perdebatan tanpa memberikan alasan yang dapat dipertanggungjawabkan.
+
+22. Perbedaan المشهورات dan المسلمات
+
+Dosen menegaskan bahwa perbedaan paling mendasar antara keduanya terletak pada pihak yang menerima proposisi.
+
+المشهورات diterima oleh masyarakat umum. Seseorang menerima proposisi tersebut karena ia sudah dikenal dan disepakati secara luas.
+
+Adapun المسلمات diterima oleh lawan debat atau kelompok tertentu yang sedang menjadi sasaran perdebatan.
+
+Dengan demikian, suatu pernyataan belum tentu menjadi مسلمة bagi semua orang. Ia dapat menjadi مسلمة bagi seseorang karena orang tersebut telah mengakuinya, tetapi belum tentu diterima oleh masyarakat umum.
+
+Sebaliknya, suatu pernyataan dapat menjadi masyhur dalam masyarakat luas, tetapi lawan debat tertentu mungkin tidak mengakuinya.
+
+Dosen kemudian mengingatkan bahwa pembahasan ini berkaitan dengan أدب البحث والمناظرة, yaitu adab dan aturan dalam penelitian serta perdebatan ilmiah.
+
+Dalam suatu perdebatan, seorang peserta dapat mengajukan pernyataan berdasarkan hal yang telah diakui oleh lawannya. Apabila lawan telah menerima pernyataan tersebut, ia harus konsisten dengan pengakuannya selama diskusi berlangsung.
+
+23. Hubungan antara المشهورات dan المسلمات
+
+Dosen menyebut bahwa hubungan antara kedua konsep ini dapat dibahas melalui pembagian hubungan antara dua kulli.
+
+Beliau mengingatkan bahwa dalam pembahasan sebelumnya mahasiswa telah mempelajari beberapa macam hubungan antara dua konsep universal, yaitu:
+
+التَّسَاوِي
+
+Kesamaan atau kesetaraan cakupan.
+
+التَّبَايُن
+
+Perpisahan atau ketidakberirisan antara dua cakupan.
+
+الْعُمُومُ وَالْخُصُوصُ الْمُطْلَقُ
+
+Hubungan umum dan khusus secara mutlak.
+
+الْعُمُومُ وَالْخُصُوصُ الْوَجْهِيُّ
+
+Hubungan umum dan khusus dari satu sisi.
+
+Dalam rekaman, ketika menjelaskan hubungan antara المشهورات dan المسلمات, dosen menyebut ungkapan العموم والخصوص الوجهي. Namun, pembagian secara terperinci mengenai bagian mana yang mencakup bagian lainnya tidak diterangkan lebih jauh.
+
+Karena itu, hal yang dapat dipastikan ialah bahwa dosen mengaitkan hubungan antara keduanya dengan pembahasan mengenai relasi antarkulli yang telah dipelajari sebelumnya.
+
+F. KEGUNAAN QIYAS JADALI
+
+24. Manfaat pertama: menghadapi orang yang menolak kebenaran dan tidak mampu memahami burhan
+
+Dosen kemudian meminta mahasiswa membaca bagian kitab mengenai manfaat qiyas jadali.
+
+Dalam kitab dijelaskan bahwa salah satu manfaat utamanya adalah:
+
+إِفْهَامُ كُلِّ فُضُولِيٍّ وَمُبْتَدِعٍ يَسْلُكُ غَيْرَ طَرِيقِ الْحَقِّ وَيَكُونُ قَاصِرًا عَنْ مَعْرِفَةِ الْحَقِّ بِالْبُرْهَانِ
+
+Maksudnya, qiyas jadali dapat digunakan untuk menjelaskan kebenaran kepada orang yang banyak bertanya, orang yang memiliki penyimpangan atau mengikuti jalan yang salah, tetapi tidak mampu memahami kebenaran melalui burhan.
+
+Dosen menjelaskan bahwa ada orang yang tidak mudah menerima suatu penjelasan melalui dalil demonstratif. Ia tidak memahami struktur pembuktian burhani atau tidak mampu mengikuti pembahasan yang menggunakan premis-premis yang menghasilkan keyakinan secara teknis.
+
+Dalam keadaan seperti ini, qiyas jadali dapat digunakan untuk membimbingnya menuju kebenaran melalui proposisi yang telah ia terima.
+
+Misalnya, seseorang mempunyai pendapat yang salah, tetapi ia sendiri menerima sejumlah proposisi yang masyhur dan tidak dapat ia bantah. Seorang pendebat kemudian menyusun argumen berdasarkan proposisi-proposisi yang diterima orang tersebut.
+
+Dengan menggunakan hal-hal yang sudah diakui oleh lawan, pendebat dapat memperlihatkan kelemahan pendapatnya dan membatalkan pandangan yang salah.
+
+Dosen menghubungkan hal ini dengan contoh perdebatan mengenai kekuasaan Allah. Apabila seseorang mengajukan syubhat tentang apakah Allah mampu menciptakan Tuhan lain, jawaban dapat disusun berdasarkan hal-hal yang telah diakui oleh lawan, seperti perbedaan antara makhluk dan واجب الوجود بالذات.
+
+Dalam penjelasan dosen, qiyas jadali dapat digunakan untuk menghadapi orang yang belum mampu memahami pembuktian burhani secara utuh, tetapi telah menerima proposisi-proposisi tertentu yang dapat dijadikan dasar untuk membantah pandangannya.
+
+25. Satu dalil dapat digunakan dalam beberapa jenis qiyas
+
+Dosen kemudian memberikan catatan metodologis.
+
+Sebuah dalil tidak selalu hanya dapat digunakan dalam satu jenis qiyas. Dalil atau materi yang sama dapat dimasukkan ke dalam beberapa bentuk qiyas yang berbeda.
+
+Beliau menjelaskan bahwa suatu dalil dapat digunakan sebelumnya dalam qiyas burhani, kemudian digunakan lagi dalam qiyas jadali, dan pada pembahasan berikutnya dapat pula digunakan dalam bentuk qiyas yang berkaitan dengan syair atau bahkan qiyas sofistik.
+
+Mengapa satu dalil bisa digunakan dalam beberapa jenis qiyas?
+
+Karena yang menentukan jenis qiyas bukan hanya topik atau dalil yang dibicarakan, tetapi juga materi yang dipakai dan bagaimana susunan argumentasinya dibentuk.
+
+Dengan kata lain, suatu fakta atau dalil dapat diperlakukan secara berbeda berdasarkan jenis premis yang digunakan untuk membangunnya.
+
+Contohnya adalah argumentasi Nabi Ibrahim عليه السلام ketika berhadapan dengan Namrud. Nabi Ibrahim menyampaikan bahwa Allah mendatangkan matahari dari timur, kemudian menantang Namrud agar mendatangkannya dari barat.
+
+Dalil yang sama dapat dianalisis melalui beberapa jenis qiyas berdasarkan susunan dan bahan argumentasi yang digunakan.
+
+Karena itu, mahasiswa tidak boleh mengira bahwa satu dalil hanya mempunyai satu kemungkinan penggunaan dalam semua jenis qiyas.
+
+26. Manfaat kedua: mengajarkan akidah yang benar kepada orang yang belum mencapai tingkat memahami burhan
+
+Manfaat kedua qiyas jadali adalah membantu seseorang mempelajari akidah yang benar apabila ia telah berada di atas tingkat orang awam, tetapi belum mampu memahami pembuktian burhani secara sempurna.
+
+Dosen menjelaskan bahwa ada orang yang mempunyai kemampuan berpikir lebih baik daripada orang awam biasa, tetapi belum mampu memahami seluruh persyaratan pembuktian burhani.
+
+Ia mungkin mampu mengikuti argumentasi dan memahami hubungan antara premis, tetapi belum dapat menganalisis bukti dengan tingkat ketelitian yang disyaratkan dalam burhan.
+
+Dalam keadaan seperti itu, akidah yang benar dapat diajarkan kepadanya melalui الاقيسة الجدلية.
+
+Dengan demikian, qiyas jadali dapat menjadi sarana pendidikan dan pengajaran bagi orang yang memiliki kemampuan berpikir menengah: tidak hanya menerima perkataan secara pasif, tetapi belum sampai pada kemampuan membangun atau memahami burhan secara lengkap.
+
+27. Manfaat ketiga: tahap awal mempelajari ilmu-ilmu khusus
+
+Dosen juga menyebut bahwa qiyas jadali dapat digunakan dalam proses pembelajaran ilmu-ilmu khusus, seperti الطب والهندسة, yaitu kedokteran dan teknik.
+
+Orang yang baru mempelajari suatu disiplin ilmu sering kali belum langsung memahami seluruh pembuktian teknis yang rumit.
+
+Karena itu, ia dapat memulai pembelajaran melalui مقدمات مشهورة, yaitu premis-premis yang telah dikenal dan diterima secara luas dalam bidang tersebut.
+
+Premis-premis yang dikenal itu dapat membantu pelajar memahami dasar-dasar pembahasan sebelum ia mempelajari pembuktian yang lebih mendalam.
+
+Dengan demikian, qiyas jadali memiliki kegunaan dalam proses pendidikan, karena dapat menjadi jembatan sebelum seseorang mencapai pemahaman demonstratif yang lebih kuat.
+
+G. HUBUNGAN QIYAS JADALI DENGAN PERBEDAAN ARGUMEN DALAM SATU MASALAH
+
+28. Contoh persoalan رؤية الله
+
+Dosen kemudian memberikan contoh bagaimana beberapa qiyas yang berlawanan dapat digunakan untuk meneliti suatu persoalan.
+
+Beliau mengambil masalah رؤية الله, yaitu persoalan apakah Allah dapat dilihat.
+
+Dosen menyebut bahwa dalam masalah ini terdapat dua arah pendapat yang dikenal dalam pembahasan akidah. Ada kelompok yang menyatakan bahwa melihat Allah merupakan sesuatu yang mungkin atau diperbolehkan, sedangkan kelompok lain menyatakan bahwa melihat Allah tidak mungkin atau mustahil.
+
+Masing-masing pihak mempunyai argumentasinya sendiri.
+
+Dosen menunjukkan bagaimana kedua pihak dapat membangun qiyas.
+
+29. Qiyas pertama: argumentasi yang menyatakan Allah dapat dilihat
+
+Argumen pertama disusun sebagai berikut:
+
+اللَّهُ مَوْجُودٌ
+
+Allah ada.
+
+وَكُلُّ مَوْجُودٍ يَصِحُّ أَنْ يُرَى
+
+Setiap yang ada dapat dilihat.
+
+إِذًا اللَّهُ يَصِحُّ أَنْ يُرَى
+
+Maka Allah dapat dilihat.
+
+Dalam argumentasi ini, premis pertama menyatakan bahwa Allah adalah sesuatu yang ada. Premis kedua menyatakan bahwa segala sesuatu yang ada dapat dilihat. Dari kedua premis tersebut ditarik kesimpulan bahwa Allah dapat dilihat.
+
+Dosen menjelaskan bahwa inilah bentuk argumen yang dapat digunakan oleh pihak yang menyatakan kemungkinan رؤية الله.
+
+30. Qiyas kedua: argumentasi yang menyatakan Allah tidak dapat dilihat
+
+Pihak yang menyatakan kemustahilan melihat Allah dapat menyusun qiyas sebagai berikut:
+
+اللَّهُ لَيْسَ بِجِسْمٍ
+
+Allah bukan benda atau tubuh.
+
+وَكُلُّ مَا لَيْسَ بِجِسْمٍ لَا يُرَى
+
+Setiap yang bukan benda atau tubuh tidak dapat dilihat.
+
+إِذًا اللَّهُ لَا يُرَى
+
+Maka Allah tidak dapat dilihat.
+
+Dalam susunan ini, premis pertama menyatakan bahwa Allah bukan benda atau tubuh. Premis kedua menyatakan bahwa segala sesuatu yang bukan benda atau tubuh tidak dapat dilihat. Dari dua premis itu ditarik kesimpulan bahwa Allah tidak dapat dilihat.
+
+Dengan demikian, terdapat dua qiyas yang menghasilkan kesimpulan bertentangan.
+
+31. Meneliti kedua qiyas untuk menemukan letak kesalahan
+
+Dosen kemudian menjelaskan kegunaan membandingkan kedua argumentasi tersebut.
+
+Apabila seseorang menemukan dua qiyas yang saling bertentangan, ia tidak boleh langsung menerima salah satunya tanpa memeriksa materi dan susunannya.
+
+Ia harus meneliti kedua premis pada masing-masing qiyas. Apakah premis pertama benar? Apakah premis kedua benar? Apakah hubungan antara premis dan kesimpulan memang tepat?
+
+Dengan memperhatikan letak kesalahan atau kelemahan masing-masing argumentasi, seseorang dapat berusaha menemukan pendapat yang benar.
+
+Inilah salah satu kegunaan qiyas dalam pembahasan jadali: memperlihatkan bagaimana pihak yang berbeda membangun argumennya, kemudian memeriksa letak kebenaran dan kesalahan masing-masing.
+
+Dosen menambahkan bahwa apabila persoalan tersebut dibahas menggunakan مقدمات برهانية, tentu pembuktiannya akan lebih kuat dan lebih baik. Namun, qiyas jadali tidak selalu memerlukan premis-premis burhani. Materi yang khas untuk qiyas jadali, yaitu المشهورات dan المسلمات, sudah cukup untuk menjalankan fungsi dialektisnya.
+
+Dengan demikian, qiyas burhani dapat digunakan dalam pembahasan jadali apabila diperlukan. Namun, tidak setiap perdebatan harus memakai seluruh kekuatan premis burhani, sebab tujuan dan keadaan lawan debat terkadang cukup dihadapi dengan proposisi masyhur dan musallam.
+
+H. MATERI QIYAS KHITABI: الْمَشْهُورَاتُ فِي الظَّاهِرِ، وَالْمَظْنُونَاتُ، وَالْمَقْبُولَاتُ
+
+32. Pengertian dan tujuan القياس الخطابي
+
+Setelah menyelesaikan pembahasan materi qiyas jadali, dosen beralih kepada materi qiyas khitabi.
+
+Dalam kitab disebutkan:
+
+مَادَّةُ الْقِيَاسِ الْخِطَابِيِّ مَوَادُّ مُقَدِّمَاتِهِ تَعْتَمِدُ عَلَى الْمَشْهُورَاتِ فِي الظَّاهِرِ وَالْمَظْنُونَاتِ وَالْمَقْبُولَاتِ
+
+Artinya, materi qiyas khitabi terdiri atas premis-premis yang bersandar pada المشهورات في الظاهر, المظنونات, dan المقبولات.
+
+Dosen kemudian menjelaskan tujuan utama الخطابة.
+
+Tujuannya adalah:
+
+اسْتِمَالَةُ نُفُوسِ النَّاسِ وَتَرْغِيبُهَا فِي الْحَقِّ وَتَنْفِيرُهَا مِنَ الْبَاطِلِ
+
+Artinya, menarik hati manusia, mendorong mereka agar tertarik kepada kebenaran, serta membuat mereka menjauh dari kebatilan.
+
+Dengan demikian, fungsi utama qiyas khitabi bukan semata-mata menyusun pembuktian untuk menghasilkan keyakinan sebagaimana burhan, atau membantah lawan melalui premis yang diakuinya sebagaimana jadal.
+
+Khitabah lebih menekankan pengaruh terhadap jiwa, hati, perasaan, dan kemauan manusia.
+
+33. Contoh penggunaan qiyas khitabi: mengajak masyarakat membangun masjid
+
+Dosen memberikan contoh sederhana.
+
+Misalnya, masyarakat di sebuah daerah ingin membangun masjid, pasar, atau sekolah. Untuk mewujudkannya, dibutuhkan dana yang cukup besar.
+
+Dalam keadaan tersebut, seorang khatib atau tokoh masyarakat dapat berdiri di hadapan penduduk dan menyampaikan pidato yang mengajak mereka menyumbangkan harta.
+
+Tujuan pidato itu adalah membuat orang-orang tertarik untuk mengeluarkan sebagian harta mereka demi pembangunan masjid, pasar, atau sekolah.
+
+Khatib berusaha menyentuh hati pendengar, membangkitkan keinginan mereka untuk membantu, serta membuat mereka merasa bahwa kegiatan tersebut merupakan sesuatu yang layak dilakukan.
+
+Dengan demikian, qiyas khitabi berfungsi untuk:
+
+Pertama, استمالة النفوس, yaitu menarik dan memengaruhi jiwa manusia.
+
+Kedua, ترغيب النفوس في الحق, yaitu menumbuhkan keinginan manusia untuk menerima dan melakukan kebenaran.
+
+Ketiga, تنفير النفوس من الباطل, yaitu membuat manusia menjauh dari kebatilan.
+
+Dosen menegaskan bahwa khitabah bekerja melalui komunikasi yang menyentuh hati dan memengaruhi sikap pendengar.
+
+34. Tiga jenis materi qiyas khitabi
+
+Materi qiyas khitabi yang disebut dalam kitab terbagi menjadi tiga, yaitu:
+
+الْمَشْهُورَاتُ فِي الظَّاهِرِ
+
+الْمَظْنُونَاتُ
+
+الْمَقْبُولَاتُ
+
+Ketiga jenis tersebut memiliki cara kerja yang berbeda.
+
+Pertama, المشهورات في الظاهر, yaitu perkara-perkara yang tampak masyhur dan diterima oleh pendengar pada pandangan atau pendengaran awal.
+
+Kedua, المظنونات, yaitu perkara-perkara yang memberikan dugaan kuat atau غالب الظن, tetapi masih memungkinkan adanya kritik dan bantahan.
+
+Ketiga, المقبولات, yaitu proposisi-proposisi yang diterima karena berasal dari orang-orang yang memiliki kedudukan, pengetahuan, dan kewibawaan.
+
+I. JENIS PERTAMA MATERI KHITABI: الْمَشْهُورَاتُ فِي الظَّاهِرِ
+
+35. Pengertian المشهورات في الظاهر
+
+المشهورات في الظاهر adalah proposisi atau pernyataan yang diterima oleh pendengar sejak pertama kali mendengarnya.
+
+Seseorang mendengar suatu pernyataan, lalu secara spontan merasa bahwa pernyataan itu benar dan layak diterima.
+
+Namun, setelah direnungkan lebih jauh, mungkin ditemukan bahwa pernyataan tersebut mengandung kekeliruan, memiliki makna yang tidak tepat, atau membutuhkan pembatasan.
+
+Dengan demikian, المشهورات في الظاهر berbeda dari proposisi yang telah diperiksa dan menghasilkan keyakinan melalui pembuktian yang kuat.
+
+Kekuatan jenis proposisi ini terletak pada kesan awal dan penerimaan spontan pendengar.
+
+36. Contoh ungkapan Arab: انصر أخاك ظالماً أو مظلوماً
+
+Dosen memberikan contoh sebuah ungkapan yang dikenal dalam masyarakat Arab:
+
+انْصُرْ أَخَاكَ ظَالِمًا أَوْ مَظْلُومًا
+
+“Tolonglah saudaramu, baik ketika ia menjadi orang yang zalim maupun ketika ia menjadi orang yang dizalimi.”
+
+Ungkapan ini merupakan peribahasa atau ungkapan yang dikenal oleh orang Arab.
+
+Ketika mendengarnya untuk pertama kali, seseorang mungkin langsung menerima pesan bahwa ia harus selalu membantu saudaranya dalam keadaan apa pun.
+
+Namun, apabila diperhatikan lebih jauh, muncul sebuah persoalan: bagaimana mungkin seseorang membantu saudaranya ketika saudaranya justru melakukan kezaliman?
+
+Apabila seseorang menolong saudaranya yang sedang dizalimi, hal itu mudah dipahami. Akan tetapi, bagaimana menolong saudara yang sedang menzalimi orang lain?
+
+Jika dipahami secara mentah, ungkapan tersebut seolah-olah memerintahkan seseorang agar mendukung saudaranya meskipun ia berbuat zalim.
+
+Dosen menjelaskan bahwa inilah contoh proposisi yang diterima pada pandangan awal, tetapi apabila dipikirkan lebih mendalam, terdapat bagian yang perlu diperjelas.
+
+37. Penjelasan Nabi ﷺ terhadap ungkapan tersebut
+
+Dosen kemudian mengutip hadis Nabi ﷺ yang diriwayatkan oleh al-Bukhari.
+
+Dalam hadis tersebut Rasulullah ﷺ bersabda:
+
+انْصُرْ أَخَاكَ ظَالِمًا أَوْ مَظْلُومًا
+
+Para sahabat bertanya:
+
+يَا رَسُولَ اللَّهِ، هَذَا نَنْصُرُهُ مَظْلُومًا، فَكَيْفَ نَنْصُرُهُ ظَالِمًا؟
+
+“Wahai Rasulullah, kami memahami bagaimana menolongnya ketika ia dizalimi. Namun, bagaimana kami menolongnya ketika ia justru menzalimi orang lain?”
+
+Nabi ﷺ menjawab:
+
+تَأْخُذُ عَلَى يَدَيْهِ
+
+Artinya, “Engkau menahan kedua tangannya.”
+
+Maksudnya, ketika seorang saudara melakukan kezaliman, cara menolongnya adalah mencegahnya dari perbuatan zalim tersebut.
+
+Dengan demikian, menolong orang yang zalim bukan berarti mendukung kezaliman atau membantunya agar berhasil menindas orang lain. Justru pertolongan kepadanya dilakukan dengan mencegahnya melakukan kezaliman.
+
+Dosen menjelaskan bahwa Islam memperbaiki atau memberikan batasan terhadap makna ungkapan yang secara lahiriah tampak dapat diterima, tetapi dapat menimbulkan kesalahpahaman apabila tidak dijelaskan.
+
+Karena itu, hadis tersebut menjadi contoh bagaimana suatu ungkapan yang masyhur pada pandangan awal perlu ditafsirkan dan diarahkan kepada makna yang benar.
+
+38. Mengapa contoh tersebut termasuk materi khitabi?
+
+Ungkapan انصر أخاك ظالماً أو مظلوماً mudah diterima oleh pendengar pada awalnya karena mengandung dorongan untuk membantu saudara.
+
+Namun, setelah direnungkan, orang akan menyadari bahwa menolong orang yang melakukan kezaliman tidak boleh berarti mendukung perbuatannya.
+
+Penjelasan Nabi ﷺ kemudian mengarahkan pemahaman kepada makna yang tepat, yaitu mencegah orang yang zalim agar berhenti melakukan kezaliman.
+
+Dosen menggunakan contoh ini untuk menunjukkan bahwa materi khitabi dapat memanfaatkan pernyataan yang tampak masyhur dan diterima secara spontan. Namun, penerimaan awal tersebut tidak selalu berarti seluruh makna lahiriahnya benar tanpa penjelasan.
+
+J. JENIS KEDUA MATERI KHITABI: الْمَظْنُونَاتُ
+
+39. Pengertian المظنونات
+
+Jenis materi kedua dalam qiyas khitabi adalah المظنونات.
+
+Dalam penjelasan kitab, المظنونات merupakan premis-premis yang memberikan غلبة الظن, yaitu dugaan yang kuat.
+
+Seseorang yang mendengar proposisi tersebut merasa bahwa suatu kesimpulan lebih mungkin benar daripada salah. Namun, ia tetap menyadari bahwa terdapat kemungkinan lain yang dapat membantah penilaian tersebut.
+
+Dengan demikian, المظنونات tidak menghasilkan keyakinan mutlak sebagaimana البرهان.
+
+Suatu pernyataan dapat mempunyai tingkat kemungkinan yang sangat tinggi, tetapi masih menyisakan ruang untuk kritik.
+
+Dosen menjelaskan bahwa materi semacam ini digunakan dalam khitabah karena tujuan utama khitabah adalah memengaruhi pendengar, bukan selalu menghasilkan kepastian demonstratif.
+
+40. Contoh dugaan dalam hubungan dengan musuh
+
+Dosen memberikan contoh seseorang yang berkomunikasi dengan musuh atau melakukan hubungan dengan pihak yang sedang menjadi lawan.
+
+Misalnya, seseorang melihat ada orang yang berbicara dengan musuh, pergi menemui musuh, atau menjalin hubungan dengan pihak musuh.
+
+Berdasarkan pengamatan itu, seseorang mungkin menduga bahwa orang tersebut telah bekerja sama dengan musuh.
+
+Namun, dugaan tersebut belum tentu benar. Ada kemungkinan hubungan itu dilakukan untuk tujuan lain, misalnya sebagai suatu siasat atau strategi tertentu. Bisa pula hubungan tersebut dilakukan demi kepentingan seorang teman atau untuk tujuan lain yang justru menguntungkan pihak yang benar.
+
+Dengan demikian, tindakan yang tampak mengarah kepada kerja sama dengan musuh dapat menimbulkan dugaan tertentu, tetapi belum menghasilkan kepastian.
+
+Contoh tersebut menunjukkan bahwa suatu keadaan dapat menjadi dasar dugaan kuat, tetapi tetap memungkinkan adanya penjelasan lain.
+
+41. Tingkat keyakinan, dugaan, dan keraguan
+
+Dosen kemudian mengingatkan bahwa dalam ilmu mantik, suatu penilaian dapat dibayangkan mempunyai tingkat tertentu, mulai dari tidak adanya keyakinan hingga keyakinan penuh.
+
+Beliau menggunakan ilustrasi angka dari nol sampai seratus persen.
+
+Apabila suatu pengetahuan mencapai seratus persen, hal itu dikaitkan dengan اليقين, yaitu keyakinan yang sempurna. Dalam pembahasan qiyas, keyakinan semacam itu merupakan tujuan قياس البرهان.
+
+Adapun apabila seseorang mempunyai dugaan yang kuat tetapi belum mencapai kepastian seratus persen, keadaan tersebut disebut الظن.
+
+Dosen menghubungkan الظن dengan qiyas yang menggunakan materi dugaan, sebagaimana dapat digunakan dalam pembahasan dialektis atau retoris sesuai dengan tujuan dan susunan qiyasnya.
+
+Dalam rekaman terdapat pula penyebutan rentang dari nol sampai lima puluh persen ketika dosen membicarakan tingkat yang lebih rendah daripada dugaan kuat. Namun, label teknis yang sedang dimaksud pada rentang tersebut tidak terdengar secara jelas. Karena itu, tidak dapat dipastikan apakah yang dimaksud secara khusus adalah الشك, الوهم, atau kategori lain.
+
+Hal yang dapat dipastikan dari penjelasan tersebut adalah perbedaan antara keyakinan penuh dan dugaan yang belum mencapai kepastian.
+
+K. JENIS KETIGA MATERI KHITABI: الْمَقْبُولَاتُ
+
+42. Pengertian المقبولات
+
+Jenis materi ketiga dalam qiyas khitabi adalah المقبولات.
+
+Dalam kitab dijelaskan bahwa المقبولات merupakan proposisi-proposisi yang diterima karena berasal dari orang-orang yang memiliki kedudukan dan kewibawaan dalam masyarakat.
+
+Dosen menyebut beberapa kelompok yang perkataannya dapat diterima oleh masyarakat, yaitu:
+
+أَفَاضِلُ النَّاسِ
+
+Orang-orang yang memiliki keutamaan.
+
+الْعُلَمَاءُ
+
+Para ulama.
+
+الْحُكَمَاءُ
+
+Orang-orang bijaksana.
+
+أَكَابِرُ السَّلَفِ
+
+Tokoh-tokoh besar dari generasi terdahulu.
+
+Perkataan mereka dapat diterima karena masyarakat mempunyai kepercayaan dan penghormatan terhadap mereka.
+
+43. Mengapa perkataan orang-orang tersebut diterima?
+
+Dosen menjelaskan bahwa suatu pernyataan dapat menjadi maqbul apabila dinukil secara berulang dari orang-orang yang memiliki kedudukan tersebut dan disampaikan dalam bentuk yang konsisten.
+
+Apabila suatu perkataan terus-menerus dinukil dari ulama, orang-orang bijaksana, atau tokoh yang memiliki kedudukan tinggi dalam Islam, pernyataan tersebut akan tertanam dalam pikiran masyarakat.
+
+Selain itu, masyarakat mempunyai حسن الظن بهم, yaitu prasangka baik atau kepercayaan terhadap mereka.
+
+Karena mereka dianggap memiliki ilmu, keutamaan, dan kebijaksanaan, perkataan mereka diterima oleh pendengar.
+
+Dengan demikian, المقبولات tidak diterima semata-mata karena telah menjadi kebiasaan umum, tetapi karena ada kepercayaan kepada orang yang menyampaikan pernyataan tersebut.
+
+Perbedaan ini penting: المشهورات diterima karena kemasyhuran pernyataannya di tengah masyarakat, sedangkan المقبولات diterima karena kedudukan dan otoritas orang yang menyampaikan pernyataan tersebut.
+
+L. PENJELASAN IBN RUSYD MENGENAI HUBUNGAN INDUSTRI KHITABAH DAN JADAL
+
+44. Kutipan Ibn Rusyd mengenai tujuan khitabah dan jadal
+
+Dosen kemudian mengutip penjelasan Ibn Rusyd mengenai صناعتا الخطابة والجدل, yaitu seni atau metode retorika dan dialektika.
+
+Dalam rekaman, redaksi kutipan terdengar sebagai berikut:
+
+صِنَاعَةُ الْخِطَابَةِ وَالْجَدَلِ كِلْتَاهُمَا يَؤُمَّانِ غَايَةً وَاحِدَةً، وَهِيَ الْمُخَاطَبَةُ، إِذْ كَانَتْ هَاتَانِ الصِّنَاعَتَانِ لَيْسَ يَسْتَعْمِلُهُمَا الْإِنْسَانُ بَيْنَهُ وَبَيْنَ نَفْسِهِ كَالْحَالِ فِي صِنَاعَةِ الْبُرْهَانِ، بَلْ إِنَّمَا يَسْتَعْمِلُهُمَا مَعَ الْغَيْرِ.
+
+Maksudnya, seni khitabah dan jadal sama-sama diarahkan kepada tujuan komunikasi atau berbicara dengan orang lain.
+
+Kedua metode tersebut tidak digunakan oleh seseorang hanya untuk berpikir sendiri sebagaimana pembahasan demonstratif yang dapat dilakukan dalam penelitian pribadi. Sebaliknya, keduanya terutama digunakan ketika seseorang berhadapan dengan orang lain.
+
+Dalam jadal, seseorang berbicara dengan lawan debat untuk menguji pendapat, menggunakan premis yang telah diterima, dan membantah pandangan yang tidak tepat.
+
+Dalam khitabah, seseorang berbicara kepada pendengar untuk memengaruhi mereka, menarik perhatian, menggerakkan hati, dan mengarahkan mereka kepada tindakan tertentu.
+
+Dengan demikian, keduanya sama-sama mempunyai dimensi komunikasi. Perbedaannya terletak pada tujuan dan materi yang digunakan.
+
+45. Manusia secara alami menggunakan qiyas jadali dan khitabi
+
+Dalam lanjutan kutipan tersebut, Ibn Rusyd menjelaskan bahwa manusia pada umumnya menggunakan bentuk-bentuk perkataan dialektis dan retoris dalam kehidupan sehari-hari.
+
+Artinya, penggunaan qiyas jadali dan khitabi bukan hanya terjadi di ruang kelas atau dalam perdebatan formal. Setiap orang dapat menggunakannya dalam percakapan, diskusi, ajakan, nasihat, dan berbagai bentuk komunikasi.
+
+Dosen menghubungkan hal ini dengan kehidupan sehari-hari. Seseorang dapat menggunakan argumen yang berdasarkan sesuatu yang telah diterima lawan bicara, atau menggunakan kata-kata yang dapat memengaruhi perasaan orang lain.
+
+Dengan demikian, qiyas jadali dan khitabi merupakan metode yang dapat ditemukan dalam komunikasi manusia pada umumnya.
+
+Pada bagian akhir kutipan Ibn Rusyd, terdapat redaksi yang kurang jelas mengenai penggunaan bersama kedua seni tersebut dalam suatu tema atau pembahasan. Karena itu, rincian redaksi dan maksud bagian tersebut tidak dapat dipastikan seluruhnya dari rekaman.
+
+M. AL-FARABI DAN PERKEMBANGAN ILMU MANTIQ
+
+46. Al-Farabi sebagai المعلم الثاني
+
+Dosen kemudian menyebut nama al-Farabi dan bertanya kepada mahasiswa mengenai gelar yang disandangnya.
+
+Gelar tersebut adalah:
+
+الْمُعَلِّمُ الثَّانِي
+
+Guru Kedua.
+
+Dosen menjelaskan bahwa al-Farabi mendapat gelar المعلم الثاني dalam sejarah pemikiran.
+
+Guru pertama adalah Aristoteles, sedangkan guru kedua adalah al-Farabi.
+
+Dengan demikian:
+
+الْمُعَلِّمُ الْأَوَّلُ: أَرِسْطُو
+
+الْمُعَلِّمُ الثَّانِي: الْفَارَابِيُّ
+
+47. Riwayat pendidikan al-Farabi sebagaimana diceritakan dosen
+
+Dosen menyampaikan kisah mengenai perjalanan keilmuan al-Farabi.
+
+Menurut cerita yang disampaikan dalam kelas, al-Farabi pada awalnya dikenal sebagai seorang ahli fikih. Ia pernah menjadi qadi dan memberikan fatwa.
+
+Kemudian, ia merasakan keinginan yang sangat kuat untuk mempelajari ilmu-ilmu rasional atau العلوم العقلية.
+
+Ia mulai mempelajari ilmu mantik ketika usianya mendekati lima puluh tahun.
+
+Dalam upaya mempelajari ilmu tersebut, ia mendatangi berbagai pusat pembelajaran. Apabila mendengar ada seseorang yang mengajarkan mantik di suatu tempat, ia mendatanginya. Ketika mendengar ada pengajaran ilmu tertentu di tempat lain, ia pergi ke tempat tersebut untuk belajar.
+
+Melalui perjalanan dan kesungguhannya dalam mempelajari ilmu mantik, ia akhirnya dikenal sebagai المعلم الثاني.
+
+Keterangan mengenai perjalanan pendidikan dan usia al-Farabi tersebut merupakan cerita yang disampaikan dosen dalam ceramah. Rincian historisnya tidak diperluas lebih lanjut dalam rekaman.
+
+48. Perbandingan al-Farabi dengan Aristoteles dan al-Ghazali
+
+Dosen menjelaskan bahwa Aristoteles dikenal sebagai المعلم الأول, sedangkan al-Farabi dikenal sebagai المعلم الثاني.
+
+Beliau juga mengakui bahwa al-Farabi merupakan tokoh yang memberikan penjelasan penting dalam ilmu mantik dan menyusun uraian yang baik mengenai bidang tersebut.
+
+Kemudian dosen menyebut Imam al-Ghazali yang datang setelah al-Farabi. Dalam rekaman terdapat pernyataan bahwa Imam al-Ghazali memberikan perhatian yang sangat besar terhadap ilmu mantik dan menulis pembahasan yang luas mengenai ilmu tersebut.
+
+Namun, perbandingan persis yang diucapkan dosen mengenai banyaknya karya atau penjelasan al-Ghazali dibandingkan al-Farabi tidak sepenuhnya jelas dalam rekaman.
+
+49. Definisi khitabah menurut al-Farabi
+
+Dosen kemudian mengutip definisi khitabah yang dinisbatkan kepada al-Farabi.
+
+Dalam rekaman, redaksinya terdengar sebagai:
+
+الْخِطَابَةُ صِنَاعَةٌ قِيَاسِيَّةٌ...
+
+Bagian berikutnya kurang jelas, tetapi penjelasan dosen mengarah kepada pengertian bahwa khitabah adalah suatu seni atau metode qiyas yang bertujuan menghasilkan القناعة, yaitu penerimaan atau keyakinan dalam jiwa pendengar.
+
+Dengan demikian, khitabah merupakan صناعة قياسية, yaitu suatu metode yang tersusun berdasarkan penalaran atau qiyas, tetapi orientasinya adalah memengaruhi dan membuat pendengar menerima suatu gagasan.
+
+Bagian redaksi yang berbicara mengenai susunan جنس atau اجناس dan apa yang diperoleh dalam jiwa pendengar tidak terdengar secara utuh. Karena itu, definisi lengkap yang dikutip dari al-Farabi tidak dapat dipastikan seluruhnya.
+
+N. MATERI QIYAS SAWFASATHA'I ATAU MUGHALATHI
+
+50. Pengantar القياس السفسطائي
+
+Setelah membahas qiyas khitabi, dosen beralih kepada jenis keempat yang sedang dijelaskan dalam rangkaian pembelajaran, yaitu:
+
+الْقِيَاسُ السَّفْسَطَائِيُّ
+
+Qiyas safasthah atau sofistik.
+
+Dalam rekaman, istilah ini juga disebut sebagai:
+
+الْقِيَاسُ الْمُغَالَطِيُّ
+
+Yaitu qiyas yang mengandung kekeliruan atau penyimpangan penalaran.
+
+Dosen menjelaskan bahwa materi qiyas ini bertumpu pada dua jenis proposisi utama, yaitu:
+
+الْوَهْمِيَّاتُ
+
+الْمُشَبَّهَاتُ
+
+Dengan demikian, materi qiyas safasthah berbeda dari qiyas burhani, jadali, maupun khitabi.
+
+51. Pengertian الوهميات
+
+Jenis pertama yang digunakan dalam qiyas safasthah adalah الوهميات.
+
+Dalam kitab dijelaskan bahwa الوهميات merupakan proposisi-proposisi yang pada dasarnya batil, tetapi mempunyai kekuatan yang sangat besar dalam jiwa manusia.
+
+Artinya, suatu pernyataan sebenarnya tidak benar, tetapi terasa sangat meyakinkan bagi seseorang karena sesuai dengan gambaran yang terbentuk dalam pikirannya.
+
+Kekuatan proposisi itu dapat begitu besar sehingga seseorang sulit langsung menerima dalil yang menunjukkan kesalahannya.
+
+Dosen menjelaskan bahwa hal ini berkaitan dengan cara kerja الوهم, yaitu daya yang cenderung menilai sesuatu berdasarkan gambaran yang sesuai dengan pengalaman indrawi yang telah dikenal.
+
+Manusia terbiasa memahami sesuatu berdasarkan apa yang dapat dilihat, disentuh, dibayangkan, atau ditemukan dalam pengalaman indrawinya.
+
+Karena terbiasa dengan pengalaman seperti itu, ia terkadang menganggap bahwa sesuatu yang tidak sesuai dengan gambaran indrawi pasti mustahil ada.
+
+Padahal, penilaian tersebut belum tentu benar.
+
+52. Mengapa wahm dapat menghasilkan penilaian keliru?
+
+Dosen menjelaskan bahwa الوهم tidak selalu mampu menerima sesuatu yang tidak sesuai dengan gambaran indrawi yang telah biasa dialaminya.
+
+Seseorang mungkin terbiasa memahami bahwa setiap sesuatu yang ada pasti menempati tempat tertentu, memiliki arah, atau berada di dalam suatu ruang.
+
+Karena itu, ketika ia mendengar adanya sesuatu yang tidak berada di dalam suatu tempat dan tidak pula berada di luar tempat tersebut, ia langsung merasa bahwa hal itu mustahil.
+
+Penilaian tersebut berasal dari الوهم, bukan dari pembuktian akal yang benar.
+
+Dosen kemudian memberikan contoh proposisi:
+
+اسْتِحَالَةُ وُجُودِ مَوْجُودٍ لَا إِشَارَةَ إِلَيْهِ فِي جِهَةٍ
+
+Kemustahilan adanya sesuatu yang tidak dapat ditunjuk sebagai berada dalam suatu arah.
+
+Beliau juga menyebut contoh:
+
+وُجُودُ مَوْجُودٍ لَا فِي دَاخِلِ الْعَالَمِ وَلَا فِي خَارِجِهِ
+
+Adanya sesuatu yang tidak berada di dalam alam dan tidak pula berada di luar alam.
+
+Menurut penjelasan dosen, الوهم dapat menganggap keberadaan seperti itu mustahil karena tidak sesuai dengan gambaran yang biasa ditangkap oleh indra.
+
+Akan tetapi, penilaian tersebut tidak boleh langsung dianggap sebagai hukum akal. Seseorang harus membedakan apa yang dianggap mustahil oleh daya imajinasi atau wahm dan apa yang benar-benar mustahil berdasarkan hukum akal.
+
+53. Perbedaan antara penilaian wahm dan hukum akal
+
+Dosen ingin menegaskan bahwa sesuatu yang terasa mustahil bagi imajinasi belum tentu mustahil menurut akal.
+
+Wahm sangat dipengaruhi oleh pengalaman indrawi. Apabila seseorang selalu membayangkan sesuatu yang ada pasti menempati arah atau tempat, ia akan kesulitan menerima konsep keberadaan yang tidak sesuai dengan pengalaman tersebut.
+
+Namun, ilmu mantik dan ilmu kalam menuntut seseorang memeriksa persoalan berdasarkan pembagian hukum akal, bukan hanya mengikuti gambaran yang terbentuk dalam imajinasinya.
+
+Dengan demikian, proposisi wahmiyyah dapat menjadi sumber kesalahan karena sesuatu yang sebenarnya masih mungkin atau bahkan dapat diterima secara akal justru dianggap mustahil akibat pengaruh gambaran indrawi.
+
+54. Contoh persoalan akidah: من خلق الله؟
+
+Dosen kemudian menyatakan bahwa terdapat satu persoalan yang sangat penting dan termasuk pembahasan berbahaya yang berkaitan dengan الوهميات.
+
+Persoalan tersebut adalah:
+
+مَنْ خَلَقَ اللَّهَ؟
+
+“Siapa yang menciptakan Allah?”
+
+Dosen menekankan bahwa persoalan ini akan dibahas secara khusus pada pertemuan berikutnya.
+
+Beliau belum memberikan uraian lengkap mengenai jawaban dan argumentasi atas pertanyaan tersebut pada pertemuan ini. Namun, beliau menyatakan bahwa persoalan tersebut sangat penting dan berkaitan dengan cara kerja wahm dalam membentuk penilaian manusia.
+
+Karena itu, mahasiswa diminta hadir tepat waktu pada pertemuan berikutnya agar pembahasan dapat dimulai sejak awal.
+
+Dosen mengingatkan bahwa persoalan ini termasuk salah satu pembahasan yang sangat penting dan perlu dipahami dengan baik.
+
+O. RANGKUMAN ULANG MATERI OLEH MAHASISWA
+
+55. Mahasiswa diminta menjelaskan materi dalam lima sampai sepuluh menit
+
+Menjelang akhir pertemuan, dosen meminta seorang mahasiswa menjelaskan kembali materi yang telah dipelajari dalam waktu sekitar lima atau sepuluh menit.
+
+Beliau mempersilakan mahasiswa menggunakan kitab untuk membantu menjelaskan, tetapi meminta agar penjelasan dilakukan dengan memahami materi, bukan sekadar membaca teks.
+
+Seorang mahasiswa kemudian memperkenalkan diri sebagai Fiz Muhammad dari Mesir dan mulai menjelaskan kembali materi perkuliahan.
+
+Bagian ini merupakan pengulangan materi oleh mahasiswa. Meskipun banyak bagian sudah disampaikan sebelumnya oleh dosen, penjelasan mahasiswa memuat beberapa contoh tambahan dan perincian yang perlu diperhatikan.
+
+56. Penjelasan mahasiswa mengenai materi qiyas jadali
+
+Mahasiswa menjelaskan bahwa materi qiyas jadali tersusun dari:
+
+الْمَشْهُورَاتُ وَالْمُسَلَّمَاتُ
+
+Ia memulai dari المشهورات.
+
+Menurut penjelasannya, المشهورات merupakan proposisi yang diterima karena kemasyhuran dan pandangan umum. Proposisi tersebut dapat diterima oleh masyarakat umum, dan terkadang oleh kalangan ahli ilmu dianggap memiliki kedudukan yang dekat dengan الأوليات, meskipun bukan benar-benar الأوليات.
+
+Mahasiswa kemudian mengingatkan bahwa proposisi masyhur dapat berbeda kekuatannya. Perbedaan tersebut berkaitan dengan perbedaan kemasyhuran, kebiasaan, akhlak, tempat, dan pekerjaan.
+
+Ia kembali menggunakan contoh yang telah dijelaskan dosen mengenai tindakan dua orang sahabat laki-laki yang berjalan sambil memegang tangan atau melakukan tindakan fisik tertentu.
+
+Di Mesir, tindakan tersebut dapat menjadi tanda kedekatan dan persahabatan yang erat. Namun, dalam masyarakat lain, tindakan yang sama dapat dipahami berbeda.
+
+Mahasiswa menegaskan bahwa perbedaan tersebut tidak hanya terdapat pada tindakan, tetapi juga pada lafaz atau kata-kata.
+
+57. Contoh tambahan mengenai perbedaan lafaz dan makna
+
+Dalam penjelasan mahasiswa, muncul pembahasan mengenai kata yang terdengar sebagai سَمْرَة dan beberapa kata lain dalam bahasa Melayu, Bengali, serta bahasa yang digunakan masyarakat dari negara lain.
+
+Mahasiswa mencoba menunjukkan bahwa satu kata dapat memiliki arti yang berbeda di tempat yang berbeda.
+
+Namun, dosen kembali membedakan hal tersebut dari keadaan ketika satu makna yang sama diungkapkan dengan kata yang berbeda dalam dua bahasa.
+
+Apabila satu kata yang sama mempunyai arti berbeda di dua tempat, berarti persoalannya berkaitan dengan perbedaan makna dari satu lafaz.
+
+Sebaliknya, apabila satu benda mempunyai nama berbeda dalam dua bahasa, itu hanya merupakan perbedaan kosakata.
+
+Dalam percakapan tersebut, muncul pula contoh kata dalam bahasa Melayu yang berkaitan dengan sampah atau istilah lain yang makna persisnya tidak terdengar jelas. Dosen meminta mahasiswa tetap memperhatikan perbedaan antara lafaz yang sama tetapi memiliki makna berlainan dan makna yang sama tetapi disebut dengan lafaz berbeda.
+
+58. Penegasan bahwa المشهور tidak identik dengan الباطل
+
+Mahasiswa kembali mengingatkan bahwa المشهور tidak selalu berarti benar.
+
+Sesuatu yang masyhur di suatu tempat tidak otomatis berarti benar di tempat tersebut, sebagaimana sesuatu yang tidak masyhur tidak otomatis berarti batil.
+
+Dosen mengarahkan agar mahasiswa tidak menyamakan kemasyhuran dengan kebenaran.
+
+Dengan demikian, proposisi masyhur hanya menunjukkan bahwa sesuatu diterima secara luas, bukan bahwa seluruh isi proposisi tersebut telah dibuktikan secara demonstratif.
+
+59. Penjelasan mahasiswa mengenai المسلمات
+
+Setelah membahas المشهورات, mahasiswa menjelaskan bahwa المسلمات merupakan proposisi yang diterima oleh lawan debat.
+
+Proposisi tersebut tidak harus dikenal dan diterima oleh semua masyarakat.
+
+Suatu pernyataan dapat menjadi مسلمة apabila telah diakui oleh lawan dalam suatu perdebatan.
+
+Karena itu, المسلمات digunakan ketika seseorang berdiskusi dengan lawan bicara tertentu. Lawan tersebut telah menerima pernyataan tertentu, sehingga pernyataan itu dapat dijadikan dasar untuk melanjutkan argumentasi.
+
+Mahasiswa kembali mengingatkan bahwa perbedaan المشهورات dan المسلمات terletak pada pihak yang menerima: masyarakat umum untuk المشهورات dan lawan debat atau kelompok tertentu untuk المسلمات.
+
+60. Penjelasan mahasiswa mengenai manfaat qiyas jadali
+
+Mahasiswa kemudian mengulang manfaat pertama qiyas jadali, yaitu memberikan pemahaman kepada orang yang banyak bertanya atau memiliki penyimpangan dan tidak mampu memahami kebenaran melalui burhan.
+
+Ia menghubungkannya dengan pertanyaan dosen mengenai seseorang yang mengatakan bahwa Allah tidak mampu melakukan segala sesuatu atau mengajukan syubhat mengenai kekuasaan Allah.
+
+Qiyas jadali dapat digunakan untuk menjawab orang tersebut dengan memakai proposisi yang telah ia terima.
+
+Mahasiswa kemudian menyebut manfaat lainnya, yaitu membantu orang yang ingin mempelajari akidah yang benar tetapi belum mampu memahami pembuktian burhani secara sempurna.
+
+61. Penjelasan mahasiswa mengenai materi qiyas khitabi
+
+Mahasiswa kemudian berpindah kepada materi القياس الخطابي.
+
+Ia menjelaskan bahwa materi qiyas khitabi terdiri atas:
+
+الْمَشْهُورَاتُ فِي الظَّاهِرِ، وَالْمَظْنُونَاتُ، وَالْمَقْبُولَاتُ
+
+Menurut mahasiswa, tujuan khitabah adalah:
+
+اسْتِمَالَةُ نُفُوسِ النَّاسِ وَتَرْغِيبُهَا فِي الْحَقِّ وَتَنْفِيرُهَا مِنَ الْبَاطِلِ
+
+Artinya, menarik jiwa manusia, mendorong mereka kepada kebenaran, dan membuat mereka menjauhi kebatilan.
+
+Mahasiswa menjelaskan bahwa qiyas khitabi bekerja melalui komunikasi yang dapat memengaruhi hati dan perasaan pendengar.
+
+Sebagai contoh, seorang tokoh masyarakat dapat menyampaikan pidato untuk mengajak orang-orang mengumpulkan dana pembangunan masjid atau sekolah. Pidato tersebut bertujuan menggerakkan hati masyarakat agar bersedia mengeluarkan harta demi kepentingan bersama.
+
+62. Pengulangan tiga jenis materi khitabi oleh mahasiswa
+
+Mahasiswa kemudian menjelaskan bahwa المشهورات في الظاهر merupakan pernyataan yang diterima oleh pendengar pada awalnya. Setelah direnungkan, pernyataan tersebut mungkin ternyata memerlukan penjelasan atau pembatasan.
+
+Ia menggunakan contoh ungkapan:
+
+انْصُرْ أَخَاكَ ظَالِمًا أَوْ مَظْلُومًا
+
+Mahasiswa mengingatkan bahwa Nabi ﷺ menjelaskan cara menolong orang yang zalim ialah dengan mencegahnya melakukan kezaliman.
+
+Selanjutnya, ia mengulang pengertian المظنونات, yaitu proposisi yang memberikan dugaan kuat tetapi masih memungkinkan adanya bantahan.
+
+Kemudian ia menjelaskan المقبولات sebagai proposisi yang diterima karena berasal dari orang-orang yang mempunyai keutamaan, ulama, orang-orang bijaksana, serta tokoh-tokoh besar dari kalangan umat Islam.
+
+63. Pengulangan kutipan Ibn Rusyd
+
+Mahasiswa juga mengulang penjelasan Ibn Rusyd bahwa khitabah dan jadal sama-sama mempunyai tujuan komunikasi dengan orang lain.
+
+Kedua jenis qiyas tersebut digunakan dalam interaksi manusia, sedangkan burhan dapat pula menjadi metode yang digunakan seseorang dalam penelitian dan penalaran untuk dirinya sendiri.
+
+Mahasiswa menyebut bahwa penggunaan qiyas jadali dan khitabi dapat ditemukan dalam kehidupan sehari-hari, bukan hanya dalam pembelajaran mantik.
+
+64. Penjelasan mahasiswa mengenai qiyas safasthah
+
+Mahasiswa kemudian berpindah kepada:
+
+الْقِيَاسُ السُّفْسَطَائِيُّ
+
+Ia menjelaskan bahwa materi qiyas tersebut berkaitan dengan الوهميات dan proposisi-proposisi yang menimbulkan keserupaan atau gambaran yang menyesatkan.
+
+Dengan demikian, qiyas safasthah menggunakan materi yang dapat menampilkan sesuatu yang salah seolah-olah benar.
+
+Penjelasan mahasiswa pada bagian ini lebih singkat karena dosen memang belum menyelesaikan pembahasan الوهميات. Persoalan utama mengenai bagaimana wahm memengaruhi keyakinan manusia dan pertanyaan من خلق الله؟ akan dijelaskan pada pertemuan berikutnya.
+
+P. PENUTUP PERKULIAHAN
+
+65. Informasi mengenai kegiatan lain
+
+Setelah mahasiswa menyelesaikan penjelasan ulang, dosen mengucapkan terima kasih atas penjelasannya.
+
+Beliau menyampaikan bahwa terdapat kegiatan atau manfaat tambahan pada hari itu yang berkaitan dengan sebuah ندوة طبية, yaitu seminar atau kegiatan ilmiah kedokteran. Dalam rekaman disebut pula seorang profesor atau guru besar dari suatu lembaga pendidikan yang berkaitan dengan anak-anak, tetapi nama dan institusi tersebut tidak terdengar jelas.
+
+Dosen mengatakan bahwa kegiatan tersebut diharapkan dapat memberikan manfaat dan pengetahuan tambahan bagi para mahasiswa.
+
+Beliau menyampaikan bahwa setelah kegiatan itu, perkuliahan akan dilanjutkan pada kesempatan berikutnya.
+
+66. Penutup
+
+Dosen mengucapkan terima kasih kepada para mahasiswa atas perhatian dan partisipasi mereka selama perkuliahan.
+
+Beliau menutup pertemuan dengan salam:
+
+السَّلَامُ عَلَيْكُمْ وَرَحْمَةُ اللَّهِ وَبَرَكَاتُهُ
+
+RANGKAIAN PEMAHAMAN UTAMA MATERI
+
+Pembahasan dimulai dengan mengingatkan bahwa setiap qiyas mempunyai dua unsur: شكل القياس dan مادة القياس. Bentuk adalah struktur atau kerangka penalaran, sedangkan materi adalah premis-premis yang dimasukkan ke dalam struktur tersebut. Melalui perbedaan materi, qiyas dibagi menjadi lima jenis: burhan, jadal, khitabah, syair, dan safasthah. Dalam materi ini, dosen terutama membahas jadal, khitabah, dan safasthah, setelah sebelumnya mahasiswa mempelajari burhan.
+
+Qiyas jadali menggunakan dua jenis materi, yaitu المشهورات dan المسلمات. المشهورات adalah proposisi yang diterima masyarakat umum karena kemasyhuran dan pengulangan. Contohnya ialah keadilan wajib, kezaliman buruk, kejujuran wajib, dan kebohongan buruk. Namun, proposisi masyhur tidak selalu dapat diterapkan tanpa perincian. Kebohongan, misalnya, dapat dibolehkan atau diwajibkan dalam keadaan tertentu menurut syariat, seperti mendamaikan pihak yang berselisih, menjaga hubungan suami istri, atau melindungi kaum muslimin dari musuh. Karena itu, sesuatu yang masyhur harus tetap diperiksa dan tidak boleh disamakan secara otomatis dengan kebenaran demonstratif.
+
+Pembahasan المشهورات juga dihubungkan dengan sifat القدرة. Allah Mahakuasa atas segala sesuatu, tetapi menurut penjelasan dosen, القدرة berkaitan dengan الممكنات, bukan perkara wajib atau mustahil. Kemustahilan menciptakan Tuhan lain bukan menunjukkan kelemahan Allah, melainkan karena sesuatu yang diciptakan tidak mungkin menjadi واجب الوجود بالذات. Dosen menggunakan contoh enam susunan angka satu, dua, dan tiga untuk membedakan ketidakmampuan karena kelemahan dari sesuatu yang memang mustahil secara akal. Pembahasan ini juga menunjukkan pentingnya memahami الحكم العقلي sebelum memasuki persoalan teknis akidah.
+
+Proposisi masyhur berbeda kekuatannya menurut kebiasaan, akhlak, tempat, pekerjaan, dan zaman. Tindakan dua laki-laki berjalan sambil memegang tangan dapat dianggap sebagai tanda persahabatan erat di Mesir, tetapi dapat dipahami berbeda di lingkungan masyarakat lain. Demikian pula, lafaz yang sama terkadang memiliki arti berbeda di dua tempat, sedangkan satu makna dapat pula diungkapkan dengan lafaz yang berbeda dalam bahasa yang berbeda. Karena itu, kemasyhuran harus dipahami berdasarkan lingkungan sosial dan bahasa yang menjadi konteksnya.
+
+Jenis materi kedua dalam qiyas jadali adalah المسلمات, yaitu proposisi yang diterima oleh lawan debat atau kelompok khusus. Perbedaannya dari المشهورات terletak pada pihak yang menerima: المشهورات diterima masyarakat umum, sedangkan المسلمات diakui oleh lawan atau kelompok tertentu. Keduanya digunakan dalam أدب البحث والمناظرة, karena seorang pendebat dapat membangun argumentasi dari pernyataan yang sudah diterima lawannya.
+
+Qiyas jadali mempunyai beberapa kegunaan. Ia dapat digunakan untuk menjelaskan kebenaran kepada orang yang tidak mampu mengikuti burhan, mengajarkan akidah kepada orang yang kemampuan berpikirnya berada di atas tingkat awam tetapi belum sampai pada tingkat memahami pembuktian burhani, serta membantu pembelajaran awal dalam ilmu-ilmu khusus seperti kedokteran dan teknik. Satu dalil juga dapat digunakan dalam beberapa jenis qiyas, bergantung pada materi dan susunan argumentasi yang dibangun.
+
+Contoh penggunaan dua qiyas yang bertentangan terlihat dalam pembahasan رؤية الله. Pihak yang membolehkan melihat Allah menggunakan premis bahwa Allah ada dan setiap yang ada dapat dilihat. Pihak yang menyatakan tidak dapat dilihat menggunakan premis bahwa Allah bukan benda dan segala sesuatu yang bukan benda tidak dapat dilihat. Dengan membandingkan kedua susunan tersebut, seseorang dapat meneliti premis mana yang benar dan di mana letak kelemahan argumentasi.
+
+Setelah itu, pembahasan beralih kepada qiyas khitabi. Materinya terdiri atas المشهورات في الظاهر, المظنونات, dan المقبولات. Tujuan khitabah adalah memengaruhi jiwa, mendorong manusia kepada kebenaran, dan menjauhkan mereka dari kebatilan. Karena itu, khitabah digunakan untuk menggerakkan masyarakat, misalnya ketika seorang khatib mengajak penduduk mengumpulkan dana pembangunan masjid atau sekolah.
+
+المشهورات في الظاهر merupakan pernyataan yang diterima pada pandangan awal, tetapi mungkin memerlukan pembatasan setelah ditelaah lebih jauh. Contohnya adalah ungkapan انصر أخاك ظالماً أو مظلوماً. Nabi ﷺ menjelaskan bahwa membantu saudara yang zalim berarti mencegahnya melakukan kezaliman, bukan mendukung perbuatannya. المظنونات merupakan proposisi yang menghasilkan dugaan kuat tetapi masih mungkin dibantah, seperti dugaan bahwa seseorang yang berhubungan dengan musuh pasti telah bekerja sama dengannya. Padahal, hubungan tersebut mungkin memiliki tujuan lain. Adapun المقبولات diterima karena berasal dari orang-orang yang memiliki kedudukan dan keutamaan, seperti ulama, orang bijaksana, serta tokoh besar dari generasi terdahulu.
+
+Dosen kemudian mengutip Ibn Rusyd untuk menjelaskan bahwa khitabah dan jadal sama-sama berorientasi pada komunikasi dengan orang lain. Keduanya digunakan dalam interaksi manusia, meskipun mempunyai tujuan dan materi berbeda. Pembahasan ini dilanjutkan dengan pengenalan al-Farabi sebagai المعلم الثاني, setelah Aristoteles sebagai المعلم الأول. Dosen menceritakan perjalanan keilmuan al-Farabi dan kontribusinya dalam penjelasan ilmu mantik.
+
+Terakhir, dosen membahas القياس السفسطائي atau القياس المغالطي. Materinya terdiri atas الوهميات dan المشبهات. الوهميات adalah proposisi-proposisi yang pada hakikatnya batil, tetapi sangat kuat memengaruhi jiwa karena sesuai dengan gambaran indrawi yang biasa dialami manusia. Contohnya ialah anggapan bahwa sesuatu yang ada harus selalu menempati arah atau berada di dalam maupun di luar alam. Dosen menegaskan bahwa sesuatu yang terasa mustahil bagi wahm belum tentu mustahil menurut akal. Persoalan من خلق الله؟ disebut sebagai salah satu contoh penting yang akan dibahas secara khusus pada pertemuan berikutnya.
+
+Dengan demikian, materi perkuliahan ini memperlihatkan perbedaan tiga jenis qiyas berdasarkan tujuan dan materi yang digunakan. Burhan diarahkan kepada pembuktian yang menghasilkan keyakinan. Jadal menggunakan proposisi masyhur dan musallam untuk berdiskusi dan membantah pendapat lawan. Khitabah menggunakan pernyataan yang tampak masyhur, dugaan kuat, dan perkataan tokoh yang diterima untuk memengaruhi jiwa pendengar. Sementara itu, safasthah menggunakan materi yang dapat menyesatkan penilaian melalui pengaruh wahm dan keserupaan yang menipu.
+
+Hal yang paling ditekankan dosen ialah bahwa seseorang tidak boleh mencampuradukkan kemasyhuran dengan kebenaran, dugaan dengan keyakinan, atau sesuatu yang tampak mustahil bagi imajinasi dengan sesuatu yang benar-benar mustahil menurut akal. Untuk memahami seluruh jenis qiyas tersebut, mahasiswa harus menguasai perbedaan antara bentuk dan materi qiyas serta memahami karakter masing-masing jenis premis yang digunakan.
