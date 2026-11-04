@@ -1,1433 +1,960 @@
-MATERI FILSAFAT DAN PEMIKIRAN FILOSOFIS
+# HUBUNGAN ANTARA FILSAFAT DAN ILMU PENGETAHUAN
 
-PEMBAHASAN LIMA KEBERATAN TERHADAP FILSAFAT, HAKIKAT BERPIKIR FILOSOFIS, HUBUNGAN FILSAFAT DENGAN AGAMA, DAN CABANG-CABANG FILSAFAT
+## 1. Pembukaan dan Pengantar Pembahasan
 
-Catatan mengenai sumber: Ceramah ini melanjutkan pembahasan keberatan-keberatan terhadap filsafat, kemudian berkembang menjadi diskusi mengenai metafisika, hakikat akal dan pemikiran filosofis, hubungan filsafat dengan agama, serta perbedaan antara مباحث المعرفة dan مباحث القيم. Beberapa nama, istilah, dan redaksi dalam rekaman tidak terdengar jelas. Bagian-bagian tersebut tetap dijelaskan berdasarkan konteks yang dapat dipastikan, tanpa menambahkan rincian yang tidak disampaikan oleh pembicara.
+Dosen membuka perkuliahan dengan membaca syahadat, memuji Allah, serta berselawat kepada Nabi Muhammad صلى الله عليه وسلم, keluarga, para sahabat, dan orang-orang yang mengikuti beliau dengan baik hingga hari Kiamat. Setelah itu, beliau mendoakan agar Allah meridai mereka semua.
 
-BAGIAN PERTAMA
-KEBERATAN-KEBERATAN TERHADAP FILSAFAT
+Sebagaimana kebiasaannya setiap hari Ahad, dosen kemudian bertanya kepada para mahasiswa apakah ada yang ingin ditanyakan. Beliau mengatakan bahwa tidak adanya pertanyaan dapat memiliki dua kemungkinan. Kemungkinan pertama, seluruh mahasiswa adalah orang-orang yang sangat cerdas sehingga mampu memahami semua materi dengan baik. Kemungkinan kedua, mereka belum membaca apa pun sehingga tidak memiliki pertanyaan. Ketika dosen bertanya kemungkinan mana yang lebih mendekati kenyataan, para mahasiswa menjawab bahwa kemungkinan pertama yang benar. Dosen pun berharap hal itu memang benar dan mengajak mereka bersyukur kepada Allah.
 
-1. Pengantar: Keberatan terhadap filsafat muncul dari berbagai sudut pandang
+Pada pertemuan kali ini, pembahasan memasuki salah satu persoalan baru dalam filsafat, yaitu **hubungan antara filsafat dan ilmu pengetahuan** (علاقة الفلسفة بالعلم). Dosen menyebutnya sebagai persoalan keenam dalam rangkaian pembahasan filsafat.
 
-Dosen memulai pembahasan dengan menjelaskan bahwa keberatan terhadap filsafat dapat muncul dari berbagai arah. Sebuah keberatan bisa saja benar atau tidak benar. Selain itu, penilaian manusia terhadap suatu ilmu, pemikiran, atau peristiwa juga dipengaruhi oleh keadaan, waktu, tempat, orang, dan lingkungan sosialnya.
+Sebelum membicarakan hubungan antara dua hal, seseorang harus terlebih dahulu memahami apa yang dimaksud dengan masing-masing hal tersebut. Dosen mengingatkan kaidah:
 
-Setiap masyarakat mempunyai ukuran atau nilai tersendiri untuk menilai suatu keadaan. Sesuatu yang dianggap baik oleh suatu kelompok belum tentu dinilai baik oleh kelompok lain. Demikian pula, sesuatu yang dianggap buruk oleh seseorang belum tentu dipandang buruk oleh orang lain.
+**الحكم على الشيء فرع عن تصوره**
 
-Sebagai contoh, seseorang mungkin melihat suatu ilmu atau pemikiran sebagai sesuatu yang menyimpang, mengandung syubhat, atau tidak dapat diterima. Namun, orang lain justru melihat ilmu yang sama sebagai sesuatu yang menarik, bermanfaat, dan layak dipelajari. Orang yang satu menjauh darinya karena melihat banyak keberatan, sedangkan orang lain mendekatinya karena melihat kelebihan dan manfaat yang terkandung di dalamnya.
+Artinya, memberikan penilaian terhadap sesuatu merupakan cabang atau kelanjutan dari memahami sesuatu itu terlebih dahulu. Seseorang tidak mungkin memberikan penilaian yang tepat terhadap sesuatu apabila ia belum mengetahui hakikat atau pengertiannya.
 
-Karena itu, keberatan terhadap suatu ilmu tidak selalu berarti bahwa keberatan tersebut telah membuktikan kesalahan ilmu itu. Keberatan menunjukkan bahwa terdapat seseorang atau kelompok yang mempunyai pandangan tertentu terhadap ilmu tersebut. Pandangan itu kemudian perlu diperiksa dan dijawab.
+Karena itu, sebelum menentukan hubungan antara filsafat dan ilmu, harus dijelaskan terlebih dahulu apa yang dimaksud dengan filsafat, apa yang dimaksud dengan ilmu, dan jenis filsafat serta ilmu apa yang sedang dibicarakan. Setelah keduanya dipahami, barulah hubungan di antara keduanya dapat dianalisis.
 
-Dosen menjelaskan bahwa jawaban terhadap suatu keberatan pada dasarnya dapat dilakukan melalui dua jalan. Pertama, menjelaskan mana yang benar dalam persoalan yang diperdebatkan. Kedua, menunjukkan bahwa penilaian manusia terhadap suatu perkara dapat bersifat relatif karena dipengaruhi ukuran, kebiasaan, dan keadaan yang berbeda.
+## 2. Pengertian Filsafat
 
-Sesuatu yang menurut seseorang merupakan kesalahan bisa saja dipandang oleh orang lain sebagai sesuatu yang lebih dekat kepada kebenaran. Sesuatu yang dianggap menjijikkan atau tidak menarik oleh satu pihak dapat menjadi alasan bagi pihak lain untuk menerima dan mempelajarinya.
+Dosen meminta mahasiswa menyampaikan beberapa definisi filsafat, baik definisi klasik, modern, maupun definisi yang mereka pahami sendiri.
 
-Hal tersebut berkaitan dengan keadaan setiap masyarakat. Setiap masyarakat hidup dalam lingkungan yang mempunyai kebiasaan, keyakinan, agama, serta nilai-nilai tertentu. Sebagian masyarakat merasa tenang dan bahagia dengan keyakinan yang telah mereka miliki sehingga tidak menghendaki adanya gangguan atau perubahan terhadapnya. Sementara itu, sebagian masyarakat lain merasa bahwa keadaan yang ada perlu diperiksa kembali, ditata ulang, atau dinilai ulang.
+Beberapa jawaban mahasiswa muncul. Ada yang mengatakan bahwa filsafat merupakan **حب الحكمة**, yaitu kecintaan terhadap kebijaksanaan atau *love of wisdom*. Ada pula yang mendefinisikannya sebagai gerakan akal untuk mencari kebenaran:
 
-Dalam keadaan seperti itu, filsafat dapat menjadi sarana bagi seseorang untuk memikirkan kembali suatu persoalan dan meninjau ulang penilaiannya terhadap kehidupan.
+**حركة العقل للبحث عن الحقيقة**
 
-2. Keberatan terhadap filsafat tidak selalu berasal dari alasan yang sama
+Selain itu, seorang mahasiswa menyampaikan bahwa filsafat merupakan kumpulan kaidah umum atau قواعد عامة. Mahasiswa lainnya menyebut definisi yang berasal dari buku, yaitu ilmu yang membahas sesuatu yang berkaitan dengan maujud dan sebab-sebabnya. Bagian redaksi definisi mahasiswa tersebut dalam rekaman tidak sepenuhnya jelas, tetapi dosen kemudian mengarahkan pembahasan kepada definisi yang akan digunakan dalam perkuliahan.
 
-Dosen menjelaskan bahwa keberatan terhadap filsafat sangat banyak. Setiap keberatan dapat muncul dari tujuan, kepentingan, atau arah pemikiran yang berbeda.
+Dosen menegaskan bahwa filsafat yang sedang dibicarakan dalam materi ini adalah:
 
-Ada orang yang menolak filsafat karena memegang pandangan materialistis dan tidak menerima pendekatan idealistis. Ada pula orang yang berangkat dari pendekatan rasional, kemudian mengkritik pendekatan lain yang menurutnya tidak sesuai dengan dasar pemikiran rasional.
+**بحث عقلي نظري في الموجودات**
 
-Dengan demikian, pihak yang mengajukan keberatan terhadap filsafat tidak selalu berasal dari kelompok yang sama. Bahkan, orang yang mengkritik suatu aliran filsafat terkadang sedang mewakili aliran pemikiran lain.
+Artinya, filsafat merupakan penelitian atau pembahasan rasional dan teoretis mengenai segala sesuatu yang ada.
 
-Dosen mengingatkan bahwa keberatan terhadap filsafat perlu dipahami berdasarkan latar belakang dan arah pemikiran pihak yang mengajukannya. Tidak cukup hanya membaca kalimat keberatannya, tetapi juga perlu diketahui apa yang ingin dipertahankan oleh pihak tersebut dan mengapa ia menganggap filsafat sebagai sesuatu yang bermasalah.
+Ada tiga unsur penting dalam pengertian tersebut. Pertama, pembahasan filsafat menggunakan akal. Kedua, pembahasannya bersifat teoretis, yakni melalui pemikiran dan penalaran. Ketiga, objek pembahasannya adalah الموجودات, yaitu segala sesuatu yang ada atau seluruh maujud.
 
-3. Tujuh keberatan dalam buku dan lima keberatan yang dipelajari
+Dengan demikian, filsafat yang dimaksud dalam pembahasan ini bukan sekadar kecintaan terhadap kebijaksanaan dalam pengertian umum, melainkan suatu pembahasan akal yang bersifat teoretis mengenai keberadaan dan segala sesuatu yang berkaitan dengannya.
 
-Dosen menyebut bahwa buku yang digunakan memuat tujuh keberatan terhadap filsafat. Namun, tujuh keberatan tersebut bukan berarti seluruh keberatan yang pernah diajukan terhadap filsafat. Ketujuhnya merupakan beberapa keberatan yang dianggap paling terkenal atau paling sering dikemukakan.
+## 3. Pengertian Ilmu dan Ilmu yang Dimaksud dalam Pembahasan
 
-Dari tujuh keberatan tersebut, lima menjadi bagian materi yang dipelajari pada tahun ini.
+Setelah menjelaskan filsafat, dosen beralih kepada pengertian ilmu. Para mahasiswa menyampaikan beberapa jawaban. Ada yang mengatakan bahwa ilmu berarti الإدراك, yaitu pengetahuan atau persepsi. Ada pula yang menyebut bahwa ilmu dapat digunakan untuk menunjukkan المسائل, yakni persoalan-persoalan atau pokok-pokok pembahasan suatu bidang.
 
-Dalam penjelasan dosen berikutnya, lima keberatan yang dibahas adalah keberatan pertama, kedua, ketiga, keenam, dan ketujuh. Pada bagian awal rekaman terdapat penyebutan urutan yang kurang konsisten, tetapi penjelasan berikutnya dengan jelas membahas lima persoalan tersebut.
+Seorang mahasiswa menyebut pengertian العلم sebagai حصول صورة الشيء في الذهن, yaitu hadirnya gambaran sesuatu di dalam pikiran. Dosen kemudian menanyakan apakah pengertian tersebut sedang menjelaskan العلم atau التصديق. Ada pula mahasiswa yang mendefinisikan ilmu sebagai mengetahui sesuatu sesuai dengan hakikatnya.
 
-Kelima persoalan itu berkaitan dengan kegunaan filsafat, ketidakpastian hasil pemikiran filosofis, pertentangan antarpandangan filsafat, kesulitan mempelajari filsafat, dan tuduhan bahwa filsafat dapat merusak agama serta membawa seseorang kepada ateisme.
+Dosen mengakui bahwa jawaban-jawaban tersebut menunjukkan pengaruh kuat pelajaran mantik terhadap para mahasiswa. Namun, beliau menjelaskan bahwa ilmu yang sedang dibicarakan dalam hubungan antara filsafat dan ilmu pengetahuan bukanlah pengertian ilmu dalam pembahasan mantik atau pengertian ilmu sebagai pengetahuan yang diperoleh ketika gambaran sesuatu hadir di dalam pikiran.
 
-BAGIAN KEDUA
-KEBERATAN PERTAMA: FILSAFAT TIDAK MEMBERIKAN MANFAAT PRAKTIS
+Kata العلم sendiri dapat digunakan untuk berbagai pengertian. Dalam perkuliahan ini, dosen tidak sedang membicarakan ilmu dalam pengertian umum tersebut. Ilmu yang dimaksud adalah **ilmu eksperimental** atau **ilmu yang bertumpu pada eksperimen**.
 
-4. Filsafat dianggap hanya teori tanpa hasil material
+Ilmu eksperimental merupakan ilmu yang dibangun melalui:
 
-Keberatan pertama menyatakan bahwa filsafat merupakan ilmu teoritis yang tidak menghasilkan manfaat praktis secara langsung. Filsafat dianggap tidak mempunyai tujuan praktis dan tidak memberikan pengaruh material yang dapat dirasakan dalam kehidupan manusia.
+- التجربة, yaitu eksperimen atau percobaan;
+- المشاهدة, yaitu pengamatan;
+- المراقبة, yaitu observasi atau pemantauan.
 
-Menurut pandangan ini, manusia mempelajari ilmu agar memperoleh hasil nyata. Apabila suatu ilmu hanya membicarakan persoalan-persoalan teoritis tanpa menghasilkan sesuatu yang dapat digunakan secara langsung, ilmu itu dianggap tidak mempunyai manfaat.
+Contoh bidang ilmu yang menggunakan pendekatan tersebut adalah fisika, kimia, kedokteran, biologi, dan astronomi. Dalam bidang-bidang tersebut, pengetahuan diperoleh dengan mengamati fenomena, melakukan percobaan, dan memeriksa hasilnya.
 
-Dosen menjelaskan bahwa keberatan tersebut tidak hanya dapat diarahkan kepada filsafat. Semua ilmu teoritis dapat memperoleh keberatan yang sama apabila ukuran manfaat hanya dibatasi pada hasil material dan penggunaan praktis secara langsung.
+Jadi, sejak awal perlu dibedakan dua istilah yang sedang dibicarakan. **Filsafat** dalam materi ini adalah pembahasan rasional-teoretis mengenai segala sesuatu yang ada, sedangkan **ilmu** yang dimaksud adalah ilmu eksperimental yang mengandalkan percobaan dan pengamatan.
 
-Padahal, pandangan yang mengukur seluruh manfaat ilmu berdasarkan hasil material mengabaikan hakikat manusia. Manusia bukan hanya materi, melainkan juga mempunyai sisi ruhani, pemikiran, keyakinan, dan nilai-nilai yang memengaruhi kehidupannya.
+Pembedaan ini penting karena hubungan antara filsafat dan ilmu tidak akan dapat dijelaskan dengan baik apabila keduanya dipahami dalam pengertian yang berbeda dari maksud pembahasan dosen.
 
-5. Ilmu teoritis memengaruhi perilaku dan tindakan manusia
+## 4. Filsafat sebagai *Ibu Segala Ilmu*
 
-Dosen menjelaskan bahwa keyakinan yang terdapat dalam hati seseorang dapat mengarahkan perilakunya. Apa yang dipercayai seseorang akan memengaruhi cara ia bertindak, berinteraksi, dan memperlakukan orang lain.
+Setelah menetapkan pengertian filsafat dan ilmu, dosen menjelaskan bahwa pada masa lampau filsafat pernah disebut:
 
-Begitu pula dengan nilai-nilai moral. Sesuatu yang diyakini seseorang sebagai kebaikan atau keburukan akan memengaruhi bagaimana ia bersikap terhadap orang lain.
+**أم العلوم**
 
-Sebagai contoh, seseorang mempunyai keyakinan tertentu mengenai kehidupan, manusia, dan tanggung jawab. Keyakinan tersebut kemudian membentuk cara pandangnya terhadap orang lain. Dari cara pandang itu muncul perilaku dan tindakan tertentu.
+Artinya, ibu segala ilmu.
 
-Dengan demikian, ilmu teoritis tidak selalu berhenti sebagai teori yang tidak mempunyai pengaruh. Teori dapat menjadi dasar bagi tindakan praktis.
+Sebutan tersebut menunjukkan bahwa dahulu berbagai bidang pengetahuan masih berada di bawah cakupan filsafat. Orang yang mempelajari kedokteran, fisika, astronomi, matematika, maupun bidang-bidang lainnya pada masa itu pada dasarnya sedang mempelajari cabang-cabang yang termasuk dalam wilayah filsafat.
 
-Dosen menegaskan bahwa manusia perlu memahami hakikat dirinya secara menyeluruh. Manusia tidak cukup dipahami sebagai makhluk yang hanya memenuhi kebutuhan material. Ia juga mempunyai kehidupan batin, keyakinan, dan tujuan yang tidak dapat diabaikan.
+Dengan demikian, filsafat pada masa dahulu tidak terbatas pada pembahasan yang sekarang biasa disebut filsafat. Cakupannya jauh lebih luas dan meliputi berbagai ilmu yang kemudian berkembang menjadi disiplin tersendiri.
 
-Karena itu, ilmu-ilmu teoritis, termasuk filsafat, mempunyai peran dalam membantu manusia memahami dirinya.
+Dosen ingin menelusuri bagaimana keadaan tersebut berubah. Apakah sejak awal filsafat dan ilmu memang merupakan dua bidang yang terpisah? Ataukah keduanya dahulu menyatu, kemudian ilmu eksperimental mulai melepaskan diri dari filsafat?
 
-6. Pertanyaan yang tidak dapat dijawab sepenuhnya oleh ilmu material
+Untuk menjawab pertanyaan itu, dosen mengajak mahasiswa melihat perkembangan filsafat sejak masa klasik, masa peradaban Islam, sampai permulaan zaman modern.
 
-Dosen kemudian menunjukkan bahwa terdapat berbagai pertanyaan penting yang tidak dapat dijawab oleh ilmu-ilmu material atau eksperimental secara memadai.
+## 5. Filsafat pada Masa Klasik dan Pengertian Menurut Plato
 
-Di antara pertanyaan tersebut adalah:
+Dosen menyampaikan sebuah definisi filsafat yang dinisbatkan kepada Plato:
 
-Bagaimana asal mula alam semesta?
+**البحث في الموجودات بحسب الطاقة البشرية**
 
-Apa tujuan akhir dari keberadaan alam?
+Artinya, penelitian mengenai segala sesuatu yang ada sesuai dengan kemampuan manusia.
 
-Apa hikmah di balik keberadaan alam?
+Menurut penjelasan dosen, definisi tersebut memperlihatkan luasnya cakupan filsafat pada masa klasik. Jika filsafat merupakan penelitian terhadap seluruh maujud dengan kemampuan akal manusia, maka berbagai ilmu dapat masuk ke dalam cakupannya.
 
-Di mana kedudukan manusia dalam keseluruhan alam semesta?
+Matematika, ilmu alam atau الطبيعيات, fisika, dan metafisika atau ما بعد الطبيعة termasuk dalam bidang-bidang yang dahulu dibahas dalam lingkungan filsafat.
 
-Apa yang terjadi setelah kematian?
+Dengan demikian, filsafat pada masa itu merupakan induk yang mencakup beragam disiplin pengetahuan. Belum terdapat pemisahan sebagaimana yang dikenal dalam pembagian ilmu modern.
 
-Apa tujuan kehidupan manusia?
+## 6. Filsafat pada Masa Peradaban Islam
 
-Pertanyaan-pertanyaan tersebut berkaitan dengan الكون (alam semesta), بدايته وغايته (awal dan tujuan akhirnya), الحكمة منه (hikmah keberadaannya), مكانة الإنسان (kedudukan manusia), dan ما يكون بعد الموت (apa yang terjadi setelah kematian).
+Keadaan yang serupa juga ditemukan dalam masa peradaban Islam. Dosen menyebut beberapa filsuf Muslim, di antaranya Ibnu Sina dan Al-Farabi, serta tokoh-tokoh lainnya.
 
-Ilmu-ilmu empiris dan material mempunyai bidang penelitian serta kemampuan masing-masing. Ilmu tersebut dapat meneliti fenomena yang dapat diamati, diukur, atau diuji melalui metode yang sesuai dengan bidangnya.
+Para filsuf Muslim tersebut tidak hanya mempelajari satu bidang tertentu. Ibnu Sina, misalnya, dibahas sebagai tokoh yang mempelajari filsafat, kedokteran, kimia, mantik, dan akhlak. Berbagai disiplin tersebut masih dipelajari dalam cakupan keilmuan seorang filsuf.
 
-Namun, kemampuan ilmu empiris dalam menjelaskan fenomena alam tidak berarti bahwa seluruh pertanyaan mengenai tujuan, makna, hakikat, dan akhir kehidupan manusia juga dapat diselesaikan olehnya.
+Hal ini menunjukkan bahwa pada masa tersebut filsafat masih memiliki pengertian yang luas. Filsafat belum terpisah secara tegas dari bidang-bidang ilmu lainnya.
 
-Karena itu, keberadaan ilmu-ilmu material tidak menghilangkan kebutuhan terhadap ilmu-ilmu teoritis. Keduanya mempunyai wilayah pembahasan yang berbeda dan dapat saling melengkapi.
+Karena itu, ketika berbicara mengenai hubungan filsafat dan ilmu pada masa klasik maupun masa peradaban Islam, keduanya tidak boleh langsung dipahami sebagai dua disiplin yang berdiri sendiri sebagaimana pembagian ilmu pada masa sekarang. Pada masa itu, berbagai bidang ilmu masih berada dalam lingkungan pembahasan filsafat.
 
-Filsafat berusaha membahas persoalan mengenai alam, manusia, dan kehidupan yang tidak sepenuhnya dapat dijangkau oleh penelitian material.
+## 7. Awal Pemisahan Ilmu Eksperimental dari Filsafat
 
-7. Tidak semua ilmu harus menghasilkan manfaat material secara langsung
+Menurut penjelasan dosen, pemisahan antara filsafat dan ilmu eksperimental mulai tampak pada permulaan zaman modern.
 
-Dari penjelasan tersebut, dosen menyimpulkan bahwa suatu ilmu tidak boleh dianggap tidak bermanfaat hanya karena bersifat teoritis.
+Dosen menyebut Roger Bacon sebagai tokoh yang mulai meletakkan dasar dan kaidah bagi metode eksperimental. Beliau juga menyebut bahwa metode tersebut diambil dari Jabir bin Hayyan, tetapi kemudian dinisbatkan kepada Roger Bacon. Pernyataan mengenai asal-usul dan penisbatan metode ini disampaikan sebagaimana adanya dalam perkuliahan.
 
-Ilmu teoritis dapat menjadi dasar bagi ilmu praktis. Bahkan, banyak tindakan manusia dalam kehidupan sehari-hari berangkat dari keyakinan, pengetahuan, dan prinsip yang terlebih dahulu dibentuk melalui pemikiran.
+Hal yang ditekankan dosen adalah munculnya pandangan bahwa metode penelitian rasional-teoretis yang biasa digunakan dalam filsafat tidak cukup untuk menangani seluruh persoalan ilmu alam.
 
-Dengan demikian, filsafat mempunyai manfaat karena membantu manusia memahami persoalan yang mendasari kehidupannya, termasuk persoalan alam, manusia, keyakinan, tujuan hidup, dan kematian.
+Ilmu-ilmu seperti fisika, kimia, kedokteran, dan bidang-bidang alam lainnya membutuhkan metode yang sesuai dengan objek kajiannya. Untuk memahami fenomena alam, seseorang tidak cukup hanya membangun teori melalui pemikiran. Ia harus melakukan percobaan, mengamati kejadian, dan memeriksa hasil yang benar-benar terjadi.
 
-BAGIAN KETIGA
-KEBERATAN KEDUA: FILSAFAT TIDAK MENGHASILKAN KEPASTIAN
+Dosen kemudian menyebut bahwa pemisahan ilmu-ilmu tersebut dari filsafat berlangsung semakin jauh, sampai mencapai pemisahan yang lebih sempurna melalui Isaac Newton. Nama yang terdengar dalam rekaman adalah إسحاق نيوتن, yaitu Isaac Newton.
 
-8. Filsafat membahas persoalan yang tidak dapat diketahui secara pasti
+Dari penjelasan ini, alur perkembangan yang disampaikan dosen adalah sebagai berikut: pada mulanya filsafat mencakup berbagai ilmu; kemudian, pada awal zaman modern, ilmu-ilmu alam mulai mengembangkan metode eksperimental dan bergerak keluar dari cakupan filsafat; proses pemisahan itu selanjutnya semakin berkembang hingga ilmu-ilmu tersebut berdiri sebagai disiplin tersendiri.
 
-Keberatan kedua menyatakan bahwa filsafat membahas persoalan-persoalan yang berada di luar wilayah fisik atau metafisik. Manusia tidak mempunyai metode yang sepenuhnya menjamin bahwa kesimpulan filosofisnya pasti benar.
+Dosen menyebut bahwa metode rasional-teoretis tetap memiliki tempat dalam filsafat, tetapi ilmu-ilmu alam mulai lebih menekankan penelitian eksperimental.
 
-Menurut pihak yang mengajukan keberatan ini, apabila manusia tidak dapat memastikan apakah suatu pendapat benar atau salah, maka filsafat tidak menghasilkan pengetahuan yang meyakinkan. Karena itu, filsafat dianggap tidak mempunyai manfaat.
+## 8. Contoh Teori Sepuluh Akal (العقول العشرة)
 
-Dosen menjelaskan bahwa keberatan tersebut menggunakan ukuran yang terlalu sempit, yaitu menganggap bahwa suatu pencarian hanya bermanfaat apabila menghasilkan kepastian mutlak.
+Untuk memperlihatkan perbedaan antara penelitian yang hanya bertumpu pada pemikiran teoretis dan penelitian eksperimental, dosen memberikan contoh mengenai teori yang disebut:
 
-Padahal, tidak semua persoalan dalam kehidupan dapat diketahui secara pasti sejak awal. Dalam banyak keadaan, manusia harus menggunakan pertimbangan rasional untuk mencari jawaban yang paling kuat atau paling mendekati kebenaran.
+**نظرية العقول العشرة**
 
-9. Tidak adanya kepastian mutlak bukan alasan untuk menghentikan pencarian
+Artinya, teori sepuluh akal.
 
-Dosen mengajukan pertanyaan: apabila seseorang belum mampu mencapai kepastian mutlak, apakah berarti ia harus berhenti mencari jawaban?
+Dosen bertanya apakah mahasiswa pernah mendengar teori tersebut. Karena sebagian mahasiswa belum mengetahuinya, beliau menjelaskan gambaran teori itu sebagaimana dipaparkan dalam perkuliahan.
 
-Menurut beliau, tidak demikian.
+Teori tersebut dikaitkan terutama dengan Al-Farabi dan Ibnu Sina. Menurut penjelasan dosen, para filsuf tersebut berusaha menerangkan bagaimana alam semesta muncul dari Tuhan Yang Maha Esa. Mereka berusaha menghubungkan pandangan filsafat Yunani kuno dengan pemahaman mengenai penciptaan tujuh langit.
 
-Apabila manusia belum dapat mencapai keyakinan yang sempurna, setidaknya ia dapat berusaha memperoleh pendapat yang lebih dekat kepada kebenaran, lebih kuat argumentasinya, lebih masuk akal, atau lebih tepat dibandingkan pendapat lainnya.
+Dalam penjelasan filsafat Yunani yang dibahas dosen, Tuhan dipahami sebagai sesuatu yang sederhana secara mutlak, tidak tersusun dari bagian-bagian, dan tidak mungkin merupakan sesuatu yang kompleks.
 
-Seseorang mungkin belum dapat memastikan secara mutlak bahwa suatu jalan merupakan jalan yang benar. Namun, ia tetap dapat menilai bahwa satu jalan lebih mungkin mengantarkannya kepada tujuan dibandingkan jalan lain.
+Istilah yang digunakan untuk kesederhanaan tersebut adalah البساطة. Maksudnya, Tuhan tidak tersusun dari berbagai unsur. Menurut cara berpikir para filsuf yang sedang dijelaskan, apabila Tuhan tersusun dari bagian-bagian, maka Dia tidak lagi menjadi sesuatu yang sederhana secara mutlak.
 
-Karena itu, ketiadaan kepastian mutlak tidak mengharuskan manusia meninggalkan seluruh usaha mencari jawaban.
+Dari anggapan tersebut muncul persoalan: apabila Tuhan hanya satu dan sederhana, bagaimana dari-Nya dapat muncul alam semesta yang begitu kompleks dan terdiri atas banyak makhluk?
 
-10. Analogi mencari jalan menuju suatu tempat
+Para filsuf tersebut kemudian mengemukakan teori berjenjang yang dikenal sebagai teori sepuluh akal.
 
-Untuk memudahkan pemahaman, dosen memberikan analogi seseorang yang ingin pergi dari satu tempat menuju tempat lain.
+### a. Munculnya Akal Pertama
 
-Misalnya, seseorang hendak pergi ke suatu tujuan, tetapi belum mengetahui jalan yang tepat. Ia mencoba satu jalan, tetapi ternyata jalan tersebut tidak mengantarkannya ke tempat yang dituju.
+Menurut teori yang dijelaskan dosen, Tuhan yang sederhana hanya melakukan satu tindakan, yaitu berpikir mengenai diri-Nya sendiri. Dari pemikiran tersebut muncul akal pertama.
 
-Apakah karena percobaan pertama gagal, ia harus berhenti bergerak dan tidak mencoba jalan lainnya?
+Akal pertama ini memiliki beberapa aspek. Ia mempunyai akal karena berpikir mengenai penciptanya, dan memiliki aspek diri atau jiwa sebagaimana diterangkan dalam penjelasan dosen. Dengan demikian, akal pertama dianggap lebih kompleks dibandingkan sumber asalnya.
 
-Tentu tidak.
+### b. Munculnya Akal Kedua dan Akal-Akal Berikutnya
 
-Dari percobaan pertama, ia memperoleh pengetahuan bahwa jalan tersebut tidak sampai ke tujuan. Ia dapat kembali, mencoba jalan lain, dan membandingkan hasilnya.
+Akal pertama kemudian berpikir mengenai penciptanya dan mengenai dirinya sendiri. Dari proses tersebut muncul akal kedua.
 
-Walaupun percobaan pertama belum menghasilkan jalan yang benar, usaha tersebut tidak sia-sia. Setidaknya, ia telah mengetahui satu jalan yang tidak mengantarkannya kepada tujuan.
+Akal kedua juga memiliki akal dan aspek dirinya sendiri. Selanjutnya, proses tersebut berlangsung secara berjenjang. Akal kedua melahirkan akal berikutnya, kemudian akal berikutnya melahirkan akal setelahnya, dan seterusnya.
 
-Apabila usaha itu dilakukan berulang kali, pengetahuan yang diperoleh akan semakin banyak. Pada akhirnya, ia dapat menemukan jalan yang lebih tepat.
+Dosen menjelaskan bahwa setiap tingkatan menjadi lebih kompleks daripada tingkatan sebelumnya. Rangkaian tersebut berlanjut sampai kepada akal yang dikaitkan dengan bulan.
 
-Dosen menegaskan bahwa upaya mencari pengetahuan filosofis dapat berlangsung dengan cara yang serupa. Manusia mungkin tidak langsung memperoleh jawaban yang sempurna, tetapi setiap penelitian, analisis, dan percobaan pemikiran dapat memberikan pengetahuan baru.
+### c. Akal Aktif (العقل الفعال)
 
-Dengan mengetahui kesalahan satu pendapat, seseorang dapat menghindari kesalahan yang sama dan bergerak menuju pemahaman yang lebih baik.
+Dalam penjelasan dosen, akal yang berhubungan dengan bulan disebut:
 
-11. Mengabaikan pertanyaan mendasar justru merugikan manusia
+**العقل الفعال**
 
-Dosen kemudian menjelaskan bahwa jika seseorang meninggalkan pertanyaan mengenai alam semesta, kehidupan, manusia, kematian, dan tujuan keberadaan hanya karena tidak dapat memperoleh kepastian mutlak, ia sebenarnya sedang mengabaikan persoalan mendasar tentang keberadaannya sendiri.
+Artinya, akal aktif.
 
-Manusia hidup dengan tujuan dan harapan. Ia berusaha mengetahui apa yang ingin dicapai dan bagaimana kehidupannya harus dijalani.
+Menurut gambaran teori yang sedang dijelaskan, bulan memiliki kedudukan khusus. Para pemikir tersebut memandang bulan sebagai sesuatu yang berhubungan dengan pengaturan alam dan berbagai pengetahuan. Dosen menggambarkan pandangan mereka dengan mengatakan bahwa bulan diperlakukan seolah-olah menjadi tempat tersimpannya seluruh pengetahuan orang-orang terdahulu dan orang-orang yang datang kemudian.
 
-Jika ia tidak pernah berusaha memahami tujuan hidup, keadaan alam, atau apa yang terjadi setelah kematian, maka ia mengabaikan bagian penting dari pemahaman mengenai eksistensinya.
+Dalam gambaran tersebut, seorang nabi atau rasul dikatakan hanya perlu mengarahkan diri kepada akal aktif itu agar pengetahuan yang terdapat di dalamnya dapat diterima atau dipantulkan kepadanya. Bagian ini disampaikan sebagai gambaran mengenai teori para filsuf tersebut, bukan sebagai keyakinan dosen.
 
-Karena itu, filsafat tetap mempunyai manfaat sekalipun tidak setiap persoalan dapat diselesaikan dengan kepastian mutlak.
+Dosen menekankan bahwa seluruh penjelasan mengenai sepuluh akal itu dibangun melalui pemikiran rasional-teoretis. Beliau bertanya kepada mahasiswa apakah teori tersebut diperoleh dengan menggunakan alat, laboratorium, atau percobaan, ataukah hanya melalui pemikiran. Para mahasiswa menjawab bahwa teori itu dibangun melalui pemikiran.
 
-Dosen juga mengingatkan bahwa apabila seseorang mempunyai jalan lain yang lebih pasti untuk mencapai jawaban, ia dapat menggunakan jalan tersebut. Namun, apabila tidak tersedia jalan yang sepenuhnya pasti, bukan berarti seluruh usaha pencarian harus ditinggalkan.
+Dengan kata lain, contoh sepuluh akal digunakan untuk menunjukkan bagaimana para filsuf dahulu menyusun penjelasan mengenai alam semesta melalui penalaran, tanpa melakukan pengujian eksperimental sebagaimana yang dikenal dalam ilmu alam modern.
 
-BAGIAN KEEMPAT
-KEBERATAN KETIGA: FILSAFAT SALING BERTENTANGAN DAN MENGHANCURKAN SATU SAMA LAIN
+## 9. Kritik Al-Ghazali terhadap Teori Para Filsuf
 
-12. Kritik bahwa filsafat dipenuhi pendapat yang saling bertentangan
+Dosen kemudian menjelaskan tanggapan Imam Al-Ghazali terhadap teori para filsuf tersebut.
 
-Keberatan ketiga menyatakan bahwa filsafat hanya berisi pendapat-pendapat yang saling bertentangan. Seorang filsuf mengemukakan suatu gagasan, kemudian filsuf lain datang untuk membantah dan menghancurkannya.
+Beliau menggambarkan sebuah perumpamaan: seseorang memakan makanan yang sudah buruk atau rusak, kemudian tidur. Ketika tidur, ia mengalami mimpi dan melihat berbagai hal yang bercampur aduk. Dosen menyebut perumpamaan ini ketika menjelaskan kritik Al-Ghazali terhadap pemikiran para filsuf.
 
-Akibatnya, filsafat dianggap tidak menghasilkan pengetahuan yang stabil. Pendapat yang dibangun oleh seorang pemikir kemudian diruntuhkan oleh pemikir lain, sehingga seolah-olah filsafat hanya menjadi rangkaian perdebatan yang tidak berakhir.
+Maksud penggunaan perumpamaan tersebut dalam ceramah adalah menunjukkan bahwa gagasan yang muncul dalam pikiran seseorang belum tentu menggambarkan kenyataan. Sebagaimana mimpi dapat dipengaruhi oleh keadaan seseorang, teori-teori yang dibangun hanya melalui spekulasi juga perlu diperiksa dan tidak boleh langsung diterima sebagai kenyataan.
 
-13. Filsafat terdiri atas berbagai pendekatan yang tidak selalu saling meniadakan
+Dosen kemudian menegaskan keyakinan yang beliau pegang:
 
-Dosen menjelaskan bahwa filsafat tidak boleh dipahami sebagai satu aliran tunggal yang seluruh bagiannya mempunyai pendekatan sama.
+Allah جل جلاله menciptakan segala sesuatu secara langsung, tanpa harus mengikuti rangkaian perantara sebagaimana digambarkan dalam teori tersebut.
 
-Di dalam filsafat terdapat berbagai arah pemikiran. Ada pendekatan rasional, ada pendekatan material, ada pendekatan yang bersifat eksperimental, dan ada pula pendekatan lain.
+Beliau menolak anggapan bahwa karena Tuhan adalah satu, maka dari Tuhan tidak mungkin muncul kecuali satu hal. Menurut dosen, para filsuf telah menetapkan suatu aturan berdasarkan pemikiran mereka, kemudian seolah-olah membatasi tindakan Allah dengan aturan tersebut.
 
-Setiap pendekatan dapat membahas suatu persoalan dari sisi yang berbeda.
+Dosen menegaskan bahwa Tuhan tidak boleh diperlakukan seakan-akan harus tunduk kepada ketentuan yang dibuat oleh para filsuf. Allah adalah pencipta segala sesuatu dan tidak perlu dibatasi oleh teori yang mereka susun.
 
-Karena itu, perbedaan pandangan tidak selalu berarti bahwa satu pihak harus sepenuhnya menghancurkan pihak lain. Bisa saja masing-masing pendekatan memberikan penjelasan dari sisi yang berbeda dan saling melengkapi.
+Dari sini dosen mengingatkan mahasiswa mengenai cara mempelajari pemikiran yang berbeda. Seseorang tidak boleh langsung membantah suatu pendapat sebelum memahami apa yang sebenarnya dikatakan oleh orang yang berpendapat tersebut.
 
-Dosen menjelaskan bahwa hakikat suatu persoalan terkadang tidak dapat dipahami hanya melalui satu sudut pandang. Seseorang mungkin membahas persoalan dari sisi rasional, sedangkan orang lain meninjaunya dari sisi material atau aspek lainnya.
+Beliau memberikan contoh Imam Al-Ghazali. Sebelum mengkritik para filsuf, Al-Ghazali terlebih dahulu memahami filsafat mereka secara mendalam. Dosen menyebut bahwa Al-Ghazali menulis kitab:
 
-Apabila kedua pendekatan tersebut mempunyai wilayah pembahasan berbeda, keduanya mungkin dapat digunakan untuk memberikan gambaran yang lebih luas.
+**مقاصد الفلاسفة**
 
-14. Kritik dan perdebatan dapat mengembangkan pemikiran manusia
+Kitab ini digunakan untuk menjelaskan dan memahami maksud pemikiran para filsuf. Setelah memahami pemikiran tersebut, Al-Ghazali kemudian menulis kitab:
 
-Dosen juga menjelaskan bahwa perbedaan pendapat dapat menjadi sarana bagi perkembangan pemikiran.
+**تهافت الفلاسفة**
 
-Seorang pemikir mengemukakan gagasan yang menurutnya benar. Pemikir lain kemudian mempelajari gagasan tersebut dan menemukan bagian yang perlu diperbaiki.
+Kitab ini berisi kritik terhadap pemikiran para filsuf.
 
-Perbaikan dapat dilakukan melalui penambahan penjelasan, penyesuaian, kritik, atau penolakan terhadap bagian yang dianggap salah.
+Pelajaran yang ditekankan dosen adalah bahwa seseorang harus terlebih dahulu memahami suatu pendapat dengan benar. Setelah mengetahui apa yang dikatakan dan alasan mengapa pendapat itu dikemukakan, barulah ia dapat melakukan kritik.
 
-Dengan demikian, pemikiran manusia dapat terus berkembang dari satu tahap ke tahap berikutnya.
+Jadi, jangan langsung membantah sesuatu hanya karena terdengar aneh atau tidak sesuai dengan keyakinan sendiri. Pahami terlebih dahulu isi dan argumentasinya, lalu lakukan penilaian.
 
-Dosen menegaskan bahwa seorang filsuf tidak selalu mengklaim telah memberikan solusi final untuk seluruh persoalan dunia. Ia dapat saja mengatakan bahwa pandangan yang diajukannya merupakan solusi berdasarkan pengetahuan, pengalaman, zaman, tempat, dan kepribadiannya sendiri.
+### Catatan mengenai pertanyaan tentang bulan
 
-Orang lain mungkin mempunyai pengetahuan atau sudut pandang yang tidak dimiliki olehnya. Karena itu, pemikiran orang lain dapat memperbaiki atau melengkapi gagasan yang telah diajukan sebelumnya.
+Dalam sesi tanya jawab mengenai teori sepuluh akal, seorang mahasiswa menanyakan apakah matahari benar-benar ada dalam gambaran tersebut. Dosen menjawab bahwa matahari memang ada. Pembicaraan kemudian beralih kepada anggapan para filsuf mengenai bulan yang seolah-olah menjadi tempat tersimpannya pengetahuan.
 
-15. Keberadaan aliran filsafat lama menunjukkan bahwa filsafat tidak sekadar saling menghancurkan
+Dosen membandingkan gambaran tersebut dengan pengetahuan yang diperoleh ketika manusia benar-benar mengamati bulan. Beliau menyebut bahwa orang-orang yang berhasil naik ke bulan dan mengambil gambar menunjukkan bahwa bulan yang diamati merupakan permukaan berbatu. Beliau mengungkapkan rasa syukur atas nikmat iman dan Islam.
 
-Dosen kemudian mengajukan pertanyaan: apabila filsafat benar-benar hanya menghancurkan dirinya sendiri, mengapa mazhab atau aliran filsafat yang lama masih dikenal dan terus dipelajari?
+Seorang mahasiswa kemudian bertanya apakah mereka benar-benar telah naik ke bulan atau sekadar mengatakan demikian. Dosen menjawab bahwa mereka memang telah naik. Beliau juga mengatakan bahwa apabila seseorang masih meragukannya, ia dapat berusaha naik sendiri untuk memeriksanya.
 
-Jika setiap pendapat selalu dihancurkan hingga tidak menyisakan apa pun, seharusnya seluruh pemikiran lama telah hilang dan tidak lagi mempunyai pengaruh.
+Bagian ini merupakan ilustrasi dosen untuk membedakan gambaran teoretis mengenai bulan dari pengamatan terhadap bulan secara langsung.
 
-Namun, kenyataannya aliran-aliran filsafat lama masih dipelajari. Hal ini menunjukkan bahwa perdebatan filosofis tidak selalu membuat seluruh pemikiran sebelumnya lenyap.
+## 10. Perkembangan Ilmu yang Memisahkan Diri dari Filsafat
 
-Sebagian gagasan tetap dipertahankan, sebagian diperbaiki, dan sebagian lainnya dikritik. Proses tersebut merupakan bagian dari perkembangan pemikiran.
+Setelah menjelaskan teori sepuluh akal, dosen kembali kepada pokok pembahasan, yaitu sejarah hubungan antara filsafat dan ilmu.
 
-BAGIAN KELIMA
-KEBERATAN KEENAM: FILSAFAT SULIT DIPAHAMI
+Pada masa klasik hingga sebelum zaman modern, filsafat merupakan ibu segala ilmu. Berbagai bidang pengetahuan masih berada di bawah cakupan filsafat.
 
-16. Filsafat dianggap terlalu sulit dan hanya dapat dipahami oleh sedikit orang
+Kemudian, pada permulaan zaman modern, ilmu-ilmu tertentu mulai memisahkan diri. Pemisahan pertama yang dibicarakan adalah ilmu-ilmu alam atau الطبيعيات.
 
-Keberatan keenam menyatakan bahwa filsafat adalah ilmu yang sangat sulit.
+Yang dimaksud dengan ilmu alam di sini antara lain fisika, kimia, dan bidang-bidang lain yang meneliti fenomena alam. Matematika juga disebut dalam rangkaian pembahasan mengenai bidang-bidang yang mulai berdiri sebagai disiplin tersendiri.
 
-Kesulitannya mencakup berbagai aspek, seperti kesulitan memahami istilah, membaca teks, memahami warisan pemikiran para filsuf, menguraikan persoalan secara terperinci, dan mengetahui metode yang digunakan dalam setiap pembahasan.
+Ilmu-ilmu tersebut semakin menekankan metode eksperimental karena dianggap tidak cukup apabila hanya dibahas melalui pemikiran teoretis.
 
-Karena kesulitan tersebut, filsafat dianggap hanya dapat dipelajari oleh segelintir orang. Akibatnya, filsafat dinilai tidak bermanfaat bagi masyarakat luas.
+Selanjutnya, pemisahan tidak berhenti pada ilmu alam. Dosen juga menyebut ilmu psikologi atau علم النفس dan ilmu sosiologi atau علم الاجتماع sebagai bidang-bidang yang kemudian berkembang dan memisahkan diri dari filsafat.
 
-Dosen mengakui bahwa filsafat memang memiliki kesulitan. Ia tidak menolak kenyataan bahwa terdapat banyak istilah khusus, konsep yang rumit, dan pembahasan yang membutuhkan waktu panjang untuk dipahami.
+Setelah banyak ilmu keluar dari cakupan filsafat, muncul pertanyaan: apa yang tersisa bagi filsafat?
 
-Namun, menurut beliau, kesulitan bukan alasan untuk meninggalkan suatu ilmu.
+Dosen mengarahkan mahasiswa kepada jawaban bahwa filsafat kemudian lebih banyak berurusan dengan persoalan-persoalan teoretis, seperti metafisika dan ketuhanan. Pembahasannya berkaitan dengan hakikat keberadaan, asal-usul sesuatu, sebab pertama, dan persoalan mengenai Tuhan.
 
-17. Setiap ilmu mempunyai istilah khusus
+Dengan demikian, setelah ilmu-ilmu alam dan beberapa bidang lainnya berkembang sebagai disiplin tersendiri, filsafat lebih berfokus pada persoalan-persoalan umum dan mendasar mengenai segala sesuatu yang ada.
 
-Dosen menegaskan bahwa semua disiplin ilmu mempunyai مصطلحات, yaitu istilah-istilah teknis yang harus dipahami oleh orang yang mempelajarinya.
+## 11. Bagaimana Ilmu Dahulu Dipelajari Sebelum Terpisah dari Filsafat?
 
-Seseorang tidak mungkin memahami suatu ilmu secara baik apabila ia tidak mengenal istilah yang digunakan dalam bidang tersebut.
+Seorang mahasiswa bertanya bagaimana ilmu-ilmu yang sekarang berdiri sendiri itu dibahas sebelum terpisah dari filsafat.
 
-Karena itu, kesulitan memahami filsafat pada tahap awal dapat muncul karena seseorang belum mengenal istilah-istilah para filsuf.
+Dosen menjawab bahwa dahulu bidang-bidang tersebut juga dikaji melalui penelitian akal yang bersifat teoretis dan abstrak.
 
-Dosen memberikan contoh orang yang mendengar nama seorang filsuf besar, kemudian tertarik membaca bukunya. Ia mungkin mengambil buku karya al-Ghazali, al-Farabi, Ibn Sina, atau Descartes.
+Untuk memberikan contoh, dosen membicarakan teori yang disebut:
 
-Namun, ia langsung membaca buku tersebut tanpa pernah mempelajari dasar-dasar pemikiran filsafat sebelumnya.
+**نظرية الخرق والالتئام**
 
-Ketika membaca, ia menemukan istilah yang tidak dikenal dan pembahasan yang sulit dipahami. Ia kemudian menyimpulkan bahwa buku tersebut terlalu rumit atau penulisnya tidak dapat dimengerti.
+Pembahasan ini berkaitan dengan pandangan para filsuf dahulu mengenai kemungkinan langit mengalami kerusakan, robekan, atau penyatuan kembali.
 
-Dosen menilai bahwa persoalan sebenarnya bukan semata-mata terletak pada buku atau penulisnya. Pembaca tersebut belum mempunyai bekal pengetahuan yang cukup untuk memahami istilah, simbol, dan cara berpikir yang digunakan.
+Menurut gambaran yang disampaikan dosen, para filsuf dahulu membagi alam menjadi dua bagian, yaitu alam atas dan alam bawah. Alam atas berkaitan dengan langit. Mereka beranggapan bahwa langit tidak mungkin mengalami الخرق والالتئام, yaitu tidak dapat ditembus atau mengalami keadaan terbelah kemudian menyatu kembali seperti benda-benda di alam bawah.
 
-Dengan demikian, seseorang tidak seharusnya langsung menghakimi suatu ilmu sebagai ilmu yang tidak berguna hanya karena ia mencoba membaca teks tingkat lanjut tanpa mempelajari dasar-dasarnya.
+Dosen juga menjelaskan bahwa dalam pandangan tersebut, benda-benda langit dianggap sebagai sesuatu yang hidup, mempunyai akal, dan memiliki kemampuan untuk mengetahui atau mempersepsi.
 
-18. Kesulitan berkurang melalui pengulangan dan latihan
+Pertanyaan yang kemudian diajukan dosen adalah: dari mana para filsuf dahulu mengetahui bahwa langit tidak mungkin mengalami kerusakan atau perubahan seperti itu?
 
-Dosen menjelaskan bahwa kesulitan mempelajari filsafat dapat berkurang apabila seseorang mempelajarinya secara bertahap dan berulang kali.
+Jawabannya, menurut penjelasan beliau, adalah melalui penelitian akal. Mereka menyusun teori tersebut melalui pemikiran, bukan melalui pengamatan eksperimental yang dapat membuktikan keadaan langit sebagaimana yang mereka bayangkan.
 
-Misalnya, ketika seseorang pertama kali membaca suatu buku filsafat, ia mungkin menemukan banyak bagian yang terasa seperti teka-teki. Ia tidak memahami apa yang sebenarnya dimaksud oleh penulis.
+### Perbincangan mengenai hakikat langit
 
-Namun, apabila buku itu dibaca kembali dengan perhatian lebih besar, sebagian persoalan yang sebelumnya tidak dipahami mulai menjadi lebih jelas.
+Untuk menjelaskan persoalan tersebut, dosen mengajak para mahasiswa memperhatikan apa yang sebenarnya mereka lihat ketika memandang ke atas.
 
-Pembacaan kedua dapat lebih mudah dibandingkan pembacaan pertama. Pembacaan ketiga dapat memberikan pemahaman tambahan, dan seterusnya.
+Dosen bertanya apakah mereka pernah melihat langit secara langsung. Para mahasiswa menjawab bahwa mereka tidak melihat langit dalam pengertian yang sedang ditanyakan.
 
-Dosen bahkan menyebut bahwa setelah seseorang membaca suatu bagian berkali-kali, mungkin sampai lima belas kali sebagaimana ilustrasi yang disampaikan, ia akan memahami sesuatu yang sebelumnya sama sekali tidak ia pahami.
+Dosen kemudian bertanya: apa sebenarnya yang terlihat ketika seseorang mengangkat pandangannya ke atas? Apakah yang terlihat itu awan, sesuatu di atas awan, atau warna biru?
 
-Karena itu, kesulitan pada pembacaan pertama tidak boleh dijadikan ukuran bahwa seseorang tidak akan pernah mampu memahami ilmu tersebut.
+Mahasiswa menyebut awan, ruang di atas awan, dan warna biru. Dosen kemudian mempertanyakan apakah warna biru yang terlihat itu benar-benar warna langit atau sesuatu yang berkaitan dengan cahaya.
 
-19. Analogi tas berat yang harus dipindahkan sedikit demi sedikit
+Dalam pembicaraan tersebut, ada mahasiswa yang berpendapat bahwa warna yang terlihat berkaitan dengan pantulan laut atau cahaya matahari. Dosen lalu mengarahkan pembahasan kepada sinar matahari dan atmosfer bumi.
 
-Untuk menjelaskan pentingnya belajar bertahap, dosen memberikan analogi sebuah tas berat yang penuh dengan buku.
+Beliau menggambarkan bumi yang mempunyai lapisan atmosfer. Ketika cahaya matahari memasuki lapisan atmosfer, cahaya tersebut berkaitan dengan warna-warna yang dapat dilihat manusia. Dosen menyebut bahwa cahaya matahari memiliki tujuh warna dan bahwa warna tertentu yang terlihat oleh manusia berkaitan dengan proses yang terjadi ketika cahaya melewati atmosfer.
 
-Bayangkan seseorang harus memindahkan tas yang sangat berat dari satu tempat ke tempat lain.
+Dalam rekaman, dosen menyebut atmosfer terdiri atas empat lapisan. Beliau juga menegaskan bahwa pembicaraan tersebut bukan mengenai lapisan bumi, melainkan lapisan atmosfer. Penjelasan teknis mengenai mekanisme munculnya warna biru dalam rekaman tidak tersampaikan secara utuh, sehingga hubungan antara lapisan atmosfer, tujuh warna cahaya, dan warna biru yang terlihat tidak dapat direkonstruksi lebih jauh tanpa menebak.
 
-Apabila ia memaksakan diri mengangkat seluruh tas sekaligus, punggungnya dapat terasa sakit, ototnya terbebani, dan ia mungkin kesulitan berjalan.
+Dosen juga mengatakan bahwa apabila atmosfer tidak ada, manusia tidak akan melihat keadaan langit sebagaimana yang biasa tampak dari permukaan bumi. Dalam bagian ini, beliau berusaha menunjukkan bahwa sesuatu yang dahulu dijelaskan melalui spekulasi akal dapat diteliti lebih jauh melalui pengamatan terhadap fenomena alam.
 
-Namun, apabila tas tersebut dibuka, kemudian isinya diambil sedikit demi sedikit, pekerjaan itu menjadi lebih mudah.
+### Pertanyaan mengenai tujuh bumi
 
-Ia dapat membawa bagian pertama, kembali mengambil bagian kedua, kemudian bagian ketiga, dan seterusnya.
+Dalam percakapan yang sama, seorang mahasiswa menyinggung persoalan tujuh bumi. Dosen kemudian menjelaskan bahwa pembicaraan mengenai tujuh lapisan tersebut tidak boleh langsung dipahami sebagai tujuh bumi yang terpisah.
 
-Pada akhirnya, seluruh isi tas berhasil dipindahkan tanpa harus mengangkat semuanya sekaligus.
+Beliau menggunakan perumpamaan telur. Telur memiliki kulit, bagian putih, dan bagian-bagian lain. Dengan perumpamaan itu, beliau mencoba menerangkan bahwa lapisan dapat dipahami sebagai susunan bagian dari satu benda, bukan berarti terdapat benda-benda yang terpisah.
 
-Dosen menggunakan analogi tersebut untuk menjelaskan bahwa materi filsafat juga harus dibagi menjadi bagian-bagian yang dapat dipelajari sesuai kemampuan.
+Penjelasan dosen kemudian menyebut lapisan dari bagian luar menuju bagian dalam bumi. Namun, redaksi pembahasan mengenai tujuh lapisan tersebut tidak sepenuhnya jelas dalam rekaman. Dosen menutupnya dengan ungkapan والله أعلى وأعلم.
 
-Seseorang tidak perlu memaksa dirinya memahami seluruh pembahasan dalam satu waktu. Ia dapat mempelajari satu persoalan, memahami istilahnya, lalu berpindah kepada persoalan berikutnya.
+Pembicaraan mengenai langit, atmosfer, dan lapisan bumi ini merupakan selingan untuk menggambarkan perbedaan antara penjelasan yang dibangun melalui pemikiran teoretis dan kajian yang dilakukan melalui pengamatan.
 
-Dengan cara itu, keseluruhan ilmu dapat dipahami sedikit demi sedikit.
+## 12. Kesamaan antara Filsafat dan Ilmu
 
-20. Setiap tingkat pendidikan memerlukan dasar dari tingkat sebelumnya
+Setelah membicarakan sejarah pemisahan keduanya, dosen beralih kepada pertanyaan berikutnya: apakah filsafat dan ilmu memiliki kesamaan?
 
-Dosen kemudian memberikan contoh dari dunia pendidikan.
+Mahasiswa diminta menyebutkan satu bentuk kesamaan di antara keduanya.
 
-Seorang siswa yang masih berada di tingkat sekolah menengah pertama dapat merasa bahwa soal-soal tingkat universitas sangat sulit.
+Salah seorang mahasiswa menjawab bahwa keduanya sama-sama menyusun pemikiran. Dosen menerima jawaban tersebut dan mengembangkannya.
 
-Namun, setelah ia mempelajari materi sekolah menengah pertama, melanjutkan ke sekolah menengah atas, dan menguasai persoalan-persoalan yang diperlukan, ia akan mempunyai bekal untuk mempelajari materi tingkat universitas.
+### a. Keduanya merupakan penelitian yang teratur dan sistematis
 
-Kesulitan suatu persoalan sering kali disebabkan oleh belum terpenuhinya pengetahuan dasar yang diperlukan untuk memahaminya.
+Filsafat dan ilmu sama-sama menggunakan pemikiran yang teratur. Keduanya tidak sekadar mengemukakan pendapat tanpa dasar.
 
-Karena itu, seseorang harus menyelesaikan dasar-dasar suatu ilmu sebelum memasuki pembahasan yang lebih kompleks.
+Baik filsafat maupun ilmu menggunakan مقدمات, yaitu premis atau landasan awal, kemudian melalui proses penalaran sampai menghasilkan نتائج, yaitu kesimpulan atau hasil pembahasan.
 
-Dosen menegaskan bahwa terkadang dasar-dasar persoalan justru lebih penting daripada persoalan lanjutannya. Jika dasar tidak dikuasai, seseorang akan kesulitan memahami pembahasan yang lebih tinggi.
+Dengan demikian, keduanya merupakan bentuk penelitian yang tersusun. Filsafat memiliki premis dan hasil, demikian pula ilmu memiliki premis dan hasil.
 
-21. Kurangnya pengetahuan dasar membuat seseorang sulit berdialog
+Kesamaan pertama terletak pada karakter keduanya sebagai penelitian yang sistematis.
 
-Dosen menghubungkan persoalan tersebut dengan kegiatan diskusi dan perdebatan ilmiah.
+### b. Keduanya melampaui pemikiran manusia biasa
 
-Dalam suatu perdebatan, seseorang mungkin tidak mampu menyampaikan hujah atau membangun argumentasi. Hal itu terkadang bukan karena tidak ada dalil yang dapat digunakan, melainkan karena pihak yang diajak bicara tidak mempunyai pengetahuan dasar mengenai ilmu yang sedang dibahas.
+Dosen kemudian menjelaskan bahwa filsafat dan ilmu sama-sama membutuhkan pemikiran yang lebih mendalam daripada pemikiran manusia dalam kegiatan sehari-hari.
 
-Apabila lawan bicara tidak memahami istilah dan prinsip dasar suatu disiplin ilmu, seseorang akan kesulitan menjelaskan persoalan tingkat lanjut kepadanya.
+Manusia biasa menjalani kehidupannya dengan makan, minum, bekerja, menikah, dan melakukan berbagai aktivitas sehari-hari. Semua itu merupakan bagian dari kehidupan manusia pada umumnya.
 
-Dalam keadaan seperti itu, pembicaraan harus dimulai dari dasar-dasar ilmu terlebih dahulu.
+Namun, filsafat menuntut pembahasan yang lebih mendalam. Demikian juga penelitian ilmiah, baik yang bersifat teoretis maupun eksperimental, memerlukan pemikiran yang lebih serius dan terarah.
 
-Dosen menekankan bahwa seseorang tidak dapat langsung memberikan pembuktian tingkat tinggi kepada orang yang belum memahami prinsip-prinsip awalnya.
+Dosen menjelaskan bahwa orang yang mempelajari filsafat atau melakukan penelitian ilmiah harus mengembangkan kemampuan berpikir, menganalisis, dan menyusun pembahasan secara teratur.
 
-Hal yang sama berlaku dalam filsafat. Kesulitan filsafat tidak dapat dipisahkan dari banyaknya istilah dan dasar pemikiran yang harus dikuasai.
+Pernyataan bahwa filsafat dan ilmu melampaui pemikiran manusia biasa tidak dimaksudkan bahwa seorang filsuf atau ilmuwan bukan manusia biasa dalam arti fisik, melainkan bahwa aktivitas berpikir yang mereka lakukan lebih mendalam daripada kegiatan berpikir sehari-hari.
 
-Namun, dengan latihan, pemahaman istilah, pengulangan, dan pembelajaran bertahap, kesulitan tersebut dapat dikurangi.
+### c. Keduanya membutuhkan kebebasan dalam penelitian
 
-BAGIAN KEENAM
-KEBERATAN KETUJUH: FILSAFAT DIANGGAP MEMBAHAYAKAN AGAMA DAN MEMBAWA KEPADA ATEISME
+Kesamaan lainnya adalah kebutuhan terhadap kebebasan dalam penelitian.
 
-22. Tuduhan bahwa filsafat menjauhkan manusia dari agama
+Filsafat membutuhkan kebebasan agar seseorang dapat meneliti dan memikirkan persoalan secara terbuka. Ilmu juga membutuhkan kebebasan dalam melakukan penelitian dan pengujian.
 
-Keberatan ketujuh menyatakan bahwa filsafat merupakan ilmu yang berbahaya bagi agama.
+Tanpa kebebasan dalam penelitian, seseorang akan kesulitan mengembangkan pemikiran maupun memeriksa suatu fenomena.
 
-Menurut keberatan ini, filsafat dapat membawa seseorang kepada ateisme, membuatnya meragukan akidah, serta menjauhkannya dari agama.
+Dengan demikian, menurut dosen, terdapat tiga kesamaan pokok antara filsafat dan ilmu: keduanya merupakan penelitian sistematis yang menggunakan premis dan menghasilkan kesimpulan; keduanya membutuhkan kemampuan berpikir yang lebih mendalam daripada pemikiran sehari-hari; dan keduanya membutuhkan kebebasan dalam melakukan penelitian.
 
-Dosen menjelaskan bahwa tuduhan ini harus diperiksa secara cermat. Tidak benar bahwa ateisme hanya merupakan akibat dari filsafat.
+## 13. Pengalaman Dosen dalam Mempelajari Mantik
 
-Apabila ateisme merupakan akibat yang pasti dari filsafat, seharusnya seluruh filsuf menjadi ateis. Namun, hal itu tidak benar.
+Di tengah pembahasan mengenai kesamaan filsafat dan ilmu, dosen menceritakan pengalamannya ketika belajar di fakultas.
 
-Ada filsuf yang beriman, ada yang membela agama, dan ada pula yang menggunakan pemikiran filosofis untuk mendukung keyakinan keagamaan.
+Beliau pernah belajar mantik kepada seorang dosen yang disebut sebagai Dekan Fakultas, yaitu Dr. Mahmud Husain. Dosen tersebut juga merupakan guru dan pembimbingnya dalam penulisan tesis magister.
 
-Karena itu, filsafat tidak dapat disamakan begitu saja dengan ateisme.
+Dosen mengaku sangat menyukai gurunya karena dua hal. Pertama, gurunya memiliki kemampuan keilmuan yang kuat. Kedua, gurunya mampu menjelaskan persoalan yang sulit dengan cara yang mudah dan mengalir.
 
-23. Ateisme bukan sesuatu yang hanya muncul dari filsafat
+Dosen mengatakan bahwa beliau kemudian mempunyai keinginan untuk meniru cara mengajar gurunya. Beliau ingin mampu membahas persoalan yang sulit, tetapi menjelaskannya dengan bahasa yang mudah dipahami oleh mahasiswa.
 
-Dosen menjelaskan bahwa ateisme dapat muncul melalui proses pemikiran manusia mengenai alam semesta dan kehidupan, baik orang tersebut seorang filsuf maupun bukan.
+Karena itu, dosen berharap dapat menyampaikan materi filsafat dengan cara yang tidak membuat mahasiswa kesulitan memahami pokok pembahasan.
 
-Seseorang dapat memikirkan persoalan alam, kehidupan, manusia, dan keberadaan Tuhan, kemudian sampai kepada kesimpulan tertentu.
+Beliau juga mengungkapkan harapan agar pada kesempatan lain dapat membahas persoalan yang lebih sulit, misalnya filsafat Islam atau berbagai pemikiran filsafat yang membutuhkan penjelasan lebih mendalam.
 
-Proses berpikir semacam itu tidak hanya dimiliki oleh orang yang secara akademis mempelajari filsafat.
+## 14. Perbedaan antara Filsafat dan Ilmu
 
-Dengan demikian, seseorang tidak dapat mengatakan bahwa filsafat merupakan satu-satunya penyebab ateisme.
+Setelah membicarakan kesamaan, dosen mulai memasuki persoalan perbedaan antara filsafat dan ilmu.
 
-Dosen juga menegaskan bahwa apabila filsafat dengan sendirinya menyebabkan ateisme, seharusnya seluruh filsuf menolak agama. Namun, kenyataannya terdapat banyak pemikir yang mempertahankan keyakinan keagamaan dan menggunakan filsafat untuk membela atau menjelaskannya.
+Beliau menyebut beberapa sisi yang dapat digunakan untuk membedakan keduanya, yaitu:
 
-24. Sedikit pengetahuan filsafat dan pemahaman yang tidak lengkap
+1. الموضوع, objek atau persoalan yang diteliti;
+2. الغاية, tujuan yang ingin dicapai;
+3. المنهج, metode yang digunakan;
+4. النتائج, hasil atau kesimpulan yang diperoleh.
 
-Dosen menyampaikan sebuah ungkapan bahwa sedikit pengetahuan filsafat terkadang dapat membawa seseorang kepada keraguan atau bahkan ateisme, sedangkan pemahaman filsafat yang lebih mendalam justru dapat mengantarkan seseorang kepada iman dan keyakinan.
+Keempat aspek tersebut menjadi kerangka utama untuk memahami perbedaan antara filsafat dan ilmu dalam pembahasan berikutnya.
 
-Redaksi yang disampaikan dalam ceramah berbunyi:
+Sebelum memasuki penjelasan lebih jauh, dosen sempat bercakap-cakap dengan mahasiswa mengenai waktu belajar dan aktivitas sehari-hari mereka.
 
-قَلِيلُ الْفَلْسَفَةِ قَدْ يُؤَدِّي إِلَى الْإِلْحَادِ، وَلَكِنَّ كَثِيرَ الْفَلْسَفَةِ يُؤَدِّي إِلَى الْإِيمَانِ وَالْيَقِينِ.
+## 15. Selingan Mengenai Pengelolaan Waktu dan Aktivitas Olahraga
 
-Maksudnya, pengetahuan yang hanya sedikit dan tidak utuh dapat menyebabkan seseorang terjebak dalam persoalan yang tidak dipahaminya. Namun, pendalaman terhadap filsafat dapat membantunya memahami persoalan dengan lebih baik dan bahkan mengantarkannya kepada keyakinan.
+Dalam percakapan dengan mahasiswa, dosen bertanya sampai jam berapa mereka belajar dan apa yang mereka lakukan setelahnya. Salah seorang mahasiswa mengatakan bahwa ia menonton pertandingan sepak bola, yaitu pertandingan Real Madrid.
 
-Dosen kemudian memberikan analogi obat.
+Dosen kemudian bercanda mengenai mahasiswa yang menonton pertandingan. Beliau bertanya siapa yang bermain sepak bola secara langsung dan bukan hanya menonton.
 
-Misalnya, seseorang sedang sakit dan dokter memberikan obat dengan dosis tertentu. Namun, orang itu hanya meminum setengah dari dosis yang seharusnya, atau mengonsumsi obat dengan cara yang tidak sesuai.
+Setelah itu, dosen menasihati para mahasiswa agar tidak menghabiskan waktu hanya dengan duduk, tidur, atau melakukan kegiatan yang tidak memberikan manfaat.
 
-Ketika penyakitnya tidak sembuh, apakah ia boleh menyalahkan obat dan mengatakan bahwa obat tersebut tidak berguna?
+Menurut beliau, kehidupan seorang Muslim seharusnya memiliki keseimbangan. Ada waktu untuk salat, waktu untuk belajar, waktu untuk berolahraga, waktu untuk hiburan, waktu untuk mengunjungi teman, dan waktu untuk melakukan aktivitas yang melibatkan gerak tubuh.
 
-Tentu tidak. Ia belum menggunakan obat sesuai dosis dan cara yang ditentukan.
+Dosen mengatakan bahwa banyak orang kehilangan waktu tanpa melakukan sesuatu yang berarti. Mereka tidak belajar, tidak menikmati kegiatan yang bermanfaat, dan tidak memperoleh sesuatu dari waktu yang berlalu.
 
-Apabila seseorang ingin mengetahui manfaat obat, ia harus menggunakannya dengan benar sesuai petunjuk.
+Karena itu, beliau menyarankan mahasiswa agar mengisi kehidupan dengan aktivitas yang beragam. Mahasiswa hendaknya belajar, beribadah, berolahraga, mengunjungi teman, dan melakukan kegiatan fisik.
 
-Dosen menggunakan analogi ini untuk menjelaskan bahwa seseorang tidak seharusnya menghakimi filsafat hanya berdasarkan pengetahuan yang sedikit dan pemahaman yang tidak lengkap.
+Ketika ditanya tentang olahraga, sebagian mahasiswa menjawab bahwa mereka jarang bermain sepak bola, bahkan ada yang hanya bermain satu kali dalam setahun. Dosen kemudian bercanda bahwa mereka tidur sepanjang tahun setelah bermain satu kali.
 
-Apabila seseorang hanya mempelajari sebagian kecil persoalan filsafat, kemudian menemukan suatu masalah yang mengguncang pemikirannya, ia tidak boleh langsung menyimpulkan bahwa seluruh filsafat membawa kepada ateisme.
+Beliau juga bertanya apakah ada mahasiswa yang bermain olahraga selain sepak bola. Disebutkan olahraga voli, tetapi dosen menilai bahwa secara umum para mahasiswa kurang aktif berolahraga.
 
-Ia harus mempelajari pembahasannya secara lengkap, memahami istilahnya, serta menelaah argumentasi yang digunakan.
+Dalam konteks tersebut, dosen mengutip perkataan yang beliau nisbatkan kepada Nabi صلى الله عليه وسلم tentang mengajarkan anak-anak berenang, memanah, dan berkuda. Redaksi yang tertangkap dalam rekaman tidak utuh, terutama pada kata yang berkaitan dengan memanah dan berkuda, tetapi inti yang disampaikan dosen adalah pentingnya mempelajari aktivitas fisik.
 
-25. Filsafat dan kemungkinan mengantarkan manusia kepada iman
+Beliau kemudian menyarankan mahasiswa agar memiliki kegiatan jasmani yang dilakukan secara rutin. Mereka dapat belajar berenang, berjalan kaki, atau melakukan olahraga lainnya.
 
-Dosen menegaskan bahwa filsafat tidak harus membawa manusia menjauh dari agama.
+Dosen menegaskan bahwa setiap orang sebaiknya memiliki aktivitas fisik yang dijalankan, bukan hanya menghabiskan waktu dengan duduk dan tidur.
 
-Sebaliknya, pemikiran filosofis dapat mengantarkan seseorang untuk menerima keberadaan Tuhan dan menguatkan keyakinannya.
+Setelah selingan ini, dosen kembali kepada pembahasan utama, yaitu perbedaan filsafat dan ilmu.
 
-Ateisme bukan sesuatu yang secara otomatis keluar dari filsafat. Ia dapat berkaitan dengan proses pemikiran tertentu dan juga dipengaruhi keadaan psikologis manusia.
+## 16. Perbedaan Pertama: Dari Segi Objek Kajian (الموضوع)
 
-Dalam rekaman, dosen menyampaikan bahwa ateisme berkaitan dengan suatu pemikiran rasional yang dapat berhubungan dengan keadaan psikologis dan perubahan tahapan kehidupan. Redaksi penjelasan pada bagian ini kurang jelas sehingga hubungan antara faktor rasional dan psikologis tidak dapat dipastikan secara lebih terperinci.
+Dosen menjelaskan bahwa الموضوع berarti sesuatu yang menjadi objek pembahasan suatu ilmu. Dengan kata lain, objek kajian adalah hal yang diteliti oleh suatu disiplin pengetahuan.
 
-Inti yang ditekankan ialah bahwa hasil pemikiran seseorang tidak boleh langsung dinisbatkan kepada filsafat sebagai satu-satunya penyebab.
+Untuk memudahkan pemahaman, dosen memberikan beberapa contoh.
 
-26. Lima keberatan yang menjadi materi utama
+Ilmu tafsir membahas kalimat atau ayat-ayat Al-Qur'an. Ilmu hadis membahas perkataan Nabi صلى الله عليه وسلم. Ilmu kedokteran membahas manusia, khususnya tubuh manusia. Ilmu kedokteran hewan membahas hewan. Geologi membahas bumi, sedangkan ilmu kimia membahas materi dan berbagai reaksi kimia.
 
-Setelah menjelaskan keberatan ketujuh, dosen mengingatkan bahwa kelima persoalan yang telah dibahas merupakan keberatan yang menjadi bagian materi pada tahun ini.
+Setiap disiplin ilmu memiliki objek tertentu yang menjadi fokus pembahasannya. Ilmu kedokteran tidak meneliti seluruh keberadaan alam semesta, melainkan berfokus pada manusia dan tubuhnya. Ilmu kimia juga memiliki fokus kajian tersendiri.
 
-Kelima persoalan itu adalah:
+Dari sini dosen mengarahkan mahasiswa untuk memahami perbedaan antara objek filsafat dan objek ilmu.
 
-Pertama, anggapan bahwa filsafat tidak berguna karena hanya bersifat teoritis.
+Menurut penjelasan beliau, **objek filsafat bersifat كلي**, yaitu umum atau menyeluruh. Filsafat membahas seluruh maujud dan persoalan yang berkaitan dengan keberadaan secara luas.
 
-Kedua, anggapan bahwa filsafat tidak berguna karena tidak menghasilkan kepastian mutlak.
+Sebaliknya, objek ilmu bersifat **جزئي**, yaitu khusus atau terbatas pada bagian tertentu. Setiap ilmu memiliki wilayah kajian yang berbeda sesuai dengan bidangnya.
 
-Ketiga, anggapan bahwa filsafat saling bertentangan dan menghancurkan pendapat sebelumnya.
+### a. Objek filsafat bersifat universal (كلي)
 
-Keenam, anggapan bahwa filsafat terlalu sulit dipahami dan hanya berguna bagi sedikit orang.
+Filsafat membahas segala sesuatu yang ada. Ia tidak hanya meneliti tubuh manusia, hewan, bumi, atau materi kimia secara terpisah.
 
-Ketujuh, anggapan bahwa filsafat membahayakan agama serta membawa kepada ateisme.
+Filsafat berusaha memikirkan keberadaan seluruh makhluk, asal-usulnya, sebab keberadaannya, dan persoalan mendasar yang berkaitan dengan seluruh maujud.
 
-Dosen menegaskan bahwa persoalan-persoalan tersebut telah dibahas lebih luas pada pertemuan sebelumnya.
+Ketika berbicara mengenai manusia, burung, unta, hewan, dan seluruh makhluk lainnya, filsafat berusaha memahami persoalan umum yang mencakup semuanya.
 
-BAGIAN KETUJUH
-KETERKAITAN ANTARPEMBAHASAN DAN KEDISIPLINAN MENGIKUTI PERKULIAHAN
+Dengan demikian, filsafat mempunyai objek yang bersifat universal karena pembahasannya tidak berhenti pada satu bagian tertentu dari alam.
 
-27. Materi perkuliahan bersifat saling berkaitan
+### b. Objek ilmu bersifat khusus (جزئي)
 
-Setelah menyelesaikan pembahasan keberatan terhadap filsafat, dosen menyampaikan kritik mengenai kehadiran mahasiswa.
+Ilmu memiliki objek yang lebih terbatas.
 
-Beliau mengatakan bahwa pola ketidakhadiran mahasiswa mulai terlihat berulang. Pada beberapa pertemuan, mahasiswa yang mengikuti bagian awal kuliah tidak selalu hadir pada bagian berikutnya. Ada pula mahasiswa yang datang hanya sesekali, bahkan mungkin hanya satu kali dalam beberapa minggu.
+Sebagai contoh, kedokteran mempelajari tubuh manusia. Kedokteran hewan mempelajari hewan. Geologi mempelajari bumi. Kimia mempelajari materi dan reaksi kimia.
 
-Dosen menegaskan bahwa materi filsafat dan mantik yang sedang dipelajari mempunyai hubungan yang saling berkesinambungan.
+Masing-masing ilmu tidak membahas seluruh makhluk dan seluruh keberadaan sekaligus. Setiap disiplin mempunyai objek yang secara khusus menjadi pusat penelitiannya.
 
-Pembahasan yang sedang dijelaskan sering kali membutuhkan pemahaman terhadap materi yang telah disampaikan sebelumnya. Karena itu, seseorang yang tidak mengikuti pertemuan sebelumnya dapat mengalami kesulitan ketika mengikuti pembahasan berikutnya.
+Karena itulah dosen menyimpulkan bahwa objek filsafat bersifat كلي, sedangkan objek ilmu bersifat جزئي.
 
-Dosen bahkan menyampaikan kemungkinan untuk menerapkan aturan bahwa mahasiswa yang tidak menghadiri pertemuan sebelumnya tidak diperbolehkan melanjutkan bagian berikutnya apabila materi yang dibahas benar-benar saling berkaitan.
+## 17. Perbedaan Kedua: Dari Segi Tujuan (الغاية)
 
-Alasannya adalah seseorang tidak dapat memahami bagian kedua jika belum menguasai dasar atau bagian pertama.
+Setelah membahas objek, dosen beralih kepada الغاية, yaitu tujuan yang ingin dicapai melalui suatu kegiatan atau penelitian.
 
-28. Belajar bukan sekadar hadir di kelas
+Dosen menjelaskan bahwa الغاية berarti الهدف, yakni sasaran atau tujuan yang diharapkan dari suatu usaha.
 
-Dosen kemudian menyindir bahwa mungkin pada masa tertentu terdapat sekitar dua ratus mahasiswa yang datang ke perkuliahan, tetapi sebagian dari mereka hanya datang untuk menghindari keadaan di rumah atau mencari tempat yang lebih nyaman dan sejuk.
+Ketika seseorang bertanya mengapa ia belajar, tujuan yang ingin dicapai melalui kegiatan belajar itulah yang disebut غاية.
 
-Beliau menyebut adanya mahasiswa yang mungkin datang karena tersedia kipas angin atau karena ingin menghindari panas, bukan karena benar-benar ingin mempelajari materi.
+Pertanyaan berikutnya adalah apa tujuan ilmu dan apa tujuan filsafat.
 
-Komentar tersebut disampaikan secara bercanda, tetapi mengandung teguran agar mahasiswa lebih serius mengikuti perkuliahan.
+### a. Tujuan ilmu adalah menjelaskan fenomena tertentu
 
-Dosen kemudian mengatakan bahwa waktu yang tersedia sebaiknya digunakan untuk menjelaskan sesuatu yang benar-benar bermanfaat. Jika penjelasan terus-menerus diulang kepada orang yang tidak mengikuti materi sebelumnya, waktu perkuliahan dapat habis tanpa menghasilkan perkembangan pembelajaran yang baik.
+Menurut dosen, tujuan ilmu adalah meneliti dan menjelaskan fenomena tertentu.
 
-29. Rencana ujian dan pertanyaan mahasiswa
+Sebagai contoh, dosen mengangkat kisah Newton yang sedang duduk di bawah pohon ketika sebuah apel jatuh. Fenomena jatuhnya apel tersebut kemudian menjadi sesuatu yang dipikirkan dan diteliti.
 
-Dosen membuka kesempatan kepada mahasiswa untuk bertanya. Beliau menyatakan bahwa selama waktu yang tersedia memungkinkan, ia dapat berhenti dan menjelaskan kembali bagian yang belum dipahami.
+Dalam contoh ini, peneliti ilmu berusaha memahami mengapa apel tersebut jatuh. Ia mencari sebab atau penjelasan mengenai fenomena tertentu.
 
-Namun, beliau juga mengingatkan bahwa waktu harus digunakan untuk pembahasan yang bermanfaat.
+Begitu pula ketika seorang dokter memeriksa pasien yang mengalami demam. Dokter berusaha mengetahui sebab demam tersebut dan mencari cara untuk mengobatinya.
 
-Dalam pertemuan tersebut muncul kemungkinan bahwa pertemuan berikutnya akan digunakan untuk ujian, baik ujian tertulis maupun bentuk pengujian lainnya. Ujian dapat dilaksanakan sepanjang perkuliahan atau hanya pada sebagian waktu, bergantung pada keputusan dosen.
+Ilmu kedokteran tidak harus menjawab seluruh pertanyaan mengenai keberadaan alam semesta untuk menjelaskan demam seorang pasien. Ia berfokus pada fenomena khusus yang sedang dihadapi.
 
-BAGIAN KEDELAPAN
-CAKUPAN UJIAN DAN MATERI YANG SUDAH DIPERLAJARI
+Dengan demikian, tujuan ilmu adalah memberikan penjelasan atau تعليل terhadap fenomena tertentu.
 
-30. Materi yang akan diujikan
+### b. Tujuan filsafat adalah memahami kebenaran dan sebab-sebab yang lebih umum
 
-Dosen mengingatkan bahwa mahasiswa telah mempelajari الفكر الفلسفي dan pembahasan mengenai filsafat, termasuk تعريف الفلسفة.
+Berbeda dari ilmu, filsafat tidak berhenti pada penjelasan satu fenomena tertentu.
 
-Ketika ditanya mengenai cakupan materi ujian, dosen menjelaskan bahwa mahasiswa perlu mempelajari materi dari awal buku sampai bagian akhir pembahasan keberatan terhadap filsafat yang telah diterangkan.
+Dosen memberikan contoh apel yang jatuh. Seorang ilmuwan dapat meneliti sebab jatuhnya apel. Namun, seorang filsuf dapat melanjutkan pertanyaan lebih jauh: apa hakikat apel itu sendiri, apa hakikat pohon tempat apel itu tumbuh, apa hakikat alam di sekitarnya, dan apa sebab mendasar dari keberadaan seluruh hal tersebut?
 
-Ujian akan mencakup materi yang benar-benar telah dibahas di kelas, termasuk pengertian filsafat, pemikiran filosofis, dan lima keberatan terhadap filsafat yang telah dipelajari.
+Filsafat berusaha mencapai pembahasan yang lebih luas, yaitu mengenai sebab-sebab umum di balik keberadaan segala sesuatu.
 
-Dosen juga menyebut beberapa topik yang belum dibahas atau tidak termasuk materi yang diujikan pada saat itu, seperti pembahasan tertentu mengenai أهمية الفلسفة dan وظيفتها. Redaksi bagian tersebut tidak sepenuhnya jelas, tetapi maksud dosen adalah bahwa mahasiswa tidak perlu memasukkan pembahasan yang belum diajarkan dan tidak ditetapkan sebagai materi ujian.
+Dosen menggunakan istilah:
 
-31. Waktu ujian
+**العلة الكبرى**
 
-Dalam percakapan kelas, dosen membicarakan tanggal ujian dan menyebut angka tanggal 28 serta angka 7, kemudian menghitung jarak waktu yang tersisa. Terdapat pula penyebutan sekitar 35 hari dan 41 hari, tetapi hubungan angka-angka tersebut tidak jelas dalam rekaman.
+atau
 
-Dosen kemudian menyebut bahwa ujian semester atau ujian pertengahan semester direncanakan pada hari Rabu tanggal 11. Namun, bulan yang dimaksud tidak terdengar dengan jelas.
+**العلة العامة**
 
-Karena itu, tanggal yang dapat dicatat dari ceramah hanyalah penyebutan hari Rabu tanggal 11 tanpa kepastian bulan.
+Yaitu sebab besar atau sebab yang bersifat umum.
 
-BAGIAN KESEMBILAN
-METAFISIKA DAN CABANG-CABANG UTAMA FILSAFAT
+Filsafat tidak hanya meneliti mengapa satu apel jatuh, tetapi berusaha mencapai pemahaman tentang kebenaran-kebenaran besar dan sebab mendasar yang berkaitan dengan seluruh keberadaan.
 
-32. Pertanyaan mengenai الميتافيزيقا
+Dosen kemudian menyarankan agar tujuan filsafat dapat dirumuskan sebagai:
 
-Setelah membicarakan ujian, salah seorang mahasiswa mengajukan pertanyaan mengenai الميتافيزيقا (metafisika).
+**الوصول إلى معرفة الحقائق الكبرى**
 
-Dosen menjelaskan bahwa sebelumnya mereka telah membahas beberapa bidang utama filsafat, di antaranya مبحث الوجود, yaitu pembahasan mengenai keberadaan atau eksistensi.
+Artinya, mencapai pengetahuan mengenai kebenaran-kebenaran besar.
 
-Kemudian beliau menjelaskan istilah الميتافيزيقا dan asal penyebutannya.
+Dengan demikian, tujuan ilmu adalah menjelaskan fenomena khusus, sedangkan tujuan filsafat adalah mencapai pemahaman mengenai hakikat dan kebenaran yang lebih umum.
 
-33. Makna فِيزيقا dan مَا بَعْدَ الطَّبِيعَةِ
+## 18. Perbedaan Ketiga: Dari Segi Metode (المنهج)
 
-Dosen menjelaskan bahwa kata فيزيقا berkaitan dengan الطبيعة, yaitu alam atau alamiah.
+Setelah objek dan tujuan, dosen menjelaskan المنهج, yaitu jalan atau cara yang digunakan dalam melakukan penelitian.
 
-Adapun metafisika dikenal dengan istilah مَا بَعْدَ الطَّبِيعَةِ, yaitu sesuatu yang berada setelah atau melampaui pembahasan mengenai alam.
+Pertanyaannya adalah: metode apa yang digunakan filsafat dan metode apa yang digunakan ilmu?
 
-Namun, dosen mengingatkan bahwa penamaan tersebut berkaitan dengan susunan karya Aristoteles.
+Dosen meminta mahasiswa menjawab. Salah seorang mahasiswa menyebut bahwa filsafat menggunakan metode akal dan perenungan, sedangkan ilmu menggunakan eksperimen.
 
-Dalam penjelasan ceramah, Aristoteles menulis pembahasan mengenai filsafat alam terlebih dahulu, kemudian menulis pembahasan mengenai persoalan ketuhanan atau الإلهيات setelahnya.
+Dosen menerima jawaban tersebut dan memperjelasnya.
 
-Karena pembahasan mengenai الإلهيات ditempatkan setelah pembahasan mengenai alam, bagian tersebut kemudian dikenal dengan istilah ما بعد الطبيعة.
+### a. Metode filsafat: rasional dan teoretis
 
-Dengan demikian, penyebutan metafisika sebagai ما بعد الطبيعة pada awalnya berkaitan dengan urutan penulisan atau penempatan pembahasan dalam karya Aristoteles.
+Filsafat menggunakan metode عقلي, yaitu metode rasional yang bertumpu pada akal.
 
-Dosen menyebut bahwa penamaan itu dapat dianggap sebagai تسـمية اتفاقية, yaitu penamaan yang digunakan berdasarkan kesepakatan atau kebiasaan penyebutan.
+Dalam pembahasan ini, metode filsafat berupa التفكير atau الت?مل الفكري, yakni berpikir, merenung, dan menalar secara teoretis.
 
-Jadi, istilah tersebut tidak harus dipahami secara harfiah bahwa semua persoalan metafisika merupakan sesuatu yang secara fisik terletak setelah alam.
+Filsuf berusaha memperoleh pemahaman melalui proses berpikir. Ia membangun premis, menyusun hubungan di antara gagasan, dan menarik kesimpulan.
 
-34. Cakupan filsafat pada masa Yunani
+Karena itu, metode filsafat dalam pembahasan ini disebut metode عقلي نظري, yaitu metode rasional-teoretis.
 
-Dosen kemudian menjelaskan bahwa filsafat pada masa Yunani mempunyai cakupan yang luas.
+### b. Metode ilmu: eksperimental
 
-Filsafat tidak hanya membahas persoalan yang kini secara khusus disebut metafisika. Dalam pengertian yang digunakan pada masa itu, filsafat juga meliputi pembahasan mengenai alam, etika, dan ketuhanan.
+Ilmu eksperimental menggunakan التجربة, yaitu eksperimen atau percobaan. Metode tersebut juga mengandalkan pengamatan, indra, dan kegiatan penelitian di laboratorium.
 
-Di antara bidang yang disebut dosen adalah:
+Seorang peneliti tidak hanya duduk dan memikirkan suatu fenomena, tetapi berusaha mengamatinya secara langsung serta melakukan percobaan untuk memeriksa apa yang benar-benar terjadi.
 
-الطَّبِيعِيَّاتُ
+Dosen menyebut bahwa ilmu menggunakan metode yang berkaitan dengan pengalaman empiris, pengamatan, dan eksperimen. Dalam rekaman terdapat istilah yang terdengar seperti الاستقام setelah kata eksperimen, tetapi redaksi istilah tersebut tidak cukup jelas untuk dipastikan sehingga tidak dapat dijelaskan lebih jauh.
 
-Pembahasan mengenai alam atau ilmu-ilmu alam.
+### c. Apakah ilmu eksperimental tidak menggunakan akal?
 
-الأَخْلَاقُ
+Dosen kemudian mengajukan pertanyaan penting: apakah penelitian eksperimental sama sekali tidak membutuhkan akal?
 
-Pembahasan mengenai moral dan etika.
+Jawabannya adalah tidak demikian. Ilmu eksperimental tetap menggunakan akal. Perbedaannya terletak pada cara akal bekerja dalam proses penelitian.
 
-الإِلَهِيَّاتُ
+Menurut penjelasan dosen, para pendukung metode eksperimental mengatakan bahwa akal tidak berpikir dari ruang kosong. Akal membutuhkan data atau bahan yang diperoleh melalui pengamatan dan eksperimen.
 
-Pembahasan mengenai ketuhanan dan persoalan ilahiah.
+Sebagai contoh, terdapat suatu bahan kimia dan api. Seseorang mungkin menduga bahwa apabila bahan tersebut diletakkan di atas api, bahan itu akan memuai.
 
-Dosen juga menyebut bahwa pembahasan filsafat dapat meliputi bidang-bidang lain seperti matematika, politik, dan pengelolaan rumah tangga.
+Namun, dalam metode eksperimental, peneliti tidak cukup hanya menetapkan hasil berdasarkan pemikiran sebelum melakukan pengujian. Ia harus melakukan percobaan terlebih dahulu, kemudian melihat apa yang benar-benar terjadi.
 
-Karena itu, penggunaan istilah filsafat dalam karya-karya lama tidak selalu sama dengan pengertian filsafat yang lebih sempit dalam sebagian pembagian ilmu modern.
+Setelah hasil eksperimen diperoleh, akal digunakan untuk memahami, menganalisis, dan menarik kesimpulan dari data tersebut.
 
-35. Mengapa metafisika dikaitkan dengan sesuatu yang berada di luar jangkauan indra?
+Dengan demikian, akal tetap berperan dalam ilmu eksperimental, tetapi kesimpulan yang diambil tidak boleh hanya berdasarkan dugaan teoretis yang belum diuji. Hasil percobaan dan pengamatan menjadi landasan penting bagi penalaran.
 
-Dosen juga menjelaskan bahwa metafisika kemudian dipahami sebagai pembahasan mengenai persoalan yang tidak dapat ditangkap langsung oleh indra.
+Perbedaan metode dapat dirumuskan sebagai berikut: filsafat lebih menekankan penalaran rasional dan teoretis, sedangkan ilmu eksperimental menggunakan akal bersama pengamatan, indra, dan percobaan.
 
-Persoalan-persoalan tersebut mencakup hal yang tidak dapat dilihat, disentuh, atau diketahui secara langsung melalui pengalaman indrawi.
+## 19. Apakah Metode Rasional atau Eksperimental yang Lebih Bermanfaat?
 
-Namun, dosen menegaskan kembali bahwa asal penamaan ما بعد الطبيعة dalam penjelasan sejarah yang sedang disampaikan berkaitan dengan posisi pembahasan itu setelah pembahasan fisika atau alam dalam susunan karya Aristoteles.
+Setelah membedakan kedua metode tersebut, dosen bertanya kepada para mahasiswa: metode mana yang lebih bermanfaat bagi manusia, metode rasional atau metode eksperimental?
 
-Dengan demikian, mahasiswa perlu membedakan asal-usul nama metafisika dengan karakter persoalan yang kemudian dibahas di dalamnya.
+Sebagian mahasiswa mengatakan bahwa metode eksperimental lebih banyak memberikan manfaat bagi kehidupan manusia. Mereka mengaitkannya dengan kemajuan yang diperoleh melalui berbagai penelitian dan penggunaan hasil eksperimen.
 
-BAGIAN KESEPULUH
-HAKIKAT AKAL DAN PEMIKIRAN FILOSOFIS
+Mahasiswa lain memberikan jawaban berbeda. Ia berpendapat bahwa kedua metode mempunyai wilayah masing-masing. Sebagai contoh, dalam ilmu tafsir terdapat pembahasan yang tidak dilakukan melalui eksperimen sebagaimana penelitian kimia atau ilmu alam. Sebaliknya, dalam ilmu yang berkaitan dengan reaksi kimia dan fenomena alam, eksperimen sangat diperlukan.
 
-36. Filsafat berkaitan dengan طبيعة العقل
+Dosen kemudian menanyakan apakah keduanya sama-sama berguna. Mahasiswa menjawab bahwa keduanya bermanfaat.
 
-Setelah menjelaskan metafisika, dosen kembali kepada pokok pembahasan mengenai hakikat berpikir filosofis.
+Dosen menerima jawaban tersebut. Beliau menjelaskan bahwa tidak perlu memusuhi salah satu metode hanya karena metode yang lain memberikan manfaat besar.
 
-Beliau mengatakan bahwa salah satu pembahasan awal dalam filsafat berkaitan dengan الفكر atau العقل, yaitu pemikiran dan akal.
+Manusia membutuhkan metode rasional dan metode eksperimental. Setiap metode mempunyai wilayah kerja masing-masing. Metode rasional digunakan ketika persoalan memang menuntut penalaran teoretis, sedangkan metode eksperimental diperlukan ketika persoalan menuntut pemeriksaan melalui percobaan dan pengamatan.
 
-Dosen mengajak mahasiswa memahami sesuatu berdasarkan طبيعة, yaitu sifat dasar atau fungsi alamiahnya.
+Dosen juga menyinggung pertanyaan kepada mahasiswa: apabila mereka dapat memilih kembali antara fakultas keilmuan dan fakultas teoretis, bidang mana yang akan mereka pilih? Salah satu mahasiswa menjawab bahwa ia ingin menggabungkan keduanya agar dapat menguasai kedua pendekatan tersebut.
 
-Untuk menjelaskan hal tersebut, beliau memberikan contoh organ-organ tubuh manusia.
+Dosen kemudian bertanya bagaimana Barat mengalami kemajuan. Salah seorang mahasiswa menjawab bahwa kemajuan tersebut berkaitan dengan eksperimen dan penggunaannya. Dalam percakapan itu, muncul pula jawaban bercanda mengenai استعمار atau kolonialisme.
 
-37. Analogi fungsi mata, telinga, dan hidung
+Dosen kemudian menegaskan kembali pokok pendiriannya: manusia membutuhkan metode rasional sekaligus metode eksperimental. Tidak ada alasan untuk memusuhi salah satunya. Keduanya diperlukan, tetapi masing-masing harus digunakan sesuai dengan bidangnya dan tidak boleh melampaui wilayah yang semestinya.
 
-Mata mempunyai fungsi melihat. Telinga mempunyai fungsi mendengar. Hidung mempunyai fungsi mencium bau dan, sebagaimana disebutkan dalam percakapan, juga berkaitan dengan pernapasan.
+Dosen menolak dua sikap yang dianggap berlebihan.
 
-Setiap organ memiliki sifat dasar atau fungsi tertentu.
+Pertama, pandangan yang menyatakan bahwa seluruh pengetahuan hanya dapat diperoleh melalui eksperimen, sedangkan akal tidak mempunyai peran atau kemampuan memberikan pengetahuan apa pun.
 
-Namun, meskipun semua manusia memiliki mata, kemampuan penglihatan mereka tidak sama. Ada orang yang penglihatannya lebih tajam, ada yang lebih lemah, dan ada orang yang tidak mampu melihat sebagaimana orang lain.
+Kedua, pandangan yang menyatakan bahwa akal saja sudah cukup untuk memperoleh seluruh pengetahuan, sedangkan eksperimen dan pengalaman tidak memberikan sesuatu yang berarti.
 
-Jadi, keberadaan organ yang sama tidak menjamin bahwa semua manusia mempunyai tingkat kemampuan yang sama dalam menggunakannya.
+Menurut dosen, kedua pandangan tersebut tidak tepat. Akal mempunyai peran dan memiliki sejumlah informasi dasar. Allah سبحانه وتعالى telah memberikan kepada manusia hukum-hukum atau prinsip-prinsip akal yang menjadi dasar dalam berpikir.
 
-Dosen kemudian menghubungkan analogi tersebut dengan akal.
+Sayangnya, bagian akhir penjelasan mengenai contoh hukum-hukum dasar akal terpotong oleh masuknya waktu azan. Karena itu, contoh yang hendak diberikan dosen tidak dapat dipastikan dari rekaman.
 
-Akal memiliki طبيعة التفكير, yaitu sifat dasar untuk berpikir. Namun, tingkat kemampuan manusia dalam menggunakan akalnya tidak sama.
+## 20. Hubungan Metode Rasional dan Eksperimental dengan Ayat Al-Qur'an
 
-38. Contoh زرقاء اليمامة dan perbedaan kemampuan penglihatan
+Setelah membahas metode rasional dan eksperimental, dosen menghubungkan persoalan tersebut dengan Al-Qur'an.
 
-Untuk menunjukkan bahwa kemampuan suatu organ dapat berbeda pada setiap orang, dosen menyebut kisah yang berkaitan dengan زرقاء اليمامة.
+Beliau mengingatkan bahwa dalam Al-Qur'an terdapat banyak seruan untuk berpikir dan merenung. Dosen kemudian bertanya apakah Al-Qur'an lebih banyak mengarahkan manusia kepada metode rasional atau metode eksperimental.
 
-Dalam penjelasan kelas, disebutkan sebuah kisah tentang seorang perempuan yang mempunyai penglihatan sangat tajam. Ia dapat melihat sekumpulan burung atau merpati dari jarak jauh dan menghitung jumlahnya hanya dengan penglihatan.
+Salah seorang mahasiswa menjawab bahwa manusia diperintahkan untuk berpikir, kemudian melakukan sesuatu. Jawaban itu disetujui dosen.
 
-Dosen juga mengutip suatu syahid atau contoh syair yang digunakan dalam pembahasan nahwu:
+Dosen lalu mengangkat firman Allah:
 
-أَلَا لَيْتَمَا هَذَا الْحَمَامُ لَنَا
-إِلَىٰ حَمَامَتِنَا وَنِصْفَهُ
+**قُلْ سِيرُوا فِي الْأَرْضِ فَانْظُرُوا كَيْفَ بَدَأَ الْخَلْقَ**
 
-Redaksi syair dalam rekaman tidak terdengar sepenuhnya jelas, tetapi dosen menghubungkannya dengan penghitungan jumlah burung.
+Artinya, “Katakanlah: Berjalanlah di bumi, lalu perhatikanlah bagaimana Allah memulai penciptaan.”
 
-Dalam penjelasannya, perempuan tersebut melihat sekitar enam puluh enam ekor burung. Kemudian ia menghitung setengah dari jumlah tersebut, yaitu tiga puluh tiga. Dengan demikian, hasilnya menjadi sembilan puluh sembilan.
+Dosen meminta mahasiswa menjelaskan apakah ayat tersebut menunjukkan penelitian rasional atau penelitian eksperimental.
 
-Dosen menggunakan kisah tersebut untuk menunjukkan bahwa tidak setiap orang mempunyai ketajaman penglihatan yang sama.
+### a. Pendapat bahwa ayat tersebut menunjukkan metode eksperimental
 
-Meskipun semua orang mempunyai mata, kemampuan melihat mereka berbeda-beda.
+Sebagian mahasiswa berpendapat bahwa ayat tersebut menunjukkan metode eksperimental.
 
-Sebagaimana mata mempunyai kemampuan melihat yang tidak sama, akal manusia juga mempunyai kemampuan berpikir yang berbeda-beda.
+Alasannya, ayat tersebut memerintahkan manusia untuk melakukan perjalanan di bumi. Kata سيروا menunjukkan tindakan bergerak atau berjalan secara nyata. Setelah itu, manusia diperintahkan untuk melihat dan mengamati.
 
-39. Akal secara alamiah berpikir, tetapi kemampuan berpikir manusia berbeda
+Menurut mahasiswa yang mengambil pendapat ini, perjalanan dan pengamatan merupakan kegiatan yang berkaitan dengan pengalaman langsung. Seseorang pergi ke suatu tempat, melihat berbagai hal, dan mengumpulkan informasi melalui indra.
 
-Dosen menjelaskan bahwa طبيعة العقل adalah التفكير, yaitu berpikir.
+Dosen kemudian menambahkan bahwa kata سيروا menunjukkan tindakan fisik, sedangkan kata انظروا dapat dipahami sebagai pengamatan melalui penglihatan. Penglihatan merupakan salah satu alat penting dalam penelitian eksperimental.
 
-Namun, berpikir tidak selalu berada pada satu tingkatan.
+Karena itu, mereka berpendapat bahwa ayat tersebut memuat unsur yang berkaitan dengan metode empiris.
 
-Ada orang yang berpikir hanya untuk urusan kehidupan sehari-hari. Ia mempertimbangkan apa yang harus dilakukan hari ini, bagaimana memenuhi kebutuhan, atau bagaimana menyelesaikan persoalan yang langsung dihadapinya.
+### b. Pendapat bahwa ayat tersebut menunjukkan metode rasional
 
-Ada pula orang yang berpikir lebih jauh mengenai prinsip-prinsip yang mendasari tindakan tersebut.
+Mahasiswa lainnya berpandangan bahwa ayat tersebut menunjukkan metode rasional.
 
-Ia tidak hanya bertanya apa yang harus dilakukan, tetapi juga mengapa suatu tindakan dianggap benar, apa dasar keyakinan yang membimbingnya, dan prinsip moral apa yang digunakan untuk menilai suatu perbuatan.
+Alasannya, bagian akhir ayat berbunyi:
 
-Kemudian terdapat tingkat pemikiran yang lebih mendalam, yaitu seseorang tidak hanya memikirkan prinsip-prinsip yang mengarahkan tindakan, tetapi juga memeriksa dasar-dasar yang membuat prinsip tersebut diterima.
+**كَيْفَ بَدَأَ الْخَلْقَ**
 
-Dosen menjelaskan bahwa filsafat berkaitan dengan tahap pemikiran yang lebih mendasar tersebut.
+yaitu bagaimana penciptaan dimulai.
 
-40. Tiga tingkat pemikiran yang dijelaskan dosen
+Pertanyaan mengenai bagaimana penciptaan dimulai berhubungan dengan asal-usul alam dan persoalan mendasar mengenai keberadaan. Menurut mahasiswa ini, pertanyaan tersebut tidak berhenti pada pengamatan terhadap benda-benda yang terlihat, tetapi mengarahkan manusia untuk berpikir mengenai bagaimana alam bermula.
 
-Dalam penjelasan dosen, terdapat tiga tingkat pemikiran yang dapat dibedakan.
+Dengan demikian, ia melihat ayat tersebut sebagai sesuatu yang mengajak manusia menggunakan akalnya untuk mencari pemahaman mengenai penciptaan.
 
-Pertama, berpikir mengenai persoalan kehidupan sehari-hari. Pemikiran ini berkaitan dengan tindakan praktis yang langsung diperlukan manusia.
+### c. Pendapat yang menggabungkan kedua metode
 
-Kedua, berpikir mengenai prinsip-prinsip yang mengarahkan kehidupan. Misalnya, seseorang memikirkan keyakinan, akhlak, dan nilai-nilai yang menjadi dasar perilakunya.
+Mahasiswa lainnya berusaha menggabungkan kedua pandangan tersebut.
 
-Ketiga, berpikir mengenai landasan dari prinsip-prinsip tersebut. Pada tahap ini seseorang tidak hanya menggunakan suatu keyakinan atau nilai, melainkan juga memeriksa mengapa keyakinan tersebut benar, bagaimana prinsip itu dapat dibenarkan, dan apa dasar yang menopangnya.
+Menurutnya, perintah سيروا dapat dipahami sebagai penggunaan metode empiris karena manusia diminta berjalan dan mengamati sesuatu secara langsung. Sementara itu, perintah فانظروا mengarahkan manusia untuk berpikir dan menarik kesimpulan dari apa yang diamati.
 
-Dosen menghubungkan filsafat dengan tingkat pemikiran yang ketiga, yaitu pemikiran yang menelaah dasar-dasar dan prinsip-prinsip yang membentuk pandangan manusia.
+Dengan demikian, berjalan dan mengamati memberikan bahan bagi pemikiran, sedangkan akal digunakan untuk memahami hasil pengamatan tersebut.
 
-Dengan demikian, filsafat bukan sekadar berpikir mengenai tindakan harian, melainkan juga memeriksa dasar pemikiran yang mengarahkan tindakan tersebut.
+Dosen memuji pendapat ini karena berusaha menggabungkan unsur awal dan akhir ayat. Beliau menjelaskan bahwa perjalanan dapat dikaitkan dengan metode eksperimental, sedangkan pengamatan dan penalaran dapat dikaitkan dengan metode rasional.
 
-41. Tidak semua orang menggunakan akalnya dengan tingkat yang sama
+Dalam diskusi tersebut, seorang mahasiswa juga mengemukakan bahwa seseorang dapat menggunakan pemikiran sebelum melakukan perjalanan dan kemudian menggunakan hasil perjalanan sebagai bahan pengamatan. Ada pula yang membicarakan urutan antara melihat, berpikir, dan sampai kepada kesimpulan.
 
-Dosen menegaskan bahwa seluruh manusia mempunyai akal, tetapi tidak seluruh manusia menggunakan akalnya dengan kedalaman yang sama.
+Perbedaan jawaban tersebut menunjukkan bahwa para mahasiswa memahami ayat dari sudut pandang yang berbeda. Dosen mengapresiasi mereka karena masing-masing berusaha memberikan argumentasi berdasarkan redaksi ayat yang sama.
 
-Sebagian orang merasa cukup dengan penjelasan yang tampak di permukaan. Sebagian lain mulai menganalisis persoalan secara bertahap.
+Dosen kemudian mengatakan bahwa ketelitian Al-Qur'an dapat terlihat dari satu ayat yang memungkinkan mahasiswa menunjukkan beberapa sisi pemahaman. Ada yang menekankan tindakan berjalan, ada yang menekankan pengamatan, dan ada yang menekankan pencarian asal-usul penciptaan melalui pemikiran.
 
-Ada orang yang memperdalam analisis, ada yang menghubungkan berbagai persoalan, dan ada pula yang mampu menghubungkan pemikiran masa lalu dengan keadaan sekarang.
+### d. Penilaian berdasarkan hasil penelitian
 
-Semua aktivitas tersebut merupakan bentuk kerja akal, tetapi tingkat kedalaman dan kompleksitasnya berbeda.
+Dalam bagian pembahasan ini, dosen juga mengarahkan mahasiswa untuk memperhatikan hasil yang ingin dicapai.
 
-Karena itu, seseorang tidak boleh heran apabila ada orang yang mampu melakukan analisis filosofis yang sangat mendalam sementara orang lain tidak terbiasa dengan cara berpikir seperti itu.
+Apabila suatu penelitian berujung pada pencapaian kesimpulan yang bersifat menyeluruh atau universal, maka hal tersebut dapat menunjukkan karakter penelitian rasional atau filosofis. Sebaliknya, penelitian yang berfokus pada fenomena khusus melalui pengamatan dan percobaan mempunyai karakter empiris.
 
-Keberadaan akal sebagai sifat dasar manusia merupakan salah satu unsur yang memungkinkan munculnya pemikiran filosofis.
+Dosen menerima adanya beberapa pendapat mahasiswa, yaitu yang mengatakan ayat tersebut bersifat teoretis, yang mengatakan bersifat rasional, yang mengatakan bersifat empiris, dan yang menggabungkan keduanya.
 
-42. Hubungan antara keheranan, pertanyaan, pengetahuan, dan filsafat
+### e. Ayat mengenai berpikir bersama dan sendiri
 
-Dosen kemudian mengingatkan bahwa sebelumnya mereka pernah membahas bagaimana pemikiran filosofis muncul dalam diri manusia.
+Dosen kemudian menyebut ayat lain:
 
-Beliau menyebut beberapa unsur, seperti الدهشة (keheranan), التساؤل (pertanyaan), informasi atau pengetahuan, serta dorongan untuk memahami suatu persoalan.
+**قُلْ إِنَّمَا أَعِظُكُمْ بِوَاحِدَةٍ أَنْ تَقُومُوا لِلَّهِ مَثْنَى وَفُرَادَى ثُمَّ تَتَفَكَّرُوا**
 
-Seseorang dapat mulai memikirkan sesuatu karena merasa heran. Dari keheranan tersebut muncul pertanyaan. Pertanyaan kemudian mendorongnya untuk mencari informasi dan menelaah persoalan.
+Ayat tersebut mengandung seruan agar manusia melakukan sesuatu secara berdua maupun sendiri, kemudian berpikir atau merenung.
 
-Namun, dosen menegaskan bahwa keheranan dan pertanyaan saja tidak cukup. Apabila seseorang tidak memiliki kemampuan dasar untuk berpikir, keheranan itu tidak otomatis menghasilkan pemikiran filosofis.
+Dosen menggunakan ayat ini untuk kembali menegaskan pentingnya aktivitas berpikir. Bagian lanjutan ayat yang dibacakan dalam rekaman terdengar tidak jelas, sehingga penjelasan lengkap mengenai bagian tersebut tidak dapat dipastikan.
 
-Dengan demikian, طبيعة العقل atau kemampuan dasar akal untuk berpikir merupakan landasan bagi munculnya aktivitas filosofis.
+Di sekitar pembahasan ayat ini terdapat pula potongan ucapan mahasiswa mengenai ungkapan:
 
-Dosen menjelaskan bahwa filsafat merupakan perkembangan dari sifat dasar akal yang memang mempunyai kemampuan berpikir. Keheranan, pertanyaan, dan pencarian pengetahuan menjadi bagian dari proses yang mendorong aktivitas tersebut.
+**لَا يُغْنِي وَالِدٌ عَنْ وَلَدِهِ وَلَا مَوْلُودٌ هُوَ جَازٍ عَنْ وَالِدِهِ شَيْئًا**
 
-BAGIAN KESEBELAS
-MENGAPA PARA FILOSOF MUSLIM MEMPELAJARI DAN MENERIMA SEBAGIAN PEMIKIRAN YUNANI?
+Namun, hubungan langsung ungkapan tersebut dengan pembahasan metode rasional dan eksperimental tidak jelas dalam rekaman. Dosen kemudian memuji sebuah jawaban yang menggabungkan bagian awal dan akhir ayat mengenai perjalanan dan pengamatan. Karena rangkaian percakapan ini tidak tertangkap secara utuh, tidak tepat untuk menambahkan penafsiran lebih jauh terhadap potongan tersebut.
 
-43. Pertanyaan tentang penerimaan pemikiran filsafat Yunani oleh tokoh muslim
+Kesimpulan dosen dalam pembahasan ini tetap sama: metode rasional dan eksperimental tidak harus dipertentangkan. Keduanya memiliki peran dan dapat digunakan secara bersama-sama sesuai dengan persoalan yang diteliti.
 
-Seorang mahasiswa mengajukan pertanyaan mengenai para pemikir muslim seperti al-Farabi, Ibn Sina, dan Ibn Rushd.
+## 21. Perbedaan Keempat: Dari Segi Hasil (النتائج)
 
-Pertanyaannya adalah mengapa para ulama atau pemikir besar tersebut menerima atau mempelajari sebagian pemikiran filsuf Yunani, padahal dalam pemikiran Yunani terdapat beberapa pandangan yang dianggap keliru atau bertentangan dengan akidah Islam.
+Setelah membicarakan metode, dosen beralih kepada نتائج, yaitu hasil atau kesimpulan yang diperoleh dari suatu penelitian.
 
-Apakah hal itu menunjukkan bahwa akal mereka kurang mampu membedakan kebenaran dan kesalahan? Apakah mereka hanya terpesona oleh pemikiran Yunani? Ataukah ada alasan lain yang membuat mereka mempelajari dan menerima sebagian pemikiran tersebut?
+Menurut skema yang dijelaskan dalam perkuliahan, apabila objek filsafat bersifat كلي, maka hasil pembahasannya juga cenderung bersifat كلي.
 
-Dosen menjawab bahwa sebelum mengkritik seorang tokoh, seseorang harus terlebih dahulu memeriksa kedudukan keilmuan dirinya dan tokoh yang dikritik.
+Sebaliknya, apabila objek ilmu eksperimental bersifat جزئي, maka hasil yang diperoleh juga cenderung bersifat جزئي dan تجريبي.
 
-44. Memperhatikan bidang keahlian seseorang sebelum mengkritiknya
+Dengan demikian, hasil filsafat dalam pembagian ini disebut bersifat:
 
-Dosen mengingatkan bahwa seseorang tidak boleh sembarangan menilai seorang tokoh tanpa mengetahui bidang keahlian tokoh tersebut.
+**كلية عقلية**
 
-Sebagai contoh, apabila seseorang hendak mengkritik Imam Abu Hanifah dalam bidang fikih, ia harus terlebih dahulu bertanya: apakah Abu Hanifah merupakan orang yang mempunyai kedudukan tinggi dalam ilmu fikih atau hanya orang biasa dalam bidang tersebut?
+Yaitu universal dan rasional.
 
-Tentu Abu Hanifah merupakan tokoh besar dalam bidang fikih. Karena itu, ketika seseorang menemukan pendapatnya yang tidak sesuai dengan pemahamannya sendiri, ia seharusnya tidak langsung menganggap bahwa Abu Hanifah tidak memahami persoalan.
+Sementara itu, hasil ilmu eksperimental disebut:
 
-Pertanyaan yang sama harus diajukan ketika seseorang mengkritik al-Farabi, Ibn Sina, Ibn Rushd, atau tokoh lain dalam bidang filsafat.
+**جزئية تجريبية**
 
-Apakah mereka mempunyai tingkat keilmuan yang tinggi dalam bidang yang sedang dibahas? Apakah mereka termasuk ahli dalam disiplin tersebut?
+Yaitu khusus dan empiris.
 
-Jika mereka merupakan tokoh yang memiliki kedudukan keilmuan tinggi, seseorang setidaknya harus mempertimbangkan kemungkinan bahwa terdapat alasan yang belum ia ketahui di balik pendapat mereka.
+Perbedaan tersebut mengikuti perbedaan objek dan metode yang telah dibahas sebelumnya. Filsafat membicarakan persoalan yang luas dan menyeluruh melalui penalaran, sehingga hasilnya berupa kesimpulan yang bersifat umum dan rasional. Ilmu eksperimental meneliti fenomena tertentu melalui percobaan dan pengamatan, sehingga hasilnya berkaitan dengan objek khusus yang diteliti.
 
-45. Prinsip حسن الظن terhadap ulama dan pemikir terdahulu
+## 22. Pengulangan dan Penegasan Empat Perbedaan Utama
 
-Dosen mengajarkan pentingnya حسن الظن, yaitu berprasangka baik terhadap para tokoh yang mempunyai kemampuan keilmuan tinggi.
+Dosen kemudian mengajak mahasiswa mengulang pembahasan dari awal agar seluruh rangkaian materi dapat dipahami dengan baik.
 
-Hal ini tidak berarti bahwa seluruh pendapat mereka harus diterima tanpa kritik. Akan tetapi, seseorang harus menyadari bahwa pengetahuannya sendiri mungkin belum sebanding dengan pengetahuan tokoh yang sedang dikritik.
+Beliau menjelaskan bahwa tidak semua mahasiswa memahami penjelasan pada kesempatan pertama. Karena itu, dosen bersedia mengulang pembahasan apabila diperlukan.
 
-Sebagai contoh, apabila seseorang membandingkan pendapatnya sendiri dengan pendapat Imam al-Syafi'i, Abu Hanifah, Malik, atau Ahmad dalam bidang fikih, ia tidak boleh langsung menganggap bahwa pendapatnya lebih benar hanya karena ia menemukan suatu bagian yang menurutnya keliru.
+Salah seorang mahasiswa meminta agar materi diulang dari awal. Dosen menyetujui untuk mengulangi poin-poin utama terlebih dahulu.
 
-Demikian pula, apabila seseorang membandingkan pendapatnya dengan pendapat al-Juwayni atau al-Ghazali dalam ilmu kalam, ia harus menyadari kedudukan keilmuan mereka dalam bidang tersebut.
+Beliau kemudian menegaskan kembali bahwa terdapat empat aspek utama untuk membedakan filsafat dan ilmu, yaitu الموضوع, الغاية, المنهج, dan النتائج.
 
-Dosen menyatakan bahwa apabila seseorang menemukan dua pendapat yang bertentangan dari dua orang ulama yang mempunyai kedudukan keilmuan tinggi, setidaknya ia harus mengatakan bahwa mungkin terdapat alasan di balik masing-masing pendapat yang belum ia pahami.
+### a. Pengulangan mengenai objek (الموضوع)
 
-Ia boleh tetap menunjukkan bagian yang menurut pengetahuannya mengandung kesalahan. Namun, ia harus membedakan antara menemukan suatu kelemahan argumentasi dan menuduh bahwa tokoh tersebut tidak mempunyai kemampuan atau sengaja menyimpang.
+Dosen bertanya kembali apa yang dimaksud dengan الموضوع. Jawabannya adalah sesuatu yang menjadi objek pembahasan atau sesuatu yang diteliti oleh suatu ilmu.
 
-46. Al-Ghazali dan Tahafut al-Falasifah
+Objek filsafat bersifat كلي, sedangkan objek ilmu bersifat جزئي.
 
-Dosen kemudian menghubungkan persoalan tersebut dengan Imam al-Ghazali.
+Sebagai contoh, ilmu kedokteran meneliti tubuh manusia. Ilmu kedokteran hewan meneliti hewan. Masing-masing ilmu mempunyai wilayah kajian tertentu.
 
-Al-Ghazali menulis sebuah kitab berjudul:
+Filsafat berbeda karena membahas keseluruhan keberadaan. Filsafat bertanya mengenai sebab keberadaan segala sesuatu, hakikat seluruh maujud, dan alasan mengapa berbagai makhluk ada.
 
-تَهَافُتُ الْفَلَاسِفَةِ
+Dengan demikian, objek filsafat bersifat umum dan menyeluruh, sedangkan objek ilmu bersifat khusus.
 
-Tahafut al-Falasifah.
+### b. Pengulangan mengenai tujuan (الغاية)
 
-Dalam kitab tersebut, al-Ghazali memberikan kritik terhadap para filsuf dan menunjukkan kesalahan sejumlah pendapat mereka.
+Dosen kemudian bertanya mengenai tujuan ilmu. Apabila seseorang mempelajari kedokteran, tujuan yang ingin dicapai adalah memahami kesehatan dan penyakit, mengetahui keadaan tubuh yang sehat maupun sakit, serta memahami bagaimana mengobati orang yang mengalami penyakit.
 
-Dosen menjelaskan bahwa al-Ghazali menilai sebagian pandangan para filsuf sebagai pendapat yang mengandung penyimpangan, bahkan dalam beberapa persoalan sampai kepada penilaian kufur.
+Contoh yang diberikan adalah seorang anak kecil yang mengalami demam. Dokter berusaha mengetahui penyebab demam tersebut dan mencari cara untuk mengobatinya.
 
-Namun, dosen tidak menguraikan secara lengkap dalam pertemuan ini seluruh persoalan yang dikritik al-Ghazali. Pembicaraan hanya digunakan untuk menunjukkan bahwa pemikiran filsuf Yunani dan para penerusnya tidak diterima tanpa kritik oleh ulama muslim.
+Itulah tujuan ilmu dalam contoh tersebut, yaitu memberikan penjelasan terhadap fenomena khusus.
 
-47. Ibn Rushd dan Tahafut al-Tahafut
+Adapun filsafat berusaha mencapai pengetahuan mengenai kebenaran-kebenaran besar. Filsafat tidak hanya membahas sebab satu fenomena, tetapi berusaha memahami persoalan umum yang mencakup keberadaan dan berbagai makhluk.
 
-Setelah kitab al-Ghazali, muncul tanggapan dari Ibn Rushd.
+Dengan demikian, tujuan ilmu adalah menjelaskan fenomena khusus, sedangkan tujuan filsafat adalah memperoleh pengetahuan mengenai hakikat atau kebenaran yang lebih menyeluruh.
 
-Ibn Rushd menulis kitab:
+### c. Pengulangan mengenai metode (المنهج)
 
-تَهَافُتُ التَّهَافُتِ
+Dosen kembali mengingatkan bahwa metode filsafat adalah metode rasional-teoretis. Filsafat menggunakan akal, pemikiran, dan perenungan.
 
-Tahafut al-Tahafut.
+Adapun metode ilmu eksperimental adalah eksperimen dan pengamatan. Meskipun demikian, ilmu eksperimental tetap menggunakan akal. Akal digunakan untuk mengolah data, memikirkan hasil percobaan, dan menarik kesimpulan berdasarkan apa yang ditemukan.
 
-Dosen menjelaskan bahwa al-Ghazali wafat sekitar tahun 504 H, sedangkan Ibn Rushd hidup sekitar 88 tahun setelahnya, sebagaimana perhitungan yang disampaikan dalam ceramah. Angka yang disebut dalam rekaman berkisar antara 504 dan 592.
+Dosen kembali menegaskan bahwa perbedaan keduanya bukan berarti filsafat sama sekali tidak memiliki hubungan dengan kenyataan atau ilmu sama sekali tidak menggunakan akal. Perbedaannya terletak pada metode yang menjadi ciri utama pembahasannya.
 
-Dalam kitab Tahafut al-Tahafut, Ibn Rushd menanggapi kritik al-Ghazali.
+### d. Pengulangan mengenai hasil (النتائج)
 
-Menurut penjelasan dosen, Ibn Rushd menganggap bahwa al-Ghazali telah salah memahami maksud para filsuf atau terlalu cepat memberikan penilaian terhadap mereka.
+Terakhir, dosen mengingatkan bahwa hasil penelitian filsafat cenderung bersifat كلي dan عقلي, sedangkan hasil penelitian ilmu eksperimental cenderung bersifat جزئي dan تجريبي.
 
-Ibn Rushd berusaha menunjukkan bahwa sejumlah pendapat yang dikritik al-Ghazali tidak selalu harus dipahami sebagaimana yang dipahami oleh al-Ghazali. Bisa jadi terdapat makna lain atau penafsiran yang belum diperhatikan.
+Pembedaan hasil ini merupakan kelanjutan dari pembedaan objek, tujuan, dan metode.
 
-Dengan demikian, perdebatan antara al-Ghazali dan Ibn Rushd memperlihatkan bahwa hubungan antara filsafat dan agama telah menjadi persoalan yang dibahas melalui argumentasi dan kritik ilmiah.
+Dosen kemudian mengatakan bahwa beliau ingin memastikan tidak ada mahasiswa yang tertinggal dalam memahami materi. Beliau mengajak mereka untuk bertanya apabila masih ada bagian yang belum jelas.
 
-48. Mengapa para pemikir muslim menerima sebagian pemikiran Yunani?
+## 23. Mengapa Akal Tetap Dibutuhkan dalam Kehidupan Sehari-hari?
 
-Dosen kemudian kembali kepada pertanyaan awal: mengapa para filsuf muslim mempelajari dan menerima sebagian pemikiran Aristoteles, Plato, dan tokoh-tokoh Yunani lainnya?
+Setelah menyelesaikan pembahasan mengenai hubungan filsafat dan ilmu, dosen mengajukan pertanyaan yang lebih praktis:
 
-Beliau menegaskan bahwa tidak tepat jika kita langsung mengatakan bahwa mereka menganggap pemikiran Yunani lebih benar daripada Al-Qur'an.
+**Bagaimana kita dapat memanfaatkan filsafat dalam kehidupan sehari-hari?**
 
-Dosen tidak menyatakan bahwa para pemikir muslim tersebut memandang Al-Qur'an tidak lengkap atau memerlukan filsafat Yunani untuk menyempurnakan kekurangannya.
+Dosen tidak ingin materi filsafat hanya menjadi kumpulan definisi dan pembahasan teoretis yang terpisah dari kenyataan. Beliau ingin mahasiswa memahami bagaimana prinsip-prinsip berpikir dapat digunakan dalam kehidupan mereka.
 
-Menurut penjelasan beliau, mereka memandang tokoh-tokoh Yunani sebagai orang yang memiliki kemampuan intelektual tinggi. Mereka menilai bahwa para filsuf tersebut telah mengerahkan usaha besar dalam berpikir dan mengembangkan metode penelitian.
+Menurut dosen, salah satu manfaat filsafat adalah membiasakan seseorang untuk berpikir secara rasional sebelum mengambil keputusan.
 
-Karena itu, mereka mencoba mempelajari pemikiran para filsuf tersebut dan mencari cara untuk memahami gagasan yang menurut mereka masih dapat diterima.
+Seseorang perlu menggunakan akalnya dalam berbagai keadaan. Ia tidak seharusnya membiarkan perasaan atau dorongan sesaat mengendalikan seluruh tindakannya.
 
-49. Menggunakan takwil agar pemikiran filsuf sesuai dengan ajaran agama
+Dosen kemudian mengambil contoh yang dekat dengan kehidupan para mahasiswa, yaitu memilih pasangan hidup dan memutuskan untuk menikah.
 
-Dosen menjelaskan bahwa para pemikir muslim terkadang melakukan تأويل, yaitu menafsirkan suatu perkataan dengan makna lain yang dianggap lebih sesuai dengan maksudnya.
+## 24. Penerapan Pemikiran Rasional dalam Memilih Pasangan Hidup
 
-Apabila suatu ungkapan filsuf tampak bertentangan dengan ajaran Al-Qur'an, mereka berusaha mencari kemungkinan penafsiran yang dapat menghilangkan pertentangan tersebut.
+Dosen bertanya kepada para mahasiswa: ketika seseorang hendak menikah, apakah ia lebih banyak menggunakan akal atau perasaan?
 
-Mereka juga dapat memberikan alasan atau pembelaan terhadap tokoh terdahulu. Mereka mungkin beranggapan bahwa tokoh tersebut belum mengetahui suatu ajaran yang datang melalui wahyu, tetapi tetap mempunyai usaha intelektual yang besar.
+Beliau menggambarkan seorang laki-laki yang melihat seorang perempuan cantik. Ketika melihatnya, ia merasa tertarik, kemudian menyukainya, lalu mulai memikirkannya secara serius.
 
-Dengan demikian, terdapat dua cara yang dijelaskan dosen.
+Dosen bertanya apakah keputusan menikah seharusnya hanya didasarkan pada ketertarikan tersebut.
 
-Pertama, memberikan alasan atau uzur terhadap kesalahan pemikir terdahulu. Artinya, mereka menganggap bahwa pemikir tersebut telah berusaha mencari kebenaran berdasarkan pengetahuan yang dimilikinya pada masa itu, tetapi belum mengetahui seluruh informasi yang dibutuhkan.
+Menurut beliau, seseorang harus menggunakan akalnya untuk mempertimbangkan apakah perempuan tersebut benar-benar sesuai untuk menjadi pasangan hidupnya.
 
-Kedua, melakukan takwil terhadap perkataan pemikir terdahulu. Artinya, mereka berusaha menemukan makna lain yang dianggap lebih sesuai dengan ajaran agama.
+Beliau menegaskan bahwa persoalannya bukan melarang seseorang memiliki perasaan cinta. Persoalannya adalah bagaimana menempatkan akal dan hati secara tepat. Hati tidak boleh menjadi satu-satunya penentu keputusan sebelum akal melakukan pertimbangan.
 
-Dosen menegaskan bahwa cara tersebut tidak harus berarti para pemikir muslim menerima seluruh pandangan Yunani. Mereka dapat mengambil sebagian pemikiran, memperbaiki bagian yang dianggap keliru, dan menolak bagian lain.
+Dosen kemudian membahas beberapa kriteria yang biasanya dipertimbangkan ketika seseorang memilih pasangan.
 
-50. Contoh dalam tradisi pemikiran Kristen abad pertengahan
+### a. Kecantikan
 
-Dosen kemudian menyebut seorang tokoh Kristen abad pertengahan yang namanya dalam rekaman terdengar sebagai al-Kuwayni atau al-Kuwini. Nama tersebut kemungkinan berkaitan dengan seorang tokoh yang berusaha memahami Aristoteles melalui pemikiran Ibn Rushd, tetapi identitas persisnya tidak terdengar jelas.
+Menurut dosen, banyak laki-laki pada awalnya tertarik kepada seorang perempuan karena kecantikan.
 
-Dosen menjelaskan bahwa tokoh tersebut menerima pemahaman Aristoteles melalui penjelasan Ibn Rushd dan mengembangkan pemikirannya berdasarkan hubungan tersebut.
+Beliau mengatakan bahwa kecantikan merupakan sesuatu yang relatif dan berbeda-beda menurut pandangan setiap orang. Apa yang dianggap cantik oleh seseorang belum tentu dianggap cantik oleh orang lain.
 
-Contoh tersebut digunakan untuk menggambarkan bahwa para pemikir dalam tradisi keagamaan lain juga dapat mengambil pemikiran seorang filsuf, kemudian menafsirkannya agar sesuai dengan keyakinan yang mereka pertahankan.
+Dosen memberikan gambaran bahwa ketika seseorang melihat perempuan untuk pertama kalinya, hal yang biasanya menarik perhatian adalah penampilan atau kecantikannya.
 
-Karena nama tokoh dalam rekaman tidak jelas, identitasnya tidak dapat dipastikan lebih jauh.
+Namun, beliau mengingatkan bahwa kecantikan tidak boleh menjadi satu-satunya ukuran dalam menentukan pasangan hidup.
 
-51. Perbandingan dengan penafsiran شطحات dalam tradisi tasawuf
+### b. Harta
 
-Dosen memberikan contoh lain dari tradisi tasawuf.
+Kriteria berikutnya adalah harta atau keadaan ekonomi.
 
-Dalam sejarah tasawuf terdapat pembicaraan mengenai الشطح atau شطحات, yaitu perkataan-perkataan tertentu yang muncul dari sebagian tokoh sufi ketika mengalami keadaan spiritual yang sangat kuat.
+Dosen menyebut bahwa sebagian orang memperhatikan keadaan ekonomi calon pasangan. Mereka memikirkan apakah perempuan tersebut memiliki harta atau kemampuan ekonomi tertentu.
 
-Sebagian ungkapan tersebut secara lahiriah tampak bertentangan dengan ajaran syariat.
+Dengan demikian, setelah kecantikan, seseorang mungkin mempertimbangkan aspek kekayaan.
 
-Namun, para sufi besar setelahnya terkadang berusaha memberikan penjelasan terhadap perkataan tersebut.
+### c. Nasab atau keturunan (النسب)
 
-Mereka dapat memberikan uzur dengan mengatakan bahwa orang yang mengucapkannya sedang berada dalam keadaan السكر أو الفناء, yaitu keadaan spiritual yang membuatnya tidak berada dalam kesadaran biasa sebagaimana keadaan normal.
+Kriteria berikutnya adalah nasab atau latar belakang keluarga.
 
-Ada pula yang melakukan takwil, yakni menjelaskan bahwa perkataan tersebut tidak dimaksudkan sebagaimana makna lahiriah yang segera dipahami orang lain.
+Dosen menjelaskan bahwa seseorang juga perlu mempertimbangkan keluarga dan lingkungan tempat calon pasangannya berasal.
 
-Dosen membandingkan metode tersebut dengan cara sebagian pemikir muslim memperlakukan perkataan para filsuf Yunani.
+Dalam percakapan kelas, mahasiswa menyebutkan bahwa selain kecantikan dan harta, nasab juga menjadi salah satu hal yang dipertimbangkan.
 
-Ketika menemukan perkataan yang secara lahiriah tampak bertentangan dengan agama, mereka dapat memberikan uzur terhadap pemikir terdahulu atau mencari penafsiran lain agar perkataan tersebut sesuai dengan keyakinan yang mereka pertahankan.
+### d. Agama (الدين)
 
-52. Al-Kindi dan penghargaan terhadap pemikir terdahulu
+Dosen kemudian mengarahkan mahasiswa kepada kriteria keempat, yaitu agama.
 
-Dosen kemudian menyebut al-Kindi.
+Beliau merasa bersyukur karena mahasiswa akhirnya menyebutkan agama sebagai salah satu kriteria. Dosen mengatakan bahwa dalam kenyataan, banyak orang lebih dahulu memperhatikan kecantikan, harta, dan keluarga, kemudian baru memikirkan agama.
 
-Beliau menjelaskan bahwa ketika membaca risalah-risalah al-Kindi, seseorang akan menemukan pembicaraan mengenai Aristoteles dan para pemikir sebelumnya.
+Beliau mengajak para mahasiswa untuk jujur mengenai keadaan tersebut. Seseorang sering kali tertarik terlebih dahulu kepada penampilan, kekayaan, atau latar belakang keluarga. Namun, hal-hal tersebut tidak boleh membuatnya mengabaikan agama.
 
-Al-Kindi menyampaikan gagasan bahwa orang berakal seharusnya berterima kasih kepada pihak-pihak yang telah menjadi sebab sampainya ia kepada tingkat pengetahuan tertentu.
+Dosen kemudian menghubungkan pembahasan ini dengan hadis Nabi صلى الله عليه وسلم mengenai perempuan yang dinikahi karena empat hal: hartanya, nasab atau kedudukannya, kecantikannya, dan agamanya. Dalam rekaman, redaksi hadis terdengar tidak sepenuhnya jelas, tetapi dosen menekankan bagian:
 
-Para filsuf terdahulu, meskipun mempunyai kesalahan dalam sebagian pemikiran, telah melakukan usaha besar yang menjadi sebab berkembangnya pemikiran manusia pada masa berikutnya.
+**فَاظْفَرْ بِذَاتِ الدِّينِ**
 
-Mereka telah membuka jalan, menyusun metode, dan meletakkan dasar-dasar penelitian. Bahkan, ketika generasi berikutnya menemukan kesalahan dalam pemikiran mereka, penemuan itu tetap dapat dilakukan karena adanya kerangka dan metode yang telah disediakan oleh para pendahulu.
+Yaitu agar seseorang mengutamakan perempuan yang memiliki agama.
 
-Dosen menekankan bahwa seseorang dapat tidak setuju dengan pemikiran terdahulu, tetapi tetap mengakui kontribusi mereka.
+Dosen menjelaskan bahwa ajaran Nabi tersebut memberikan pedoman agar seseorang tidak hanya mengikuti ketertarikan emosional terhadap kecantikan, harta, dan nasab, tetapi juga mempertimbangkan agama.
 
-Dengan demikian, penghargaan terhadap seorang tokoh tidak berarti seluruh pendapatnya harus diterima.
+### e. Mendahulukan pertimbangan akal daripada ketertarikan hati
 
-53. Kesimpulan dosen mengenai sikap para pemikir muslim terhadap filsuf Yunani
+Dosen kemudian kembali kepada hubungan antara akal dan hati.
 
-Dosen kemudian menyimpulkan bahwa tidak tepat jika para pemikir muslim langsung dituduh menerima filsafat Yunani karena mereka menganggapnya lebih benar daripada agama.
+Apabila seorang laki-laki melihat seorang perempuan dan langsung jatuh cinta, lalu tanpa pertimbangan lebih lanjut memutuskan untuk menikahinya, menurut dosen keputusan seperti itu berisiko didasarkan pada perasaan semata.
 
-Mereka mungkin memandang para filsuf Yunani mempunyai kemampuan berpikir yang tinggi, mengakui usaha intelektual mereka, mengambil manfaat dari pemikirannya, kemudian berusaha mengoreksi bagian yang dianggap keliru.
+Seseorang perlu bertanya kepada dirinya sendiri: apakah perempuan tersebut cocok untuk menjadi pasangan hidupnya? Apakah ia mempunyai agama dan akhlak yang baik? Apakah latar belakangnya sesuai? Apakah terdapat hal-hal yang perlu dipertimbangkan?
 
-Ada yang memberikan uzur kepada pemikir terdahulu. Ada pula yang menafsirkan perkataannya melalui takwil agar sesuai dengan ajaran agama.
+Dosen tidak mengatakan bahwa cinta tidak boleh ada. Beliau justru menjelaskan bahwa hati dapat bergerak setelah akal memberikan penilaian yang baik.
 
-Dengan demikian, sikap para pemikir muslim terhadap filsafat Yunani harus dipahami berdasarkan tujuan dan keadaan intelektual pada masa mereka.
+Dengan kata lain, hati sebaiknya mengikuti keputusan akal, bukan akal dipaksa mengikuti keinginan hati.
 
-BAGIAN KEDUA BELAS
-PERBEDAAN ANTARA مَبَاحِثُ الْمَعْرِفَة DAN مَبَاحِثُ الْقِيَم
+Jika akal telah mempertimbangkan suatu perkara dan menemukan bahwa perkara tersebut baik, maka seseorang dapat memberikan ruang bagi perasaannya. Namun, jika akal sudah menunjukkan bahwa sesuatu itu salah atau tidak tepat, seseorang hendaknya berhenti dan tidak memaksakan kehendak hanya karena perasaannya sudah terlanjur terikat.
 
-54. Pertanyaan mahasiswa mengenai epistemologi dan filsafat nilai
+Dosen kemudian memperluas nasihat ini. Prinsip menggunakan akal tidak hanya berlaku dalam pernikahan, tetapi juga dalam hubungan dengan teman, musuh, orang yang dicintai, dan berbagai keadaan lainnya.
 
-Seorang mahasiswa mengajukan dua pertanyaan mengenai perbedaan antara مبحث المعرفة dan مبحث القيم.
+Seseorang harus membiasakan diri untuk menggunakan akal dalam setiap urusan penting. Jangan memulai suatu proyek atau keputusan hanya berdasarkan dorongan emosional. Mulailah dengan pertimbangan yang rasional. Setelah akal menerima dan menilai bahwa hal itu benar, barulah perasaan diberikan tempat.
 
-Dosen menjelaskan bahwa kedua bidang tersebut membahas persoalan yang berbeda.
+## 25. Pertimbangan Ketika Calon Pasangan Memiliki Kriteria yang Tidak Sempurna
 
-مباحث المعرفة berkaitan dengan bagaimana manusia memperoleh pengetahuan dan bagaimana sesuatu dapat diketahui.
+Dalam percakapan berikutnya, dosen mengajukan beberapa contoh untuk menguji bagaimana mahasiswa menerapkan kriteria tersebut.
 
-Adapun مباحث القيم berkaitan dengan ukuran atau standar yang digunakan manusia untuk menilai suatu perkara.
+Pertama, bagaimana jika seorang perempuan tidak terlalu cantik, tetapi memiliki agama yang baik? Salah seorang mahasiswa menjawab bahwa ia tetap akan memilih perempuan tersebut.
 
-Untuk memahami perbedaannya, dosen terlebih dahulu menjelaskan apa yang dimaksud dengan nilai.
+Dosen kemudian bertanya bagaimana jika seorang perempuan cantik tetapi tidak mempunyai agama yang baik. Salah seorang mahasiswa menjawab bahwa perempuan itu mungkin akan berubah.
 
-55. مبحث القيم: pembahasan mengenai ukuran dan standar penilaian
+Dosen lalu menjelaskan bahwa yang dimaksud dengan kekurangan agama dalam contoh tersebut bukanlah perempuan itu keluar dari Islam. Beliau menggambarkan keadaan seperti seseorang yang meremehkan salat, memiliki keadaan hijab yang kurang baik, atau kurang menjalankan kewajiban agama. Beliau juga menyebut persoalan berpuasa Ramadan dalam rangkaian contoh tersebut.
 
-القيم merupakan ukuran atau معيار yang digunakan untuk menilai sesuatu.
+Dosen meminta mahasiswa untuk tidak hanya tertarik kepada kecantikan dan harta tanpa memeriksa keadaan agama.
 
-Dosen menjelaskan bahwa nilai berhubungan dengan pertanyaan mengenai apa yang benar, apa yang baik, apa yang indah, dan bagaimana manusia dapat menentukan apakah suatu tindakan atau keadaan memenuhi ukuran tersebut.
+### a. Bagaimana jika kecantikan, harta, dan nasab baik, tetapi agama kurang?
 
-Dalam pembahasan sebelumnya, dosen pernah memberikan kisah perbandingan antara Nabi Adam عليه السلام dan Nabi Isa عليه السلام.
+Dosen kemudian mengajukan contoh yang lain. Bagaimana jika seorang perempuan cantik, memiliki harta, dan berasal dari keluarga yang baik, tetapi agamanya kurang?
 
-Beliau menggunakan kisah tersebut untuk menunjukkan bahwa sebelum mengatakan sesuatu lebih menakjubkan daripada yang lain, seseorang harus terlebih dahulu memiliki ukuran yang menjadi dasar penilaiannya.
+Pertanyaan ini digunakan untuk menegaskan kembali pentingnya agama sebagai kriteria.
 
-Tanpa ukuran tertentu, seseorang tidak dapat menentukan mengapa suatu hal dianggap lebih menakjubkan daripada hal lainnya.
+Dosen ingin mahasiswa memahami bahwa ketiga hal pertama tidak otomatis dapat menggantikan pentingnya agama. Seseorang tidak seharusnya mengabaikan kekurangan agama hanya karena calon pasangan memiliki kecantikan, kekayaan, atau keluarga yang dianggap baik.
 
-Dengan demikian, nilai merupakan ukuran yang digunakan untuk membandingkan, menilai, dan menentukan kedudukan suatu perkara.
+### b. Kisah pemuda yang meminta calon istri dengan terlalu banyak persyaratan
 
-56. Analogi timbangan untuk memahami nilai
+Untuk memperjelas persoalan tersebut, dosen mengingat sebuah syair atau kisah mengenai seorang pemuda yang mengirim surat kepada gurunya.
 
-Dosen memberikan contoh timbangan yang biasa digunakan dalam perdagangan.
+Pemuda tersebut meminta bantuan gurunya untuk mencarikan seorang perempuan yang akan menjadi istrinya. Ia menyampaikan banyak sekali persyaratan.
 
-Apabila seseorang ingin membeli tomat atau jeruk dengan berat satu kilogram, ia menempatkan anak timbangan sebesar satu kilogram pada salah satu sisi timbangan.
+Di antara persyaratan yang disebutkan dalam penjelasan dosen adalah perempuan tersebut harus masih muda, cantik, memiliki kehormatan atau kedudukan yang baik dalam kaumnya, memiliki sifat-sifat yang menyenangkan, berasal dari keluarga yang baik, dan mempunyai harta yang banyak.
 
-Kemudian barang yang akan dibeli diletakkan pada sisi lainnya sampai kedua sisi seimbang.
+Bahkan, terdapat persyaratan yang menyebutkan bahwa setelah menikah perempuan itu harus memberikan harta kepada laki-laki tersebut.
 
-Anak timbangan tersebut menjadi ukuran untuk mengetahui apakah barang yang dibeli benar-benar mempunyai berat satu kilogram.
+Dosen tidak mengingat seluruh susunan syair dengan sempurna. Beliau hanya menyampaikan sebagian isi permintaan pemuda tersebut dan kemudian menyebutkan jawaban ayah dari perempuan bernama Azizah.
 
-Dengan demikian, anak timbangan merupakan standar yang digunakan untuk mengukur benda lainnya.
+Jawaban yang disampaikan adalah:
 
-Dosen menggunakan analogi tersebut untuk menjelaskan bagaimana nilai bekerja dalam filsafat.
+**لَوْ كُنْتُ أَجِدُ مَا تُرِيدُ لَطَلَّقْتُ أُمَّ عَزِيزَةَ**
 
-Dalam kehidupan sosial, manusia juga membutuhkan ukuran untuk menilai apakah suatu tindakan baik, buruk, benar, salah, indah, atau buruk.
+Artinya, kurang lebih: “Seandainya aku menemukan perempuan yang memenuhi semua yang kamu inginkan itu, tentu aku sudah menceraikan ibu Azizah.”
 
-Nilai berfungsi seperti anak timbangan yang digunakan untuk menilai berbagai perbuatan dan keadaan.
+Kisah tersebut digunakan untuk menunjukkan bahwa seseorang terkadang mengajukan terlalu banyak persyaratan dalam memilih pasangan. Ia ingin mendapatkan seluruh keistimewaan sekaligus tanpa mempertimbangkan bahwa semua sifat yang diinginkan tersebut belum tentu dapat ditemukan dalam satu orang.
 
-57. Nilai kebenaran, kebaikan, dan keindahan
+Dosen kemudian mendoakan agar Allah memperbaiki keadaan para pemuda dan memberikan kepada mereka kebaikan.
 
-Dosen kemudian membagi contoh ukuran nilai dalam filsafat.
+## 26. Catatan Dosen Mengenai Harta dan Kedudukan dalam Rumah Tangga
 
-Nilai الحق atau kebenaran berkaitan dengan logika.
+Dalam kelanjutan pembahasan, dosen memberikan nasihat tambahan mengenai persoalan harta dan kedudukan suami istri.
 
-Nilai الخير atau kebaikan berkaitan dengan الأخلاق, yaitu etika.
+Beliau mengatakan bahwa kecantikan merupakan sesuatu yang baik, dan harta juga merupakan sesuatu yang diinginkan. Namun, menurut pandangan yang disampaikan dosen, sebaiknya keadaan ekonomi perempuan tidak jauh lebih tinggi daripada laki-laki. Beliau menyatakan bahwa lebih baik keadaan tersebut setara atau tidak lebih tinggi daripada laki-laki.
 
-Nilai الجمال atau keindahan berkaitan dengan علم الجمال, yaitu pembahasan mengenai estetika.
+Dosen memberikan alasan bahwa ketika perempuan memiliki harta, kedudukan intelektual, atau kedudukan sosial yang lebih tinggi, ada kemungkinan ia memandang laki-laki sebagai pihak yang lebih rendah. Beliau menggambarkan bahwa sebagian perempuan dapat memandang suaminya lebih rendah karena perbedaan kedudukan tersebut.
 
-Dengan demikian, masing-masing nilai mempunyai ukuran atau disiplin yang digunakan untuk menilai suatu perkara.
+Namun, dosen juga mengucapkan pengecualian dengan mengatakan bahwa ada orang-orang yang tidak termasuk dalam gambaran tersebut, yaitu:
 
-Apabila seseorang hendak menilai apakah suatu pernyataan benar atau salah, ia menggunakan ukuran yang berkaitan dengan kebenaran.
+**إِلَّا مَنْ رَحِمَ اللهُ**
 
-Apabila seseorang hendak menilai apakah suatu tindakan baik atau buruk, ia menggunakan ukuran moral dan etika.
+Maksudnya, beliau tidak menyatakan bahwa keadaan seperti itu pasti terjadi pada semua perempuan. Beliau menyampaikannya sebagai peringatan berdasarkan pandangan yang beliau kemukakan dalam kelas.
 
-Apabila seseorang hendak menilai apakah sesuatu indah atau buruk, ia menggunakan ukuran yang berkaitan dengan keindahan.
+Nasihat tersebut merupakan komentar dosen dalam pembahasan mengenai pertimbangan memilih pasangan, bukan penjelasan hukum yang dirinci berdasarkan pendapat seluruh ulama.
 
-58. Contoh menilai masyarakat melalui ukuran nilai
+## 27. Mengutamakan Agama dan Memahami Hadis tentang Kriteria Pasangan
 
-Dosen memberikan contoh mengenai masyarakat.
+Dosen kemudian kembali kepada hadis Nabi صلى الله عليه وسلم mengenai kriteria perempuan yang dinikahi.
 
-Seseorang dapat mengatakan bahwa suatu masyarakat telah rusak apabila masyarakat tersebut telah meninggalkan kebenaran dan justru membiasakan kebatilan.
+Beliau menegaskan bahwa Nabi mengarahkan umat agar mengutamakan perempuan yang mempunyai agama.
 
-Penilaian tersebut dilakukan berdasarkan ukuran الحق.
+Dalam pembahasan tersebut muncul pertanyaan: apabila seorang perempuan memiliki agama yang baik, tetapi laki-laki tidak merasa tertarik terhadap kecantikannya, apakah ia berarti menentang hadis Nabi apabila tidak menikahinya?
 
-Dapat pula dikatakan bahwa suatu masyarakat telah kehilangan nilai kebaikan apabila orang-orang di dalamnya bekerja sama melakukan keburukan.
+Dosen menjelaskan bahwa hadis mengenai kriteria perempuan yang dinikahi tidak berarti seseorang tidak boleh mempertimbangkan ketertarikan fisik. Beliau juga menyebutkan anjuran Nabi untuk melihat calon perempuan yang hendak dinikahi. Dalam rekaman, redaksi hadis mengenai melihat calon pasangan terdengar tidak utuh, tetapi dosen menggunakannya untuk menjelaskan bahwa ketertarikan dan penilaian terhadap calon pasangan juga memiliki tempat.
 
-Penilaian tersebut didasarkan pada معيار الخير.
+Masalahnya adalah urutan dan prioritas dalam mengambil keputusan.
 
-Demikian pula, suatu masyarakat dapat dinilai buruk dari sisi keindahan atau nilai keindahan apabila ia meninggalkan hal-hal yang dianggap indah dan membiasakan sesuatu yang buruk.
+Apabila seseorang hanya mengutamakan kecantikan, harta, dan nasab, sementara agama diabaikan, maka keputusan tersebut dapat didominasi oleh ketertarikan hati.
 
-Dengan demikian, pembahasan nilai tidak sekadar menjelaskan keadaan sebagaimana adanya, tetapi menyediakan ukuran untuk menilai keadaan tersebut.
+Sebaliknya, apabila seseorang memeriksa agama dan berbagai pertimbangan lain secara rasional, kemudian memberikan tempat kepada ketertarikan hati setelahnya, ia telah menggunakan prinsip yang ditekankan dosen.
 
-59. Filsafat nilai dan pertanyaan tentang apa yang seharusnya terjadi
+Karena itu, dosen kembali mengatakan bahwa seseorang harus membiasakan diri agar akalnya menjadi pemimpin dalam mengambil keputusan, sedangkan hati mengikuti penilaian akal.
 
-Dosen menghubungkan pembahasan nilai dengan pertanyaan mengenai apa yang seharusnya dilakukan manusia.
+Beliau mengulang nasihat bahwa jangan memulai suatu urusan dengan emosi. Mulailah dengan pertimbangan akal. Apabila akal telah menerima bahwa sesuatu itu baik, barulah hati diberikan kesempatan untuk bergerak.
 
-Dalam rekaman terdapat satu kalimat mengenai apakah filsafat membahas الواقع atau ينبغي أن يكون yang redaksinya terdengar tidak konsisten. Namun, penjelasan berikutnya secara jelas menyatakan bahwa ilmu eksperimental berusaha mengetahui apa yang benar-benar terjadi, sedangkan pembahasan nilai berkaitan dengan apa yang seharusnya terjadi dan bagaimana manusia harus bertindak.
+Jika akal menunjukkan bahwa sesuatu itu salah, jangan memaksakan keputusan hanya karena hati sudah terlanjur menyukainya.
 
-Dengan demikian, pembahasan mengenai nilai bersifat معيارية, yaitu normatif.
+Prinsip tersebut berlaku dalam semua urusan kehidupan, bukan hanya dalam pernikahan.
 
-Ia tidak hanya bertanya apakah suatu tindakan telah dilakukan, tetapi juga apakah tindakan tersebut sesuai dengan standar yang seharusnya.
+## 28. Pertanyaan Mahasiswa tentang Calon Pasangan yang Sangat Baik Agamanya, tetapi Tidak Memiliki Harta
 
-BAGIAN KETIGA BELAS
-مَبَاحِثُ الْمَعْرِفَة: BAGAIMANA MANUSIA MENGETAHUI SESUATU?
+Seorang mahasiswa kemudian mengajukan pertanyaan mengenai keadaan seorang perempuan yang agamanya sangat baik, tetapi tidak mempunyai harta.
 
-60. Pengertian مبحث المعرفة
+Mahasiswa tersebut juga menyebut adanya sedikit persoalan dalam nasab atau keluarga perempuan tersebut.
 
-Berbeda dari pembahasan nilai, مبحث المعرفة tidak terutama membicarakan ukuran untuk menilai baik-buruk atau benar-salah.
+Dosen meminta penjelasan lebih jauh mengenai apa yang dimaksud dengan persoalan nasab tersebut.
 
-Pembahasan المعرفة berusaha mengetahui bagaimana manusia memperoleh pengetahuan.
+Mahasiswa menjelaskan bahwa mungkin terdapat salah seorang anggota keluarga perempuan itu yang memiliki keadaan tertentu yang menimbulkan keraguan. Namun, orang yang dimaksud bukanlah keluarga inti dalam pengertian yang langsung dan dekat.
 
-Pertanyaan utamanya adalah: bagaimana seseorang dapat mengetahui sesuatu? Apa sarana yang digunakan? Bagaimana indra bekerja? Bagaimana akal mengolah informasi? Apa batas pengetahuan manusia?
+Dosen kemudian bertanya apakah persoalan itu berkaitan dengan اصول atau فروع.
 
-Dengan demikian, pembahasan ini berkaitan dengan hakikat pengetahuan dan proses terjadinya pengetahuan.
+Istilah أصول merujuk kepada garis keturunan ke atas, sedangkan فروع merujuk kepada garis keturunan ke bawah. Dalam percakapan tersebut dosen berusaha memperjelas apakah persoalan yang dimaksud berada pada garis keturunan pokok atau keturunan cabang.
 
-61. Alat-alat pengetahuan: indra dan akal
+Mahasiswa memberikan penjelasan mengenai salah seorang anggota keluarga yang hubungannya tidak langsung. Bagian penjelasan mengenai hubungan keluarga tersebut tidak tertangkap secara utuh dalam rekaman. Dosen lalu menyebut beberapa hubungan keluarga seperti ayah, ibu, kakek, dan kerabat lainnya. Namun, susunan lengkap kategori keluarga yang sedang dibandingkan tidak dapat dipastikan dari transkrip.
 
-Dosen menjelaskan bahwa salah satu pembahasan dalam filsafat pengetahuan adalah الحواس, yaitu pancaindra.
+Dosen kemudian menghentikan pembahasan rinci mengenai hubungan keluarga tersebut. Beliau mengatakan bahwa mereka tidak sedang mengadakan pembahasan khusus mengenai hukum perkawinan atau nasab.
 
-Seseorang dapat mengetahui sesuatu melalui penglihatan, pendengaran, penciuman, perabaan, dan indra lainnya.
+Tujuan beliau sejak awal hanyalah memberikan contoh bagaimana akal harus digunakan ketika seseorang mengambil keputusan penting.
 
-Namun, pembahasan epistemologi tidak berhenti pada pernyataan bahwa manusia mengetahui sesuatu melalui indra. Ia juga meneliti bagaimana indra bekerja, apa keterbatasannya, dan bagaimana informasi yang diterima indra diproses oleh akal.
+Seseorang tidak seharusnya hanya melihat satu sisi, kemudian langsung mengambil keputusan berdasarkan perasaan. Ia harus menimbang berbagai hal yang relevan, memahami keadaan calon pasangan, dan mempertimbangkan konsekuensi keputusannya.
 
-Selain pengetahuan indrawi, terdapat pula pengetahuan عقلي, yaitu pengetahuan yang berkaitan dengan akal.
+Dosen mengingatkan bahwa orang yang tidak menggunakan akalnya dan hanya mengikuti perasaan dapat mengalami banyak kesedihan, penyesalan, dan penderitaan setelah mengambil keputusan.
 
-Dosen juga menyebut adanya pengetahuan yang bersifat ضرورية dan pengetahuan yang bersifat نظرية.
+Dengan demikian, pembahasan mengenai nasab, harta, agama, dan kecantikan kembali diarahkan kepada pelajaran utama: akal perlu digunakan untuk menimbang berbagai pertimbangan sebelum hati menentukan pilihan.
 
-Pengetahuan ضرورية merupakan pengetahuan yang diperoleh secara langsung atau tidak membutuhkan proses penalaran panjang sebagaimana pengetahuan teoretis.
+## 29. Pertanyaan tentang Anjuran Memilih Perempuan yang Beragama dan Hukum Menikahi Perempuan Non-Muslim
 
-Adapun pengetahuan نظرية berkaitan dengan pengetahuan yang diperoleh melalui proses berpikir, penelitian, atau penalaran.
+Menjelang akhir perkuliahan, mahasiswa mengajukan pertanyaan yang lebih khusus.
 
-62. Apakah semua perkara dapat diketahui oleh akal?
+Pertanyaannya berkaitan dengan hadis Nabi yang menganjurkan seseorang untuk mengutamakan perempuan yang mempunyai agama. Mahasiswa tersebut mempertanyakan apakah anjuran itu bertentangan dengan kebolehan menikahi perempuan non-Muslim dalam Islam.
 
-Dosen menjelaskan bahwa pembahasan epistemologi juga mencakup batas kemampuan akal.
+Dengan kata lain, apabila Nabi menganjurkan memilih perempuan yang beragama, apakah kebolehan menikahi perempuan non-Muslim berarti bertentangan dengan anjuran tersebut?
 
-Akal manusia mempunyai kemampuan, tetapi juga mempunyai batas tertentu.
+Dosen menjelaskan bahwa persoalan ini harus dibedakan antara sesuatu yang diperbolehkan dan sesuatu yang lebih utama untuk dipilih.
 
-Ada perkara yang dapat diketahui melalui akal. Ada pula perkara yang membutuhkan indra dan pengalaman material.
+Beliau membedakan antara:
 
-Selain itu, dosen menyebut kemungkinan adanya pengetahuan yang berada di luar jangkauan kemampuan akal manusia.
+**الجواز**
 
-Dengan demikian, epistemologi tidak hanya bertanya bagaimana pengetahuan diperoleh, tetapi juga meneliti apakah seluruh perkara dapat diketahui, apakah ada perkara yang berada di luar kemampuan manusia, serta bagaimana hubungan antara berbagai sumber pengetahuan.
+yaitu kebolehan atau sesuatu yang boleh dilakukan;
 
-63. Bagaimana pengetahuan diperoleh dan diproses dalam akal?
+dan sesuatu yang:
 
-Dosen memberikan contoh sederhana.
+**أفضل**
 
-Ketika seseorang melihat orang lain berdiri di hadapannya, ia mengetahui bahwa orang tersebut ada.
+yaitu lebih utama atau lebih baik untuk dipilih.
 
-Namun, epistemologi tidak hanya berhenti pada pernyataan bahwa ia melihat orang itu.
+Menurut dosen, tidak ada pertentangan antara adanya suatu perbuatan yang diperbolehkan dan adanya pilihan lain yang lebih utama.
 
-Pertanyaan yang diajukan lebih jauh adalah: apa yang terjadi dalam akal sehingga seseorang dapat mengatakan bahwa ia telah mengetahui keberadaan orang tersebut?
+Untuk memudahkan pemahaman, beliau memberikan perumpamaan makanan.
 
-Bagaimana hubungan antara objek yang dilihat dengan akal yang mengetahui?
+Bayangkan seseorang mempunyai sebuah meja yang penuh dengan berbagai jenis makanan. Ada daging, ayam, ikan, dan makanan lainnya. Apabila seseorang mengatakan bahwa makanan yang paling baik atau paling utama adalah daging, apakah keberadaan ayam dan ikan menjadi bertentangan dengan pernyataan tersebut?
 
-Apa yang terjadi dalam proses ketika seseorang menerima informasi melalui mata, kemudian memahami bahwa sesuatu sedang berada di hadapannya?
+Tidak. Daging dapat menjadi pilihan yang lebih utama, tetapi makanan lainnya tetap ada dan boleh dimakan.
 
-Pertanyaan-pertanyaan tersebut menunjukkan bahwa epistemologi menelaah cara kerja pengetahuan dalam diri manusia.
+Demikian pula dalam persoalan pernikahan. Dosen menjelaskan bahwa menikahi perempuan non-Muslim, dalam konteks perempuan yang dibicarakan dalam percakapan tersebut, yaitu perempuan kitabiyah, merupakan sesuatu yang beliau sebut sebagai مباح atau diperbolehkan.
 
-Dosen menjelaskan bahwa dalam pembahasan ini terdapat penelitian mengenai hubungan antara الموضوع atau الشيء المعروف dengan العقل atau pihak yang mengetahui.
+Namun, apabila seseorang bertanya pilihan mana yang lebih utama, dosen mengarahkan kepada perempuan yang memiliki agama.
 
-Dengan demikian, epistemologi membahas proses dan mekanisme terjadinya pengetahuan, bukan hanya hasil akhirnya.
+Dengan demikian, kebolehan menikahi perempuan non-Muslim tidak berarti bahwa pilihan tersebut lebih utama daripada menikahi perempuan yang memiliki agama. Kebolehan dan keutamaan merupakan dua pembahasan yang berbeda.
 
-64. Perbedaan epistemologi dan filsafat nilai
+Dosen kembali menegaskan bahwa tidak setiap sesuatu yang diperbolehkan otomatis menjadi pilihan yang paling utama. Ada perbuatan yang hukumnya boleh, tetapi ada pilihan lain yang lebih dianjurkan atau lebih baik.
 
-Setelah menjelaskan kedua bidang tersebut, dosen menegaskan perbedaannya.
+Oleh karena itu, anjuran Nabi untuk mengutamakan perempuan yang memiliki agama tidak dengan sendirinya bertentangan dengan adanya kebolehan menikahi perempuan non-Muslim dalam konteks yang dibicarakan dosen.
 
-مباحث القيم bertanya mengenai ukuran yang digunakan untuk menilai suatu perkara. Ia membahas apa yang benar, baik, dan indah, serta bagaimana manusia seharusnya bertindak berdasarkan ukuran tersebut.
+## 30. Kesimpulan Umum Perkuliahan
 
-Adapun مبحث المعرفة bertanya mengenai bagaimana manusia mengetahui sesuatu, apa alat pengetahuannya, bagaimana akal bekerja, bagaimana pengetahuan diperoleh, dan apa batas kemampuan manusia untuk mengetahui.
+Pembahasan mengenai hubungan filsafat dan ilmu dimulai dengan penjelasan bahwa keduanya harus dipahami terlebih dahulu sebelum hubungan di antara keduanya dapat dinilai. Filsafat dalam materi ini diartikan sebagai penelitian rasional-teoretis mengenai segala sesuatu yang ada, sedangkan ilmu yang dimaksud adalah ilmu eksperimental yang bertumpu pada percobaan, pengamatan, dan observasi.
 
-Dengan demikian, pembahasan nilai berhubungan dengan معيار atau standar penilaian, sedangkan epistemologi berhubungan dengan sumber, proses, dan batas pengetahuan.
+Pada masa klasik, filsafat merupakan أم العلوم atau ibu segala ilmu. Berbagai disiplin seperti matematika, fisika, ilmu alam, kedokteran, dan bidang lainnya masih berada dalam cakupan filsafat. Keadaan yang sama juga terlihat pada masa peradaban Islam, ketika para filsuf seperti Ibnu Sina dan Al-Farabi mempelajari berbagai bidang ilmu.
 
-BAGIAN KEEMPAT BELAS
-DISKUSI MENGENAI العقل الخالص DAN العقل العملي
+Pemisahan ilmu-ilmu alam dari filsafat mulai berkembang pada permulaan zaman modern. Dalam penjelasan dosen, Roger Bacon disebut sebagai tokoh yang mulai meletakkan dasar metode eksperimental, dengan menyebut bahwa metode tersebut berasal dari Jabir bin Hayyan tetapi dinisbatkan kepada Roger Bacon. Perkembangan pemisahan itu kemudian semakin kuat hingga disebut mencapai tahap yang lebih sempurna pada masa Isaac Newton. Ilmu alam, psikologi, dan sosiologi kemudian berkembang sebagai bidang tersendiri, sementara filsafat lebih banyak berfokus pada persoalan teoretis, metafisika, ketuhanan, dan hakikat keberadaan.
 
-65. Pertanyaan mengenai hubungan akal dan agama
+Contoh teori sepuluh akal digunakan dosen untuk menggambarkan bagaimana para filsuf dahulu menyusun penjelasan mengenai alam semesta melalui penalaran teoretis. Dosen menghubungkannya dengan kritik Al-Ghazali dan menekankan bahwa seseorang harus memahami suatu pemikiran terlebih dahulu sebelum membantahnya. Contoh Al-Ghazali yang terlebih dahulu menjelaskan filsafat dalam kitab مقاصد الفلاسفة sebelum mengkritiknya dalam تهافت الفلاسفة digunakan sebagai pelajaran mengenai adab berpikir dan berdiskusi.
 
-Dalam percakapan kelas, seorang mahasiswa mengajukan pertanyaan mengenai suatu aliran atau pendekatan yang berkaitan dengan العقل الخالص dan العقل العملي.
+Filsafat dan ilmu mempunyai beberapa kesamaan. Keduanya merupakan penelitian yang sistematis, sama-sama menggunakan premis dan menghasilkan kesimpulan, sama-sama membutuhkan pemikiran mendalam, dan sama-sama membutuhkan kebebasan dalam penelitian.
 
-Nama tokoh atau aliran yang sedang dimaksud tidak terdengar jelas dalam rekaman. Namun, isi penjelasan dosen menunjukkan bahwa pembahasan berhubungan dengan perbedaan antara penggunaan akal untuk mengetahui sesuatu secara teoretis dan penggunaan akal dalam bidang tindakan serta moralitas.
+Meskipun demikian, keduanya memiliki perbedaan dari empat sisi utama.
 
-Dosen kemudian menjelaskan bagaimana keterbatasan akal dalam membuktikan Tuhan dapat dikaitkan dengan kebutuhan moral manusia.
+Pertama, dari segi الموضوع atau objek kajian. Objek filsafat bersifat كلي karena membahas seluruh keberadaan dan persoalan umum mengenai segala sesuatu yang ada. Objek ilmu bersifat جزئي karena setiap ilmu memiliki bidang kajian khusus, seperti tubuh manusia dalam kedokteran, hewan dalam kedokteran hewan, bumi dalam geologi, dan materi serta reaksi kimia dalam ilmu kimia.
 
-66. Akal dalam pembahasan teoretis mengenai keberadaan Tuhan
+Kedua, dari segi الغاية atau tujuan. Ilmu bertujuan menjelaskan fenomena tertentu, seperti penyebab demam atau sebab jatuhnya apel. Filsafat berusaha mencapai pengetahuan mengenai hakikat dan kebenaran yang lebih besar serta sebab umum di balik keberadaan segala sesuatu.
 
-Dosen menjelaskan bahwa akal manusia dapat memperoleh kesimpulan mengenai adanya pencipta berdasarkan alam yang diamati.
+Ketiga, dari segi المنهج atau metode. Filsafat menggunakan metode rasional-teoretis, yaitu akal, pemikiran, dan perenungan. Ilmu eksperimental menggunakan percobaan, pengamatan, dan indra, tetapi tetap membutuhkan akal untuk menganalisis data serta menarik kesimpulan.
 
-Manusia melihat langit dan bumi serta berbagai benda di alam, kemudian berpikir bahwa terdapat pencipta yang mampu mewujudkan semua itu.
+Keempat, dari segi النتائج atau hasil. Hasil filsafat dalam pembagian yang dijelaskan dosen bersifat كلية عقلية, yaitu universal dan rasional. Hasil ilmu eksperimental bersifat جزئية تجريبية, yaitu khusus dan empiris.
 
-Namun, dosen memberikan pertanyaan lanjutan: apakah dari pengamatan tersebut akal dapat langsung membuktikan seluruh sifat kesempurnaan dan ketakterbatasan Tuhan?
+Dosen menegaskan bahwa metode rasional dan eksperimental tidak perlu dipertentangkan. Keduanya dibutuhkan manusia dan mempunyai bidang penerapan masing-masing. Tidak tepat apabila seseorang menganggap bahwa seluruh pengetahuan hanya dapat diperoleh melalui eksperimen dan akal tidak mempunyai peran. Sebaliknya, tidak tepat pula apabila seseorang menganggap bahwa akal saja mampu memberikan seluruh pengetahuan tanpa membutuhkan pengalaman dan pengamatan.
 
-Beliau memberikan analogi seseorang yang mampu membangun sebuah gedung.
+Pembahasan kemudian ditarik ke dalam kehidupan sehari-hari. Filsafat tidak seharusnya hanya menjadi pengetahuan teoretis yang terpisah dari kenyataan. Salah satu manfaatnya adalah melatih manusia menggunakan akal dalam mengambil keputusan. Contoh yang digunakan dosen adalah memilih pasangan hidup. Seseorang tidak seharusnya hanya mengikuti ketertarikan hati terhadap kecantikan, harta, atau nasab, tetapi harus mempertimbangkan agama dan berbagai hal lainnya secara rasional. Hati dapat bergerak setelah akal memberikan penilaian yang baik, tetapi jangan sampai hati memaksa akal membenarkan sesuatu yang sebenarnya tidak tepat.
 
-Jika seseorang telah membangun satu gedung, kita dapat menduga bahwa ia mampu membangun gedung lainnya. Apabila ia mampu membangun satu bangunan, mungkin ia juga mampu membangun beberapa bangunan berikutnya.
+Pada akhir perkuliahan, dosen juga menjelaskan perbedaan antara sesuatu yang جائز atau diperbolehkan dengan sesuatu yang أفضل atau lebih utama. Dalam konteks yang dibicarakan, kebolehan menikahi perempuan non-Muslim tidak otomatis berarti bahwa pilihan tersebut lebih utama. Dosen mengarahkan bahwa pilihan yang lebih utama adalah mengutamakan perempuan yang memiliki agama.
 
-Namun, apakah kita dapat memastikan dari satu kemampuan yang diamati bahwa orang tersebut mampu membangun gedung tanpa batas?
+Perkuliahan ditutup dengan doa dan bacaan kafaratul majelis:
 
-Dosen menggunakan contoh ini untuk menunjukkan bahwa kemampuan yang diketahui melalui pengamatan tertentu tidak secara otomatis membuktikan seluruh tingkat kemampuan yang tidak terbatas.
+**سُبْحَانَكَ اللَّهُمَّ وَبِحَمْدِكَ، أَشْهَدُ أَنْ لَا إِلَهَ إِلَّا أَنْتَ، أَسْتَغْفِرُكَ وَأَتُوبُ إِلَيْكَ**
 
-Dengan demikian, ada persoalan mengenai sejauh mana akal dapat mengetahui sifat-sifat Tuhan hanya melalui pengamatan terhadap alam.
-
-67. العقل العملي dan kebutuhan terhadap dasar moral
-
-Dosen kemudian berpindah kepada pembahasan العقل العملي, yaitu akal dalam hubungan dengan tindakan dan moralitas.
-
-Beliau menjelaskan bahwa ketika seseorang memikirkan kehidupan moral manusia, ia menemukan adanya kewajiban-kewajiban yang harus dilaksanakan.
-
-Dalam kehidupan manusia terdapat perintah moral dan tanggung jawab. Seseorang dianggap berkewajiban melakukan sesuatu dan dapat dimintai pertanggungjawaban apabila melanggarnya.
-
-Dosen kemudian mengajukan pertanyaan: jika terdapat kewajiban moral, siapa yang mewajibkannya? Jika ada tanggung jawab, siapa yang mengadili atau memberikan balasan?
-
-Dalam penjelasan beliau, kewajiban moral mengandaikan adanya pihak yang mewajibkan, sedangkan pertanggungjawaban mengandaikan adanya pihak yang memberikan hukuman atau pahala.
-
-Karena itu, kehidupan moral manusia mengarah kepada kebutuhan akan adanya penguasa dan pemberi hukum yang menjadi dasar pertanggungjawaban.
-
-68. Keberadaan Tuhan melalui keharusan moral
-
-Dosen menjelaskan bahwa melalui pembahasan moral tersebut, seseorang dapat sampai kepada penerimaan mengenai keberadaan Tuhan.
-
-Jika manusia mempunyai kewajiban moral, harus ada pihak yang mewajibkan. Jika manusia akan dimintai pertanggungjawaban, harus ada pihak yang mengadili dan memberikan balasan.
-
-Dengan demikian, keberadaan Tuhan diterima melalui kebutuhan yang muncul dari kehidupan moral manusia.
-
-Dosen menghubungkan hal ini dengan pandangan yang membedakan kemampuan العقل الخالص dari العقل العملي.
-
-Akal teoretis menghadapi persoalan mengenai batas pembuktian keberadaan Tuhan, sedangkan akal praktis menunjukkan bahwa kehidupan moral manusia membutuhkan dasar berupa kewajiban dan pertanggungjawaban.
-
-Namun, nama tokoh yang sedang dibicarakan tidak disebut dengan jelas dalam rekaman. Karena itu, pembahasan ini cukup dicatat sebagai penjelasan mengenai hubungan antara العقل الخالص, العقل العملي, dan argumentasi moral tentang keberadaan Tuhan, tanpa memastikan nama filosof tertentu.
-
-BAGIAN KELIMA BELAS
-MENGAPA FILSAFAT YUNANI TETAP DIPELAJARI SETELAH DATANGNYA ISLAM?
-
-69. Pertanyaan: jika para filsuf Yunani hidup sebelum Nabi Muhammad ﷺ, mengapa pemikiran mereka masih dipelajari setelah Islam?
-
-Seorang mahasiswa mengajukan pertanyaan mengenai para filsuf Yunani yang hidup sebelum masa Nabi Muhammad ﷺ.
-
-Ia bertanya bagaimana pemikiran para filsuf yang hidup sebelum turunnya Al-Qur'an dapat dipertemukan dengan ajaran Islam. Selain itu, ia mempertanyakan mengapa umat Islam masih membutuhkan pemikiran para filsuf tersebut setelah Al-Qur'an datang.
-
-Dosen menjawab bahwa persoalan tersebut harus dijelaskan melalui beberapa tahap.
-
-70. Apakah sebelum datangnya Islam sudah terdapat agama dan keyakinan yang benar?
-
-Dosen terlebih dahulu mengajukan pertanyaan: apakah sebelum masa Nabi Isa عليه السلام sudah terdapat agama dan keyakinan?
-
-Mahasiswa menjawab bahwa sudah ada keyakinan dan agama.
-
-Dosen kemudian bertanya apakah seluruh keyakinan tersebut benar atau semuanya salah.
-
-Jawabannya adalah bahwa terdapat keyakinan yang benar dan terdapat pula keyakinan yang salah.
-
-Dosen menjelaskan bahwa agama-agama sebelum Islam membawa sebagian kebenaran, tetapi dalam perjalanan sejarah sebagian di antaranya mengalami perubahan atau penyimpangan.
-
-Ketika suatu agama telah mengalami perubahan, ajarannya tidak lagi sepenuhnya menjawab seluruh persoalan sebagaimana keadaan ajaran yang masih terpelihara.
-
-Dalam penjelasan dosen, hal tersebut berkaitan dengan pertanyaan akal mengenai alam semesta, kehidupan, dan tujuan keberadaan manusia.
-
-Dengan demikian, sebelum Islam sudah terdapat keyakinan dan unsur kebenaran, tetapi juga terdapat penyimpangan dalam sebagian ajaran yang berkembang.
-
-71. Alasan pertama: perlu menghadapi pemikiran yang telah berkembang di wilayah yang masuk ke dalam kekuasaan Islam
-
-Dosen kemudian menjelaskan alasan pertama mengapa para ilmuwan muslim mempelajari pemikiran Yunani.
-
-Ketika wilayah Islam berkembang, umat Islam memasuki berbagai daerah yang sebelumnya dihuni masyarakat dengan tradisi keilmuan, keyakinan, dan filsafat yang berbeda.
-
-Di daerah-daerah tersebut terdapat orang-orang yang telah mempelajari pemikiran Yunani, memiliki pandangan tertentu mengenai alam dan Tuhan, serta mempunyai berbagai argumen untuk mempertahankan keyakinannya.
-
-Dosen menekankan bahwa umat Islam tidak mungkin hanya datang dan mengatakan kepada mereka agar menutup seluruh buku yang dimiliki serta berhenti mempelajari ilmu.
-
-Islam merupakan agama yang mengajarkan penyampaian dan penerimaan melalui penjelasan serta argumentasi.
-
-Ketika seorang muslim mengajak orang lain kepada Islam, orang yang diajak dapat mengajukan pertanyaan atau keberatan berdasarkan pemikiran yang sebelumnya telah ia pelajari.
-
-Sebagian keberatan itu berasal dari keyakinan dan pengetahuan yang telah dimiliki sebelum masuk Islam. Ada pula yang sengaja diajukan oleh pihak yang ingin menentang dakwah Islam.
-
-Karena itu, umat Islam perlu memahami pemikiran yang berkembang di tengah masyarakat tersebut agar dapat memberikan jawaban.
-
-72. Menghadapi syubhat memerlukan pengetahuan terhadap pemikiran lawan
-
-Dosen menjelaskan bahwa setiap orang dapat mengajukan keberatan berdasarkan pemikirannya sendiri.
-
-Seseorang yang sebelumnya menganut agama atau aliran tertentu akan membawa persoalan dan pertanyaan yang berasal dari keyakinan sebelumnya ketika berdialog dengan kaum muslimin.
-
-Jika umat Islam tidak memahami dasar pemikiran tersebut, mereka akan kesulitan menjawab pertanyaan yang diajukan.
-
-Karena itu, para ulama dan pemikir muslim perlu mempelajari dasar-dasar filsafat yang digunakan oleh pihak lain.
-
-Tujuannya bukan untuk menerima seluruh pemikiran tersebut, melainkan untuk memahami cara berpikir, istilah, serta argumentasi yang digunakan, kemudian menjelaskan bagian yang benar dan membantah bagian yang keliru.
-
-Dengan demikian, mempelajari filsafat Yunani menjadi salah satu kebutuhan untuk menghadapi perdebatan intelektual dan menjawab berbagai syubhat yang muncul.
-
-73. Alasan kedua: umat Islam menemukan berbagai kitab dan warisan keilmuan ketika memasuki kota-kota besar
-
-Dosen memberikan gambaran bahwa ketika umat Islam memasuki berbagai kota, mereka menemukan perpustakaan dan kitab-kitab yang berisi bermacam-macam pengetahuan.
-
-Beliau menyebut beberapa kota, seperti Baghdad, Damaskus, dan Konstantinopel.
-
-Di tempat-tempat tersebut terdapat kitab-kitab dalam berbagai bahasa, termasuk bahasa Yunani dan Suryani.
-
-Umat Islam tidak selalu mengetahui isi semua kitab tersebut. Ada kitab yang berisi matematika, astronomi, ilmu alam, atau bidang lainnya. Ada pula kitab yang membahas persoalan filsafat.
-
-Dosen kemudian menjelaskan bahwa kata filsafat pada masa itu mempunyai cakupan luas.
-
-Filsafat tidak hanya berarti pembahasan mengenai persoalan ketuhanan, tetapi juga mencakup matematika, ilmu alam, ilmu ketuhanan, etika, politik, dan pengelolaan rumah tangga.
-
-Karena itu, apabila seseorang menemukan sebuah kitab kuno yang disebut sebagai kitab filsafat, ia tidak boleh langsung beranggapan bahwa seluruh isinya hanya membahas metafisika atau ketuhanan.
-
-Kitab tersebut mungkin membahas bidang ilmu yang berbeda.
-
-74. Islam mendorong umatnya untuk mempelajari ilmu dan tidak menolak ilmu hanya karena berasal dari luar
-
-Dosen menjelaskan bahwa ketika umat Islam menemukan kitab-kitab dari peradaban lain, mereka menghadapi pilihan: apakah harus menolaknya begitu saja, atau mempelajari isinya terlebih dahulu?
-
-Menurut penjelasan dosen, Islam mendorong manusia untuk menggunakan akal dan mencari ilmu.
-
-Pada masa awal, umat Islam belum mempunyai kontribusi sebesar peradaban lain dalam beberapa bidang ilmu duniawi. Namun, ajaran Islam mendorong mereka untuk belajar, mengembangkan pengetahuan, dan memperoleh kemajuan.
-
-Karena itu, para ilmuwan muslim tidak harus menciptakan seluruh pengetahuan dari awal.
-
-Mereka dapat mempelajari pengetahuan yang telah dikembangkan oleh masyarakat sebelumnya, kemudian menggunakannya sebagai landasan untuk mengembangkan ilmu.
-
-Dosen memberikan gambaran bahwa jika seseorang menemukan sebuah perpustakaan yang berisi ribuan kitab, ia tidak seharusnya langsung membakar seluruh kitab tersebut hanya karena belum mengetahui isinya.
-
-Ia harus mempelajari apa yang terdapat di dalamnya, mengetahui manfaatnya, lalu menilai mana yang benar dan mana yang salah.
-
-75. Pentingnya penerjemah yang menguasai bahasa dan bidang ilmu
-
-Dosen kemudian menjelaskan bahwa kebutuhan untuk mempelajari kitab-kitab asing menyebabkan munculnya kebutuhan terhadap para penerjemah.
-
-Namun, penerjemahan tidak cukup dilakukan oleh seseorang yang hanya menguasai dua bahasa secara umum.
-
-Seorang penerjemah harus memahami bahasa sumber dan bahasa tujuan, sekaligus memahami bidang ilmu yang sedang diterjemahkan.
-
-Sebagai contoh, apabila seseorang menerjemahkan kitab fisika dari bahasa Yunani atau Suryani ke dalam bahasa Arab, ia harus mengetahui bahasa yang digunakan dalam kitab tersebut dan memahami konsep-konsep fisika.
-
-Jika ia tidak memahami bidang ilmunya, ia mungkin menerjemahkan kata demi kata tanpa mengerti maksud keseluruhan kalimat.
-
-Padahal, penerjemahan tidak selalu dapat dilakukan dengan mengganti satu kata dengan satu kata lain.
-
-Penerjemah harus memahami makna kalimat, hubungan antara satu istilah dan istilah lainnya, serta persoalan yang sedang dibicarakan oleh penulis.
-
-Karena itu, dosen menegaskan bahwa orang yang menerjemahkan kitab ilmiah harus menguasai bahasa dan bidang ilmu yang diterjemahkan.
-
-76. Mempelajari, menilai, dan mengoreksi pengetahuan yang diterjemahkan
-
-Setelah kitab-kitab asing diterjemahkan, umat Islam dapat mempelajarinya untuk mengetahui isi serta argumentasinya.
-
-Dosen menjelaskan bahwa mereka tidak harus menerima seluruh isi kitab tersebut. Mereka dapat menemukan bagian yang mengandung pemikiran mendalam, mengambil manfaat darinya, dan memperbaiki bagian yang dianggap salah.
-
-Dengan demikian, proses penerjemahan diikuti oleh penelitian, kritik, penilaian, dan pengembangan.
-
-Umat Islam dapat mempelajari hasil pemikiran para tokoh terdahulu, lalu menggunakan kemampuan intelektualnya untuk membedakan bagian yang benar dan bagian yang keliru.
-
-Dosen kembali menegaskan bahwa hal tersebut bukan berarti para pemikir muslim menganggap Al-Qur'an memiliki kekurangan yang harus diperbaiki melalui filsafat Yunani.
-
-Mereka mempelajari pemikiran asing karena membutuhkan pengetahuan untuk menghadapi perdebatan, memahami ilmu yang telah dikembangkan oleh peradaban lain, dan mengembangkan kemampuan intelektual umat Islam.
-
-77. Hubungan Islam dengan filsafat berbeda dari keadaan dalam tradisi lain
-
-Dosen menyatakan bahwa keadaan hubungan antara Islam dan filsafat tidak sepenuhnya sama dengan keadaan dalam tradisi Yunani atau Kristen.
-
-Islam mendorong penggunaan akal dan pencarian ilmu, sekaligus mempunyai wahyu sebagai pedoman.
-
-Karena itu, mempelajari filsafat bukan berarti menggantikan wahyu dengan pemikiran manusia.
-
-Umat Islam dapat mempelajari pemikiran filsuf, mengetahui istilah dan argumentasinya, menggunakan hal-hal yang bermanfaat, serta menolak bagian yang bertentangan dengan keyakinan agama.
-
-Dosen menekankan bahwa para pemikir muslim perlu menguasai filsafat agar mereka dapat berdialog dengan orang-orang yang menggunakan dasar pemikiran tersebut.
-
-Dengan demikian, filsafat bukan dipelajari untuk menyempurnakan Al-Qur'an, melainkan untuk memahami, menilai, dan menghadapi pemikiran yang berkembang di sekitar umat Islam.
-
-BAGIAN KEENAM BELAS
-PERTANYAAN MENGENAI PENCIPTAAN LANGIT DAN BUMI SERTA TEORI الْفَيْض
-
-78. Pertanyaan mengenai penciptaan alam dan نظرية الفيض
-
-Seorang mahasiswa kemudian mengajukan pertanyaan mengenai penciptaan langit dan bumi serta teori emanasi yang dikaitkan dengan para filsuf, terutama al-Farabi.
-
-Ia menanyakan bagaimana teori tersebut harus dipahami dan bagaimana hubungannya dengan penjelasan Al-Qur'an mengenai penciptaan alam semesta.
-
-Dosen menjawab bahwa persoalan tersebut termasuk pembahasan yang memerlukan waktu khusus. Pada pertemuan itu, mahasiswa masih mempelajari dasar-dasar filsafat, sehingga pembahasan mendalam mengenai teori emanasi belum akan diuraikan secara lengkap.
-
-Namun, dosen memberikan beberapa penjelasan awal agar mahasiswa mempunyai gambaran mengenai persoalan yang sedang ditanyakan.
-
-79. Enam hari penciptaan dan pertanyaan mengenai ukuran waktu
-
-Dosen terlebih dahulu membahas firman Allah mengenai penciptaan langit dan bumi dalam enam hari.
-
-Beliau menyatakan bahwa Al-Qur'an dengan jelas menyebut bahwa penciptaan tersebut berlangsung dalam enam hari.
-
-Namun, muncul pertanyaan: berapa lama satu hari yang dimaksud?
-
-Apakah hari tersebut sama dengan hari sebagaimana dipahami manusia dalam kehidupan sehari-hari? Apakah ia mempunyai ukuran waktu tertentu seperti yang disebut dalam ayat lain mengenai suatu hari yang kadarnya lima puluh ribu tahun?
-
-Dosen menjelaskan bahwa persoalan tersebut harus dibedakan antara menerima berita yang disampaikan wahyu dan mengetahui secara terperinci bagaimana prosesnya berlangsung.
-
-Seorang muslim dapat meyakini bahwa Allah menciptakan langit dan bumi dalam enam hari sebagaimana disebutkan dalam Al-Qur'an. Namun, pengetahuan mengenai hakikat ukuran waktu tersebut memerlukan pembahasan tersendiri.
-
-Dosen juga mengajukan pertanyaan: apakah Allah sebenarnya mampu menciptakan seluruh alam hanya dalam satu saat?
-
-Tentu, menurut penjelasan dosen, Allah tidak membutuhkan waktu karena kelemahan untuk menciptakan alam. Namun, Al-Qur'an menyebut penciptaan dalam enam hari. Pertanyaan mengenai hikmah dan ukuran waktu tersebut merupakan persoalan yang perlu dibahas secara tersendiri.
-
-80. Perbedaan antara meyakini suatu peristiwa dan mengetahui bagaimana peristiwa itu terjadi
-
-Untuk menjelaskan perbedaan tersebut, dosen menggunakan contoh kisah Nabi Adam عليه السلام.
-
-Al-Qur'an menyebut bahwa Iblis membisikkan atau menggoda Nabi Adam.
-
-Kita mengetahui bahwa Iblis melakukan الوسوسة kepada Adam berdasarkan berita wahyu.
-
-Namun, bagaimana tepatnya Iblis melakukan الوسوسة tersebut?
-
-Dosen mengingatkan bahwa terdapat penjelasan dari sebagian Ahli Kitab yang mengklaim bahwa Iblis masuk ke dalam surga melalui perut ular. Dosen menyatakan bahwa klaim tersebut tidak benar.
-
-Dengan demikian, kita dapat meyakini berita bahwa Iblis menggoda Adam, tetapi tidak berarti kita mengetahui seluruh rincian cara terjadinya peristiwa itu.
-
-Dosen kemudian memberikan contoh lain mengenai penghuni surga dan penghuni neraka yang saling berbicara pada hari kiamat.
-
-Al-Qur'an menyebut bahwa penghuni surga dan penghuni neraka saling menyeru.
-
-Pertanyaannya adalah bagaimana mereka dapat saling berbicara sementara mereka berada pada tempat yang berbeda?
-
-Dosen memberikan analogi komunikasi jarak jauh pada zaman sekarang.
-
-Seseorang dapat tinggal di Mesir, sedangkan keluarganya berada di Indonesia. Meskipun berada di dua negara yang sangat jauh, keduanya dapat berkomunikasi melalui perangkat komunikasi.
-
-Pada masa sekarang, jarak tidak lagi selalu menjadi penghalang komunikasi suara.
-
-Dosen menggunakan contoh tersebut untuk menjelaskan bahwa manusia dapat meyakini suatu kejadian berdasarkan berita yang benar, meskipun belum mengetahui secara terperinci bagaimana mekanisme atau cara terjadinya.
-
-Dengan demikian, iman terhadap suatu berita tidak harus selalu diikuti pengetahuan lengkap mengenai كيفية وقوعه, yaitu bagaimana peristiwa itu terjadi.
-
-81. Pengantar teori emanasi
-
-Dosen kemudian memberikan penjelasan awal mengenai نظرية الفيض (teori emanasi).
-
-Teori ini dikaitkan dalam ceramah dengan al-Farabi, Ibn Sina, dan pemikiran para filsuf lainnya.
-
-Menurut penjelasan dosen, teori tersebut dibangun berdasarkan usaha mempertahankan التوحيد, yaitu keesaan Tuhan.
-
-Para filsuf tersebut berusaha menjelaskan bagaimana alam yang terdiri atas banyak makhluk dapat berasal dari Tuhan yang Esa dan tidak menerima adanya sekutu.
-
-Mereka memandang bahwa keesaan yang mutlak tidak boleh mengandung تعدد, yaitu kemajemukan atau pluralitas.
-
-Jika Tuhan yang satu berhubungan dengan banyak hal secara langsung dalam cara yang mereka bayangkan, mereka merasa bahwa hal itu dapat mengarah kepada pluralitas.
-
-Dari pemikiran tersebut, mereka menyusun teori bahwa Tuhan hanya berhubungan dengan diri-Nya sendiri melalui pengetahuan atau intelek-Nya.
-
-82. Tuhan hanya mengetahui atau memikirkan diri-Nya dalam teori emanasi sebagaimana dijelaskan dosen
-
-Dosen menerangkan bahwa dalam teori tersebut, Tuhan sebagai Yang Esa tidak memikirkan sesuatu selain diri-Nya.
-
-Alasannya, apabila Tuhan memikirkan sesuatu selain diri-Nya, mereka khawatir akan muncul unsur kemajemukan dalam hubungan Tuhan dengan objek yang dipikirkan.
-
-Karena itu, mereka menyatakan bahwa Tuhan hanya memikirkan diri-Nya sendiri.
-
-Dari pemikiran Tuhan terhadap diri-Nya tersebut, kemudian muncul atau memancar العقل الأول, yaitu intelek pertama.
-
-Inilah tahapan awal dalam susunan emanasi yang dijelaskan dosen.
-
-83. Rangkaian العقل الأول dan intelek-intelek berikutnya
-
-Setelah muncul العقل الأول, dosen menjelaskan bahwa intelek pertama mempunyai pengetahuan atau pemikiran mengenai Tuhan dan dirinya sendiri.
-
-Dari proses tersebut muncul tingkatan berikutnya berupa intelek dan jiwa tertentu.
-
-Dalam rekaman, penjelasan mengenai urutan setiap intelek dan النفس yang menyertainya tidak seluruhnya terdengar jelas. Namun, dosen menggambarkan adanya rangkaian intelek yang saling mengikuti.
-
-Intelek pertama mengetahui Tuhan dan dirinya sendiri, kemudian muncul intelek berikutnya serta jiwa yang berhubungan dengannya.
-
-Rangkaian tersebut terus berlanjut sampai mencapai العقل العاشر, yaitu intelek kesepuluh.
-
-Dalam uraian dosen disebut pula النفس التاسعة, yaitu jiwa kesembilan, serta الفلك القمر, yaitu falak atau bola langit bulan.
-
-Dengan demikian, teori tersebut menggambarkan susunan intelek-intelek dan jiwa-jiwa yang berhubungan dengan lapisan-lapisan langit hingga mencapai falak bulan.
-
-84. العقل العاشر dan munculnya alam di bawah falak bulan
-
-Dosen kemudian menyebut bahwa dari العقل العاشر memancar atau muncul berbagai makhluk yang berada dalam alam.
-
-Dalam rekaman, penjelasan tersebut terdengar sebagai bahwa dari intelek kesepuluh keluar atau memancar seluruh makhluk.
-
-Dengan demikian, teori emanasi berusaha menjelaskan bagaimana keberagaman alam dan makhluk muncul dari Tuhan Yang Esa melalui rangkaian intelek dan jiwa.
-
-Perincian hubungan setiap intelek, jiwa, serta falak dalam teori tersebut tidak dijelaskan secara lengkap dalam pertemuan ini. Dosen hanya memperkenalkan susunan umumnya agar mahasiswa mengetahui maksud teori yang sedang dibicarakan.
-
-85. Tujuan teori emanasi menurut penjelasan dosen
-
-Dosen menjelaskan bahwa teori emanasi merupakan usaha para filsuf untuk menerangkan bagaimana banyaknya makhluk dapat berasal dari Tuhan Yang Esa.
-
-Mereka ingin mempertahankan keyakinan bahwa Tuhan tidak mempunyai sekutu dan tidak mengalami kemajemukan.
-
-Namun, usaha mereka untuk menjelaskan proses munculnya alam melalui rangkaian emanasi menghasilkan persoalan lain.
-
-Dalam penjelasan dosen, teori tersebut membuat keluarnya alam dari Tuhan dipahami sebagai proses yang niscaya, seperti hubungan sebab dengan akibat yang tidak terpisahkan.
-
-Jika emanasi dipahami sebagai proses yang niscaya, muncul persoalan apakah alam benar-benar diciptakan melalui kehendak Tuhan atau merupakan akibat yang keluar secara otomatis dari sebab pertama.
-
-Dosen mengaitkan persoalan ini dengan kritik terhadap pandangan para filsuf mengenai keabadian alam dan hubungan pencipta dengan ciptaan. Namun, rincian mengenai seluruh perdebatan tersebut belum dijelaskan secara mendalam dalam pertemuan.
-
-86. Kritik mengenai pengetahuan Tuhan terhadap الجزئيات
-
-Dosen kemudian menyebut salah satu konsekuensi yang dianggap bermasalah dari pandangan para filsuf tersebut, yaitu bahwa mereka berakhir pada penolakan terhadap pengetahuan Allah mengenai الجزئيات, yaitu perkara-perkara partikular atau kejadian-kejadian khusus.
-
-Dalam penjelasan dosen, pandangan mengenai emanasi dan hubungan niscaya antara sebab dengan akibat berujung pada persoalan mengenai apakah Allah mengetahui seluruh kejadian partikular yang berlangsung di alam.
-
-Dosen menyatakan bahwa persoalan ini termasuk bagian dari kritik al-Ghazali terhadap para filsuf.
-
-Beliau mengatakan bahwa sebagian doktrin filsafat yang menghasilkan kesimpulan semacam itu dinilai oleh al-Ghazali sebagai perkara kufur.
-
-Akan tetapi, dosen belum menguraikan secara rinci seluruh argumentasi al-Ghazali mengenai teori emanasi pada pertemuan ini. Pembahasan tersebut baru diperkenalkan sebagai gambaran awal mengenai teori dan kritik terhadapnya.
-
-87. Istilah teori yang disebut dalam rekaman
-
-Dalam bagian akhir penjelasan mengenai emanasi, terdapat penyebutan istilah yang terdengar sebagai نظرية الفيض والسقوط atau bentuk lain yang tidak sepenuhnya jelas.
-
-Karena redaksi istilah tersebut tidak terdengar secara pasti, yang dapat dipastikan hanya bahwa dosen sedang membicarakan teori الفيض yang dikaitkan dengan al-Farabi, Ibn Sina, dan para filsuf lainnya.
-
-BAGIAN KETUJUH BELAS
-FILSAFAT TIDAK SELALU MENGANTARKAN KEPADA ATEISME
-
-88. Pertanyaan apakah filsafat dapat membawa seseorang kepada agama
-
-Setelah membahas teori emanasi dan kritik terhadap para filsuf, dosen kembali kepada persoalan hubungan filsafat dengan agama.
-
-Beliau mengajukan pertanyaan: apakah seseorang yang mempelajari filsafat dapat sampai kepada agama atau justru kepada ateisme?
-
-Mahasiswa menjawab bahwa terdapat filsuf yang melalui proses berpikir akhirnya menerima agama.
-
-Dosen mengakui bahwa memang terdapat pemikir yang menggunakan filsafat hingga sampai pada penerimaan terhadap agama.
-
-89. Contoh pemikir yang berangkat dari keraguan
-
-Dalam percakapan kelas, dosen meminta contoh seorang pemikir yang awalnya mengalami keraguan, kemudian sampai kepada keyakinan mengenai keberadaan Tuhan.
-
-Seorang mahasiswa menyebut contoh seorang pemikir yang pada mulanya mempunyai keraguan besar terhadap berbagai hal. Ia tidak mempercayai sesuatu secara mudah, tetapi kemudian mulai membangun dasar-dasar pengetahuan dan sampai kepada keyakinan mengenai keberadaan Tuhan.
-
-Nama tokoh tersebut tidak terdengar jelas dalam rekaman, sehingga identitasnya tidak dapat dipastikan.
-
-Dosen menggunakan contoh tersebut untuk menjelaskan bahwa proses pemikiran filosofis dapat mengantarkan seseorang kepada iman, bukan hanya kepada penolakan terhadap agama.
-
-90. Filsuf yang membela agama dan prinsip-prinsip keagamaan
-
-Dosen menegaskan bahwa terdapat banyak filsuf besar yang mempertahankan pandangan keagamaan.
-
-Ada pemikir yang menggunakan filsafat untuk membangun argumentasi dalam membela Tuhan, agama, atau prinsip-prinsip keagamaan.
-
-Namun, dosen juga mengingatkan bahwa seorang filsuf tidak harus menghasilkan seluruh kebenaran agama melalui filsafat.
-
-Filsafat dapat saja membantu seseorang memperoleh keyakinan bahwa suatu agama merupakan sumber kebenaran. Setelah ia menerima agama tersebut sebagai sumber kebenaran, ia kemudian dapat memperoleh rincian ajaran agama melalui wahyu.
-
-Dengan demikian, fungsi filsafat dalam kasus seperti ini adalah mengantarkan seseorang kepada penerimaan terhadap kebenaran agama, bukan harus menggantikan seluruh isi ajaran agama.
-
-91. Filsafat tidak harus menghasilkan isi agama yang sama secara langsung
-
-Dosen menjelaskan bahwa suatu sistem filsafat tidak selalu harus memberikan seluruh jawaban yang identik dengan ajaran agama.
-
-Namun, apabila filsafat membantu seseorang memahami bahwa agama merupakan sumber kebenaran yang dapat dipercaya, filsafat telah berperan dalam mengantarkannya kepada agama.
-
-Dengan kata lain, hasil pemikiran filosofis dapat berupa keyakinan bahwa manusia perlu menerima wahyu sebagai sumber kebenaran.
-
-Dosen kembali menegaskan bahwa tidak benar mengatakan seluruh filsuf adalah ateis. Ada filsuf yang mempertahankan agama, ada yang membahas persoalan ketuhanan, dan ada yang menggunakan sistem pemikirannya untuk membela keyakinan keagamaan.
-
-92. Hubungan antara agama dan munculnya filsafat
-
-Dosen kemudian menjelaskan bahwa hubungan antara agama dan filsafat tidak selalu berlawanan.
-
-Agama dapat menjadi salah satu pemicu munculnya pemikiran filosofis karena manusia terdorong untuk memikirkan ajaran agama, memahami kebenarannya, dan meneliti berbagai persoalan yang berkaitan dengannya.
-
-Ketika seseorang menerima ajaran agama, ia mungkin mulai bertanya mengapa ajaran tersebut benar, bagaimana dasar pemikirannya, serta bagaimana hubungan antara ajaran agama dengan berbagai persoalan kehidupan.
-
-Di sisi lain, filsuf dapat pula menggunakan sistem pemikirannya untuk menjelaskan atau membela agama.
-
-Karena itu, terdapat bentuk-bentuk فلسفة دينية, yaitu filsafat keagamaan.
-
-Filsafat keagamaan tidak hanya terdapat dalam Islam, tetapi dapat pula ditemukan dalam tradisi Yahudi dan tradisi keagamaan lainnya.
-
-93. Ilmu kalam dan usul fikih sebagai bagian dari pemikiran filsafat Islam
-
-Dosen kemudian menyebut seorang ulama Al-Azhar terdahulu bernama Mustafa Abd al-Raziq.
-
-Dalam rekaman disebut bahwa beliau pernah menjadi Syaikh al-Azhar dan wafat sekitar tahun 1948.
-
-Mustafa Abd al-Raziq menulis kitab berjudul:
-
-تَمْهِيدٌ لِتَارِيخِ الْفَلْسَفَةِ الْإِسْلَامِيَّةِ
-
-Tam hīd li-Tārīkh al-Falsafah al-Islāmiyyah.
-
-Dalam kitab tersebut, sebagaimana dijelaskan dosen, ia membahas keaslian dan keberadaan filsafat Islam.
-
-Salah satu pandangan yang disebutkan ialah bahwa علم الكلام dan أصول الفقه dapat dimasukkan sebagai bagian dari manifestasi atau bentuk perkembangan filsafat Islam.
-
-Alasannya, kedua disiplin tersebut memuat berbagai pembahasan filosofis dan menggunakan pemikiran rasional untuk tujuan keagamaan.
-
-Ilmu kalam membahas persoalan-persoalan akidah melalui argumentasi dan pembuktian. Adapun usul fikih membahas dasar-dasar penalaran hukum dan kaidah yang digunakan untuk memahami serta menetapkan hukum.
-
-Dengan demikian, kedua ilmu tersebut menunjukkan adanya aktivitas intelektual filosofis dalam tradisi keilmuan Islam.
-
-Dosen menyebut bahwa ilmu kalam dan usul fikih merupakan bagian dari تجليات الفلسفة الإسلامية, yaitu salah satu bentuk perwujudan pemikiran filsafat dalam Islam, sebagaimana dijelaskan dalam kitab Mustafa Abd al-Raziq tersebut.
-
-BAGIAN KEDELAPAN BELAS
-DISKUSI TAMBAHAN MENGENAI FILSAFAT, PENELITIAN, DAN PENGALAMAN
-
-94. Pertanyaan mengenai hubungan filsafat dengan hal-hal empiris
-
-Pada bagian berikutnya, muncul pertanyaan mengenai hubungan antara filsafat dan kegiatan yang bersifat empiris atau eksperimental.
-
-Redaksi pertanyaan mahasiswa dalam rekaman tidak terdengar sepenuhnya jelas. Ada penyebutan istilah yang berkaitan dengan التجريبيات dan pembagian suatu ilmu menjadi bagian teoritis dan praktis.
-
-Dosen memberikan penjelasan bahwa mungkin suatu ilmu mempunyai wilayah kerja yang bersifat eksperimental, tetapi hasil pemikirannya tidak selalu berupa hasil eksperimen langsung.
-
-Dengan demikian, perlu dibedakan antara bidang atau cara kerja suatu disiplin ilmu dan jenis kesimpulan yang dihasilkannya.
-
-Suatu penelitian dapat dilakukan pada wilayah yang berkaitan dengan pengalaman, pengamatan, atau percobaan, tetapi kesimpulan akhirnya mungkin tetap berupa penjelasan teoretis.
-
-Dosen mengatakan bahwa pengertian yang sedang dibahas perlu diperhatikan agar mahasiswa tidak mencampurkan kegiatan penelitian empiris dengan hasil teoretis.
-
-Namun, karena istilah yang digunakan mahasiswa dan jawaban dosen pada bagian ini tidak jelas secara lengkap, hubungan spesifik antara definisi tersebut dengan pembagian filsafat tidak dapat dipastikan.
-
-95. Penegasan mengenai pembahasan lanjutan dan ujian
-
-Dosen kemudian kembali kepada persoalan proses pembelajaran.
-
-Beliau menyatakan bahwa pertemuan berikutnya atau pertemuan setelahnya mungkin akan disertai ujian. Ujian dapat dilakukan pada seluruh waktu perkuliahan atau hanya sebagian, bergantung pada keputusan dosen.
-
-Beliau mengeluhkan bahwa tidak banyak mahasiswa yang memberikan pertanyaan atau menanggapi penjelasan.
-
-Dosen menyampaikan bahwa ia tidak selalu mengetahui apakah mahasiswa benar-benar memahami materi atau hanya diam. Ada mahasiswa yang mengatakan memahami, tetapi tidak memberikan pertanyaan atau tanggapan yang dapat menunjukkan tingkat pemahamannya.
-
-Beliau kemudian mengakhiri pertemuan setelah mengingatkan mahasiswa agar memperhatikan materi yang telah dijelaskan dan mempersiapkan diri untuk ujian berikutnya.
-
-PENUTUP
-RANGKAIAN PEMAHAMAN UTAMA SELURUH MATERI
-
-Pembahasan pertemuan ini berawal dari lima keberatan terhadap filsafat yang menjadi materi pembelajaran. Keberatan pertama menyatakan bahwa filsafat tidak berguna karena hanya bersifat teoritis dan tidak menghasilkan manfaat material. Dosen menjawab bahwa manusia bukan hanya makhluk material. Keyakinan, moral, dan prinsip yang bersifat teoritis membentuk perilaku serta tindakan manusia. Selain itu, ilmu empiris tidak dapat menjawab seluruh pertanyaan mengenai tujuan alam semesta, hakikat kehidupan, kedudukan manusia, dan apa yang terjadi setelah kematian.
-
-Keberatan kedua menyatakan bahwa filsafat tidak menghasilkan kepastian karena membahas persoalan metafisik yang tidak dapat dipastikan melalui metode empiris. Dosen menjawab bahwa ketiadaan kepastian mutlak bukan alasan untuk menghentikan pencarian. Seseorang dapat mencapai pendapat yang lebih kuat atau lebih dekat kepada kebenaran. Analogi mencari jalan menunjukkan bahwa kegagalan menemukan jalan pada percobaan pertama tetap memberikan pengetahuan yang berguna.
-
-Keberatan ketiga menyatakan bahwa filsafat saling bertentangan dan menghancurkan pemikiran sebelumnya. Dosen menjelaskan bahwa filsafat terdiri atas berbagai pendekatan yang dapat saling melengkapi. Kritik dan perdebatan dapat mengembangkan pemikiran manusia, bukan hanya menghancurkannya. Seorang filsuf juga tidak selalu mengklaim memberikan solusi final bagi seluruh persoalan.
-
-Keberatan keenam menyatakan bahwa filsafat terlalu sulit dan hanya dapat dipahami oleh sedikit orang. Dosen mengakui adanya kesulitan dalam istilah, konsep, dan susunan pembahasan. Namun, kesulitan bukan alasan untuk meninggalkan ilmu. Setiap bidang memiliki istilah khusus dan memerlukan dasar pengetahuan. Analogi tas berat serta tahapan pendidikan menunjukkan bahwa materi harus dipelajari sedikit demi sedikit. Pengulangan dan latihan akan membuat sesuatu yang awalnya sulit menjadi lebih mudah dipahami.
-
-Keberatan ketujuh menyatakan bahwa filsafat membawa seseorang kepada ateisme dan menjauhkannya dari agama. Dosen menjawab bahwa ateisme bukan hasil yang pasti dari filsafat. Ada filsuf yang membela agama dan menggunakan pemikiran filosofis untuk memperkuat keyakinan. Pemahaman filsafat yang tidak lengkap dapat membuat seseorang terjebak dalam kebingungan, sedangkan pendalaman yang lebih baik dapat mengantarkannya kepada keyakinan.
-
-Setelah itu, dosen membahas metafisika. Istilah metafisika berkaitan dengan ما بعد الطبيعة, yakni pembahasan yang ditempatkan setelah pembahasan alam dalam susunan karya Aristoteles. Filsafat Yunani pada masa itu mempunyai cakupan luas yang meliputi ilmu alam, etika, ketuhanan, matematika, politik, dan pengelolaan rumah tangga.
-
-Dosen kemudian menjelaskan hakikat pemikiran filosofis dengan membandingkan akal dan organ tubuh. Mata mempunyai fungsi melihat, telinga mendengar, dan akal mempunyai sifat dasar berpikir. Namun, kemampuan setiap manusia tidak sama. Ada yang berpikir hanya mengenai urusan harian, ada yang memikirkan prinsip-prinsip yang mengarahkan kehidupan, dan ada yang memeriksa dasar dari prinsip-prinsip tersebut. Filsafat berhubungan dengan tingkat pemikiran yang menelaah dasar-dasar dan prinsip yang membentuk pandangan manusia.
-
-Pembahasan selanjutnya menjawab mengapa para pemikir muslim mempelajari filsafat Yunani. Dosen mengingatkan bahwa sebelum datangnya Islam sudah terdapat keyakinan yang benar maupun yang menyimpang. Ketika wilayah Islam berkembang, umat Islam bertemu dengan masyarakat yang memiliki tradisi filsafat dan kitab-kitab keilmuan. Mereka perlu memahami pemikiran tersebut agar dapat menjawab syubhat dan membangun dialog. Selain itu, kitab-kitab Yunani dan Suryani memuat berbagai ilmu, sehingga diperlukan penerjemah yang menguasai bahasa sekaligus bidang ilmu yang diterjemahkan. Para ilmuwan muslim mempelajari, menilai, mengambil manfaat, dan mengoreksi pemikiran tersebut, bukan karena menganggap Al-Qur'an tidak lengkap.
-
-Hubungan para filsuf muslim dengan pemikir Yunani juga dijelaskan melalui contoh al-Ghazali dan Ibn Rushd. Al-Ghazali menulis Tahafut al-Falasifah untuk mengkritik sejumlah pendapat para filsuf. Ibn Rushd kemudian menulis Tahafut al-Tahafut sebagai tanggapan terhadap kritik tersebut. Dosen menjelaskan bahwa para pemikir muslim terkadang memberi uzur kepada filsuf terdahulu atau melakukan takwil terhadap perkataannya agar dapat dipahami secara lebih sesuai dengan keyakinan agama. Hal ini dibandingkan dengan penafsiran sebagian ungkapan شطحات dalam tradisi tasawuf. Al-Kindi juga disebut mengajarkan penghargaan kepada pemikir terdahulu karena mereka telah membuka jalan bagi perkembangan pengetahuan, meskipun sebagian pemikirannya masih perlu dikoreksi.
-
-Kemudian dosen menjelaskan perbedaan antara مبحث المعرفة dan مبحث القيم. مبحث القيم merupakan pembahasan mengenai standar untuk menilai kebenaran, kebaikan, dan keindahan. Ia bersifat معيارية karena memberikan ukuran mengenai apa yang seharusnya dilakukan atau bagaimana sesuatu harus dinilai. Sebaliknya, مبحث المعرفة meneliti bagaimana manusia mengetahui sesuatu, apa alat pengetahuannya, bagaimana indra dan akal bekerja, bagaimana pengetahuan diperoleh, serta apa batas kemampuan manusia untuk mengetahui.
-
-Dalam diskusi mengenai العقل الخالص dan العقل العملي, dosen menjelaskan bahwa akal teoretis mempunyai batas ketika berusaha membuktikan seluruh sifat Tuhan hanya melalui pengamatan terhadap alam. Namun, pemikiran mengenai kewajiban moral dan pertanggungjawaban dapat mengarah kepada penerimaan mengenai keberadaan Tuhan. Nama tokoh yang menjadi objek penjelasan tersebut tidak terdengar jelas dalam rekaman, sehingga pembahasannya tidak dapat dipastikan lebih jauh.
-
-Selanjutnya, dosen memperkenalkan teori الفيض yang dikaitkan dengan al-Farabi dan Ibn Sina. Teori itu berusaha menjelaskan bagaimana banyaknya makhluk berasal dari Tuhan Yang Esa melalui rangkaian intelek dan jiwa. Dari Tuhan muncul العقل الأول, kemudian rangkaian intelek berikutnya sampai العقل العاشر dan falak bulan. Dari intelek kesepuluh memancar berbagai makhluk. Dosen menyebut bahwa teori ini berusaha mempertahankan keesaan Tuhan, tetapi menghasilkan persoalan mengenai hubungan niscaya antara sebab dan akibat serta pengetahuan Tuhan terhadap الجزئيات. Persoalan ini berkaitan dengan kritik al-Ghazali terhadap sebagian doktrin para filsuf.
-
-Pada akhir perkuliahan, dosen kembali menegaskan bahwa filsafat tidak selalu bertentangan dengan agama. Filsafat dapat membantu seseorang menerima agama sebagai sumber kebenaran, sedangkan agama dapat mendorong munculnya pemikiran filosofis. Dalam tradisi Islam, ilmu kalam dan usul fikih dapat dipahami sebagai salah satu bentuk perkembangan pemikiran filosofis karena keduanya menggunakan argumentasi rasional untuk membahas persoalan agama. Penjelasan ini dikaitkan dengan kitab Tam hīd li-Tārīkh al-Falsafah al-Islāmiyyah karya Mustafa Abd al-Raziq.
-
-Secara keseluruhan, gagasan utama yang ingin ditegaskan dosen ialah bahwa filsafat harus dipahami secara utuh, bukan dinilai berdasarkan kesan awal atau pengetahuan yang hanya sedikit. Keberatan terhadap filsafat perlu diperiksa berdasarkan argumentasi dan latar belakangnya. Kesulitan mempelajari filsafat harus dihadapi melalui penguasaan istilah dan pembelajaran bertahap. Hubungan filsafat dengan agama juga tidak boleh disederhanakan menjadi pertentangan mutlak, sebab terdapat pemikir yang menggunakan filsafat untuk membela agama dan menjelaskan keyakinan.
-
-Selain itu, mahasiswa harus memahami perbedaan antara pengetahuan empiris, pemikiran teoretis, penilaian normatif, serta proses rasional yang mendasari keduanya. Dengan memahami perbedaan tersebut, seseorang dapat menilai suatu persoalan secara lebih tepat dan tidak mencampuradukkan kemasyhuran, dugaan, keyakinan, pengalaman indrawi, dan pembuktian akal.
+Kemudian dosen mengucapkan terima kasih kepada para mahasiswa dan menutup pertemuan dengan salam.

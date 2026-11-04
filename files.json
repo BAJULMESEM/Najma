@@ -37,6 +37,16 @@
               "path": "texts/LITERAL MUHADOROH/FALSAFAH AMMAH/1.txt"
             },
             {
+              "name": "10.txt",
+              "type": "file",
+              "path": "texts/LITERAL MUHADOROH/FALSAFAH AMMAH/10.txt"
+            },
+            {
+              "name": "11.txt",
+              "type": "file",
+              "path": "texts/LITERAL MUHADOROH/FALSAFAH AMMAH/11.txt"
+            },
+            {
               "name": "2.txt",
               "type": "file",
               "path": "texts/LITERAL MUHADOROH/FALSAFAH AMMAH/2.txt"
@@ -314,6 +324,11 @@
               "path": "texts/LITERAL MUHADOROH/MANTIQ/14.txt"
             },
             {
+              "name": "15.txt",
+              "type": "file",
+              "path": "texts/LITERAL MUHADOROH/MANTIQ/15.txt"
+            },
+            {
               "name": "2.txt",
               "type": "file",
               "path": "texts/LITERAL MUHADOROH/MANTIQ/2.txt"
@@ -389,6 +404,16 @@
               "name": "3.txt",
               "type": "file",
               "path": "texts/LITERAL MUHADOROH/NUDZUM ISLAMIYAH/3.txt"
+            },
+            {
+              "name": "4.txt",
+              "type": "file",
+              "path": "texts/LITERAL MUHADOROH/NUDZUM ISLAMIYAH/4.txt"
+            },
+            {
+              "name": "5.txt",
+              "type": "file",
+              "path": "texts/LITERAL MUHADOROH/NUDZUM ISLAMIYAH/5.txt"
             }
           ]
         },
@@ -560,6 +585,16 @@
               "name": "1.txt",
               "type": "file",
               "path": "texts/PELAJARAN/FALSAFAH AMMAH/1.txt"
+            },
+            {
+              "name": "10.txt",
+              "type": "file",
+              "path": "texts/PELAJARAN/FALSAFAH AMMAH/10.txt"
+            },
+            {
+              "name": "11.txt",
+              "type": "file",
+              "path": "texts/PELAJARAN/FALSAFAH AMMAH/11.txt"
             },
             {
               "name": "2.txt",
@@ -736,6 +771,11 @@
               "path": "texts/PELAJARAN/maantiq/13.txt"
             },
             {
+              "name": "14.txt",
+              "type": "file",
+              "path": "texts/PELAJARAN/maantiq/14.txt"
+            },
+            {
               "name": "2.txt",
               "type": "file",
               "path": "texts/PELAJARAN/maantiq/2.txt"
@@ -795,6 +835,16 @@
               "name": "3.txt",
               "type": "file",
               "path": "texts/PELAJARAN/NUDZUM ISLAMIYAH/3.txt"
+            },
+            {
+              "name": "4.txt",
+              "type": "file",
+              "path": "texts/PELAJARAN/NUDZUM ISLAMIYAH/4.txt"
+            },
+            {
+              "name": "5.txt",
+              "type": "file",
+              "path": "texts/PELAJARAN/NUDZUM ISLAMIYAH/5.txt"
             }
           ]
         },

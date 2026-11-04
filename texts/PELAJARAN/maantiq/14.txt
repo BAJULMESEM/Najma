@@ -1,0 +1,1662 @@
+# القضية الشرطية: Pembagian, Jenis-Jenis, dan Hubungannya dengan Penalaran serta Dalil Akidah
+
+## 1. Pengantar: melanjutkan pembahasan القضية الشرطية
+
+Pada awal pertemuan, dosen mengajak mahasiswa menentukan materi yang akan dibahas. Ada dua pilihan yang diajukan: memulai pembahasan baru tentang **التناقض** atau melakukan مراجعة سريعة, yaitu mengulang secara singkat materi **القضية الشرطية** yang telah dipelajari sebelumnya.
+
+Dosen meminta mahasiswa menyampaikan pilihan masing-masing. Setelah dilakukan semacam musyawarah dengan mengangkat tangan, pembahasan diarahkan kepada pengulangan materi القضية الشرطية.
+
+Sebelum masuk ke materi, dosen mengingatkan bahwa pertemuan terakhir yang telah diselesaikan adalah pembahasan **العدول والتحصيل**. Materi tersebut merupakan bagian terakhir dari pembahasan **القضية الحملية**.
+
+Dalam pembagian awal القضية, sebagaimana telah dipelajari, terdapat dua bagian besar, yaitu:
+
+**القضية الحملية**, yaitu proposisi kategoris, dan **القضية الشرطية**, yaitu proposisi kondisional.
+
+Pembahasan mengenai القضية الحملية telah diselesaikan. Karena itu, sekarang materi beralih kepada bagian kedua, yaitu القضية الشرطية.
+
+Dosen mengingatkan bahwa pertemuan ini merupakan مراجعة atau pengulangan, bukan pembahasan baru yang akan diuraikan secara sangat terperinci. Oleh sebab itu, penjelasan akan dilakukan dengan membaca kembali materi dalam buku, mengingat definisi, dan menata kembali pembagian-pembagian yang telah dipelajari.
+
+## 2. Pengertian القضية الشرطية dan bagian-bagiannya
+
+Sebelum membahas pembagian القضية الشرطية, dosen terlebih dahulu mengingatkan definisinya.
+
+**القضية الشرطية** adalah proposisi yang di dalamnya terdapat penetapan atau penafian suatu hubungan dengan bergantung pada hubungan lainnya, atau terdapat penilaian mengenai pertentangan maupun tidak adanya pertentangan antara dua nisbah.
+
+Dalam penjelasan dosen, definisi tersebut mencakup dua jenis:
+
+1. القضية الشرطية المتصلة.
+2. القضية الشرطية المنفصلة.
+
+Keduanya mempunyai bentuk hubungan yang berbeda.
+
+Pada القضية الشرطية المتصلة, penilaian diberikan mengenai tetapnya atau tidak tetapnya suatu nisbah dengan bergantung pada nisbah lainnya. Artinya, terdapat hubungan bersyarat antara dua bagian proposisi.
+
+Adapun pada القضية الشرطية المنفصلة, penilaian diberikan mengenai apakah dua nisbah saling bertentangan atau tidak saling bertentangan.
+
+### A. المقدم dan التالي
+
+Dosen mengingatkan dua istilah penting dalam proposisi kondisional, yaitu:
+
+**المقدم** dan **التالي**.
+
+Bagian pertama disebut **المقدم** karena mendahului bagian kedua dalam penyebutan. Adapun bagian kedua disebut **التالي** karena mengikuti bagian pertama.
+
+Dalam bentuk yang sederhana, misalnya:
+
+**إِنْ كَانَتِ الشَّمْسُ طَالِعَةً فَالنَّهَارُ مَوْجُودٌ.**
+
+Artinya, apabila matahari terbit, maka siang ada.
+
+Dalam contoh tersebut, bagian:
+
+**كَانَتِ الشَّمْسُ طَالِعَةً**
+
+merupakan المقدم, sedangkan:
+
+**النَّهَارُ مَوْجُودٌ**
+
+merupakan التالي.
+
+Dosen mengingatkan bahwa istilah المقدم dan التالي juga akan muncul ketika membahas القضية المنفصلة. Namun, ada perbedaan yang perlu diperhatikan ketika menentukan bagian yang disebut مقدم.
+
+Pada القضية المتصلة, hubungan antara مقدم dan تالي dapat diperhatikan berdasarkan hubungan atau keterkaitan keduanya. Dosen menyebut adanya perbedaan antara التقدم بالرتبة dan التقدم بالذكر. Dalam penjelasannya terdengar bahwa المقدم dalam المتصلة dapat memiliki تقدم رتبة meskipun urutan penyebutannya berbeda. Akan tetapi, rincian ungkapan tersebut tidak sepenuhnya jelas dalam rekaman.
+
+Adapun dalam القضية المنفصلة, dosen menegaskan bahwa bagian yang disebut مقدم adalah bagian yang disebutkan lebih dahulu. Misalnya:
+
+**الْعَدَدُ إِمَّا زَوْجٌ أَوْ فَرْدٌ.**
+
+Angka itu mungkin genap atau ganjil.
+
+Dalam kalimat tersebut, زوج merupakan مقدم karena disebutkan pertama, sedangkan فرد merupakan bagian berikutnya.
+
+Apabila susunan kalimat dibalik menjadi:
+
+**الْعَدَدُ إِمَّا فَرْدٌ أَوْ زَوْجٌ.**
+
+Maka فرد menjadi مقدم dan زوج menjadi bagian yang mengikutinya.
+
+Jadi, pada القضية المنفصلة, urutan penyebutan menjadi dasar untuk menentukan مقدم dan bagian berikutnya.
+
+## 3. Pembagian awal القضية الشرطية: متصلة dan منفصلة
+
+Dosen kemudian kembali kepada pembagian utama القضية الشرطية.
+
+### A. القضية الشرطية المتصلة
+
+**القضية الشرطية المتصلة** adalah proposisi kondisional yang di dalamnya ditetapkan atau dinafikan suatu nisbah dengan bergantung pada nisbah lainnya.
+
+Ciri utamanya adalah terdapat hubungan atau keterkaitan antara dua bagian proposisi.
+
+Dosen menggunakan contoh:
+
+**كُلَّمَا كَانَتِ الشَّمْسُ طَالِعَةً كَانَ النَّهَارُ مَوْجُودًا.**
+
+Artinya, setiap kali matahari terbit, siang pun ada.
+
+Dalam proposisi ini, keberadaan siang dihubungkan dengan terbitnya matahari. Penilaian mengenai وجود النهار bergantung pada طلوع الشمس.
+
+Contoh lainnya:
+
+**إِنْ ذَاكَرْتَ نَجَحْتَ.**
+
+Artinya, apabila kamu belajar, kamu berhasil.
+
+Dalam contoh tersebut, keberhasilan dihubungkan dengan kegiatan belajar.
+
+Jadi, ضابط atau ciri utama القضية المتصلة adalah adanya hubungan antara المقدم dan التالي. Hubungan tersebut ditunjukkan melalui struktur seperti:
+
+**إِنْ كَانَ كَذَا كَانَ كَذَا.**
+
+Apabila sesuatu terjadi, maka sesuatu yang lain terjadi.
+
+### B. القضية الشرطية المنفصلة
+
+Berbeda dengan المتصلة, **القضية الشرطية المنفصلة** adalah proposisi kondisional yang di dalamnya dinilai adanya pertentangan atau tidak adanya pertentangan antara dua nisbah.
+
+Ciri utamanya bukan hubungan bersyarat seperti pada المتصلة, melainkan pertentangan atau ketidakbertentangan antara dua bagian.
+
+Bentuk yang sering digunakan adalah:
+
+**إِمَّا ... أَوْ ...**
+
+Artinya, sesuatu itu mungkin demikian atau demikian.
+
+Dosen memberikan beberapa contoh.
+
+Pertama:
+
+**الْعَدَدُ إِمَّا زَوْجٌ أَوْ فَرْدٌ.**
+
+Angka itu mungkin genap atau ganjil.
+
+Kedua:
+
+**الْإِنْسَانُ إِمَّا حَيٌّ أَوْ مَيِّتٌ.**
+
+Manusia mungkin hidup atau mati.
+
+Ketiga:
+
+**الْجِسْمُ إِمَّا مُتَحَرِّكٌ أَوْ سَاكِنٌ.**
+
+Benda mungkin bergerak atau diam.
+
+Dalam contoh-contoh tersebut, dua bagian proposisi dihadapkan satu sama lain. Pembahasannya berkaitan dengan apakah keduanya dapat terjadi bersamaan, tidak dapat terjadi bersamaan, atau mungkin sama-sama tidak terjadi.
+
+Dosen menegaskan bahwa untuk sementara mahasiswa harus memahami perbedaan dasarnya:
+
+- ضابط المتصلة adalah adanya hubungan antara kedua bagian.
+- ضابط المنفصلة adalah adanya pertentangan atau ketidakbertentangan antara kedua bagian.
+
+Setelah pengertian umum tersebut jelas, pembahasan dilanjutkan kepada pembagian masing-masing jenis.
+
+# 4. Pembagian القضية الشرطية المتصلة menjadi موجبة dan سالبة
+
+Dosen kemudian menjelaskan bahwa القضية المتصلة terbagi menjadi dua, yaitu:
+
+**المتصلة الموجبة** dan **المتصلة السالبة**.
+
+Pembagian ini berkaitan dengan apakah hubungan antara مقدم dan تالي ditetapkan atau justru dinafikan.
+
+### A. المتصلة الموجبة: menetapkan hubungan antara dua bagian
+
+**المتصلة الموجبة** adalah proposisi kondisional yang menetapkan adanya hubungan atau اتصال antara مقدم dan تالي.
+
+Misalnya:
+
+**إِنْ كَانَتِ الشَّمْسُ طَالِعَةً فَالنَّهَارُ مَوْجُودٌ.**
+
+Apabila matahari terbit, maka siang ada.
+
+Dalam contoh tersebut, terdapat hubungan antara terbitnya matahari dan adanya siang.
+
+Karena proposisi tersebut menetapkan hubungan antara kedua bagian, ia disebut متصلة موجبة.
+
+Dosen menjelaskan bahwa penetapan hubungan tersebut tidak mengharuskan bagian kedua selalu berupa sesuatu yang positif atau إثبات. Bagian kedua bisa saja berupa penafian atau سلب.
+
+Hal ini penting karena mahasiswa sering keliru membedakan antara proposisi yang disebut موجبة dan proposisi yang mempunyai تالي negatif.
+
+### B. المتصلة السالبة: menafikan hubungan antara dua bagian
+
+**المتصلة السالبة** adalah proposisi kondisional yang di dalamnya hubungan antara مقدم dan تالي dinafikan.
+
+Dengan kata lain, yang dinafikan bukan sekadar keberadaan salah satu bagian, melainkan hubungan atau keterkaitan antara dua bagian tersebut.
+
+Dosen memberikan contoh:
+
+**لَيْسَ الْبَتَّةَ إِنْ كَانَتِ الشَّمْسُ طَالِعَةً كَانَ اللَّيْلُ مَوْجُودًا.**
+
+Artinya, tidak benar bahwa apabila matahari terbit, malam tetap ada.
+
+Dalam contoh ini, proposisi menolak hubungan antara terbitnya matahari dan keberadaan malam.
+
+Jadi, yang dinafikan adalah الاتصال antara kedua bagian.
+
+Dosen menegaskan bahwa:
+
+**الْمُتَّصِلَةُ السَّالِبَةُ هِيَ الَّتِي حُكِمَ فِيهَا بِسَلْبِ الِاتِّصَالِ، لَا بِاتِّصَالِ السَّلْبِ.**
+
+Artinya, proposisi متصلة سالبة adalah proposisi yang menetapkan penafian hubungan, bukan hubungan yang bagian keduanya berbentuk penafian.
+
+Pernyataan tersebut menjadi inti pembahasan karena terdapat dua bentuk yang secara sepintas terlihat hampir sama, tetapi hukumnya berbeda.
+
+## 5. Perbedaan سلب الاتصال dan اتصال السلب
+
+Dosen memberikan perhatian khusus kepada perbedaan berikut:
+
+**سَلْبُ الِاتِّصَالِ**
+
+dan
+
+**اتِّصَالُ السَّلْبِ.**
+
+Keduanya tidak boleh disamakan.
+
+### A. سلب الاتصال: meniadakan hubungan
+
+سلب الاتصال berarti hubungan antara مقدم dan تالي dinafikan.
+
+Contohnya:
+
+**لَيْسَ الْبَتَّةَ إِنْ كَانَتِ الشَّمْسُ طَالِعَةً كَانَ اللَّيْلُ مَوْجُودًا.**
+
+Tidak benar bahwa apabila matahari terbit, malam ada.
+
+Di sini, proposisi tersebut menolak hubungan antara terbitnya matahari dan keberadaan malam.
+
+Penafian berada di awal kalimat dan ditujukan kepada keseluruhan hubungan kondisional.
+
+Dengan demikian, proposisi tersebut merupakan متصلة سالبة.
+
+### B. اتصال السلب: menghubungkan مقدم dengan تالي yang negatif
+
+Berbeda dengan سلب الاتصال, اتصال السلب berarti proposisi tetap menetapkan adanya hubungan, tetapi bagian kedua atau التالي berbentuk penafian.
+
+Contohnya:
+
+**إِنْ كَانَتِ الشَّمْسُ طَالِعَةً فَلَيْسَ اللَّيْلُ مَوْجُودًا.**
+
+Apabila matahari terbit, malam tidak ada.
+
+Dalam contoh tersebut, penafian memang terdapat pada bagian kedua, yaitu ليس الليل موجودا. Akan tetapi, hubungan antara terbitnya matahari dan tidak adanya malam tetap ditetapkan.
+
+Artinya, proposisi ini tetap menyatakan adanya hubungan antara مقدم dan تالي. Hanya saja, تالي-nya berbentuk negatif.
+
+Karena hubungan antara kedua bagian tetap ditetapkan, proposisi tersebut termasuk متصلة موجبة, bukan متصلة سالبة.
+
+Dosen menegaskan:
+
+**اتِّصَالُ السَّلْبِ مُوجِبَةٌ وَلَيْسَتْ سَالِبَةً.**
+
+Artinya, اتصال السلب termasuk proposisi positif, bukan proposisi negatif.
+
+### C. Perbedaan penempatan huruf سلب
+
+Dosen memberikan pedoman dari segi bentuk kalimat.
+
+Apabila huruf atau kata penafian diletakkan di awal proposisi, maka keseluruhan hubungan dinafikan. Proposisi tersebut menjadi سالبة.
+
+Sebaliknya, apabila penafian diletakkan sebelum تالي, hubungan antara kedua bagian tetap ditetapkan, tetapi تالي-nya bersifat negatif. Proposisi tersebut menjadi موجبة.
+
+Dosen merumuskan perbedaan itu melalui ungkapan:
+
+**إِنْ تَقَدَّمَ حَرْفُ السَّلْبِ فِي صَدْرِ الْقَضِيَّةِ فَالْقَضِيَّةُ سَالِبَةٌ، وَإِنْ تَأَخَّرَ وَكَانَ قَبْلَ التَّالِي فَالْقَضِيَّةُ مُوجَبَةٌ.**
+
+Maksudnya, apabila huruf penafian berada di awal proposisi, proposisi tersebut menjadi negatif. Apabila penafian terletak sebelum bagian التالي, proposisinya tetap positif, tetapi bagian berikutnya berbentuk negatif.
+
+Dosen juga menjelaskan bahwa terdapat perbedaan antara 다음 berikut:
+
+**لَيْسَ الْبَتَّةَ إِنْ كَانَتِ الشَّمْسُ طَالِعَةً كَانَ اللَّيْلُ مَوْجُودًا.**
+
+dan:
+
+**إِنْ كَانَتِ الشَّمْسُ طَالِعَةً فَلَيْسَ اللَّيْلُ مَوْجُودًا.**
+
+Kalimat pertama menafikan hubungan antara terbitnya matahari dan adanya malam. Kalimat kedua menetapkan hubungan antara terbitnya matahari dan tidak adanya malam.
+
+Jadi, perbedaannya bukan sekadar pada keberadaan kata ليس, melainkan pada apa yang sebenarnya dinafikan.
+
+### D. Contoh penafian yang berkaitan dengan belajar dan kegagalan
+
+Dosen sebelumnya juga menyinggung contoh:
+
+**لَيْسَ الْبَتَّةَ إِنْ ذَاكَرْتَ رَسَبْتَ.**
+
+Artinya, tidak benar bahwa apabila kamu belajar, kamu akan gagal.
+
+Dalam contoh ini, penafian diarahkan kepada hubungan antara belajar dan kegagalan. Yang dinafikan bukan kegiatan belajar itu sendiri, melainkan keterkaitan bersyarat antara belajar dan gagal.
+
+Hal ini kembali menunjukkan bahwa penafian hubungan tidak sama dengan menetapkan hubungan dengan bagian kedua yang negatif.
+
+### E. Pertanyaan mengenai المعدولة dan المحصلة
+
+Di tengah pembahasan, seorang mahasiswa bertanya apakah persoalan tersebut dapat disebut sebagai pembahasan المعدولة dan المحصلة.
+
+Dosen menjawab bahwa pembahasan yang sedang dilakukan adalah mengenai القضية الشرطية, bukan pembagian المعدولة dan المحصلة sebagaimana dibicarakan dalam konteks sebelumnya.
+
+Dalam rekaman, dosen menyampaikan bahwa tidak ada pembahasan المعدولة dalam konteks yang sedang dibicarakan tersebut. Ia juga menegaskan bahwa yang menjadi perhatian sekarang adalah penempatan سلب dan apakah penafian tersebut diarahkan kepada hubungan atau kepada bagian kedua.
+
+Penjelasan dosen mengenai pertanyaan tersebut tidak diperluas lebih jauh. Karena itu, pembahasan tentang المعدولة dan المحصلة tidak dapat ditambahkan dari materi ini.
+
+# 6. Tiga pembagian yang harus dibedakan dalam القضية الشرطية
+
+Setelah menjelaskan pengertian dan pembagian المتصلة, dosen menata kembali seluruh pembahasan agar mahasiswa tidak mencampuradukkan berbagai jenis pembagian.
+
+Ia menjelaskan bahwa terdapat tiga sudut pembagian yang harus diperhatikan:
+
+Pertama, pembagian yang khusus berkaitan dengan المتصلة.
+
+Kedua, pembagian yang khusus berkaitan dengan المنفصلة.
+
+Ketiga, pembagian yang berlaku pada kedua jenis tersebut.
+
+Pembagian tersebut akan dijelaskan satu per satu.
+
+Untuk المتصلة, pembahasannya adalah لزومية dan اتفاقية.
+
+Untuk المنفصلة, pembahasannya mencakup حقيقية, مانعة الجمع, dan مانعة الخلو.
+
+Adapun pembagian yang dapat digunakan pada keduanya adalah موجبة dan سالبة.
+
+Dengan memisahkan ketiga sudut pembagian ini, mahasiswa dapat memahami dari mana masing-masing istilah berasal.
+
+# 7. Pembagian القضية الشرطية المتصلة menjadi لزومية dan اتفاقية
+
+Dosen kemudian masuk kepada pembagian khusus المتصلة, yaitu:
+
+**المتصلة اللزومية** dan **المتصلة الاتفاقية**.
+
+Pembagian ini berkaitan dengan alasan mengapa hubungan antara مقدم dan تالي ditetapkan atau dinafikan.
+
+Persoalan utamanya adalah: apakah hubungan antara kedua bagian itu memang mempunyai keterkaitan tertentu, ataukah hanya terjadi karena kebetulan?
+
+### A. المتصلة اللزومية
+
+**المتصلة اللزومية** adalah proposisi متصلة yang hubungan antara مقدم dan تالي didasarkan pada suatu hubungan atau keterkaitan yang ada di antara keduanya.
+
+Jadi, penetapan atau penafian hubungan bukan hanya karena kebetulan. Ada sesuatu yang menghubungkan kedua bagian tersebut.
+
+Dosen memberikan contoh:
+
+**إِنْ كَانَتِ الشَّمْسُ طَالِعَةً فَالنَّهَارُ مَوْجُودٌ.**
+
+Apabila matahari terbit, maka siang ada.
+
+Ia kemudian bertanya kepada mahasiswa: apakah terdapat hubungan antara terbitnya matahari dan keberadaan siang?
+
+Mahasiswa menjawab bahwa memang terdapat hubungan.
+
+Dosen menjelaskan bahwa keberadaan siang berkaitan dengan terbitnya matahari. Dalam gambaran yang digunakan dosen, apabila matahari tidak terbit, siang tidak akan ada sebagaimana yang dimaksud dalam contoh tersebut.
+
+Karena itu, hubungan antara طلوع الشمس dan وجود النهار bukanlah hubungan yang terjadi secara acak.
+
+Contoh berikutnya:
+
+**إِنْ ذَاكَرْتَ نَجَحْتَ.**
+
+Apabila kamu belajar, kamu berhasil.
+
+Dosen menjelaskan bahwa terdapat hubungan antara belajar dan keberhasilan. Kegiatan belajar merupakan salah satu hal yang berkaitan dengan tercapainya keberhasilan.
+
+Namun, dosen juga mengingatkan bahwa manusia terkadang dapat berhasil tanpa belajar, atau telah belajar tetapi tidak berhasil.
+
+Ia bertanya apakah seseorang mungkin berhasil tanpa belajar. Mahasiswa menjawab bahwa hal tersebut dapat terjadi, meskipun dosen menggambarkannya sebagai keadaan yang menyimpang dari kebiasaan.
+
+Sebaliknya, seseorang dapat belajar dengan sungguh-sungguh, tetapi tetap tidak memperoleh keberhasilan yang diharapkannya.
+
+Dosen kemudian menghubungkan persoalan tersebut dengan takdir Allah.
+
+Ia mengingatkan bahwa orang beriman harus menerima keadaan yang menimpanya dengan sikap yang benar.
+
+Dosen menyebut hadis:
+
+**عَجَبًا لِأَمْرِ الْمُؤْمِنِ، إِنَّ أَمْرَهُ كُلَّهُ خَيْرٌ.**
+
+Kemudian ia menjelaskan bahwa apabila seorang mukmin ditimpa kesulitan lalu bersabar, hal itu menjadi kebaikan baginya. Apabila memperoleh kesenangan lalu bersyukur, hal itu juga menjadi kebaikan baginya.
+
+Dosen menyampaikan makna tersebut melalui ungkapan:
+
+**إِنْ أَصَابَتْهُ ضَرَّاءُ صَبَرَ فَكَانَ خَيْرًا لَهُ، وَإِنْ أَصَابَتْهُ سَرَّاءُ شَكَرَ فَكَانَ خَيْرًا لَهُ.**
+
+Karena itu, apabila seseorang mengalami kegagalan, hendaknya ia mengucapkan الحمد لله. Jika ia berhasil, ia juga mengucapkan الحمد لله.
+
+Contoh belajar dan keberhasilan digunakan untuk menunjukkan bahwa ada hubungan antara kedua hal tersebut, meskipun hasil dalam kenyataan tetap berada dalam ketentuan Allah dan tidak selalu berlangsung secara mutlak sebagaimana yang dibayangkan.
+
+### B. Bentuk hubungan dalam المتصلة اللزومية
+
+Dosen kemudian menjelaskan bahwa hubungan antara مقدم dan تالي dalam المتصلة اللزومية dapat muncul melalui beberapa bentuk.
+
+Hubungan tersebut dapat berupa:
+
+**السببية**, yaitu hubungan sebab-akibat.
+
+**المسببية**, yaitu hubungan akibat yang dikaitkan dengan sebabnya.
+
+**التضايف**, yaitu hubungan timbal balik atau hubungan korelatif antara dua hal.
+
+Selain itu, dapat pula terjadi keadaan ketika kedua bagian merupakan akibat dari sebab lain yang sama.
+
+#### 1. Hubungan sebab-akibat (السببية)
+
+Contohnya:
+
+**إِنْ كَانَتِ الشَّمْسُ طَالِعَةً فَالنَّهَارُ مَوْجُودٌ.**
+
+Apabila matahari terbit, siang ada.
+
+Dalam hubungan ini, terbitnya matahari merupakan sebab, sedangkan keberadaan siang merupakan akibat.
+
+Dosen menjelaskan bahwa المقدم dalam contoh tersebut merupakan sebab bagi التالي.
+
+#### 2. Hubungan akibat-sebab (المسببية)
+
+Dosen kemudian membalik contoh sebelumnya:
+
+**إِنْ كَانَ النَّهَارُ مَوْجُودًا فَالشَّمْسُ طَالِعَةٌ.**
+
+Apabila siang ada, matahari sedang terbit.
+
+Dalam susunan ini, bagian pertama adalah keberadaan siang, sedangkan bagian kedua adalah terbitnya matahari.
+
+Dosen menjelaskan bahwa dalam contoh tersebut bagian pertama merupakan akibat, sedangkan bagian kedua merupakan sebab.
+
+Jadi, hubungan antara keduanya tetap ada, tetapi urutan sebab dan akibatnya berbeda dari contoh sebelumnya.
+
+Ia ingin menunjukkan bahwa hubungan dalam المتصلة اللزومية tidak selalu menempatkan sebab pada bagian pertama dan akibat pada bagian kedua.
+
+#### 3. Hubungan timbal balik atau التضايف
+
+Contoh selanjutnya berkaitan dengan hubungan antara ayah dan anak.
+
+Dosen menyampaikan:
+
+**كُلَّمَا كَانَ مُحَمَّدٌ أَبًا لِزَيْدٍ كَانَ زَيْدٌ ابْنًا.**
+
+Setiap kali Muhammad menjadi ayah bagi Zaid, Zaid merupakan anaknya.
+
+Hubungan antara ayah dan anak merupakan hubungan timbal balik. Keberadaan seseorang sebagai ayah berkaitan dengan keberadaan orang lain sebagai anak.
+
+Dosen menyebut hubungan tersebut sebagai التضايف.
+
+#### 4. Kedua bagian merupakan akibat dari sebab yang sama
+
+Dosen juga memberikan contoh:
+
+**كُلَّمَا كَانَ النَّهَارُ مَوْجُودًا فَالْعَالَمُ مُضِيءٌ.**
+
+Setiap kali siang ada, alam menjadi terang.
+
+Dalam contoh ini, keberadaan siang dan keadaan alam yang terang sama-sama berkaitan dengan terbitnya matahari.
+
+Dengan demikian, kedua bagian tersebut dapat dipandang sebagai akibat dari sebab yang sama.
+
+Dosen menegaskan bahwa apa pun bentuk hubungannya, baik sebab-akibat, akibat-sebab, التضايف, maupun kedua bagian yang merupakan akibat dari sebab yang sama, yang penting adalah adanya hubungan antara مقدم dan تالي.
+
+Itulah ضابط المتصلة اللزومية.
+
+### C. المتصلة الاتفاقية
+
+Berbeda dengan اللزومية, **المتصلة الاتفاقية** adalah proposisi yang menetapkan hubungan antara مقدم dan تالي bukan karena adanya hubungan intrinsik, melainkan hanya karena kebetulan keduanya terjadi demikian dalam kenyataan.
+
+Dosen menjelaskan bahwa kesamaan atau hubungan yang tampak pada kedua bagian tidak selalu berarti terdapat hubungan sebab-akibat atau keterkaitan makna di antara keduanya.
+
+Contohnya:
+
+**إِنْ كَانَ الْإِنْسَانُ نَاطِقًا فَالْحِمَارُ نَاهِقٌ.**
+
+Apabila manusia dapat berbicara, keledai mengeluarkan suara ringkikan.
+
+Dosen bertanya kepada mahasiswa: apakah terdapat hubungan antara kemampuan manusia berbicara dan keledai mengeluarkan suara?
+
+Mahasiswa menjawab bahwa tidak ada hubungan di antara keduanya.
+
+Keledai mengeluarkan suara bukan karena manusia mempunyai kemampuan berbicara. Keduanya merupakan dua hal yang tidak saling menyebabkan.
+
+Jika keduanya dinyatakan dalam satu bentuk proposisi bersyarat, hubungan tersebut hanya merupakan اتفاق, yaitu kebetulan.
+
+Dosen kemudian memberikan contoh lain:
+
+**كُلَّمَا كُنْتَ أَزْهَرِيًّا كُنْتَ شَافِعِيًّا.**
+
+Setiap kali kamu menjadi mahasiswa Al-Azhar, kamu adalah seorang pengikut mazhab Syafi'i.
+
+Dosen menjelaskan bahwa tidak ada hubungan niscaya antara menjadi mahasiswa Al-Azhar dan menjadi pengikut mazhab Syafi'i. Seseorang dapat menjadi mahasiswa Al-Azhar sekaligus bermadzhab Syafi'i, Hanafi, Maliki, atau Hanbali.
+
+Karena itu, apabila seseorang mengatakan bahwa setiap mahasiswa Al-Azhar pasti Syafi'i, ia sedang menghubungkan dua hal yang tidak mempunyai hubungan niscaya.
+
+Dosen bahkan bercanda bahwa dirinya memang mengakui sebagai pengikut Syafi'i, tetapi bukan berarti ia menolak mazhab lainnya. Ia kemudian menyebut adanya mazhab Hanafi dan Maliki.
+
+Ia menegaskan bahwa semua imam mazhab merupakan imam yang dihormati.
+
+Dalam pembahasan tersebut, dosen menyampaikan pandangan mengenai identitas keilmuan Al-Azhar. Ia mengatakan bahwa Al-Azhar merupakan lembaga yang berpegang pada akidah Sunni, mempunyai keragaman mazhab fikih, dan mempunyai karakter tasawuf dalam akhlak serta perilaku.
+
+Ia menyampaikan bahwa tidak tepat menjadikan perbedaan mazhab sebagai alasan saling menolak. Ia juga menyebut istilah Asy'ari dan Maturidi sebagai dua corak yang sama-sama termasuk dalam lingkungan Sunni menurut penjelasan yang disampaikannya.
+
+Dosen mengutip ungkapan yang dinisbatkan kepada Imam al-Laqqani:
+
+**وَوَاجِبٌ تَقْلِيدُ حَبْرٍ مِنْهُمْ.**
+
+Maksudnya, wajib mengikuti seorang imam atau ulama dari kalangan mereka.
+
+Konteks yang sedang dibicarakan adalah mengikuti salah satu imam mazhab fikih.
+
+Dosen menegaskan bahwa Al-Azhar dikenal dengan keragaman mazhab fikih. Karena itu, seseorang tidak boleh menganggap bahwa keberadaan di Al-Azhar secara otomatis membuatnya hanya boleh mengikuti satu mazhab.
+
+### D. Contoh mahasiswa Fakultas Ushuluddin dan Syariah
+
+Dosen memberikan contoh lain:
+
+**كُلَّمَا كُنْتَ فِي أُصُولِ الدِّينِ كَانَ مُحَمَّدٌ فِي الشَّرِيعَةِ.**
+
+Apabila kamu berada di Fakultas Ushuluddin, Muhammad berada di Fakultas Syariah.
+
+Dosen menjelaskan bahwa tidak ada hubungan niscaya antara kedua keadaan tersebut. Seseorang berada di Ushuluddin dan orang lain berada di Syariah merupakan dua keadaan yang dapat terjadi secara bersamaan, tetapi tidak saling menyebabkan.
+
+Karena itu, hubungan tersebut merupakan اتفاقية.
+
+### E. Contoh المتصلة الاتفاقية yang berbentuk negatif
+
+Dosen kemudian menghubungkannya dengan pembagian positif dan negatif yang telah dijelaskan sebelumnya.
+
+Ia menyebut contoh mengenai sifat hitam dan kemampuan menulis. Dalam rekaman, contoh yang dibacakan dari buku berbunyi kurang lebih:
+
+**لَيْسَ الْبَتَّةَ إِنْ كَانَ هَذَا أَسْوَدَ فَهُوَ كَاتِبٌ.**
+
+Tidak benar bahwa apabila sesuatu berwarna hitam, maka ia pasti dapat menulis.
+
+Dosen menjelaskan bahwa tidak ada hubungan intrinsik antara warna hitam dan kemampuan menulis. Sesuatu dapat berwarna hitam dan sekaligus dapat menulis apabila yang dimaksud adalah seseorang, atau dapat pula berwarna hitam tetapi tidak dapat menulis.
+
+Dalam contoh tersebut, hubungan antara kedua bagian tidak berasal dari hubungan makna yang niscaya.
+
+Jadi, meskipun bentuknya adalah القضية المتصلة, ia tidak termasuk اللزومية, melainkan الاتفاقية.
+
+### F. Rumusan pembagian المتصلة
+
+Dosen kembali merangkum pembagian ini.
+
+Proposisi متصلة yang hubungan antara مقدم dan تالي didasarkan pada hubungan yang benar-benar ada disebut **لزومية**.
+
+Proposisi متصلة yang hubungannya hanya terjadi karena kebetulan disebut **اتفاقية**.
+
+Keduanya dapat berbentuk موجبة maupun سالبة.
+
+Pada اللزومية الموجبة, hubungan antara kedua bagian ditetapkan karena adanya hubungan intrinsik.
+
+Pada اللزومية السالبة, hubungan yang bersifat intrinsik tersebut dinafikan.
+
+Pada الاتفاقية الموجبة, hubungan ditetapkan hanya karena kebetulan.
+
+Pada الاتفاقية السالبة, hubungan kebetulan tersebut dinafikan.
+
+Dosen menegaskan bahwa mahasiswa harus memahami perbedaan antara hubungan yang memiliki dasar dan hubungan yang hanya terjadi secara kebetulan.
+
+# 8. Pembagian القضية الشرطية المنفصلة
+
+Setelah menyelesaikan pembahasan mengenai المتصلة, dosen berpindah kepada pembagian القضية المنفصلة.
+
+Ia kembali mengingatkan definisi:
+
+**الْمُنْفَصِلَةُ هِيَ الَّتِي يُحْكَمُ فِيهَا بِتَنَافِي نِسْبَتَيْنِ أَوْ لَا تَنَافِيهِمَا.**
+
+Artinya, proposisi منفصلة adalah proposisi yang di dalamnya dinilai adanya pertentangan atau tidak adanya pertentangan antara dua nisbah.
+
+Dosen menjelaskan bahwa pertentangan itu dapat terjadi dalam kebenaran saja, dalam kesalahan saja, atau dalam kebenaran dan kesalahan sekaligus.
+
+Atas dasar tersebut, القضية المنفصلة dibagi menjadi tiga jenis:
+
+**المنفصلة الحقيقية، مانعة الجمع، dan مانعة الخلو.**
+
+Ketiganya mempunyai sifat yang berbeda dalam hal kemungkinan dua bagian proposisi sama-sama benar atau sama-sama salah.
+
+## 9. المنفصلة الحقيقية: مانعة الجمع والخلو
+
+Jenis pertama adalah **المنفصلة الحقيقية**, yang juga disebut:
+
+**مَانِعَةُ الْجَمْعِ وَالْخُلُوِّ.**
+
+Dosen menjelaskan bahwa proposisi ini mencegah dua bagian berkumpul dalam kebenaran dan juga mencegah keduanya sama-sama tidak benar.
+
+Maksudnya, kedua bagian tidak mungkin sama-sama benar dan tidak mungkin sama-sama salah.
+
+Dengan kata lain:
+
+- Keduanya tidak dapat benar secara bersamaan.
+- Keduanya juga tidak dapat salah secara bersamaan.
+
+Karena itu, salah satu dari dua bagian harus benar.
+
+### A. Contoh الجسم متحرك atau ساكن
+
+Dosen kembali menggunakan contoh:
+
+**الْجِسْمُ إِمَّا مُتَحَرِّكٌ أَوْ سَاكِنٌ.**
+
+Benda itu mungkin bergerak atau diam.
+
+Ia bertanya kepada mahasiswa: apakah mungkin satu benda yang sama dalam pengertian yang sedang dibahas berada dalam keadaan bergerak dan diam sekaligus?
+
+Mahasiswa menjawab bahwa keduanya tidak dapat terjadi bersamaan.
+
+Kemudian dosen bertanya: apakah mungkin benda tersebut tidak bergerak dan tidak diam?
+
+Dalam pembahasan ini, dosen menjawab bahwa keduanya tidak dapat sama-sama dinafikan.
+
+Dengan demikian, salah satu dari dua keadaan harus berlaku: bergerak atau diam.
+
+Karena kedua bagian tidak dapat berkumpul dan juga tidak dapat sama-sama hilang, proposisi tersebut termasuk مانعة الجمع والخلو.
+
+### B. Contoh العدد زوج atau فرد
+
+Contoh lain adalah:
+
+**الْعَدَدُ إِمَّا زَوْجٌ أَوْ فَرْدٌ.**
+
+Angka itu mungkin genap atau ganjil.
+
+Dalam pembagian yang sedang dijelaskan, angka tidak mungkin sekaligus genap dan ganjil, tetapi juga tidak mungkin bukan genap dan bukan ganjil.
+
+Karena itu, salah satu dari keduanya harus benar.
+
+### C. Contoh الإنسان حي أو ميت
+
+Dosen juga menyebut contoh:
+
+**الْإِنْسَانُ إِمَّا حَيٌّ أَوْ مَيِّتٌ.**
+
+Manusia mungkin hidup atau mati.
+
+Dalam contoh ini, kedua bagian dipandang saling meniadakan. Manusia tidak mungkin berada dalam keadaan hidup dan mati sekaligus, dan tidak mungkin pula tidak hidup serta tidak mati dalam pembagian yang sedang digunakan.
+
+### D. Tersusun dari الشيء ونقيضه atau الشيء والمساوي لنقيضه
+
+Dosen kemudian menjelaskan bentuk penyusunan المنفصلة الحقيقية.
+
+Ia mengatakan bahwa proposisi ini dapat tersusun dari:
+
+**الشَّيْءِ وَنَقِيضِهِ**
+
+atau:
+
+**الشَّيْءِ وَالْمُسَاوِي لِنَقِيضِهِ.**
+
+Artinya, suatu perkara dapat dipasangkan dengan kebalikannya yang merupakan نقيض, atau dengan sesuatu yang setara dengan نقيض tersebut.
+
+Untuk memperjelas perbedaannya, dosen membahas contoh متحرك dan ساكن.
+
+Apabila dikatakan:
+
+**الْجِسْمُ إِمَّا مُتَحَرِّكٌ أَوْ لَا مُتَحَرِّكٌ.**
+
+Benda itu mungkin bergerak atau tidak bergerak.
+
+Maka لا متحرك merupakan نقيض dari متحرك.
+
+Adapun kata ساكن bukanlah نقيض secara langsung menurut penjelasan dosen, melainkan sesuatu yang مساوي للنقيض.
+
+Dosen bertanya kepada mahasiswa: apakah نقيض dari متحرك adalah ساكن?
+
+Mahasiswa menjawab bahwa keduanya merupakan lawan.
+
+Namun, dosen menjelaskan bahwa نقيض dari متحرك adalah:
+
+**لَا مُتَحَرِّكٌ.**
+
+Adapun ساكن merupakan مساوي للنقيض.
+
+Jadi, perlu dibedakan antara sesuatu yang merupakan penyangkalan langsung terhadap suatu sifat dan sesuatu yang dianggap setara dengan penyangkalan tersebut dalam konteks pembahasan.
+
+Contoh susunan dari الشيء ونقيضه adalah متحرك dan لا متحرك.
+
+Contoh susunan dari الشيء والمساوي لنقيضه adalah متحرك dan ساكن sebagaimana dijelaskan dosen.
+
+### E. Mengapa disebut حقيقية?
+
+Dosen menjelaskan bahwa jenis ini disebut حقيقية karena pertentangannya mencakup kedua sisi sekaligus, baik dalam hal kebenaran maupun kesalahan.
+
+Dua bagian tersebut tidak mungkin berkumpul dalam kebenaran dan tidak mungkin sama-sama tidak benar.
+
+Karena itu, pemisahan atau انفصال dalam proposisi ini benar-benar mencakup kedua kemungkinan.
+
+Dosen kembali menegaskan bahwa jenis ini juga disebut مانعة الجمع والخلو karena mencegah berkumpulnya dua bagian dan mencegah kosongnya kedua bagian dari kebenaran.
+
+## 10. المنفصلة الحقيقية dan penggunaannya dalam dalil ilmu tauhid
+
+Setelah menjelaskan bentuk المنفصلة الحقيقية, dosen menghubungkannya dengan penggunaan logika dalam penyusunan dalil, khususnya dalam ilmu التوحيد.
+
+Ia menjelaskan bahwa ketika seseorang ingin menyusun argumentasi berdasarkan pertentangan dua kemungkinan, bentuk القضية المنفصلة الحقيقية mempunyai peran penting.
+
+Sebab, apabila dua kemungkinan memang saling bertentangan dan tidak ada kemungkinan ketiga dalam pembagian tersebut, penolakan terhadap salah satunya akan menghasilkan penetapan kemungkinan yang lain.
+
+Dosen menghubungkannya dengan metode yang dikenal sebagai:
+
+**قِيَاسُ الْخُلْفِ**
+
+atau:
+
+**دَلِيلُ الْخُلْفِ.**
+
+Yaitu metode argumentasi yang membuktikan suatu kesimpulan melalui pembatalan kemungkinan yang berlawanan dengannya.
+
+### A. Membuktikan bahwa alam bersifat حادث
+
+Dosen memberikan contoh persoalan:
+
+**حُدُوثُ الْعَالَمِ.**
+
+Jika seseorang ingin membuktikan bahwa alam bersifat حادث, yaitu mempunyai permulaan atau tidak azali, ia dapat membatalkan kemungkinan bahwa alam bersifat قديم.
+
+Dosen menjelaskan secara sederhana: apabila kemungkinan القدم dibatalkan, maka berdasarkan pertentangan kedua kemungkinan tersebut, dapat ditetapkan الحدوث.
+
+Dengan kata lain, penolakan terhadap kemungkinan yang berlawanan menghasilkan penetapan terhadap kemungkinan yang hendak dibuktikan.
+
+### B. Membuktikan bahwa Allah bersifat قديم
+
+Sebaliknya, apabila seseorang ingin menetapkan bahwa Allah bersifat قديم, ia membatalkan kemungkinan حدوث pada-Nya.
+
+Dosen menggambarkan bahwa apabila tidak mungkin Allah bersifat baru atau mempunyai permulaan, maka sifat قديم ditetapkan.
+
+Ia menekankan bahwa metode pembuktian semacam ini bekerja karena dua kemungkinan yang dibahas memang saling bertentangan dalam pengertian yang digunakan.
+
+Karena itu, pembatalan terhadap salah satu sisi dapat menunjukkan kebenaran sisi lainnya.
+
+### C. Hubungan logika dengan pembuktian akidah
+
+Dosen kemudian menekankan bahwa pembahasan semacam ini bukan sekadar permainan istilah atau pembahasan filsafat yang tidak mempunyai manfaat.
+
+Ia mengatakan bahwa aturan-aturan logika merupakan ketentuan yang berkaitan dengan kemampuan akal dalam memahami hubungan dan pertentangan.
+
+Dalam percakapan dengan mahasiswa, ia menegaskan bahwa pembahasan ini bukan semata-mata milik Plato atau Aristoteles. Ia bukan sesuatu yang harus diterima hanya karena pernah dibicarakan para filsuf tersebut.
+
+Menurut dosen, prinsip-prinsip penalaran ini merupakan حكم العقل, yaitu ketentuan yang berkaitan dengan kerja akal.
+
+Ia mengatakan bahwa umat Islam memang mempelajari pemikiran Plato dan Aristoteles, tetapi bukan untuk mengagumi keduanya secara mutlak. Tujuannya adalah menanggapi pendapat mereka, mengambil manfaat dari hal-hal yang benar, dan menggunakan pengetahuan yang telah mereka bahas untuk mendukung tujuan pembahasan Islam.
+
+## 11. Kaidah dari الإمام السعدي mengenai pendahuluan filsafat dan persoalan akidah
+
+Untuk memperkuat hubungan antara logika, filsafat, dan ilmu akidah, dosen mengutip perkataan yang ia nisbatkan kepada الإمام السعدي dalam kitab:
+
+**شرح المقاصد.**
+
+Dalam rekaman, nama yang terdengar adalah الإمام السعدي. Identitas atau bentuk nama lengkap yang dimaksud tidak dijelaskan lebih lanjut oleh dosen dalam bagian ini, sehingga nama tersebut dipertahankan sebagaimana terdengar.
+
+Dosen mengutip perkataan:
+
+**وَاعْلَمْ أَنَّ بَعْضَ الْمُقَدِّمَاتِ تُرَى فِي الظَّاهِرِ أَجْنَبِيَّةً عَنِ الْعَقَائِدِ، وَلَكِنَّهَا بَابٌ يَنْبَنِي عَلَيْهَا الْمَطَالِبُ الْعَقَدِيَّةُ.**
+
+Maksudnya, ketahuilah bahwa sebagian مقدمات atau premis tampak dari luar tidak berhubungan langsung dengan persoalan akidah. Namun, premis tersebut dapat menjadi pintu atau dasar yang di atasnya dibangun berbagai tuntutan dan pembuktian akidah.
+
+Dosen menjelaskan bahwa sebagian pembahasan filsafat mungkin pada pandangan pertama tampak jauh dari ilmu akidah. Namun, ketika diperhatikan lebih lanjut, pembahasan tersebut dapat menjadi landasan bagi pembuktian persoalan agama.
+
+Ia memberikan beberapa contoh.
+
+### A. Masalah المعراج dan kemungkinan خرق والتئام
+
+Contoh pertama berkaitan dengan orang-orang yang mengingkari معراج Nabi Muhammad ﷺ.
+
+Dosen menjelaskan bahwa sebagian orang yang menolak peristiwa tersebut menggunakan suatu premis filsafat mengenai alam الأفلاك.
+
+Dalam pandangan yang mereka gunakan, terdapat klaim bahwa:
+
+**يَمْتَنِعُ الْخَرْقُ وَالْالْتِئَامُ عَلَى عَالَمِ الْأَفْلَاكِ.**
+
+Artinya, terjadinya pembelahan atau pertemuan kembali pada alam falak dianggap mustahil.
+
+Dosen menjelaskan bahwa عالم الأفلاك dalam pembahasan tersebut berkaitan dengan langit.
+
+Orang-orang yang menggunakan premis tersebut menganggap bahwa langit tidak mungkin mengalami خرق dan التئام, sehingga mereka menjadikannya alasan untuk menolak kemungkinan peristiwa معراج.
+
+Namun, menurut dosen, persoalan tersebut dapat dijawab melalui argumentasi akal.
+
+Kaum muslimin dapat menyusun dalil rasional untuk membuktikan bahwa خرق dan التئام bukan sesuatu yang mustahil.
+
+Jika kemungkinan tersebut dapat dibuktikan, maka keberatan yang mereka gunakan untuk menolak معراج menjadi gugur.
+
+Dengan demikian, pengetahuan mengenai persoalan filsafat dan alam menjadi penting karena dapat digunakan untuk menjawab persoalan akidah.
+
+### B. Masalah kebangkitan kembali dan إعادة المعدوم
+
+Contoh kedua berkaitan dengan orang-orang yang mengingkari kebangkitan setelah kematian.
+
+Dosen menjelaskan bahwa sebagian orang menggunakan pernyataan:
+
+**إِعَادَةُ الْمَعْدُومِ مُسْتَحِيلَةٌ.**
+
+Artinya, mengembalikan sesuatu yang telah tiada dianggap mustahil.
+
+Berdasarkan premis tersebut, mereka beranggapan bahwa kebangkitan kembali manusia setelah kematian tidak mungkin terjadi.
+
+Dosen kemudian menjelaskan bahwa argumentasi semacam itu dapat dijawab dengan pembuktian rasional mengenai kemungkinan pengembalian atau penciptaan kembali sesuatu yang telah tiada.
+
+Apabila kemungkinan إعادة المعدوم dapat dibuktikan, maka alasan yang digunakan untuk menolak البعث, yaitu kebangkitan, menjadi tidak berlaku.
+
+Dengan demikian, persoalan filsafat mengenai kemungkinan mengembalikan sesuatu yang telah tiada dapat menjadi dasar dalam membahas persoalan akidah mengenai kebangkitan.
+
+### C. Masalah حدوث العالم dan إثبات الصانع
+
+Contoh berikutnya adalah pembahasan:
+
+**حُدُوثُ الْعَالَمِ.**
+
+Persoalan mengenai apakah alam mempunyai permulaan merupakan pembahasan yang sering dibicarakan dalam filsafat.
+
+Namun, dosen menjelaskan bahwa pembahasan tersebut tidak hanya bertujuan untuk membicarakan filsafat sebagai bidang yang berdiri sendiri.
+
+Persoalan حدوث العالم berkaitan dengan pembuktian adanya pencipta, yaitu:
+
+**إِثْبَاتُ الصَّانِعِ جَلَّ وَعَلَا.**
+
+Dengan membuktikan bahwa alam mempunyai permulaan, pembahasan tersebut dapat digunakan untuk mengarahkan argumentasi kepada adanya pencipta.
+
+Jadi, persoalan mengenai حدوث العالم yang tampak sebagai pembahasan filsafat pada akhirnya dapat menjadi dasar argumentasi dalam ilmu akidah.
+
+### D. Filsafat dipelajari untuk mencapai tujuan, bukan sekadar mempelajarinya
+
+Dari contoh-contoh tersebut, dosen menyimpulkan bahwa umat Islam tidak mempelajari filsafat semata-mata demi filsafat itu sendiri.
+
+Ia menyampaikan:
+
+**نَحْنُ لَا نَدْرُسُ الْفَلْسَفَةَ لِذَاتِهَا وَإِنَّمَا نَدْرُسُهَا لِغَايَتِهَا.**
+
+Artinya, kita tidak mempelajari filsafat untuk filsafat itu sendiri, tetapi mempelajarinya demi tujuan yang hendak dicapai.
+
+Tujuan tersebut antara lain adalah membangun argumentasi, membela akidah, menjawab keberatan, dan mengambil manfaat dari berbagai pengetahuan yang telah dibahas oleh para pemikir.
+
+Dosen juga menyebut bahwa sebagian mazhab atau pemikiran وضعية dipelajari bukan karena seseorang ingin mengikuti kebatilan yang terdapat di dalamnya, melainkan agar mengetahui kesalahan dan dapat menghindarinya.
+
+Ia menggunakan ungkapan:
+
+**عَرَفْنَا الشَّرَّ لَا لِلشَّرِّ وَلَكِنْ لِتَوَقِّيهِ.**
+
+Artinya, kita mengenali keburukan bukan untuk melakukan keburukan, melainkan agar dapat menghindarinya.
+
+Dengan demikian, mempelajari pemikiran yang keliru tidak otomatis berarti seseorang menyetujuinya. Seseorang dapat mempelajarinya untuk mengetahui letak kesalahan, kemudian menolak dan menghindarinya.
+
+# 12. المنفصلة مانعة الجمع
+
+Setelah membahas المنفصلة الحقيقية, dosen melanjutkan kepada jenis kedua, yaitu:
+
+**مَانِعَةُ الْجَمْعِ.**
+
+Jenis ini adalah proposisi terpisah yang menegaskan bahwa kedua bagian tidak mungkin sama-sama benar, tetapi masih mungkin sama-sama salah.
+
+Dengan kata lain:
+
+- Kedua bagian tidak dapat berkumpul dalam kebenaran.
+- Namun, keduanya dapat sama-sama tidak benar.
+
+### A. Contoh الشيء إما شجر أو حجر
+
+Dosen memberikan contoh:
+
+**هَذَا الشَّيْءُ إِمَّا شَجَرٌ أَوْ حَجَرٌ.**
+
+Benda ini mungkin berupa pohon atau batu.
+
+Dalam contoh tersebut, satu benda tidak mungkin sekaligus menjadi pohon dan batu dalam pengertian yang sedang dibahas.
+
+Namun, kedua bagian juga masih mungkin sama-sama tidak benar.
+
+Misalnya, benda tersebut ternyata manusia. Ia bukan pohon dan bukan batu.
+
+Karena itu, kedua kemungkinan tersebut tidak dapat sama-sama benar, tetapi masih dapat sama-sama salah.
+
+Inilah ciri مانعة الجمع.
+
+### B. Manusia dapat menjadi contoh ketika kedua bagian sama-sama salah
+
+Dosen menjelaskan bahwa apabila sesuatu ternyata manusia, maka proposisi:
+
+**إِمَّا شَجَرٌ أَوْ حَجَرٌ**
+
+tidak menghasilkan bagian yang benar.
+
+Ia bukan pohon dan bukan batu.
+
+Dengan demikian, kedua bagian sama-sama tidak benar.
+
+Hal tersebut menunjukkan bahwa jenis ini berbeda dari المنفصلة الحقيقية. Dalam المنفصلة الحقيقية, kedua bagian tidak mungkin sama-sama benar dan juga tidak mungkin sama-sama salah. Adapun dalam مانعة الجمع, kemungkinan sama-sama salah tetap terbuka.
+
+## 13. Bentuk penyusunan مانعة الجمع: الشيء والأخص من نقيضه
+
+Dosen kemudian menjelaskan bentuk penyusunan proposisi مانعة الجمع.
+
+Ia menyebut bahwa proposisi ini dapat tersusun dari:
+
+**الشَّيْءِ وَالْأَخَصِّ مِنْ نَقِيضِهِ.**
+
+Artinya, sesuatu dipasangkan dengan sesuatu yang lebih khusus daripada نقيض-nya.
+
+Untuk menjelaskan hal ini, dosen menggunakan contoh warna:
+
+**اللَّوْنُ إِمَّا أَبْيَضُ أَوْ أَسْوَدُ.**
+
+Warna itu mungkin putih atau hitam.
+
+Ia kemudian bertanya: apakah semua warna hanya terdiri dari putih dan hitam?
+
+Mahasiswa menjawab bahwa tidak. Ada warna kuning, hijau, merah, biru, dan warna lainnya.
+
+Dosen menjelaskan bahwa warna putih dan hitam tidak mungkin sama-sama benar pada satu objek dari sisi yang sama sebagaimana pembagian yang sedang dibahas. Namun, keduanya masih mungkin sama-sama tidak benar karena objek dapat berwarna kuning, hijau, merah, atau biru.
+
+Dengan demikian, contoh tersebut menunjukkan مانعة الجمع.
+
+### A. Apa نقيض dari أبيض?
+
+Dosen kemudian mengajukan pertanyaan mengenai نقيض kata أبيض.
+
+Jawabannya adalah:
+
+**لَا أَبْيَضَ.**
+
+Artinya, tidak putih.
+
+Segala sesuatu yang bukan putih termasuk dalam cakupan لا أبيض.
+
+Di dalam kategori لا أبيض terdapat banyak warna, seperti hitam, kuning, hijau, merah, biru, dan warna-warna lainnya.
+
+Karena hitam merupakan salah satu bagian dari seluruh warna yang bukan putih, maka الأسود merupakan bagian yang lebih khusus daripada لا أبيض.
+
+Dengan kata lain:
+
+**الْأَسْوَدُ أَخَصُّ مِنْ لَا أَبْيَضَ.**
+
+Hitam lebih khusus daripada tidak putih.
+
+Karena itu, ketika proposisi disusun dari أبيض dan أسود, bagian kedua merupakan الأخص من نقيض bagian pertama.
+
+Inilah maksud ungkapan:
+
+**الشَّيْءُ وَالْأَخَصُّ مِنْ نَقِيضِهِ.**
+
+### B. Contoh warna dan percakapan di kelas
+
+Dalam menjelaskan contoh warna tersebut, dosen sempat bercanda dengan mahasiswa.
+
+Ia menyebut warna kuning, hijau, merah, dan biru sebagai contoh warna selain putih dan hitam.
+
+Dalam percakapan itu, muncul gurauan mengenai warna merah, warna pakaian, dan hubungan warna dengan simbol tertentu. Dosen sempat bercanda tentang warna merah sebagai warna yang diasosiasikan dengan setan, lalu menyinggung warna putih dan merah dalam gambaran pakaian atau benda-benda tertentu.
+
+Ia juga menyinggung sel darah putih dan sel darah merah, kemudian bertanya mengenai warna kain kafan. Mahasiswa menjawab putih.
+
+Dosen kemudian melanjutkan gurauan dengan menanyakan warna pakaian orang yang dijatuhi hukuman mati atau orang yang masih diperiksa. Percakapan tersebut merupakan selingan kelas, bukan bagian dari kaidah logika.
+
+Setelah itu, dosen kembali menegaskan bahwa warna tidak hanya terdiri dari putih dan hitam. Karena itu, proposisi warna tersebut memungkinkan kedua bagian sama-sama salah.
+
+Ada benda yang berwarna kuning, hijau, merah, atau biru. Benda tersebut tidak putih dan juga tidak hitam.
+
+Dengan demikian, sifat مانعة الجمع tetap terpenuhi.
+
+### C. Rumusan مانعة الجمع
+
+Dosen merangkum bahwa:
+
+**مَانِعَةُ الْجَمْعِ** adalah proposisi yang kedua bagiannya tidak mungkin sama-sama benar, tetapi dapat sama-sama salah.
+
+Pada contoh:
+
+**اللَّوْنُ إِمَّا أَبْيَضُ أَوْ أَسْوَدُ**
+
+keduanya tidak mungkin berkumpul dalam satu objek dari sisi yang sama, tetapi keduanya dapat sama-sama tidak benar karena objek tersebut mungkin berwarna lain.
+
+# 14. المنفصلة مانعة الخلو
+
+Jenis ketiga adalah:
+
+**مَانِعَةُ الْخُلُوِّ.**
+
+Jenis ini berbeda dari مانعة الجمع.
+
+Pada مانعة الخلو, dua bagian proposisi tidak mungkin sama-sama salah, tetapi masih mungkin sama-sama benar.
+
+Dengan demikian:
+
+- Kedua bagian dapat benar secara bersamaan.
+- Namun, kedua bagian tidak dapat sama-sama salah.
+
+### A. Contoh زيد إما في البحر أو لا يغرق
+
+Dosen memberikan contoh:
+
+**زَيْدٌ إِمَّا أَنْ يَكُونَ فِي الْبَحْرِ أَوْ لَا يَغْرَقَ.**
+
+Zaid mungkin berada di laut atau tidak tenggelam.
+
+Dalam contoh tersebut, bagian pertama adalah keberadaan Zaid di البحر, sedangkan bagian kedua adalah tidak tenggelamnya Zaid.
+
+Dosen menjelaskan bahwa kedua bagian dapat sama-sama benar.
+
+Misalnya, Zaid berada di laut dan ia merupakan seorang perenang. Karena ia dapat berenang, ia berada di laut tetapi tidak tenggelam.
+
+Dengan demikian, kedua bagian proposisi sama-sama benar.
+
+Akan tetapi, dosen mengatakan bahwa kedua bagian tersebut tidak dapat sama-sama salah.
+
+Apabila Zaid tidak berada di laut dan ternyata tenggelam, keadaan tersebut dianggap tidak mungkin dalam pengertian contoh yang digunakan dosen.
+
+### B. Pertanyaan mahasiswa mengenai kemungkinan tenggelam di darat
+
+Seorang mahasiswa kemudian mempertanyakan contoh tersebut.
+
+Ia memberikan gambaran bahwa seseorang dapat tenggelam meskipun tidak berada di laut. Misalnya, seseorang dapat dimasukkan ke dalam wadah besar yang berisi air di darat, kemudian tenggelam di dalamnya.
+
+Dosen menanggapi bahwa yang dimaksud dengan البحر dalam contoh tersebut bukan sekadar pengertian lokasi geografis laut yang sangat luas, melainkan air atau tempat yang dimaksud dalam konteks pembahasan.
+
+Ia menjelaskan bahwa dalam penggunaan bahasa terdapat ungkapan:
+
+**تَسْمِيَةُ الْمَحَلِّ بِاسْمِ الْحَالِّ.**
+
+Bagian ini digunakan dosen untuk menjelaskan penggunaan nama tempat atau sesuatu yang berada di dalam tempat tersebut. Susunan penjelasan tepatnya tidak sepenuhnya terang dalam rekaman, tetapi maksud dosen adalah mempertahankan contoh البحر dalam pengertian yang sedang digunakan, yaitu berkaitan dengan air.
+
+Dosen juga menyebut بحر آرال atau Laut Aral yang terletak di kawasan Uzbekistan. Ia menjelaskan bahwa tempat tersebut dahulu merupakan laut yang memiliki air, tetapi kemudian menjadi kering. Meskipun tidak lagi berisi air seperti sebelumnya, namanya tetap disebut laut.
+
+Contoh ini disampaikan untuk memperlihatkan bahwa penamaan suatu tempat dapat tetap bertahan meskipun keadaan yang sebelumnya ada di dalamnya telah berubah.
+
+Mahasiswa juga mengajukan contoh wadah besar berisi air yang diletakkan di daratan. Dosen tetap menegaskan bahwa yang dimaksud dalam contoh logika tersebut bukanlah keadaan semacam itu.
+
+### C. Mengapa kedua bagian tidak dapat sama-sama salah?
+
+Dosen kemudian kembali kepada contoh utama:
+
+**زَيْدٌ إِمَّا أَنْ يَكُونَ فِي الْبَحْرِ أَوْ لَا يَغْرَقَ.**
+
+Jika bagian pertama dinafikan, berarti Zaid tidak berada di laut.
+
+Jika bagian kedua juga dinafikan, berarti Zaid tenggelam.
+
+Menurut contoh yang digunakan dosen, apabila Zaid berada di darat dan tenggelam dalam pengertian yang dimaksud, keadaan tersebut tidak dapat diterima sebagai kemungkinan dalam pembagian tersebut.
+
+Namun, jika Zaid berada di laut dan tidak tenggelam karena ia pandai berenang, kedua bagian justru dapat sama-sama benar.
+
+Dengan demikian, ciri utama مانعة الخلو adalah kedua bagian tidak dapat sama-sama salah, tetapi dapat sama-sama benar.
+
+## 15. Bentuk penyusunan مانعة الخلو: الشيء والأعم من نقيضه
+
+Dosen kemudian menjelaskan bentuk penyusunan مانعة الخلو.
+
+Ia menyampaikan bahwa jenis ini tersusun dari:
+
+**الشَّيْءِ وَالْأَعَمِّ مِنْ نَقِيضِهِ.**
+
+Artinya, sesuatu dipasangkan dengan sesuatu yang lebih umum daripada نقيض-nya.
+
+Untuk menjelaskan hal ini, dosen kembali menggunakan contoh warna:
+
+**اللَّوْنُ إِمَّا غَيْرُ أَبْيَضَ أَوْ غَيْرُ أَسْوَدَ.**
+
+Warna itu mungkin bukan putih atau bukan hitam.
+
+Dosen menjelaskan arti masing-masing bagian.
+
+**غَيْرُ أَبْيَضَ** berarti semua warna selain putih.
+
+Adapun **غَيْرُ أَسْوَدَ** berarti semua warna selain hitam.
+
+Jika suatu benda berwarna hijau, maka benda itu bukan putih dan juga bukan hitam. Dengan demikian, kedua bagian tersebut dapat sama-sama benar.
+
+Hal yang sama berlaku bagi warna kuning, merah, biru, dan warna lain yang bukan putih maupun hitam.
+
+### A. Mengapa kedua bagian tidak dapat sama-sama salah?
+
+Dosen kemudian menjelaskan bahwa apabila kedua bagian tersebut sama-sama salah, artinya objek itu bukan bukan-putih dan bukan bukan-hitam.
+
+Jika sesuatu bukan bukan-putih, berarti ia putih.
+
+Jika sesuatu bukan bukan-hitam, berarti ia hitam.
+
+Dengan demikian, apabila kedua bagian sama-sama salah, objek tersebut harus putih sekaligus hitam.
+
+Hal tersebut tidak mungkin dalam pengertian contoh yang sedang dibahas.
+
+Karena itu, kedua bagian tidak dapat sama-sama salah.
+
+Namun, keduanya dapat sama-sama benar, misalnya apabila objek tersebut berwarna hijau.
+
+### B. Menentukan الأعم dan الأخص
+
+Dosen kemudian menghubungkan kembali contoh tersebut dengan pembahasan:
+
+**الشَّيْءُ وَالْأَعَمُّ مِنْ نَقِيضِهِ.**
+
+Ia mengajak mahasiswa memperhatikan hubungan antara putih dan bukan-hitam.
+
+Jika sesuatu berwarna putih, maka ia termasuk dalam kelompok yang bukan hitam.
+
+Dengan demikian, bukan-hitam mempunyai cakupan yang lebih luas daripada putih.
+
+Putih merupakan salah satu anggota dari kelompok bukan-hitam.
+
+Karena itu, غير أسود lebih umum daripada أبيض.
+
+Dosen menggunakan contoh tersebut untuk menunjukkan bahwa dalam مانعة الخلو, satu bagian dapat dipasangkan dengan bagian lain yang mencakup kategori lebih luas daripada نقيض-nya.
+
+### C. Rumusan مانعة الخلو
+
+Dosen merangkum bahwa مانعة الخلو adalah proposisi yang kedua bagiannya tidak mungkin sama-sama salah, tetapi dapat sama-sama benar.
+
+Contohnya adalah:
+
+**اللَّوْنُ إِمَّا غَيْرُ أَبْيَضَ أَوْ غَيْرُ أَسْوَدَ.**
+
+Satu warna dapat sekaligus bukan putih dan bukan hitam, seperti hijau atau kuning.
+
+Tetapi kedua bagian itu tidak dapat sama-sama salah, karena hal itu akan mengharuskan benda tersebut putih sekaligus hitam.
+
+# 16. Perbedaan tiga jenis القضية المنفصلة
+
+Setelah menjelaskan ketiganya, dosen meminta mahasiswa memperhatikan kembali perbedaan utama antara tiga jenis المنفصلة.
+
+**المنفصلة الحقيقية atau مانعة الجمع والخلو** mencegah kedua bagian sama-sama benar dan mencegah keduanya sama-sama salah.
+
+**مانعة الجمع** hanya mencegah kedua bagian sama-sama benar. Keduanya masih mungkin sama-sama salah.
+
+**مانعة الخلو** hanya mencegah kedua bagian sama-sama salah. Keduanya masih mungkin sama-sama benar.
+
+Dengan demikian, ketiga jenis tersebut dibedakan berdasarkan hubungan kedua bagian dalam kemungkinan الصدق dan الكذب.
+
+Dosen juga menegaskan kembali bentuk penyusunannya:
+
+**المنفصلة الحقيقية** tersusun dari الشيء ونقيضه atau الشيء والمساوي لنقيضه.
+
+**مانعة الجمع** tersusun dari الشيء والأخص من نقيضه.
+
+**مانعة الخلو** tersusun dari الشيء والأعم من نقيضه.
+
+Ia kemudian mulai membaca kembali penjelasan dalam buku agar mahasiswa dapat mencocokkan uraian lisan dengan rumusan tertulis.
+
+# 17. Pembagian المنفصلة menjadi موجبة dan سالبة
+
+Dosen menjelaskan bahwa sebagaimana المتصلة, القضية المنفصلة juga dapat berbentuk موجبة dan سالبة.
+
+Pembagian ini mengikuti apakah hubungan pertentangan atau ketidakbertentangan antara dua bagian ditetapkan atau dinafikan.
+
+Dalam pembahasan المنفصلة الحقيقية, dosen memberikan contoh موجبة:
+
+**هَذَا الْعَدَدُ إِمَّا زَوْجٌ أَوْ فَرْدٌ.**
+
+Angka ini mungkin genap atau ganjil.
+
+Dalam proposisi tersebut, dua bagian memang saling bertentangan dalam kebenaran maupun kesalahan.
+
+Adapun contoh سالبة yang dibacakan dari buku adalah:
+
+**لَيْسَ الْبَتَّةَ إِمَّا أَنْ يَكُونَ هَذَا أَسْوَدَ أَوْ كَاتِبًا.**
+
+Tidak benar bahwa sesuatu itu pasti hitam atau dapat menulis.
+
+Dosen menjelaskan bahwa warna hitam dan kemampuan menulis tidak mempunyai pertentangan secara hakiki. Seseorang dapat berwarna hitam dan dapat menulis. Keduanya juga dapat sama-sama tidak ada pada suatu objek.
+
+Karena itu, tidak terdapat pertentangan yang bersifat حقيقية antara kedua bagian tersebut.
+
+Dalam pembacaan buku, dosen menjelaskan bahwa المتصلة والمنفصلة dapat dibagi menjadi موجبة dan سالبة. Namun, ketika sampai kepada contoh setiap jenis المنفصلة, ia mengingatkan bahwa mahasiswa harus memperhatikan bagian mana yang ditetapkan dan bagian mana yang dinafikan.
+
+## 18. Bentuk موجبة dan سالبة dalam مانعة الجمع
+
+Dosen kemudian membaca bagian buku mengenai مانعة الجمع.
+
+Bentuk موجبة-nya adalah:
+
+**هَذَا الشَّيْءُ إِمَّا شَجَرٌ أَوْ حَجَرٌ.**
+
+Benda ini mungkin pohon atau batu.
+
+Dalam contoh itu, dua bagian tidak mungkin sama-sama benar karena satu benda tidak dapat sekaligus menjadi pohon dan batu dalam pengertian yang sedang digunakan.
+
+Namun, keduanya dapat sama-sama salah karena benda tersebut mungkin manusia atau benda lain.
+
+Adapun bentuk سالبة yang dibacakan dalam rekaman adalah:
+
+**لَيْسَ إِمَّا أَنْ يَكُونَ هَذَا الشَّيْءُ لَا شَجَرًا وَلَا حَجَرًا.**
+
+Redaksi ini terdengar kurang jelas dalam rekaman, khususnya hubungan antara kata ليس dan dua bagian yang disebutkan. Dosen menjelaskan bahwa pada contoh tersebut kedua bagian dapat sama-sama benar, tetapi tidak dapat sama-sama salah. Apabila keduanya sama-sama salah, objek tersebut harus menjadi pohon sekaligus batu.
+
+Karena bentuk redaksi yang dibacakan dan penjelasan yang menyertainya tidak sepenuhnya terang, keduanya tidak dapat direkonstruksi secara lebih pasti tanpa menebak maksud teks.
+
+Yang ditekankan dosen adalah bahwa bentuk salibah harus dipahami berdasarkan hubungan yang sedang dinafikan, bukan hanya melihat adanya kata ليس dalam kalimat.
+
+## 19. Bentuk موجبة dan سالبة dalam مانعة الخلو
+
+Dosen kemudian membaca penjelasan mengenai مانعة الخلو.
+
+Contoh موجبة yang dibacakan adalah:
+
+**زَيْدٌ إِمَّا أَنْ يَكُونَ فِي الْبَحْرِ أَوْ لَا يَغْرَقَ.**
+
+Zaid mungkin berada di laut atau tidak tenggelam.
+
+Dosen menjelaskan bahwa kedua bagian tidak dapat sama-sama salah. Akan tetapi, keduanya dapat sama-sama benar, seperti ketika Zaid berada di air dan merupakan seorang perenang.
+
+Adapun contoh سالبة yang dibacakan dari buku adalah:
+
+**لَيْسَ إِمَّا أَنْ يَكُونَ هَذَا الشَّيْءُ شَجَرًا أَوْ حَجَرًا.**
+
+Dosen menjelaskan bahwa pada bentuk salibah, hubungan tertentu antara dua bagian dinafikan. Namun, bagian yang dinisbatkan kepada bentuk مانعة الخلو tidak dijelaskan secara terpisah dengan penjabaran sepanjang contoh موجبة.
+
+Karena itu, redaksi contoh dan penjelasan formalnya dipertahankan sebagaimana terbaca dalam rekaman.
+
+# 20. Pembagian المنفصلة menjadi عنادية dan اتفاقية
+
+Setelah menjelaskan tiga bentuk المنفصلة, dosen masuk kepada pembagian berikutnya, yaitu:
+
+**المنفصلة العنادية** dan **المنفصلة الاتفاقية**.
+
+Pembagian ini berbeda dari pembagian المتصلة menjadi لزومية dan اتفاقية, meskipun sama-sama menyinggung adanya hubungan atau tidak adanya hubungan intrinsik.
+
+Persoalan yang diperhatikan di sini adalah apakah pertentangan antara dua bagian berasal dari makna kedua bagian itu sendiri atau hanya terjadi secara kebetulan.
+
+### A. المنفصلة العنادية
+
+**المنفصلة العنادية** adalah proposisi المنفصلة yang pertentangan antara kedua bagiannya berasal dari hakikat makna masing-masing.
+
+Dosen menjelaskan dengan ungkapan:
+
+**التَّنَافِي لِذَاتِ الْجُزْأَيْنِ.**
+
+Artinya, pertentangan terjadi karena hakikat kedua bagian itu sendiri.
+
+Contoh pertama adalah:
+
+**الْجِسْمُ إِمَّا مُتَحَرِّكٌ أَوْ سَاكِنٌ.**
+
+Benda mungkin bergerak atau diam.
+
+Pertentangan antara الحركة dan السكون berasal dari makna keduanya. Gerak dan diam merupakan dua keadaan yang saling bertentangan dalam pengertian contoh yang sedang digunakan.
+
+Contoh kedua:
+
+**الْإِنْسَانُ إِمَّا حَيٌّ أَوْ مَيِّتٌ.**
+
+Manusia mungkin hidup atau mati.
+
+Pertentangan antara kehidupan dan kematian merupakan pertentangan yang berasal dari hakikat kedua keadaan tersebut.
+
+Contoh lainnya adalah:
+
+**الْعَدَدُ إِمَّا زَوْجٌ أَوْ فَرْدٌ.**
+
+Angka mungkin genap atau ganjil.
+
+Pertentangan antara زوج dan فرد berasal dari makna kedua bagian itu sendiri.
+
+Dosen juga menyebut contoh tentang pohon dan batu serta contoh Zaid berada di laut atau tidak tenggelam sebagai contoh yang digunakan dalam pembahasan tersebut.
+
+Intinya, apabila pertentangan antara kedua bagian memang berasal dari maknanya, proposisi tersebut termasuk عنادية.
+
+### B. المنفصلة الاتفاقية
+
+Berbeda dengan العنادية, **المنفصلة الاتفاقية** adalah proposisi yang pertentangan antara kedua bagiannya tidak berasal dari hakikat makna kedua bagian.
+
+Pertentangan tersebut hanya terjadi karena kebetulan dalam kenyataan.
+
+Dosen kembali menggunakan contoh:
+
+**الشَّافِعِيُّ أَوِ الْحَنَفِيُّ.**
+
+Apabila seseorang menyebut suatu perkara dengan dua kategori tersebut, tidak berarti bahwa makna Syafi'i dan Hanafi secara hakiki saling bertentangan.
+
+Keduanya merupakan identitas mazhab fikih yang dapat dipilih dan diikuti oleh seseorang.
+
+Seorang mahasiswa Al-Azhar dapat bermadzhab Syafi'i, Hanafi, Maliki, atau Hanbali. Tidak ada pertentangan intrinsik yang menghalangi seseorang menjadi mahasiswa Al-Azhar sekaligus mengikuti salah satu mazhab tersebut.
+
+Dosen kemudian menegaskan bahwa perbedaan mazhab fikih tidak boleh dijadikan alasan saling menyalahkan.
+
+### C. Perbedaan antara العنادية dan الاتفاقية
+
+Dosen merumuskan perbedaan keduanya sebagai berikut.
+
+Dalam العنادية, pertentangan kembali kepada makna kedua bagian. Kedua bagian memang mempunyai makna yang saling berlawanan.
+
+Dalam الاتفاقية, pertentangan tidak kembali kepada makna kedua bagian. Keduanya hanya kebetulan berada dalam keadaan yang saling meniadakan pada suatu kenyataan tertentu.
+
+Dosen mengingatkan bahwa istilah اتفاقية di sini bukan berarti kesepakatan bersama atau perjanjian. Maksudnya adalah kebetulan atau المصادفة.
+
+Dengan demikian, اتفاقية tidak berarti kedua pihak sengaja membuat kesepakatan untuk bertentangan. Maksudnya, pertentangan itu bukan sesuatu yang secara niscaya terkandung dalam makna kedua bagian.
+
+# 21. Pembahasan mazhab fikih: keragaman mazhab bukan pertentangan hakiki
+
+Ketika menjelaskan perbedaan antara العنادية dan الاتفاقية, dosen memberikan penjelasan panjang mengenai mazhab fikih.
+
+Ia menanyakan kepada mahasiswa: apakah terdapat pertentangan intrinsik antara Syafi'iyah dan Hanafiyah?
+
+Dosen kemudian menjelaskan bahwa kedua mazhab tersebut tidak berbeda dalam seluruh dasar agama. Perbedaan di antara mazhab fikih tidak berarti bahwa mereka mempunyai dasar keimanan yang saling bertentangan.
+
+Ia mengutip bagian ayat:
+
+**شَرَعَ لَكُمْ مِنَ الدِّينِ مَا وَصَّى بِهِ نُوحًا.**
+
+Dosen menghubungkan ayat tersebut dengan kesamaan dasar agama yang menjadi landasan para nabi.
+
+Ia menjelaskan bahwa terdapat dasar-dasar syariat yang disepakati, sedangkan perbedaan di antara mazhab fikih terjadi dalam masalah-masalah cabang yang memungkinkan adanya ijtihad.
+
+### A. Daerah kesepakatan dan ruang ijtihad
+
+Dosen menggunakan ungkapan **منطقة الفضاء التشريعي** untuk menjelaskan ruang persoalan yang memungkinkan adanya perbedaan ijtihad.
+
+Menurut penjelasannya, setiap mazhab berusaha mengisi ruang tersebut berdasarkan kaidah, prinsip, dan dalil yang menjadi landasan mazhabnya.
+
+Perbedaan mazhab bukan berarti mereka berselisih dalam seluruh prinsip dasar agama. Perbedaan terjadi pada persoalan-persoalan cabang yang memang memungkinkan munculnya beberapa pendapat.
+
+Setiap mazhab menyusun argumentasi berdasarkan dalil yang mereka pahami dan prinsip-prinsip yang mereka ikuti.
+
+Dosen menyatakan bahwa:
+
+**وَالْكُلُّ مُصِيبٌ.**
+
+Artinya, semuanya benar.
+
+Pernyataan tersebut disampaikan dosen dalam konteks pembahasan mengenai penghormatan terhadap para imam mazhab dan persoalan ijtihadi yang diperselisihkan.
+
+Ia menegaskan bahwa seseorang seharusnya menghindari sikap memutuskan secara mutlak dan mengingkari mazhab lain dalam persoalan yang memang diperselisihkan.
+
+Jangan mengatakan bahwa Syafi'iyah pasti salah atau Hanabilah pasti salah, atau bahwa Maliki dan Hanafi keliru hanya karena berbeda dengan mazhab yang diikuti sendiri.
+
+Dosen mengingatkan bahwa seseorang boleh mengikuti mazhab tertentu, tetapi tidak seharusnya menjadikan pilihan mazhab sebagai alasan merendahkan mazhab lainnya.
+
+### B. Contoh persoalan لمس المرأة dan wudu
+
+Dosen memberikan contoh perbedaan pendapat mengenai apakah menyentuh perempuan membatalkan wudu.
+
+Ia menyebut bahwa dalam mazhab Syafi'i, menyentuh perempuan mempunyai ketentuan yang berbeda dari pandangan Hanafiyah.
+
+Dalam rekaman, dosen mengatakan bahwa Hanafiyah berpendapat bahwa menyentuh perempuan bukan pembatal wudu sebagaimana pendapat yang diikuti dalam mazhab Syafi'i.
+
+Dosen mengingatkan bahwa seseorang tidak boleh serta-merta mengingkari pendapat Hanafiyah hanya karena ia mengikuti mazhab Syafi'i.
+
+Persoalan seperti ini merupakan persoalan yang diperselisihkan dalam fikih. Masing-masing mazhab mempunyai argumentasi dan landasan yang mereka gunakan.
+
+Dosen menekankan bahwa perbedaan pendapat tidak seharusnya dijadikan alasan untuk menyalahkan atau menghina para pengikut mazhab lain.
+
+### C. Sikap Imam al-Syafi'i terhadap Imam Abu Hanifah
+
+Untuk memperkuat pentingnya menghormati perbedaan mazhab, dosen menceritakan sebuah kisah mengenai Imam al-Syafi'i ketika berada di Irak.
+
+Menurut cerita yang disampaikan dosen, ketika Imam al-Syafi'i berada di Irak, beliau meninggalkan doa dalam salat Subuh sebagai bentuk penghormatan kepada Imam Abu Hanifah.
+
+Dosen menggunakan kisah tersebut untuk memperlihatkan sikap hormat seorang imam besar terhadap imam lainnya.
+
+Dalam rekaman terdapat ungkapan yang dikaitkan dengan Imam al-Syafi'i, yang maknanya kurang lebih bahwa beliau mungkin mengikuti atau mengambil pendapat dari mazhab penduduk Irak.
+
+Redaksi persis ungkapan tersebut tidak terdengar jelas, sehingga tidak dapat dipastikan secara lengkap.
+
+Dosen juga menjelaskan hubungan keilmuan antara Imam al-Syafi'i dan Imam Abu Hanifah.
+
+Ia menyebut bahwa Imam al-Syafi'i merupakan murid dari murid Imam Abu Hanifah, yaitu Muhammad bin al-Hasan.
+
+Dengan demikian, Imam Muhammad bin al-Hasan merupakan murid Imam Abu Hanifah, sedangkan Imam al-Syafi'i belajar kepada Muhammad bin al-Hasan.
+
+Dosen kemudian menyampaikan ungkapan:
+
+**فَالْكُلُّ مِنْ رَسُولِ اللَّهِ مُلْتَمِسٌ.**
+
+Maksudnya, semuanya mengambil dan mencari petunjuk dari Rasulullah ﷺ.
+
+Ungkapan ini digunakan untuk menekankan bahwa seluruh imam mazhab pada dasarnya berusaha mengikuti ajaran Nabi Muhammad ﷺ.
+
+Karena itu, perbedaan pendapat mereka seharusnya disikapi dengan penghormatan dan pemahaman, bukan dengan permusuhan.
+
+### D. Pengalaman dosen di lingkungan pendidikan Al-Azhar
+
+Dosen kemudian menceritakan pengalamannya ketika masih berada di lingkungan pendidikan Al-Azhar pada masa sekolah menengah.
+
+Ia mengatakan bahwa pada masa pendidikan tersebut, pembelajaran fikih dan pengelompokan mazhab mulai diperkenalkan sejak jenjang إعدادية setelah مرحلة ابتدائية.
+
+Dalam pengalamannya, seorang syekh di lembaga pendidikan pernah bertanya kepada para siswa apakah mereka mengikuti mazhab Syafi'i atau Hanafi.
+
+Pada awalnya, para siswa belum memahami perbedaan keduanya dengan baik. Ketika ditanya, mereka menjawab Syafi'i.
+
+Akibatnya, lembaga tersebut pada awalnya mempunyai kelompok yang seluruhnya mengikuti mazhab Syafi'i.
+
+Kemudian datang seorang teman dari syekh tersebut, yang juga merupakan orang Al-Azhar lama. Ia meminta agar anaknya dapat mengikuti mazhab Hanafi.
+
+Ia menginginkan agar di lembaga tersebut dibentuk kelas khusus untuk siswa yang mengikuti mazhab Hanafi.
+
+Akhirnya, lembaga itu membuka kelas Hanafi yang jumlah siswanya sekitar sepuluh orang, sedangkan sebagian besar siswa lainnya tetap berada dalam kelompok Syafi'i.
+
+Dosen menggunakan kisah tersebut untuk memperlihatkan bahwa perbedaan mazhab sudah dikenal dalam lingkungan pendidikan Al-Azhar dan dapat dikelola tanpa harus menimbulkan permusuhan.
+
+# 22. Pembagian المنفصلة إلى عنادية واتفاقية berlaku pada tiga jenisnya
+
+Setelah menjelaskan contoh-contoh mazhab, dosen kembali kepada pembagian المنفصلة.
+
+Ia mengingatkan bahwa terdapat tiga jenis المنفصلة:
+
+**حقيقية، مانعة الجمع، dan مانعة الخلو.**
+
+Kemudian masing-masing dapat dibedakan lagi berdasarkan apakah pertentangannya berasal dari hakikat kedua bagian atau hanya terjadi karena kebetulan.
+
+Apabila pertentangan berasal dari hakikat makna kedua bagian, ia disebut عنادية.
+
+Apabila pertentangan hanya terjadi karena kebetulan, ia disebut اتفاقية.
+
+Dosen mengatakan bahwa ketiga jenis tersebut dapat menjadi عنادية maupun اتفاقية.
+
+Selain itu, setiap jenis juga dapat berbentuk موجبة atau سالبة.
+
+Dengan demikian, terdapat tiga sudut pembagian yang diterapkan secara berlapis:
+
+Pertama, pembagian tiga jenis المنفصلة.
+
+Kedua, pembagian masing-masing jenis menjadi عنادية atau اتفاقية.
+
+Ketiga, pembagian masing-masing menjadi موجبة atau سالبة.
+
+### A. Menghitung jumlah keseluruhan menjadi dua belas
+
+Dosen kemudian mengajak mahasiswa menghitung jumlah bentuk yang dihasilkan.
+
+Terdapat tiga jenis المنفصلة:
+
+1. حقيقية.
+2. مانعة الجمع.
+3. مانعة الخلو.
+
+Masing-masing dibagi menjadi dua berdasarkan عنادية dan اتفاقية.
+
+Kemudian masing-masing dibagi lagi menjadi dua berdasarkan موجبة dan سالبة.
+
+Dengan demikian, perhitungannya adalah:
+
+**3 × 2 × 2 = 12.**
+
+Dosen mengajak mahasiswa menghitung secara berurutan:
+
+2, 4, 6, 8, 10, 12.
+
+Hasilnya terdapat dua belas bentuk atau jenis.
+
+Ia menegaskan bahwa angka dua belas tersebut muncul dari tiga pembagian utama, kemudian setiap pembagian memiliki dua bentuk, dan masing-masing bentuk mempunyai dua kemungkinan lagi.
+
+# 23. Kriteria عنادية dan اتفاقية pada المنفصلة
+
+Dosen kemudian kembali menguraikan perbedaan عنادية dan اتفاقية secara lebih terperinci.
+
+Dalam المنفصلة العنادية, pertentangan antara kedua bagian berasal dari hakikat keduanya.
+
+Misalnya:
+
+**الْجِسْمُ إِمَّا مُتَحَرِّكٌ أَوْ سَاكِنٌ.**
+
+Dalam contoh tersebut, pertentangan antara الحركة dan السكون berasal dari makna kedua keadaan.
+
+Begitu pula:
+
+**الْإِنْسَانُ إِمَّا حَيٌّ أَوْ مَيِّتٌ.**
+
+Pertentangan hidup dan mati terjadi karena hakikat kedua keadaan tersebut saling berlawanan.
+
+Adapun dalam المنفصلة الاتفاقية, pertentangan yang tampak tidak berasal dari makna kedua bagian.
+
+Dosen kembali menggunakan contoh warna hitam dan kemampuan menulis.
+
+Apakah ada pertentangan hakiki antara الأسود dan الكاتب?
+
+Jawabannya tidak.
+
+Seseorang dapat berkulit hitam dan dapat menulis. Seseorang juga dapat tidak berkulit hitam tetapi dapat menulis. Ada pula orang yang berkulit hitam tetapi tidak dapat menulis, dan ada orang yang tidak berkulit hitam serta tidak dapat menulis.
+
+Dengan demikian, tidak ada pertentangan yang secara hakiki melekat pada makna hitam dan kemampuan menulis.
+
+Jika dalam suatu contoh keduanya disusun sebagai dua bagian yang saling meniadakan, pertentangan itu muncul karena kebetulan keadaan yang diasumsikan, bukan karena kandungan makna keduanya.
+
+Dosen mengatakan bahwa contoh tersebut merupakan contoh فرضي, yaitu contoh yang dibangun berdasarkan asumsi tertentu untuk menjelaskan kaidah.
+
+Dalam rekaman, dosen mengulang bahwa:
+
+**لَا مُنَافَاةَ بَيْنَ مَفْهُومَيِ الْأَسْوَدِ وَالْكَاتِبِ.**
+
+Tidak ada pertentangan antara konsep hitam dan konsep penulis.
+
+Hal tersebut berbeda dari konsep hidup dan mati atau bergerak dan diam, yang mempunyai pertentangan dalam makna masing-masing.
+
+# 24. Perbedaan antara لزومية dan عنادية serta antara اتفاقية pada kedua jenis القضية
+
+Pada bagian ini, dosen menekankan bahwa mahasiswa jangan mencampuradukkan istilah yang digunakan dalam المتصلة dengan istilah yang digunakan dalam المنفصلة.
+
+Pada المتصلة, pembagian yang dibahas adalah:
+
+**لزومية dan اتفاقية.**
+
+Perhatian utamanya adalah apakah hubungan antara مقدم dan تالي mempunyai keterkaitan yang mendasarinya atau hanya terjadi karena kebetulan.
+
+Pada المنفصلة, pembagian yang dibahas adalah:
+
+**عنادية dan اتفاقية.**
+
+Perhatian utamanya adalah apakah pertentangan antara dua bagian berasal dari hakikat keduanya atau hanya terjadi karena kebetulan.
+
+Jadi, keduanya memang mempunyai istilah اتفاقية, tetapi dilihat dari hubungan yang berbeda.
+
+Pada المتصلة, yang diperhatikan adalah hubungan antara dua bagian.
+
+Pada المنفصلة, yang diperhatikan adalah pertentangan antara dua bagian.
+
+Dosen kemudian menegaskan bahwa dalam penyusunan dalil, hubungan yang mempunyai dasar intrinsiklah yang dapat dijadikan materi argumentasi.
+
+# 25. Syarat proposisi yang dapat digunakan sebagai bahan penyusunan dalil
+
+Dosen kemudian kembali menghubungkan pembagian logika dengan ilmu dalil.
+
+Ia menjelaskan bahwa tidak semua proposisi yang tampak benar atau berhubungan dapat digunakan sebagai dasar argumentasi.
+
+Proposisi yang menjadi bahan penyusunan dalil harus mempunyai hubungan atau pertentangan yang benar-benar menjadi dasar maknanya.
+
+Dalam pembahasan المتصلة, hubungan yang diperhitungkan dalam dalil adalah **اللّزومية**, yaitu hubungan yang didasarkan pada keterkaitan antara مقدم dan تالي.
+
+Adapun الاتفاقية yang hanya berdasarkan kebetulan tidak dapat dijadikan dasar dalil yang kuat.
+
+Demikian pula dalam المنفصلة, pertentangan yang diperhitungkan dalam penyusunan argumentasi adalah pertentangan yang bersifat ذَاتِيّ, yaitu yang berasal dari hakikat kedua bagian.
+
+Dosen menyampaikan:
+
+**الْمُعْتَبَرُ فِي الْقَضَايَا الَّتِي تُرَكَّبُ مِنْهَا الْأَدِلَّةُ أَوْ تَكُونُ مَوَادَّ لِلْأَدِلَّةِ هُوَ مَا كَانَ التَّنَافِي لِذَاتِ الْجُزْأَيْنِ، لَا مُجَرَّدَ الِاتِّفَاقِ.**
+
+Maksudnya, yang diperhitungkan dalam proposisi-proposisi yang disusun menjadi dalil atau menjadi bahan dalil adalah pertentangan yang berasal dari hakikat kedua bagian, bukan sekadar kebetulan.
+
+Dosen menjelaskan bahwa jika dua proposisi hanya kebetulan bertentangan dalam suatu keadaan, pertentangan tersebut tidak cukup untuk menjadi dasar argumentasi.
+
+Sebaliknya, apabila pertentangan berasal dari hakikat kedua bagian, hal tersebut dapat digunakan dalam penyusunan dalil.
+
+Ia kemudian merangkum:
+
+**اللُّزُومِيَّةُ مُعْتَبَرَةٌ فِي الْأَدِلَّةِ، وَالْعَنَادِيَّةُ مُعْتَبَرَةٌ فِي الْأَدِلَّةِ.**
+
+Artinya, proposisi yang bersifat لزومية diperhitungkan dalam dalil, demikian pula proposisi yang bersifat عنادية.
+
+Adapun اتفاقية tidak digunakan sebagai bahan dalil karena keterkaitannya atau pertentangannya hanya didasarkan pada kebetulan.
+
+Dengan demikian, dalam ilmu penalaran dan penyusunan dalil, seseorang harus memperhatikan dasar hubungan antara dua bagian proposisi.
+
+## 26. Contoh المنفصلة الاتفاقية: الأسود dan الكاتب
+
+Dosen kembali membaca contoh mengenai warna hitam dan kemampuan menulis untuk memperjelas المنفصلة الاتفاقية.
+
+Ia bertanya kepada mahasiswa:
+
+Apakah ada pertentangan antara seseorang yang berwarna hitam dan seseorang yang dapat menulis?
+
+Mahasiswa menjawab tidak ada.
+
+Dosen menjelaskan bahwa seseorang dapat menjadi hitam sekaligus dapat menulis. Ia juga dapat tidak hitam dan tidak dapat menulis. Bahkan, dapat terjadi seseorang tidak hitam tetapi dapat menulis, atau seseorang hitam tetapi tidak dapat menulis.
+
+Dengan demikian, konsep الأسود dan الكاتب tidak mempunyai pertentangan hakiki.
+
+Dalam contoh buku, dosen membacakan bentuk yang berkaitan dengan:
+
+**لَيْسَ الْبَتَّةَ إِنْ كَانَ هَذَا أَسْوَدَ فَهُوَ كَاتِبٌ.**
+
+Ia menjelaskan bahwa hitam dan kemampuan menulis tidak mempunyai hubungan yang mengharuskan salah satunya mengikuti yang lain.
+
+Demikian pula ketika keduanya disusun dalam bentuk منفصلة:
+
+**إِمَّا أَنْ يَكُونَ هَذَا أَسْوَدَ أَوْ كَاتِبًا.**
+
+Tidak terdapat pertentangan yang berasal dari makna kedua bagian.
+
+Apabila dalam contoh tertentu keduanya dinilai saling meniadakan, hal itu merupakan keadaan yang diasumsikan atau kebetulan yang terjadi pada objek tertentu.
+
+Dosen menyebut bahwa contoh semacam ini merupakan contoh فرضي, yaitu gambaran hipotetis untuk menjelaskan الاتفاقية.
+
+# 27. Penjelasan kembali mengenai ثلاثة أقسام المنفصلة dan klasifikasinya
+
+Menjelang akhir pembelajaran, dosen menata kembali beberapa pembagian yang telah dijelaskan.
+
+Ia mengingatkan bahwa المنفصلة mempunyai tiga bentuk utama:
+
+**المنفصلة الحقيقية، مانعة الجمع، dan مانعة الخلو.**
+
+Ketiganya kemudian dapat dinilai berdasarkan bentuk pertentangannya, apakah pertentangan itu bersifat عنادي atau اتفاقي.
+
+Selain itu, masing-masing dapat berbentuk موجبة atau سالبة.
+
+Dosen menegaskan kembali jumlah dua belas jenis yang telah dihitung sebelumnya.
+
+Ia juga mengingatkan bahwa dalam pembagian مانعة الجمع dan مانعة الخلو, mahasiswa harus memperhatikan apakah dua bagian tidak dapat sama-sama benar atau tidak dapat sama-sama salah.
+
+Perbedaan tersebut merupakan dasar untuk menentukan jenis proposisi.
+
+Kemudian, mahasiswa juga harus memperhatikan apakah pertentangan tersebut berasal dari makna kedua bagian atau hanya kebetulan.
+
+Dengan demikian, keseluruhan pembahasan المنفصلة tidak boleh dipahami hanya dengan melihat bentuk إما ... أو. Mahasiswa harus melihat hubungan antara kedua bagian dari berbagai sisi yang telah dijelaskan.
+
+# 28. Pembagian berikutnya yang belum dibahas
+
+Pada akhir pertemuan, dosen menyebut bahwa masih ada pembagian lain yang belum dijelaskan.
+
+Ia mengatakan bahwa terdapat pembagian terakhir yang berkaitan dengan:
+
+**مِنْ حَيْثُ أَحَدُ الْمُقَدَّمِ.**
+
+Namun, susunan istilah tersebut tidak sepenuhnya jelas dalam rekaman. Dosen menyampaikan bahwa pembahasan terakhir ini akan ditunda sampai pertemuan berikutnya.
+
+Ia menjelaskan bahwa pembahasan mengenai tiga jenis المنفصلة, pembagian عنادية dan اتفاقية, serta pembagian موجبة dan سالبة sudah cukup banyak untuk pertemuan tersebut.
+
+Karena itu, pembahasan berikutnya akan dilanjutkan pada kesempatan lain.
+
+# 29. Percakapan penutup mengenai pelajaran السلم
+
+Setelah menutup pembahasan utama, seorang mahasiswa bertanya kepada dosen apakah terdapat pelajaran atau kelas tambahan mengenai ilmu logika.
+
+Dosen menjawab bahwa untuk saat itu belum ada kelas tambahan.
+
+Mahasiswa kemudian bertanya apakah pembelajaran tersebut mungkin diadakan pada masa liburan.
+
+Dosen menjawab bahwa hal tersebut insyaallah dapat dipertimbangkan.
+
+Mahasiswa menyampaikan harapannya agar dosen mengadakan pelajaran mengenai kitab:
+
+**السُّلَّم.**
+
+Dosen menyambut harapan tersebut dengan mengatakan bahwa pembahasan السلم, insyaallah, dapat diadakan.
+
+Kemudian dosen mengakhiri pertemuan dengan doa:
+
+**نَسْأَلُ اللَّهَ لَكُمُ السَّدَادَ وَالتَّوْفِيقَ.**
+
+Artinya, semoga Allah memberikan ketepatan dan keberhasilan kepada kalian.
+
+Ia kemudian mengucapkan selawat dan salam kepada Nabi Muhammad ﷺ:
+
+**وَصَلِّ اللَّهُمَّ وَسَلِّمْ وَبَارِكْ عَلَى سَيِّدِنَا مُحَمَّدٍ وَعَلَى آلِهِ وَصَحْبِهِ أَجْمَعِينَ.**
+
+Dosen mengucapkan terima kasih kepada mahasiswa dan menutup perkuliahan dengan salam.
+
+---
+
+# Rangkuman struktur materi secara sistematis
+
+Seluruh pembahasan pertemuan ini berpusat pada القضية الشرطية, yang merupakan bagian kedua dari pembagian awal القضية setelah القضية الحملية.
+
+قضية شرطية terbagi menjadi dua: متصلة dan منفصلة.
+
+**القضية المتصلة** adalah proposisi yang menghubungkan satu nisbah dengan nisbah lainnya berdasarkan suatu hubungan bersyarat. Bagian pertama disebut مقدم dan bagian kedua disebut تالي.
+
+القضية المتصلة terbagi menjadi موجبة dan سالبة. موجبة menetapkan hubungan antara kedua bagian, sedangkan سالبة menafikan hubungan tersebut.
+
+Perbedaan penting di dalamnya adalah antara سلب الاتصال dan اتصال السلب. سلب الاتصال berarti hubungan antara kedua bagian dinafikan. Adapun اتصال السلب berarti hubungan tetap ditetapkan, tetapi bagian kedua berbentuk negatif.
+
+القضية المتصلة juga terbagi menjadi لزومية dan اتفاقية. لزومية berarti hubungan antara مقدم dan تالي mempunyai dasar keterkaitan, seperti sebab-akibat, akibat-sebab, التضايف, atau kedua bagian yang merupakan akibat dari sebab yang sama. اتفاقية berarti hubungan tersebut hanya terjadi karena kebetulan, bukan karena adanya keterkaitan intrinsik.
+
+**القضية المنفصلة** adalah proposisi yang membicarakan pertentangan atau ketidakbertentangan antara dua nisbah. Bentuknya sering menggunakan إما ... أو.
+
+القضية المنفصلة terbagi menjadi tiga jenis.
+
+Pertama, **المنفصلة الحقيقية atau مانعة الجمع والخلو**, yaitu kedua bagian tidak mungkin sama-sama benar dan tidak mungkin sama-sama salah. Contohnya adalah الجسم إما متحرك أو ساكن dan العدد إما زوج أو فرد. Jenis ini tersusun dari الشيء ونقيضه atau الشيء والمساوي لنقيضه.
+
+Kedua, **مانعة الجمع**, yaitu kedua bagian tidak mungkin sama-sama benar, tetapi dapat sama-sama salah. Contohnya adalah هذا الشيء إما شجر أو حجر. Apabila objek tersebut ternyata manusia, kedua bagian sama-sama salah. Jenis ini tersusun dari الشيء والأخص من نقيضه.
+
+Ketiga, **مانعة الخلو**, yaitu kedua bagian tidak mungkin sama-sama salah, tetapi dapat sama-sama benar. Contohnya adalah زيد إما أن يكون في البحر أو لا يغرق. Jenis ini tersusun dari الشيء والأعم من نقيضه.
+
+Ketiga jenis المنفصلة tersebut juga dapat berbentuk موجبة atau سالبة.
+
+Selain itu, masing-masing dapat dibedakan menjadi عنادية atau اتفاقية. عنادية berarti pertentangan berasal dari hakikat makna kedua bagian, sedangkan اتفاقية berarti pertentangan hanya terjadi karena kebetulan.
+
+Karena terdapat tiga jenis المنفصلة, dua kemungkinan عنادية dan اتفاقية, serta dua bentuk موجبة dan سالبة, dosen menghitung keseluruhannya menjadi dua belas bentuk.
+
+Dalam penyusunan dalil, dosen menegaskan bahwa hubungan لزومية dan pertentangan عنادية merupakan hal yang diperhitungkan. Adapun hubungan yang hanya didasarkan pada اتفاق atau kebetulan tidak cukup untuk dijadikan bahan argumentasi.
+
+Pembahasan ini kemudian dihubungkan dengan ilmu tauhid. Berbagai persoalan logika dan filsafat dapat menjadi مقدمات untuk membangun argumentasi akidah, misalnya pembuktian حدوث العالم, kemungkinan معراج Nabi Muhammad ﷺ melalui pembahasan خرق والتئام, dan pembahasan البعث melalui persoalan إعادة المعدوم.
+
+Dengan demikian, ilmu logika tidak dipelajari sekadar untuk menghafal istilah atau mengikuti pemikiran Plato dan Aristoteles. Ia dipelajari untuk memahami cara kerja akal, menyusun argumentasi, membela akidah, menjawab keberatan, serta mengambil manfaat dari berbagai pembahasan pemikiran manusia.
+
+Dosen menekankan bahwa perbedaan mazhab fikih juga harus dipahami secara benar. Perbedaan Syafi'iyah, Hanafiyah, Malikiyah, dan Hanabilah bukan pertentangan hakiki dalam seluruh dasar agama. Perbedaan tersebut terutama muncul dalam persoalan cabang yang menjadi ruang ijtihad. Karena itu, seorang muslim harus menghormati para imam dan menghindari sikap mengingkari mazhab lain dalam persoalan yang memang diperselisihkan.
+
+Materi pertemuan ditutup dengan penegasan bahwa pembahasan berikutnya masih akan melanjutkan klasifikasi القضية الشرطية, khususnya pembagian yang belum sempat dijelaskan dari sudut المقدم.
