@@ -253,6 +253,11 @@
           "type": "folder",
           "children": [
             {
+              "name": "1,5.txt",
+              "type": "file",
+              "path": "texts/LITERAL MUHADOROH/KHITOBAH/1,5.txt"
+            },
+            {
               "name": "1.txt",
               "type": "file",
               "path": "texts/LITERAL MUHADOROH/KHITOBAH/1.txt"
@@ -268,6 +273,11 @@
               "path": "texts/LITERAL MUHADOROH/KHITOBAH/3.txt"
             },
             {
+              "name": "4,5.txt",
+              "type": "file",
+              "path": "texts/LITERAL MUHADOROH/KHITOBAH/4,5.txt"
+            },
+            {
               "name": "4.txt",
               "type": "file",
               "path": "texts/LITERAL MUHADOROH/KHITOBAH/4.txt"
@@ -278,6 +288,11 @@
               "path": "texts/LITERAL MUHADOROH/KHITOBAH/5.txt"
             },
             {
+              "name": "6,5.txt",
+              "type": "file",
+              "path": "texts/LITERAL MUHADOROH/KHITOBAH/6,5.txt"
+            },
+            {
               "name": "6.txt",
               "type": "file",
               "path": "texts/LITERAL MUHADOROH/KHITOBAH/6.txt"
@@ -286,6 +301,11 @@
               "name": "7.txt",
               "type": "file",
               "path": "texts/LITERAL MUHADOROH/KHITOBAH/7.txt"
+            },
+            {
+              "name": "8.txt",
+              "type": "file",
+              "path": "texts/LITERAL MUHADOROH/KHITOBAH/8.txt"
             }
           ]
         },
@@ -455,6 +475,16 @@
               "name": "6.txt",
               "type": "file",
               "path": "texts/LITERAL MUHADOROH/SYUBUHAT HAULAL HADITS/6.txt"
+            },
+            {
+              "name": "7.txt",
+              "type": "file",
+              "path": "texts/LITERAL MUHADOROH/SYUBUHAT HAULAL HADITS/7.txt"
+            },
+            {
+              "name": "8.txt",
+              "type": "file",
+              "path": "texts/LITERAL MUHADOROH/SYUBUHAT HAULAL HADITS/8.txt"
             }
           ]
         },
@@ -486,6 +516,11 @@
               "name": "5.txt",
               "type": "file",
               "path": "texts/LITERAL MUHADOROH/TAFSIR TAHLILI/5.txt"
+            },
+            {
+              "name": "6.txt",
+              "type": "file",
+              "path": "texts/LITERAL MUHADOROH/TAFSIR TAHLILI/6.txt"
             }
           ]
         },
@@ -517,6 +552,11 @@
               "name": "5.txt",
               "type": "file",
               "path": "texts/LITERAL MUHADOROH/TAUHID/5.txt"
+            },
+            {
+              "name": "6.txt",
+              "type": "file",
+              "path": "texts/LITERAL MUHADOROH/TAUHID/6.txt"
             }
           ]
         },
@@ -550,6 +590,11 @@
               "path": "texts/LITERAL MUHADOROH/ULUMUL QURAN/5.txt"
             },
             {
+              "name": "6,5.txt",
+              "type": "file",
+              "path": "texts/LITERAL MUHADOROH/ULUMUL QURAN/6,5.txt"
+            },
+            {
               "name": "6.txt",
               "type": "file",
               "path": "texts/LITERAL MUHADOROH/ULUMUL QURAN/6.txt"
@@ -563,6 +608,16 @@
               "name": "8.txt",
               "type": "file",
               "path": "texts/LITERAL MUHADOROH/ULUMUL QURAN/8.txt"
+            },
+            {
+              "name": "9,5.txt",
+              "type": "file",
+              "path": "texts/LITERAL MUHADOROH/ULUMUL QURAN/9,5.txt"
+            },
+            {
+              "name": "9.txt",
+              "type": "file",
+              "path": "texts/LITERAL MUHADOROH/ULUMUL QURAN/9.txt"
             }
           ]
         },
@@ -705,6 +760,11 @@
           "type": "folder",
           "children": [
             {
+              "name": "1,5.txt",
+              "type": "file",
+              "path": "texts/PELAJARAN/KHITOBAH/1,5.txt"
+            },
+            {
               "name": "1.txt",
               "type": "file",
               "path": "texts/PELAJARAN/KHITOBAH/1.txt"
@@ -720,6 +780,11 @@
               "path": "texts/PELAJARAN/KHITOBAH/3.txt"
             },
             {
+              "name": "4,5.txt",
+              "type": "file",
+              "path": "texts/PELAJARAN/KHITOBAH/4,5.txt"
+            },
+            {
               "name": "4.txt",
               "type": "file",
               "path": "texts/PELAJARAN/KHITOBAH/4.txt"
@@ -730,6 +795,11 @@
               "path": "texts/PELAJARAN/KHITOBAH/5.txt"
             },
             {
+              "name": "6,5.txt",
+              "type": "file",
+              "path": "texts/PELAJARAN/KHITOBAH/6,5.txt"
+            },
+            {
               "name": "6.txt",
               "type": "file",
               "path": "texts/PELAJARAN/KHITOBAH/6.txt"
@@ -738,6 +808,11 @@
               "name": "7.txt",
               "type": "file",
               "path": "texts/PELAJARAN/KHITOBAH/7.txt"
+            },
+            {
+              "name": "8.txt",
+              "type": "file",
+              "path": "texts/PELAJARAN/KHITOBAH/8.txt"
             }
           ]
         },
@@ -886,6 +961,16 @@
               "name": "6.txt",
               "type": "file",
               "path": "texts/PELAJARAN/SYUBUHAT HAULAL HADITS/6.txt"
+            },
+            {
+              "name": "7.txt",
+              "type": "file",
+              "path": "texts/PELAJARAN/SYUBUHAT HAULAL HADITS/7.txt"
+            },
+            {
+              "name": "8.txt",
+              "type": "file",
+              "path": "texts/PELAJARAN/SYUBUHAT HAULAL HADITS/8.txt"
             }
           ]
         },
@@ -917,6 +1002,11 @@
               "name": "5.txt",
               "type": "file",
               "path": "texts/PELAJARAN/tafsirr/5.txt"
+            },
+            {
+              "name": "6.txt",
+              "type": "file",
+              "path": "texts/PELAJARAN/tafsirr/6.txt"
             }
           ]
         },
@@ -948,6 +1038,11 @@
               "name": "5.txt",
               "type": "file",
               "path": "texts/PELAJARAN/tauhid/5.txt"
+            },
+            {
+              "name": "6.txt",
+              "type": "file",
+              "path": "texts/PELAJARAN/tauhid/6.txt"
             }
           ]
         },
@@ -959,6 +1054,11 @@
               "name": "1.txt",
               "type": "file",
               "path": "texts/PELAJARAN/ulumul quran/1.txt"
+            },
+            {
+              "name": "11.txt",
+              "type": "file",
+              "path": "texts/PELAJARAN/ulumul quran/11.txt"
             },
             {
               "name": "2.txt",
@@ -981,6 +1081,11 @@
               "path": "texts/PELAJARAN/ulumul quran/5.txt"
             },
             {
+              "name": "6,7.txt",
+              "type": "file",
+              "path": "texts/PELAJARAN/ulumul quran/6,7.txt"
+            },
+            {
               "name": "6.txt",
               "type": "file",
               "path": "texts/PELAJARAN/ulumul quran/6.txt"
@@ -994,6 +1099,11 @@
               "name": "8.txt",
               "type": "file",
               "path": "texts/PELAJARAN/ulumul quran/8.txt"
+            },
+            {
+              "name": "9,5.txt",
+              "type": "file",
+              "path": "texts/PELAJARAN/ulumul quran/9,5.txt"
             }
           ]
         },
